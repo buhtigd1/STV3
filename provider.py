@@ -72,12 +72,15 @@ def main():
     entries = [
         block for block in entries
         if "[premier league]" in block[0].lower()
-        or "[formula 1]" in block[0].lower()
         or "[england premier league]" in block[0].lower()
+        or "[formula 1]" in block[0].lower()
+        or "[f1]" in block[0].lower()
+        or "[motorsports]" in block[0].lower()
         or "[football]" in block[0].lower()
         or "[laliga]" in block[0].lower()
         or "[serie a]" in block[0].lower()
         or "[italy serie a]" in block[0].lower()
+        
     ]
 
     print("Filtering...")
