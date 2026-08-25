@@ -1,8 +1,15 @@
 import requests
 import re
+from datetime import datetime
 
 SOURCE_URL = "https://raw.githubusercontent.com/doms9/iptv/default/M3U8/events.m3u8"
+
 OUTPUT_FILE = "stv3.m3u"
+LOG_FILE    = "stv3.log"
+
+HEADER = '#EXTM3U url-tvg="https://raw.githubusercontent.com/didikc/EPG-8/main/epg.xml.gz"'
+
+BLACKLIST = ["caze tv 1", "caze tv 2"]
 
 def download(url):
     try:
@@ -10,8 +17,7 @@ def download(url):
         r.raise_for_status()
         return r.text
     except requests.RequestException as e:
-        print(f"❌ Failed: {url}\n{e}")
-        return ""
+        return f"❌ Failed: {url}\n{e}"
 
 def parse_m3u(content):
     lines = content.splitlines()
@@ -43,24 +49,45 @@ def clean_extinf(line):
     line = line.replace("|", "").replace(",,", ",")
     return line
 
+def is_block_allowed(block, log_entries):
+    if not block:
+        return False
+    header = block[0].lower()
+    for bad in BLACKLIST:
+        if bad in header:
+            log_entries.append(f"BLACKLISTED: {header}")
+            return False
+    return True
+
 def main():
+    log_entries = [f"Run started at {datetime.now().isoformat()}"]
+
     print("Downloading playlist...")
     source = download(SOURCE_URL)
 
     print("Parsing playlist...")
     entries = parse_m3u(source)
 
-    print(f"Total channels found: {len(entries)}")
+    print("Filtering...")
+    filtered = [block for block in entries if is_block_allowed(block, log_entries)]
+
+    print(f"Total channels after filter: {len(filtered)}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        f.write("#EXTM3U\n")
-        for block in entries:
+        f.write(HEADER + "\n")
+        for block in filtered:
             for idx, line in enumerate(block):
                 if idx == 0:
                     line = clean_extinf(line)
                 f.write(line + "\n")
 
-    print(f"✅ Done: saved to {OUTPUT_FILE}")
+    # Always write a log file
+    with open(LOG_FILE, "w", encoding="utf-8") as logf:
+        for entry in log_entries:
+            logf.write(entry + "\n")
+        logf.write(f"✅ Done: saved to {OUTPUT_FILE}\n")
+
+    print(f"✅ Done: saved to {OUTPUT_FILE}, log written to {LOG_FILE}")
 
 if __name__ == "__main__":
     main()
