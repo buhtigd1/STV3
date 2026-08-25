@@ -7,7 +7,7 @@ SOURCE_URL = "https://raw.githubusercontent.com/doms9/iptv/default/M3U8/events.m
 OUTPUT_FILE = "stv3.m3u"
 LOG_FILE    = "stv3.log"
 
-HEADER = '#EXTM3U url-tvg="https://raw.githubusercontent.com/didikc/EPG-8/main/epg.xml.gz"'
+HEADER = '#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"'
 
 BLACKLIST = ["caze tv 1", "caze tv 2"]
 
