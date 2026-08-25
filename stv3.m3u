@@ -1,70 +1,70 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="60",[Football] Bodo/Glimt vs. NEC Nijmegen  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="59",[Football] Bodo/Glimt vs. NEC Nijmegen  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="61",[Football] LASK Linz vs. Celtic  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="60",[Football] LASK Linz vs. Celtic  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="62",[Football] Valencia vs. Real Betis  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="61",[Football] Valencia vs. Real Betis  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="63",[Football] Valencia vs. Real Betis  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="62",[Football] Valencia vs. Real Betis  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="69",[LaLiga] Valencia vs Real Betis 1 (STP)
+#EXTINF:-1 tvg-chno="67",[LaLiga] Valencia vs Real Betis 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://s1.tudeporteshoy.xyz:443/global/disney4/index.m3u8?token=e712fdc7b2f56f163b4fd48de4d207fac2f8db97-39-1787704252-1787650252
-#EXTINF:-1 tvg-chno="70",[LaLiga] Valencia vs Real Betis 2 (STP)
+#EXTINF:-1 tvg-chno="68",[LaLiga] Valencia vs Real Betis 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn2col
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn2col
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://so.tudeporteshoy.xyz:443/global/espn2col/index.m3u8?token=0957cbf866e6c2b3df6f02d8b3e95b7d80b10d63-6b-1787704252-1787650252
-#EXTINF:-1 tvg-chno="71",[LaLiga] Valencia vs Real Betis 3 (STP)
+#EXTINF:-1 tvg-chno="69",[LaLiga] Valencia vs Real Betis 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://so.tudeporteshoy.xyz:443/global/espndeportes/index.m3u8?token=3c0cbfcaa7b3c50a0b455d1d054ae5c6e3b9a479-99-1787704252-1787650252
-#EXTINF:-1 tvg-chno="72",[LaLiga] Valencia vs Real Betis 4 (STP)
+#EXTINF:-1 tvg-chno="70",[LaLiga] Valencia vs Real Betis 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=premier1uk
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=premier1uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://s1.tudeporteshoy.xyz:443/global/premier1uk/index.m3u8?token=35e54d5e4b545dd7bfc67d7e9a660a3da607c8c4-06-1787704252-1787650252
-#EXTINF:-1 tvg-chno="73",[LaLiga] Valencia vs Real Betis  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="71",[LaLiga] Valencia vs Real Betis  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/disney6/index.m3u8?token=cf1e6bb30e5170c89382f434fc4a35478b30a923-62-1787704252-1787650252
-#EXTINF:-1 tvg-chno="74",[LaLiga] Valencia vs Real Betis  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="72",[LaLiga] Valencia vs Real Betis  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/espnplus1/index.m3u8?token=a3d282b9783a6d5d8fad252ca0eafe2cdf9ed6c7-37-1787704252-1787650252
-#EXTINF:-1 tvg-chno="75",[LaLiga] Valencia vs Real Betis  ESPN 2 (STRMXHD)
+#EXTINF:-1 tvg-chno="73",[LaLiga] Valencia vs Real Betis  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/espn2/index.m3u8?token=461952a0b0437470eec6ab076fbdc9ee099c7f68-9a-1787704252-1787650252
-#EXTINF:-1 tvg-chno="76",[LaLiga] Valencia vs Real Betis  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="74",[LaLiga] Valencia vs Real Betis  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/espndeportes/index.m3u8?token=b475cf4edfcc1f95b488e43b0f2047c54da38a3a-b5-1787704253-1787650253
-#EXTINF:-1 tvg-chno="77",[LaLiga] Valencia vs Real Betis  Español 1 (STP)
+#EXTINF:-1 tvg-chno="75",[LaLiga] Valencia vs Real Betis  Español 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://s1.tudeporteshoy.xyz:443/global/espnplus1/index.m3u8?token=b98faa8721c41784fab2e5c846c45cca1248e260-87-1787704252-1787650252
-#EXTINF:-1 tvg-chno="78",[LaLiga] Valencia vs Real Betis  Premier Sports 1 UK (STRMXHD)
+#EXTINF:-1 tvg-chno="76",[LaLiga] Valencia vs Real Betis  Premier Sports 1 UK (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
