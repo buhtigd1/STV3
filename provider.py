@@ -7,9 +7,7 @@ SOURCE_URL = "https://raw.githubusercontent.com/doms9/iptv/default/M3U8/events.m
 OUTPUT_FILE = "stv3.m3u"
 LOG_FILE    = "stv3.log"
 
-HEADER = '#EXTM3U url-tvg="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml"'
-
-BLACKLIST = ["caze tv 1", "caze tv 2"]
+HEADER = '#EXTM3U url-tvg=""'
 
 def download(url):
     try:
@@ -49,16 +47,6 @@ def clean_extinf(line):
     line = line.replace("|", "").replace(",,", ",")
     return line
 
-def is_block_allowed(block, log_entries):
-    if not block:
-        return False
-    header = block[0].lower()
-    for bad in BLACKLIST:
-        if bad in header:
-            log_entries.append(f"BLACKLISTED: {header}")
-            return False
-    return True
-
 def main():
     log_entries = [f"Run started at {datetime.now().isoformat()}"]
 
@@ -80,17 +68,13 @@ def main():
         or "[laliga]" in block[0].lower()
         or "[serie a]" in block[0].lower()
         or "[italy serie a]" in block[0].lower()
-        
     ]
 
-    print("Filtering...")
-    filtered = [block for block in entries if is_block_allowed(block, log_entries)]
-
-    print(f"Total channels after filter: {len(filtered)}")
+    print(f"Total channels after filter: {len(entries)}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(HEADER + "\n")
-        for block in filtered:
+        for block in entries:
             for idx, line in enumerate(block):
                 if idx == 0:
                     line = clean_extinf(line)
