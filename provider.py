@@ -68,6 +68,18 @@ def main():
     print("Parsing playlist...")
     entries = parse_m3u(source)
 
+    # Apply filter: only keep sports-related channels
+    entries = [
+        block for block in entries
+        if "[premier league]" in block[0].lower()
+        or "[formula 1]" in block[0].lower()
+        or "[england premier league]" in block[0].lower()
+        or "[football]" in block[0].lower()
+        or "[laliga]" in block[0].lower()
+        or "[serie a]" in block[0].lower()
+        or "[italy serie a]" in block[0].lower()
+    ]
+
     print("Filtering...")
     filtered = [block for block in entries if is_block_allowed(block, log_entries)]
 
