@@ -1,71 +1,96 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="60",[Football] Bodo/Glimt vs. NEC Nijmegen  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="65",[Football] Al Ettifaq vs. Al Nassr (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=saudi-pro-league/2026-08-25/ett-nsr
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=saudi-pro-league/2026-08-25/ett-nsr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/saudi-pro-league/2026-08-25/ett-nsr/playlist.m3u8?tk=Kqr-EaVE0092vA9vJD04tw&e=1787722215
+#EXTINF:-1 tvg-chno="66",[Football] Al Ettifaq vs. Al Nassr (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBTsSLFcHZkcyGXxeRBkrTEZfYAQWQXkIZkBoBAkGMkIHJgArDAkiU30zPgp5XX5_bRs3DXc1OnkXVT9JFCIyUU0ZHm0KVgpTJzorU3kVAWFFHzoBQRUET2s5fwNgJCxfSSkHM38WH1hzEQZachQDV1UmZgxxNjFhGhw0YmhXLARLCkQYCzYtdhIZI3dDIQ9xTz8oWWs9Bmo1CmJIQSESV1s4NCBRJDN8LlNjdFJNI3tNPTV3bxsGexxIaHNADxBkZBAePnw_GwRlRBd1GR0ETGg3KmYBRRJxMj1uVWcbMlkcPEMVfRYxWxglAHYXTQ1Uazw9Q25GJVc0NxRIXigrc1I5PStrNhpGcRJ0AGc3AQ5wSDRmZ1Jmej8mCVkDUQBif21BG1AfLwA4EDBnEzsvagZCEFJwGi1SPB8QQmQWMXRIByseAykFQjlEIWdULCVaERo3eUkzBkIwXGJcaQI8YkdtQR93CgNZJTwfBGguPgBbE2BGUg4tDCQVG3xKKxIDaBonG3seA0YWPCZhSR8efWcfAGdvJT9hEjsdFBQlNA9PDTszBSYfcAZDN39XQAZ8EhViDEZAIA9qCxV_cDsiU2YmIzRqXwp7ISclX3cdOH9IPxxzS08sfCkKL2dPVTRnH3sfC2UlKAB3L2lDdiI1bxYIBwRgQD1haDcIUGAENgN7fiEVSg8MfAo0HFxSOx5fTRZiZlATBEIyDxlnYBM1UnoeGDpyBiECcwU2ZEgOOXBPAAt1VUZhaD9cIgFqCxVBQxpGYVE0GVUYQAJLVBM4VVQbanUUMm12aCxjBEkOMFVSHTQ6XB4-ZzEiJgJCMgJRZkcrd0UtLl04DG8EFFQlfR8CF2pCPgoScjQcAWQuCFsQIB5FbjIHXBM1fwNgJnVVfTtAMwBLeXUnNQZVS04naAZCFHcBRRZ8ERcAVRYzCABHG1ZrdT0TBxIdYmJ4EigPSj53BmIlIWJ7XxhaVxoAVBwjHxZ4Wxx2LDxkdUAVNF9nOzdCaDEmQGs8LgdXEghgfykDFFQLJgMPAj5rezoobEBINHcSEzBLaBtpY0kEYwRsJzA7eCENWxMyP2VKDSBtTQg-bREjGQxvSGhzXiEnUlwBBm9FOX9GF0EdYBQOCmlTMzQAE0QAHWwvMWFkAC5xTxA8H1wtJ395DjhDREkjAWpGH0ZAOQBTGBowR1wickRBKiBvFlwNBQ9HHAtzAT50aUkRW2o9J2kwGyBpQCcSdF4ZSnwBLHhzJQcJcxA5NEF6IwtAajoyUTg9bH0RFwJkD3oxMVcvIEEQFzlhdz8-QBsTCG4QQG13MRo3CGoUFFFNLxIOACM4ezYkInFxEXhcWhthXhAFIHdvJWIUFCV3YXw4G3wBKCdtDhMdflMeLRwRNgcFUj0HHWwrCwByK2MEbDkdGlo2M2EaU2NwdgwHAGwUFWdIGwRIBgkeQ18OcXFyISMrVQQTXShTY3RkSClBTCgjcW8ALW0vJCBDQAsQDhMHFhp9HwNndg4VUBkeA311AABhTy01bjlfLmh_VA1lejgBMH0KHHMWRRVcEwt5SXEbPG5BUmZ6Dxs-Q185AQJfeAcYV19yRXQgNFNNMXh-VjgIchUWFR1sL25VVy0JDmk5ShViIiAScjAFcW9dfn9WQmR7bkAmVT1eEkFOJCJneCU5HGk-EQYIOhVRSz02TXRCJVF-BRhsGzszc24KKFtsPgIeZSd9UhQXI2VUDC4cETIXXFYTNw8UJB4JThEreW0uKzFBPCxieRspUGYCJnp7AmtNYz4BUm0PH2VpCSgDQDk6L2IaBU4pU2NwcS11fFJDPkV0RC5MLA41RkIiAF1OeTcwFlwJYRcHK3NGNgBsVEMlTgFFElZmXz90Uy9xYBwxNm9iNDh_NEMaYVldfn8bEWtmdUFmemgUMwR0BSR8GC9FIQcvE0YqRwELEQk_QXU0M198ACFwExkuFBQlEVJdfhRpAwIkfAEZHl5wKyRzZQUiQWIacQoYAB90EjoPW28dMnwBLAwECw8rXE1dfn8UJxNBdB4MeRwICxQUIT9_D3o1DEVLeXUXEhhUET55VkgCGX5DTmZ8MVstV0oQFG9_EUBuRld5EnI0H38ESg5_cTUmDEUaF3swKBxkbyR_bxl_Nz1SWA4CMRg_BkMdFlZWCiRHVUU3ABcmEGlKID9cD3o1L0sXDAI2JBlwVi88akkxA0BpGQJ7LAgUAnw3BGUTLkohZxkHQQMGK0FjTSV_Uz4wdVMPJlozJyJ1QRYzcWV4BiNqOgZRJh8Ac1EJIm92SDNjSh4bUyQBKmtpLmMFbg&expires=1787690100&token=4fcc4f5969f4f11f66ba7e55659ac287ebe8ae9fdd6e452f3b311431e76bd090
+#EXTINF:-1 tvg-chno="67",[Football] Bodo/Glimt vs. NEC Nijmegen  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="61",[Football] LASK Linz vs. Celtic  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="68",[Football] Cardiff City vs. Norwich City (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=carabao-cup/2026-08-25/car-nor
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=carabao-cup/2026-08-25/car-nor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/carabao-cup/2026-08-25/car-nor/playlist.m3u8?tk=Kqr-EaVE0092vA9vJD04tw&e=1787722215
+#EXTINF:-1 tvg-chno="69",[Football] Cardiff City vs. Norwich City (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSsSK1IMKlhtFSRCDkp8CxVdYgwJRWEXPQwoHEgMNAlNIRdkdgFzb2VEF3xKHXVqYR4TfRwSLAofGT1Wdw5yDxIJFz5_FCpvLTsJVE4QeVxBICUBcFJmfhkHM1JHFyx6UhwcalQ5I2QsOT9Ed0x0bGIVC3BVGQd2agdoUGRUBw5yLjILXBwOVRk1GV5uAiF2aSIAX0NPLV8cOTtAViQ_VGAwODcWXA1EdRkTXGwfD3JPIhF2AUUWXjI7CH9-DiF5exhAfAEoDA8lPiR5ZgAeHBE2G1h0QzB5Jhk1B1JTCnhSMh8BYD8PAXU3PHptFztzEgE9Xn45LUAVAB9JVy00bnIZAmhXS3lxDztmYRkeHnoGQhBVbyQ8HWwrDmQDUQRVWyxEIVUPHgUDFQIXEzoqbU4JOFZWPSd6KxoYU2k7AQZtBgYgAR4eQhQfMgBLHQFUZyIoWhVPOXc_Fw5cA1EAck4AHTx5IH1-FgRoSkJKPk9aCWZOXDYZVBY5b3N0NwR-WgACD3kZGF8nJBV2TiofcnEbC3hyMHEKGB9jVGMrLABiHDQfBggGQXg8FANESHRbFARlAEI4Gm4GCT99SDMrbxsJPzhiGiZhJQIXWW42C1YbCBZDQwICUWgfCwQVDxRgYStEbmpWOmAaDwcHWS18fRQZCwJ-JTV-OR1vYBAxCk9LDzgTcSMlRAMkN1xHSB5NRyAoWEY0An4uHj5hcAgld0IiRmpACR1eNgMYXlEhDUgSRQJVFQ9kdDY-LVh0Vn5UcBoRAQU9MkIrAj1FSkANCWZJHAJlTmFXMxs5SXMkJVlaPSMoZxl7VAo4OXcWAQ9YeQo3UkVCYQppDhEEbAd1R3oJVmtxI3hyFjIzAXE0PXNmIzZ5fFJmfhteOWZVUCwFD3oxPnA5LF12HQAXEz4PHBEyFnteLTAIDiNsXHVGdHB5EEMLWF0bbioSZ1tvXX5_cQUIERY1P0knKzgHTQ8JfR8fMjV5WwxWLQ43dmodOnVlAioBdQNiSS8jDGRHEwtRTyVHFkcBEm0CEgRRGR4PD0cUIQJSRAZXOUhod0kgJH1lDh8KdwAcXDUaBVxZFBUMdz1mBQFFFkAcDD5HbxZwQH18Ag4EIhkCNjABQmIeeA4QJHcGZhwEej0FHVR-LABZaSQ7YEsHOlJxGWl7FzU-XW0kOXJTHSJCH1koWkQwcBMYDkEWAiNyZTkEHHgYOyN3aQMDWlINDF4aORhFd1pjBGh7NzxCNgoGAQ4pa3IhOHduFjtSdEEYDyopCBQUIS5SayMFCVIGGGEHBCgKQiIWDRRJHVtTGm10KT89VkECEQVnOz8vYR0IZylCNEtKSyYNUQQdBWxPcQoYXA1nVgtjBGwkKRdWIgdFJhd0AGctfU9pI3cGYiZlbBZIaHdXDQVfcjAlAxZcCWA0PWh9RT8fVU8gImxAMyZBM1odaU8zNFBAEBkxFlwNcnATKV15CQlyVAkHRW0NJl42O2IIaQYFeFsAI29LKikPJjkVZFEqGVJ5EQRTFgMNYWkmCWFWES94Th83DwAqJQUzQyFgShYWXAZCEGVSEyZBBCpuRBYXB1IbcQFtZQsqWwlCFkdpIgoIQjF3BmZDMEkQImJyV1oKZ2YjVmt1Ogh5ZUQXRxNOA3MUAj9XFz8kUBkJC2NLKQNsehJCEX8qKF0FDCVlEw8pY1E8BnFyHhZwNwM3d1ASAWBjfhYNUhwcQjQUdABjPSRLRxNlfm0zbFAsABV2QDsuRHgvJmBeFilwOhwSalNBNX5qJTgHRjIAdzQDb1tXKjBnXgYKMBZcCWcVTxRDEhQ9aRAKJkZHGCNcHysxVRcnLxMYCiUOQhQKUA46BEUSDzYcETY8DBYSEU0SWgwHXyZwZ3A7Oy0GJRhPZUQXCkBBHmgVQhACXR5hajgPEANBVT4CaxACMwI-cgcxBSlkZRknYVQFGnlQA3EKGDo-RhAEdgZGJzgYXCEnZhMeG3RUCDl_TlVgckkyEQwHJDd0cyJjBGgPQBJKFCVbZUQXBXY5OWlKKBN2QSZxChwUExQUJRNAD3oxDlcnLQcGQz5ZUzMGXhpCFlsSADJULT8DZH9QcUMTelZrcSAGEnI0F2BkDHRYTjMRWmExAXEZVAMCESciVxwNRihdAH9VJSw-R1sOP0gRE2p9bz0MVB0UMBQUJTBOUw9GL2EmCUAXBgJYYCk4dE0mEUZBOWdiCi8JCEBaPmJdBAUaQxQ4dXUfF0JvGg1OWwIwWW4PEF8rGB1-FhY8b34FFT9aPwpHMRgHZxkZG1dKPzlOSAcOdxNIaXU&expires=1787690100&token=aa5efda019d228e2d8e05065a6899b5a6e9980a4843c6e12f65f5ad4bcc4a8d2
+#EXTINF:-1 tvg-chno="70",[Football] LASK Linz vs. Celtic  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="62",[Football] Valencia vs. Real Betis  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="71",[Football] Sabah FK vs. Hapoel Be'er (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBT0WP1JDKF8hGyFbThY_FE8VM1NREnlJKww2WEAaL1hNZ0FpAVhmB3hbYwcOCy1bDhgwURsQPVxjKDUJfkZ0cGQjFmBgLCV2CU40ShM5OF5EIT8AHU8VXDkhIFB-DgtuTCcbbFYMG0B1InQAZz8mUEARJl5oDwBXbQoNWXUPCVhcHkdhZi8ubgQHP2FvTCYLQjJldRwvMnkMAih0RDoFfkYHCTR8JBllKxFpS0Y6GFhSABVNRj0sczBIaHdVVil0RAUUGngCGXQCU2NwRxQaa20oP1NrJgQLe18cdh4GDkNhDwsLFlwNfiwmZVZgADhWFQRieGoPLlQGPgt1EFYHW2IEHC55XzpYKiwfS1kzIXxbARxGfC8FSW8JfwNgLAsBeXAVC3BLeXUhPQJaBEoKbXZVYHZHBjAPJgs7ZBQgJWUPejE_ZwMyXSIEG0FjDTt7QT8KcxQwGk0nXypkUzcvVRgiFhReKhlNLkdpX24ZNm1OVWByYBMcVjsnFAdvNTQPUitBK0UXMgM6DhB_TTAYDGEiBnZsBxxJCCctYk4EFHJuJyEKeDwgbgwgFhcTPj4ARjUaXhI_AH8YWDx8UFsMcxstQ2FRWT8AdBAefHcgKFxvHgJZfUYVdD88LlxwBjJwQQc9HlxWM3M3ESRkSE4-aBZDPmZyPDcPaTRiQHE5P2AfMCZpd1kibnYsA1NnHzwMckYAeF0WE3MULxdfVSAUUEQuQwtHChtNLBQSZGcIP11zJjlXZR8-DW0ePWdPFTN_RjgqGEJffmchRykCbRAfTkoiZwxGLQZaBlsJSFMIMlpdI0sYAytyeXY3aAdOFTpaWyUVV0sHIWgvOS0BRSkIXm9_ChpSNDFSJhdkBxNPL3IWOjYHVScVHWwvFwJjNQJUGRg_KHkrGFMNLnQAZz1_WnQDYV4XUmZ6OS4NVkxVLWcPejUaFlwJcw8MC1YRKAIPTiN3BmIkDAgMBmlhfwkiAEMGVmt1PD5tZUQTWVABClsVGz57b0IDeTInb3ZHDj5QbgMWL38oOU91JyUEUAkCb3YRInlDEjkMERk1aHwhImNJcBUaBQovRHYAYmBOH2kLZR8RVm84ElQNKTRmTRYqYkQwHwAGOgYDcVNjcFk6LV1VOScCUiBgSQlaFmMTFQBmWgsVbQRdHxJyNDpiYxskfkYoHXJLNDhwZxUzQENSKQ5jfj4rVyAfXAYBO0RbOXhLSBIBAgFFEgoRXBcIdBo0e2BxMDZ9JDhmLgArakc8GHtXIWsRFjVnfDscAnAXIj5OcxsqLX0jLV4mJmd-FgwIawZCEFxANj9ODgwyYnAkNE8SKykDB1lyeC8BPAttDx5eRBczYxc6J3QoPylydgpyU1MjQDMHHD94cT5pFxM-fW51ADoRFjE4YhAIFn1UBScTGA4maEUkGBJyMAADdTBpC2UBPHdNLyxuBEhoc3EXDQ9lLDQKXwIbRxgSFUBYFXt-exkCRkIdDFI2SGh3Y1MjTkUQAhx4GTJiMT8rQEcQGgEaPzd3agYcaGgVHlMeBQlyfDghDFg0KmEnRCVreE8HanMAIF1qEwN8CF4eXxQQc0Z4Ix0DVkt5dREANUBYIgsNVkAmdUBGbUpqOz9QSipycV8AKR8CDwoScjRlVlA2AwFgAWt4dTs_HWwrDnJoRnRwX3pFFnlZOVojRRlCST8oaHEdGHF-Jw4JFiEeUkwmPEJ9egQ8aRwHYwUgOHBpESJUZQYjc3I-Yl0KDChmUxckExgKNjFBCigACj8VCkkKIXZkFgpcViUzbWcAIlNhGSx1cjpKIHQnHl1zFBRmbhIiDEkBG0J1AxpBN0hoc3Y2f3Nbex8oY10xQzIVPkVFOQpSR0EWXQFFFm4JHCBwQS0KY117BCMWXA1ZeEQ0d1Q0e28VCRcCdS0ncCpYEWJeRnRwEilKC2JYeXV2DzgHcx4ucxEXZEwQNgxJNFwKCBYSNU58DBIyaxk-fw0CJRcTPhtdVEY1BBQbO3MfAhVddzAufGw9Ayx1A24FBhsUdxUhBVRmJRMRFjUTCxUUIF9KRnRwHR8yLGMHE3YCEwAXEzo1cAZCFGFSUmZ6CQkTVxYlc1lBOjgTVFd5cy9AJlRNCx5gdilhA1FOZh1sLxR8A1EEcHgNB2FSAwh0LjMXZ2g_dWAQRxZQRUERDS8DNAVEBhxZXzIFKkJcKA8JPRtqTTs1UwZCFEJcDhMNKD8Sc1E0NmVACSItfgAddDITHwF7LA5qGhZrTHAAGE4dHSBCZFYvcFoGERhEFjlVLTwpdkYNOX5sQCdOfSMZXjgEC3BWEihgf3ASDl0HBFw6GiFobjVpCmc&expires=1787686500&token=dd01c74bb162610af13b561a4f108a8617b019610c945285f97222c1a5f20fd2
+#EXTINF:-1 tvg-chno="72",[Football] Valencia vs. Real Betis  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="63",[Football] Valencia vs. Real Betis  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="73",[Football] Valencia vs. Real Betis  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="68",[LaLiga] Valencia vs Real Betis 1 (STP)
+#EXTINF:-1 tvg-chno="78",[LaLiga] Valencia vs Real Betis 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s1.tudeporteshoy.xyz:443/global/disney4/index.m3u8?token=e712fdc7b2f56f163b4fd48de4d207fac2f8db97-39-1787704252-1787650252
-#EXTINF:-1 tvg-chno="69",[LaLiga] Valencia vs Real Betis 2 (STP)
+https://s1.tudeporteshoy.xyz:443/global/disney4/index.m3u8?token=49fef5c59de1ac15a672f3e3dc94f3132d05f8ab-c8-1787724018-1787670018
+#EXTINF:-1 tvg-chno="79",[LaLiga] Valencia vs Real Betis 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn2col
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn2col
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://so.tudeporteshoy.xyz:443/global/espn2col/index.m3u8?token=0957cbf866e6c2b3df6f02d8b3e95b7d80b10d63-6b-1787704252-1787650252
-#EXTINF:-1 tvg-chno="70",[LaLiga] Valencia vs Real Betis 3 (STP)
+https://so.tudeporteshoy.xyz:443/global/espn2col/index.m3u8?token=6ce0003f52ea0f392cde8172cafa20c036d16453-71-1787724018-1787670018
+#EXTINF:-1 tvg-chno="80",[LaLiga] Valencia vs Real Betis 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://so.tudeporteshoy.xyz:443/global/espndeportes/index.m3u8?token=3c0cbfcaa7b3c50a0b455d1d054ae5c6e3b9a479-99-1787704252-1787650252
-#EXTINF:-1 tvg-chno="71",[LaLiga] Valencia vs Real Betis 4 (STP)
+https://se.tudeporteshoy.xyz:443/global/espndeportes/index.m3u8?token=c3d757c70f0f5acef4ff4e5ba4ef992aaca52d8c-89-1787724018-1787670018
+#EXTINF:-1 tvg-chno="81",[LaLiga] Valencia vs Real Betis 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=premier1uk
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=premier1uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s1.tudeporteshoy.xyz:443/global/premier1uk/index.m3u8?token=35e54d5e4b545dd7bfc67d7e9a660a3da607c8c4-06-1787704252-1787650252
-#EXTINF:-1 tvg-chno="72",[LaLiga] Valencia vs Real Betis  Disney + (STRMXHD)
+https://si.tudeporteshoy.xyz:443/global/premier1uk/index.m3u8?token=7f38c2d20d58cba5a8bbdab1b2642ac41bd48fce-13-1787724018-1787670018
+#EXTINF:-1 tvg-chno="82",[LaLiga] Valencia vs Real Betis  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/disney6/index.m3u8?token=cf1e6bb30e5170c89382f434fc4a35478b30a923-62-1787704252-1787650252
-#EXTINF:-1 tvg-chno="73",[LaLiga] Valencia vs Real Betis  ESPN + (STRMXHD)
+https://khala.skylivehd.com/global/disney6/index.m3u8?token=3d7ef4684abd69e4010555f58fa209ef1b670b06-10-1787724018-1787670018
+#EXTINF:-1 tvg-chno="83",[LaLiga] Valencia vs Real Betis  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/espnplus1/index.m3u8?token=a3d282b9783a6d5d8fad252ca0eafe2cdf9ed6c7-37-1787704252-1787650252
-#EXTINF:-1 tvg-chno="74",[LaLiga] Valencia vs Real Betis  ESPN 2 (STRMXHD)
+https://khala.skylivehd.com/global/espnplus1/index.m3u8?token=ff98c0c3f1c7dcc0270d604fccdb4b8af999411f-e3-1787724018-1787670018
+#EXTINF:-1 tvg-chno="84",[LaLiga] Valencia vs Real Betis  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/espn2/index.m3u8?token=461952a0b0437470eec6ab076fbdc9ee099c7f68-9a-1787704252-1787650252
-#EXTINF:-1 tvg-chno="75",[LaLiga] Valencia vs Real Betis  ESPN Deportes (STRMXHD)
+https://khala.skylivehd.com/global/espn2/index.m3u8?token=a0c77fabe68fc16b91b5f031f8f98a8ab22eb6d6-44-1787724019-1787670019
+#EXTINF:-1 tvg-chno="85",[LaLiga] Valencia vs Real Betis  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/espndeportes/index.m3u8?token=b475cf4edfcc1f95b488e43b0f2047c54da38a3a-b5-1787704253-1787650253
-#EXTINF:-1 tvg-chno="76",[LaLiga] Valencia vs Real Betis  Español 1 (STP)
+https://khala.skylivehd.com/global/espndeportes/index.m3u8?token=f38c30b53b2b6a8f1b32fb53442d1e6aff1e0828-5d-1787724019-1787670019
+#EXTINF:-1 tvg-chno="86",[LaLiga] Valencia vs Real Betis  Español 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s1.tudeporteshoy.xyz:443/global/espnplus1/index.m3u8?token=b98faa8721c41784fab2e5c846c45cca1248e260-87-1787704252-1787650252
-#EXTINF:-1 tvg-chno="77",[LaLiga] Valencia vs Real Betis  Premier Sports 1 UK (STRMXHD)
+https://s1.tudeporteshoy.xyz:443/global/espnplus1/index.m3u8?token=79bfe26846932934ce8c6272688749b3e7060179-94-1787724018-1787670018
+#EXTINF:-1 tvg-chno="87",[LaLiga] Valencia vs Real Betis  Premier Sports 1 UK (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/premier1uk/index.m3u8?token=c2649e6642ad6a197f3d4046f000124f4a9d9101-2e-1787704253-1787650253
+https://khala.skylivehd.com/global/premier1uk/index.m3u8?token=30bd7208a03e5614271e6dfda20a0d4a2d246fd0-a0-1787724019-1787670019
