@@ -30,6 +30,7 @@ jobs:
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
-          git add stv3.m3u stv3.log
-          git commit -m "Update $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+          git add stv3.m3u
+          if [ -f stv3.log ]; then git add stv3.log; fi
+          git commit -m "Update $(date -u +'%Y-%m-%d %H:%M:%S UTC')" || echo "No changes to commit"
           git push
