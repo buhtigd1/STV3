@@ -1,126 +1,136 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="92",[Football] AEK Athens vs. Levski Sofia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="89",[Football] AEK Athens vs. Levski Sofia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="93",[Football] Bradford City vs. Burnley  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="90",[Football] Bradford City vs. Burnley  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8
-#EXTINF:-1 tvg-chno="94",[Football] Lyon vs. Fenerbahce  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="91",[Football] Lyon vs. Fenerbahce  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="95",[Football] NK Celje vs. Slovan Bratislava  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="92",[Football] NK Celje vs. Slovan Bratislava  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="96",[Football] Newcastle United vs. West Bromwich Albion  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="93",[Football] Newcastle United vs. West Bromwich Albion  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8
-#EXTINF:-1 tvg-chno="97",[Football] Preston North End vs. Everton  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="94",[Football] Preston North End vs. Everton  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8
-#EXTINF:-1 tvg-chno="98",[Football] Real Madrid vs. Real Sociedad  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="95",[Football] Rapid Vienna vs. Heart of Midlothian (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-conference-league/2026-08-26/vie-hom
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=uefa-conference-league/2026-08-26/vie-hom
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/uefa-conference-league/2026-08-26/vie-hom/playlist.m3u8?tk=GjvqOcOy5yEe4YAtt7Ap3Q&e=1787806849
+#EXTINF:-1 tvg-chno="96",[Football] Rapid Vienna vs. Heart of Midlothian (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBT0WP1JDKFguEDRARBYvXA4cN1VDAjEXbF1oBwtTfhsYflwvWgtmXy8bblVIHHF9EBI4d2cQMW9sJjEAdit_Yk4LNCBWXRMFDwxnC2svHH4TNmIFETwTCmoDE2MDUQBkD3oxFws7BwFyPWhiEy0lSAZCEFBUUmZ6bTkAVkQ6MVIPejVvFlwJRhAZHGNjKyB9GgkmDQFFFkIuCGl3cic8YBIjOTN6J3peKQQVVHMVaQthNxNgfRAgUA1aMmlcVyIGXA8dfAEoKE45MRNaVE54a0pGF3t0ADVpLwU2eGcAd1pfIydtdgoSEnI0GHRnLRVLYDZmQFwkB3kXFG9XTxQ8dBoFPmlHBTt6BAI2RWYyAWFoPmN3bTUndT8IHVISGyxfHTsyawYCAQMHHzZ8cz4-CxYIJ1VjPxgABFUgQRA1EwIbITRteF0obTcZaVNnDwFubDYaeFQTBWEVWw5lHhBxAhkkERZ_ICACIg8UB1UKL2F1OTted0cXVzwuK3cfOiFUS3AbO3Y4MkADMmJTZEklahQqH3FGEBxiEgwJCUU2YwRoEBs0Wg8efzFDHl9rLh5XaDEFVRYGJwEQCjJ0QBsOTEklQTYBPxoBZUQTeBIyPwhLNGJgR0QGcxdeKGhcIT95Tjg7DHslEkQDODBGSR94WGBVYHZ3Px1hF1g7fANRBHJjEANoRSITEnI0OFEQNx4ASj8UR21SZnokFC4JZzoqD20rGAB5AwYEKSV0AGMgfFphJxtETg85XBdfEFcSLBYPfg5AAVA6eXwUHQBTahYpXHApdwZmRxdRMi8paWURB14cMAMpZV0-BxI3Fn1SAj4cETYhYRAUPV8JXGl_T1MoblMQGAlbGHN9chQVUVkpfhwRMhZbZUVhdB8GMHJNRnR0SycyIUEkJAAVPDkXEz57DkUbIgVuQhByPQEdVRYWPmROMBE4B1Z9UDdTY3RiNihbYB4GelMTLmIKSGhzYFAxdHoeRRNEBgVldCVkeQRKCmAGQhBfbg8ODiYuI3sUVABnD3o1EFk8CFU3GjReTAwhSW8FdwZmM21VbhorYhcGEXN6DkEwazQGfzc5ZQpqFyYLbSBjZxU_B3lnNzdlEicrW3hxOA9BAx9CARgnaEguB2N7MmBwQRpnaW0-EUZ-VhZefywAE1k4GUQFHhp6Zgotd2wGYHJsJTdxKDQzfEMyA0VMCis9ZiMyYyYPJH0RQT5KZD9lemtAMH9tLGl1YRAKBEckHz14DCNDIxUeekdBPV8GQhRwSkQNUzQ0O19oIjdCchgVHQAvDnkxEzthcR4bfWEqIltBPXEKGF0_YVQOA31IAx0uWyAyAgo7N3FjABpUZSooYl5DElQRN38DZA8WW2kEMBQECAVVFjc0W3cJNUF2HSdhEhQGWxApM0dKLCxgGwZADXgtHwAROh53ZU8iTVdCHXtePmYdbCtveRVVEV5hPAMpegdyZis1JBcTPhhrVhcaZUYGBU5nPBFSSgYADnkrVmtxHiFWMkU2W0pIHwtnPiZafhEaSmgnEXxnBgNyHy0yHFgHc1UWNxhcViF6CVsiIBEWNWEdbC80Z2tWIGZYAj4vRD1_WQYgZ11OCj1XRCUDdhxBGW4cPQJLX1MTeEN4FyxfASUOKhQWWW0IaQthRWFDSyJhdw8-AlJeIQJFRAUSIV0MHQM6OmNQEjw-Y280YlgWRyR5Cy8RQnM0c1dgOTUaeRc5ZAkxHWYTMjlwaBVnRmM9AG8mWmhfZxI8UHp7ATcFByJ0AhQgRGAfKVBVNT53EENxChwoKFNeFAlvQxklaAYYInUiLwtleT56fWQcGUBoFiRyLEhodxBTIQQScUoQAgJ6cRAZaXhHEQ8Jchd3BmYwJn9nOz1HaSkOd28RORJYVj1mFy9hSEsqJHZpEhhgVQEeUGgkPF0fLgpaQR5AbgojHG4qPBNKGCJ6a1tVYHZMQmxrbwoZY0MQIHsaBSAKVzxuBQYHFHRGSjkLexoxVkdFBUosAG5jUyxxc3ssJBVqDDpaD1NjcE42fEpoJB1AUhkjCz1eHHkQITNZWy07AXspAUEaTjRWdCt6D2waPGZMLywAe18cflAFJXQYJjt8ASwjYik7NAZbGn8KS0h3BmYGB1toBT9Ebil-YRt9FClSJiZxKCQbCnhAIXJKCApCdkAWUGsJA3tTB3BYaQUDFGMnJxJyMBVkdTkFSUEZa3dCAwUANFoNAGIlBF1tED0Rchl6YSI4ZlBKIBpABkIUUBYkMnkbI2hFXgEKAnMlFg1eFBhPcRU9cBQxKk5zG2Z8fDJmTx0sfwJi&expires=1787774700&token=3ea43013702ab0a35af5788ae927a50a87127dd6f916f0cc1b7e828b3800d15b
+#EXTINF:-1 tvg-chno="97",[Football] Real Madrid vs. Real Sociedad  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="99",[Football] Real Madrid vs. Real Sociedad  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="98",[Football] Real Madrid vs. Real Sociedad  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="100",[Football] Tottenham Hotspur vs. Charlton Athletic  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="99",[Football] Tottenham Hotspur vs. Charlton Athletic  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/iozauyezaioyur82.m3u8
-#EXTINF:-1 tvg-chno="101",[Football] Viking FK vs. Dinamo Zagreb  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="100",[Football] Viking FK vs. Dinamo Zagreb  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="105",[LaLiga] Real Madrid vs Real Sociedad 1 (STP)
+#EXTINF:-1 tvg-chno="104",[LaLiga] Real Madrid vs Real Sociedad 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://po.tudeporteshoy.xyz:443/global/espn/index.m3u8?token=070c88eb8cd986538a1caac27b84955bc4ef10d8-a6-1787790610-1787736610
-#EXTINF:-1 tvg-chno="106",[LaLiga] Real Madrid vs Real Sociedad 2 (STP)
+https://po.tudeporteshoy.xyz:443/global/espn/index.m3u8?token=536958d57c5854c544e437daf5df3e328a14b564-7c-1787810419-1787756419
+#EXTINF:-1 tvg-chno="105",[LaLiga] Real Madrid vs Real Sociedad 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn
+#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://si.tudeporteshoy.xyz:443/global/espn/index.m3u8?token=1c3927f0d268017546602a89fe6414454ad73369-93-1787810419-1787756419
+#EXTINF:-1 tvg-chno="106",[LaLiga] Real Madrid vs Real Sociedad 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn1col
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn1col
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://po.tudeporteshoy.xyz:443/global/espn1col/index.m3u8?token=e9102453f1f58b469b495dcb66d961992ff94b62-03-1787790610-1787736610
-#EXTINF:-1 tvg-chno="107",[LaLiga] Real Madrid vs Real Sociedad 3 (STP)
+https://s1.tudeporteshoy.xyz:443/global/espn1col/index.m3u8?token=3969b6b3e6412e1a1a07ab5b3e466b0b0f6d01c8-39-1787810420-1787756420
+#EXTINF:-1 tvg-chno="107",[LaLiga] Real Madrid vs Real Sociedad 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s1.tudeporteshoy.xyz:443/global/disney3/index.m3u8?token=812f39586efac3edfc14c0a4d6520cb2d7f2fdb0-9f-1787790611-1787736611
-#EXTINF:-1 tvg-chno="108",[LaLiga] Real Madrid vs Real Sociedad 4 (STP)
+https://po.tudeporteshoy.xyz:443/global/disney3/index.m3u8?token=f7afca6dc03372b5dbe1ea812d420920f19ab937-4f-1787810420-1787756420
+#EXTINF:-1 tvg-chno="108",[LaLiga] Real Madrid vs Real Sociedad 5 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://po.tudeporteshoy.xyz:443/global/espndeportes/index.m3u8?token=d3e72aacb3d90bb3cf8e174803a1f7dcfdf790db-c6-1787790611-1787736611
-#EXTINF:-1 tvg-chno="109",[LaLiga] Real Madrid vs Real Sociedad 5 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=premier1uk
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=premier1uk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://po.tudeporteshoy.xyz:443/global/premier1uk/index.m3u8?token=a37f54893a98e2ae611b8297f1e4ef60c634f81a-94-1787790611-1787736611
-#EXTINF:-1 tvg-chno="110",[LaLiga] Real Madrid vs Real Sociedad  Disney + (STRMXHD)
+https://po.tudeporteshoy.xyz:443/global/espndeportes/index.m3u8?token=5a0d1abbafd9259e14e792f7122c2de8c416aa48-e4-1787810420-1787756420
+#EXTINF:-1 tvg-chno="109",[LaLiga] Real Madrid vs Real Sociedad  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/disney2/index.m3u8?token=ee84a89190b04da697d145be4a66bca02ab9b266-fd-1787790610-1787736610
-#EXTINF:-1 tvg-chno="111",[LaLiga] Real Madrid vs Real Sociedad  ESPN (STRMXHD)
+https://khala.skylivehd.com/global/disney2/index.m3u8?token=2f95c9cfa448c81f2887b5d0c265c0ea3dd18c01-f0-1787810419-1787756419
+#EXTINF:-1 tvg-chno="110",[LaLiga] Real Madrid vs Real Sociedad  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/espn/index.m3u8?token=702fbebf9c6585e7ba42beeae384ce4d5a522265-30-1787790611-1787736611
-#EXTINF:-1 tvg-chno="112",[LaLiga] Real Madrid vs Real Sociedad  ESPN + (STRMXHD)
+https://khala.skylivehd.com/global/espn/index.m3u8?token=cd694561c718cef6a2567ced98e148b8834ac965-ad-1787810420-1787756420
+#EXTINF:-1 tvg-chno="111",[LaLiga] Real Madrid vs Real Sociedad  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/espnplus1/index.m3u8?token=f48eae0b261a8e125f3d8717e4e49e1ed97b7352-ae-1787790611-1787736611
-#EXTINF:-1 tvg-chno="113",[LaLiga] Real Madrid vs Real Sociedad  ESPN Deportes (STRMXHD)
+https://khala.skylivehd.com/global/espnplus1/index.m3u8?token=b17c78cebb1dda93dd83ccde763b70b99ffef24b-80-1787810420-1787756420
+#EXTINF:-1 tvg-chno="112",[LaLiga] Real Madrid vs Real Sociedad  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/espndeportes/index.m3u8?token=cf14a0f387c570b8b58499debaf7493a64c62190-82-1787790611-1787736611
-#EXTINF:-1 tvg-chno="114",[LaLiga] Real Madrid vs Real Sociedad  Español 1 (PLIBRE)
+https://khala.skylivehd.com/global/espndeportes/index.m3u8?token=0e149819e02f70323b89d119a1a413409bf86845-57-1787810420-1787756420
+#EXTINF:-1 tvg-chno="113",[LaLiga] Real Madrid vs Real Sociedad  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://y2fzdgxl.fubo18.com:443/espn/mono.m3u8?token=ee66a2ca2c376183f4d4e51e26fbd4d0d4854fc6-10-1787766357-1787748357
-#EXTINF:-1 tvg-chno="115",[LaLiga] Real Madrid vs Real Sociedad  Español 1 (STP)
+#EXTINF:-1 tvg-chno="114",[LaLiga] Real Madrid vs Real Sociedad  Español 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://s2.tudeporteshoy.xyz:443/global/espnplus1/index.m3u8?token=163925d610e150cbf769ed6db8a2bfcc8695e6a2-6a-1787790611-1787736611
-#EXTINF:-1 tvg-chno="116",[LaLiga] Real Madrid vs Real Sociedad  Español 2 (PLIBRE)
+https://po.tudeporteshoy.xyz:443/global/espnplus1/index.m3u8?token=42de6c08cbe1bee3eb43e6632f4df941a50b7508-55-1787810420-1787756420
+#EXTINF:-1 tvg-chno="115",[LaLiga] Real Madrid vs Real Sociedad  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney3
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://eWVz.fubo18.com:443/disney3/mono.m3u8?token=d7a35778504e42f425aa686d0f4c222249ae10cb-d6-1787766357-1787748357
-#EXTINF:-1 tvg-chno="117",[LaLiga] Real Madrid vs Real Sociedad  Español 3 (PLIBRE)
+#EXTINF:-1 tvg-chno="116",[LaLiga] Real Madrid vs Real Sociedad  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://bgvnzw5k.fubo18.com:443/espndeportes/mono.m3u8?token=56a44128bcdbf66d05644347b1f3df8551bfdb7e-91-1787766357-1787748357
-#EXTINF:-1 tvg-chno="118",[LaLiga] Real Madrid vs Real Sociedad  Español 4 (PLIBRE)
+#EXTINF:-1 tvg-chno="117",[LaLiga] Real Madrid vs Real Sociedad  Español 4 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=sky_sports_laliga
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=sky_sports_laliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://a2lja3m.fubo18.com:443/sky_sports_laliga/mono.m3u8?token=a0f63fa91924fa28570ee9bd285f087a89a0eab4-e1-1787766357-1787748357
-#EXTINF:-1 tvg-chno="119",[LaLiga] Real Madrid vs Real Sociedad  Premier Sports 1 UK (STRMXHD)
+#EXTINF:-1 tvg-chno="118",[LaLiga] Real Madrid vs Real Sociedad  Premier Sports 1 UK (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.skylivehd.com/global/premier1uk/index.m3u8?token=cdf52ddbaf7539bcc1712ea8170d71211675ef91-90-1787790611-1787736611
+https://khala.skylivehd.com/global/premier1uk/index.m3u8?token=cb6ebad2aaafbe12ce98e78fc8e12fca0067d513-76-1787810420-1787756420
