@@ -1,85 +1,90 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="101",[Football] AEK Athens vs. Levski Sofia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="93",[Football] AEK Athens vs. Levski Sofia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="102",[Football] AEK Athens vs. Levski Sofia  Greek (STRMCNTR)
+#EXTINF:-1 tvg-chno="94",[Football] AEK Athens vs. Levski Sofia  Greek (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/ioazuryeahrfvzed84.m3u8
-#EXTINF:-1 tvg-chno="103",[Football] Bradford City vs. Burnley  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="95",[Football] América vs. Columbus Crew (EMBDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQWOFQbLkRtFSRCDkp8CxVdYgwJRWIXPwA_HEUPJAlNIRdkfjcTcQ5GBX9wGzlXUSE7XWcVNk8vBH8DYA4DfEYGCjBELD8ScjAQdRE5aQthAjRnYxxgVx0obAB2Mzx9cx0-IWVLeXE0QyNVU0whd0ATM1xOQx8KCF0pBkVTAVpaBBI_d1Z-YDIdIUB4GiJgbBE4cHAjbHIPXw5dQFcxUlkJOSFBWT1wOB45eFAqCkhTVWByfDsDYTpIaHMTGnIBewlGL3ojDW1lRBdcS08GW00mB1dyNgUKEB8yBVQud1JNOCctcRspZBNDHGpVEzkMRjMIAn1SZn4nGBZVTygKUWNxGzVpKn1QGVNjdFgNJHVEIxp_RzRkSTdfK1d3ESF5YToiOHAWIQICIWJKezUEHBEyH19jMyQLLzUKXkQ6M3RueCEVcBc4QC0cNQJwHjh2djgbZ34lF18OHxFkEygXX0IrNTxfBiIOJUJgVEwWfnFQJRd8dj0Md28iA3sQEzZPEho4fAEsGXkVTgRZQzY2fRYbF2JsFhB0Kj8vRxVVEE9eeTAzFlwJTjAkA1hpKQZpaiJkZmxFbVcpCRFzXFoSYVInFRxZHRkFZUQXU2ddfnsGQhAEE0NkCClZAF4RMxd9ejESMGoDP10rQj5gThs8WGUzBnx8HDJQExUbUnY7c2RcJDoaBwoaWXcxEwVRFX9wSkQgBUhBAHo1LANfVzIIdFo9Mg50OhteEScVARINJkttPTlgFjgTcgcPFEZEMy18QDAyM34ECFt2NR9mFwAofVIGB38RBCRLNy9sVlMQHGNkKj0JcQgOWxUSaAtqThhOelVgdhImLH08KzRrSwYwAnB9Fjd8NyQEOQNoFxM6OV0bJiYMZ0YicTYnDAVrDwxXeCQANxZcDQUTMWNaVjE-fGBGNXVMHWFaJAAge2kVf3B7ex8RSiVuBQZCBlpxSnxteQQYTBUWIEstLj97ajFzExgKFypBDzkCFQQnX28gOUFyARoBdiVtYg0lCGtSGRJ6Xj4mLUIqJXVxIQlFdw8hSUonAQJWJhdNKCg3FBQlJwV9AzUrXQstbQgXA1FrATlTV0QKYxNFGFE6WWxnA1EEBloPGgoBNyVuEg4zYmxINlthISoBci9lUCwUEV1pLiRvST8kDX02MngjPGYXEz5_CnoJGAUWMw5rBAJiY09XLm5hACprajR5EnIwM2BNCi57VCFgekYZEwpmHD1IFykrdUACISxUID9QcRIoZ3g1KlBtOHcGYkQgcSQjE2VONhx3GgoiHGY9OGAvQgBBbzQ2DkAWGUZpJBJXbRxjaEMMAXEZI0U6UQQeBxQRHEhDPXhMVRIxUQFFFm4fBSN7FQsXREcPADhmPy0AeR1gd1MMIFZCAxtEQC0SfBgOP0twICR3biIwEFIFJ1wlHiB5SRoKTGs7NH5vOTd-FR0PUF4bcF0SbUEfVQwvTy09K0d5MH1QUx4_Q1AnGnFnW38DYCgFXE8JGB97NAVBeBswd3MbOGl3RWNcUR8NdTUfC1JuIgNEfj4_AwIeKnYXOyRzYwkrf0cmBFNJHwVuHAgUYUVUf2BDcEM7QRo-VQdDP1V4FAt7Rx0RZx1GIlVmDm5CQhAnQlg8FiEAPDN1GQYmd3kBLVBOJgZDUh0YVwg-fwNgIARgTgYlYGQHcmQPGjpEcAIPaEJFZg10MQ1aKAozQnEMN08dLEBuV1YbfXEUG0ZOKQ8BTQY2c0o4Ew8pBgJgXyErWEMHGDV5BgJcJSYQBxMqJUNzMRtEVDIsUwkZP1keKB8EYxkeFFgUPG8kFT1gExICaGIeMXcVRh4IERQUaWsVMnV5PBosdTd5bmVEF0hXEwgPahkWW0VSZn47AjJmTDEMUlMQOiNpVwhwOj5gAEdNB3dyCBZORRwuVRMbaXBNIR9yQSxHHlQ9bgUCGytaSxo_UWw4YwNyBz9MFy4VewNRAH1BEDAbdwwjXRgxAH4ESgpqVVVgchIzBnFrHzB5VDB0d0l6MBh_Oy0EED8jRwRKCntLOAdZTSdsCzo4NGljNT9HRxgnbAsgPHBwGzp7EykmbWIpakJTEiJzEioxQnYhI1J8CVZrdSwxf3U5NnpECXh2WkUEbX0vBQ0uPxhlZ1UEQ3ABFjxJA3hiBC4WdlMiAQgTOzthZhYbciwXCF9JCDZsaRsEOAMADAFzAidmBEoKbVY0Z1ZuFSBbFloJYE8EMUxJeTccQhg4cgwANwtsPnkcETIXXV5HDlQxVQ5USUZ1cg&expires=1787808900&token=cc54cd38afae62cad6f7ab8a335eed99802c2e40f9c626981c79f15d86d5fabf
+#EXTINF:-1 tvg-chno="96",[Football] Bradford City vs. Burnley  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8
-#EXTINF:-1 tvg-chno="104",[Football] Lyon vs. Fenerbahce  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="97",[Football] Lyon vs. Fenerbahce  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="105",[Football] NK Celje vs. Slovan Bratislava  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="98",[Football] NK Celje vs. Slovan Bratislava  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="106",[Football] Newcastle United vs. West Bromwich Albion  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="99",[Football] Newcastle United vs. West Bromwich Albion  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8
-#EXTINF:-1 tvg-chno="107",[Football] Preston North End vs. Everton  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="100",[Football] Preston North End vs. Everton  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/nbekiurtghjhfza83.m3u8
-#EXTINF:-1 tvg-chno="108",[Football] Real Madrid vs. Real Sociedad  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="101",[Football] Real Madrid vs. Real Sociedad  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="109",[Football] Real Madrid vs. Real Sociedad  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="102",[Football] Real Madrid vs. Real Sociedad  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="110",[Football] Toluca vs. Austin FC (EMBDSPRT)
+#EXTINF:-1 tvg-chno="103",[Football] Toluca vs. Austin FC (EMBDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQWOFQbLkRtFSRCDkp8CxVdYgwJRWIXKgI2HEcXPglNIRdkfjcTcQ5GBX9wGzlXUSE7XWcVNk8vBH8DYA4DfEYGCjBELD8ScjAQdRE5aQthAjRnYxxgVx0obAB2Mzx9cx0-IWVLeXE0QyNVU0whd0ATM1xOQx8KCF0pBkVTAVpaBBI_d1Z-YDIdIUB4GiJgbBE4cHAjbHIPXw5dQFcxUlkJOSFBWT1wOB45eFAqCkhTVWByfDsDYTpIaHMTGnIBewlGL3ojDW1lRBdcS08GW00mB1dyNgUKEB8yBVQud1JNOCctcRspZBNDHGpVEzkMRjMIAn1SZn4nGBZVTygKUWNxGzVpKn1QGVNjdFgNJHVEIxp_RzRkSTdfK1d3ESF5YToiOHAWIQICIWJKezUEHBEyH19jMyQLLzUKXkQ6M3RueCEVcBc4QC0cNQJwHjh2djgbZ34lF18OHxFkEygXX0IrNTxfBiIOJUJgVEwWfnFQJRd8dj0Md28iA3sQEzZPEho4fAEsGXkVTgRZQzY2fRYbF2JsFhB0Kj8vRxVVEE9eeTAzFlwJTjAkA1hpKQZpaiJkZmxFbVcpCRFzXFoSYVInFRxZHRkFZUQXU2ddfnsGQhAEE0NkCClZAF4RMxd9ejESMGoDP10rQj5gThs8WGUzBnx8HDJQExUbUnY7c2RcJDoaBwoaWXcxEwVRFX9wSkQgBUhBAHo1LANfVzIIdFo9Mg50OhteEScVARINJkttPTlgFjgTcgcPFEZEMy18QDAyM34ECFt2NR9mFwAofVIGB38RBCRLNy9sVlMQHGNkKj0JcQgOWxUSaAtqThhOelVgdhImLH08KzRrSwYwAnB9Fjd8NyQEOQNoFxM6OV0bJiYMZ0YicTYnDAVrDwxXeCQANxZcDQUTMWNaVjE-fGBGNXVMHWFaJAAge2kVf3B7ex8RSiVuBQZCBlpxSnxteQQYTBUWIEstLj97ajFzExgKFypBDzkCFQQnX28gOUFyARoBdiVtYg0lCGtSGRJ6Xj4mLUIqJXVxIQlFdw8hSUonAQJWJhdNKCg3FBQlJwV9AzUrXQstbQgXA1FrATlTV0QKYxNFGFE6WWxnA1EEBloPGgoBNyVuEg4zYmxINlthISoBci9lUCwUEV1pLiRvST8kDX02MngjPGYXEz5_CnoJGAUWMw5rBAJiY09XLm5hACprajR5EnIwM2BNCi57VCFgekYZEwpmHD1IFykrdUACISxUID9QcRIoZ3g1KlBtOHcGYkQgcSQjE2VONhx3GgoiHGY9OGAvQgBBbzQ2DkAWGUZpJBJXbRxjaEMMAXEZI0U6UQQeBxQRHEhDPXhMVRIxUQFFFm4fBSN7FQsXREcPADhmPy0AeR1gd1MMIFZCAxtEQC0SfBgOP0twICR3biIwEFIFJ1wlHiB5SRoKTGs7NH5vOTd-FR0PUF4bcF0SbUEfVQwvTy09K0d5MH1QUx4_Q1AnGnFnW38DYCgFXE8JGB97NAVBeBswd3MbOGl3RWNcUR8NdTUfC1JuIgNEfj4_AwIeKnYXOyRzYwkrf0cmBFNJHwVuHAgUYUVUf2BDcEM7QRo-VQdDP1V4FAt7Rx0RZx1GIlVmDm5CQhAnQlg8FiEAPDN1GQYmd3kBLVBOJgZDUh0YVwg-fwNgIARgTgYlYGQHcmQPGjpEcAIPaEJFZg10MQ1aKAozQnEMN08dLEBuV1YbfXEUG0ZOKQ8BTQY2c0o4Ew8pBgJgXyErWEMHGDV5BgJcJSYQBxMqJUNzMRtEVDIsUwkZP1keKB8EYxkeFFgUPG8kFT1gExICaGIeMXcVRh4IERQUaWsVMnV5PBosdTd5bmVEF0hXEwgPahkWW0VSZn47AjJmTDEMUlMQOiNpVwhwOj5gAEdNB3dyCBZORRwuVRMbaXBNIR9yQSxHHlQ9bgUCGytaSxo_UWw4YwNyBz9MFy4VewNRAH1BEDAbdwwjXRgxAH4ESgpqVVVgchIzBnFrHzB5VDB0d0l6MBh_Oy0EED8jRwRKCntLOAdZTSdsCzo4NGljNT9HRxgnbAsgPHBwGzp7EykmbWIpakJTEiJzEioxQnYhI1J8CVZrdSwxf3U5NnpECXh2WkUEbX0vBQ0uPxhlZ1UEQ3ABFjxJA3hiBC4WdlMiAQgTOzthZhYbciwXCF9JCDZsaRsEOAMADAFzAidmBEoKbVY0Z1ZuFSBbFloJYE8EMUxJeTccQhg4cgwANwtsPnkcETIXXV5HDlQxVQ5USUZ1cg&expires=1787799900&token=0e24b591fc603444a18c52e89dec563a92b9a7eef4f0f2ca089f713a7216109b
-#EXTINF:-1 tvg-chno="111",[Football] Tottenham Hotspur vs. Charlton Athletic  English (STRMCNTR)
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQWOFQbLkRtFSRCDkp8CxVdYgwJRWIXKgI2HEcXPglNIRdkfjcTcQ5GBX9wGzlXUSE7XWcVNk8vBH8DYA4DfEYGCjBELD8ScjAQdRE5aQthAjRnYxxgVx0obAB2Mzx9cx0-IWVLeXE0QyNVU0whd0ATM1xOQx8KCF0pBkVTAVpaBBI_d1Z-YDIdIUB4GiJgbBE4cHAjbHIPXw5dQFcxUlkJOSFBWT1wOB45eFAqCkhTVWByfDsDYTpIaHMTGnIBewlGL3ojDW1lRBdcS08GW00mB1dyNgUKEB8yBVQud1JNOCctcRspZBNDHGpVEzkMRjMIAn1SZn4nGBZVTygKUWNxGzVpKn1QGVNjdFgNJHVEIxp_RzRkSTdfK1d3ESF5YToiOHAWIQICIWJKezUEHBEyH19jMyQLLzUKXkQ6M3RueCEVcBc4QC0cNQJwHjh2djgbZ34lF18OHxFkEygXX0IrNTxfBiIOJUJgVEwWfnFQJRd8dj0Md28iA3sQEzZPEho4fAEsGXkVTgRZQzY2fRYbF2JsFhB0Kj8vRxVVEE9eeTAzFlwJTjAkA1hpKQZpaiJkZmxFbVcpCRFzXFoSYVInFRxZHRkFZUQXU2ddfnsGQhAEE0NkCClZAF4RMxd9ejESMGoDP10rQj5gThs8WGUzBnx8HDJQExUbUnY7c2RcJDoaBwoaWXcxEwVRFX9wSkQgBUhBAHo1LANfVzIIdFo9Mg50OhteEScVARINJkttPTlgFjgTcgcPFEZEMy18QDAyM34ECFt2NR9mFwAofVIGB38RBCRLNy9sVlMQHGNkKj0JcQgOWxUSaAtqThhOelVgdhImLH08KzRrSwYwAnB9Fjd8NyQEOQNoFxM6OV0bJiYMZ0YicTYnDAVrDwxXeCQANxZcDQUTMWNaVjE-fGBGNXVMHWFaJAAge2kVf3B7ex8RSiVuBQZCBlpxSnxteQQYTBUWIEstLj97ajFzExgKFypBDzkCFQQnX28gOUFyARoBdiVtYg0lCGtSGRJ6Xj4mLUIqJXVxIQlFdw8hSUonAQJWJhdNKCg3FBQlJwV9AzUrXQstbQgXA1FrATlTV0QKYxNFGFE6WWxnA1EEBloPGgoBNyVuEg4zYmxINlthISoBci9lUCwUEV1pLiRvST8kDX02MngjPGYXEz5_CnoJGAUWMw5rBAJiY09XLm5hACprajR5EnIwM2BNCi57VCFgekYZEwpmHD1IFykrdUACISxUID9QcRIoZ3g1KlBtOHcGYkQgcSQjE2VONhx3GgoiHGY9OGAvQgBBbzQ2DkAWGUZpJBJXbRxjaEMMAXEZI0U6UQQeBxQRHEhDPXhMVRIxUQFFFm4fBSN7FQsXREcPADhmPy0AeR1gd1MMIFZCAxtEQC0SfBgOP0twICR3biIwEFIFJ1wlHiB5SRoKTGs7NH5vOTd-FR0PUF4bcF0SbUEfVQwvTy09K0d5MH1QUx4_Q1AnGnFnW38DYCgFXE8JGB97NAVBeBswd3MbOGl3RWNcUR8NdTUfC1JuIgNEfj4_AwIeKnYXOyRzYwkrf0cmBFNJHwVuHAgUYUVUf2BDcEM7QRo-VQdDP1V4FAt7Rx0RZx1GIlVmDm5CQhAnQlg8FiEAPDN1GQYmd3kBLVBOJgZDUh0YVwg-fwNgIARgTgYlYGQHcmQPGjpEcAIPaEJFZg10MQ1aKAozQnEMN08dLEBuV1YbfXEUG0ZOKQ8BTQY2c0o4Ew8pBgJgXyErWEMHGDV5BgJcJSYQBxMqJUNzMRtEVDIsUwkZP1keKB8EYxkeFFgUPG8kFT1gExICaGIeMXcVRh4IERQUaWsVMnV5PBosdTd5bmVEF0hXEwgPahkWW0VSZn47AjJmTDEMUlMQOiNpVwhwOj5gAEdNB3dyCBZORRwuVRMbaXBNIR9yQSxHHlQ9bgUCGytaSxo_UWw4YwNyBz9MFy4VewNRAH1BEDAbdwwjXRgxAH4ESgpqVVVgchIzBnFrHzB5VDB0d0l6MBh_Oy0EED8jRwRKCntLOAdZTSdsCzo4NGljNT9HRxgnbAsgPHBwGzp7EykmbWIpakJTEiJzEioxQnYhI1J8CVZrdSwxf3U5NnpECXh2WkUEbX0vBQ0uPxhlZ1UEQ3ABFjxJA3hiBC4WdlMiAQgTOzthZhYbciwXCF9JCDZsaRsEOAMADAFzAidmBEoKbVY0Z1ZuFSBbFloJYE8EMUxJeTccQhg4cgwANwtsPnkcETIXXV5HDlQxVQ5USUZ1cg&expires=1787812500&token=b0f84f7590f13ccb574161a4268ad5edbe7d3c568f8847a6a704194888880cc7
+#EXTINF:-1 tvg-chno="104",[Football] Tottenham Hotspur vs. Charlton Athletic  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/iozauyezaioyur82.m3u8
-#EXTINF:-1 tvg-chno="112",[Football] Viking FK vs. Dinamo Zagreb  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="105",[Football] Viking FK vs. Dinamo Zagreb  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="114",[LaLiga] Real Madrid vs Real Sociedad  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="107",[LaLiga] Real Madrid vs Real Sociedad  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/disney2/index.m3u8?token=37c11c39197c3f64daa539fa8a0550476686036b-49-1787830254-1787776254
-#EXTINF:-1 tvg-chno="115",[LaLiga] Real Madrid vs Real Sociedad  ESPN (STRMXHD)
+#EXTINF:-1 tvg-chno="108",[LaLiga] Real Madrid vs Real Sociedad  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/espn/index.m3u8?token=7ab8f6cd31a3a87b89893f0c2dac6c580a961497-40-1787830254-1787776254
-#EXTINF:-1 tvg-chno="116",[LaLiga] Real Madrid vs Real Sociedad  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="109",[LaLiga] Real Madrid vs Real Sociedad  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/espnplus1/index.m3u8?token=442041b696d65a6c0d1fb60dc5dba22fbca9dfdc-9c-1787830254-1787776254
-#EXTINF:-1 tvg-chno="117",[LaLiga] Real Madrid vs Real Sociedad  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="110",[LaLiga] Real Madrid vs Real Sociedad  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.skylivehd.com/global/espndeportes/index.m3u8?token=bd94bd3921572868787616c4e6c64edffeabd649-7b-1787830254-1787776254
-#EXTINF:-1 tvg-chno="118",[LaLiga] Real Madrid vs Real Sociedad  Premier Sports 1 UK (STRMXHD)
+#EXTINF:-1 tvg-chno="111",[LaLiga] Real Madrid vs Real Sociedad  Premier Sports 1 UK (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=premier1uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
