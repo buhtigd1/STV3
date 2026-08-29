@@ -214,6 +214,16 @@ https://cdn8.zohanayaan.com:1686/hls/do29.m3u8?md5=MkuhBZq9TRf8MSjdx4LM2g&expire
 #EXTVLCOPT:http-origin=https://exposestrat.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn6.zohanayaan.com:1686/hls/do5.m3u8?md5=KtylkoIgz82q1rba57uUlQ&expires=1788019266
+#EXTINF:-1 tvg-chno="471",[Moto GP] AROGAN GP Friday to Sunday vs Motogp Channel (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://epiembeds.online/flyemd/motpgp-tv
+#EXTVLCOPT:http-origin=https://epiembeds.online/flyemd/motpgp-tv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hdesx.cdx-08192.website/main/secure/baeaa085b73dcbee7623b5fab673fca1503059463d014eaa523b1387733e7c6d/1788021168/motpgp-tv.m3u8
+#EXTINF:-1 tvg-chno="472",[Moto GP] AROGAN GP Friday to Sunday vs TNT 2 uk (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://epiembeds.online/flyemd/tntsports2-uk
+#EXTVLCOPT:http-origin=https://epiembeds.online/flyemd/tntsports2-uk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://hdesx.cdx-08192.website/main/secure/bcba05462d2c95141b18f5d8da620b32ea4b0674e806fafb5629679d4fc7cd01/1788021168/tntsports2-uk.m3u8
 #EXTINF:-1 tvg-chno="473",[MotoGP] MotoGP Grand Prix of Spain (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
