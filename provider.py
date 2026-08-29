@@ -9,6 +9,19 @@ LOG_FILE    = "stv3.log"
 
 HEADER = '#EXTM3U url-tvg=""'
 
+PRIORITY = [
+    "[premier league]",
+    "[england premier league]",
+    "[formula 1]",
+    "[f1]",
+    "[motogp]",
+    "[motorsports]",
+    "[football]",
+    "[laliga]",
+    "[serie a]",
+    "[italy serie a]"
+]
+
 def download(url):
     try:
         r = requests.get(url, timeout=30)
@@ -47,6 +60,15 @@ def clean_extinf(line):
     line = line.replace("|", "").replace(",,", ",")
     return line
 
+def sort_entries(entries):
+    def priority_index(block):
+        line = block[0].lower()
+        for idx, keyword in enumerate(PRIORITY):
+            if keyword in line:
+                return idx
+        return len(PRIORITY)  # non-priority goes last
+    return sorted(entries, key=priority_index)
+
 def main():
     log_entries = [f"Run started at {datetime.now().isoformat()}"]
 
@@ -56,22 +78,21 @@ def main():
     print("Parsing playlist...")
     entries = parse_m3u(source)
 
+    before_filter = len(entries)
+
     # Apply filter: only keep sports-related channels
     entries = [
         block for block in entries
-        if "[premier league]" in block[0].lower()
-        or "[england premier league]" in block[0].lower()
-        or "[formula 1]" in block[0].lower()
-        or "[f1]" in block[0].lower()
-        or "[motogp]" in block[0].lower()    
-        or "[motorsports]" in block[0].lower()
-        or "[football]" in block[0].lower()
-        or "[laliga]" in block[0].lower()
-        or "[serie a]" in block[0].lower()
-        or "[italy serie a]" in block[0].lower()
+        if any(keyword in block[0].lower() for keyword in PRIORITY)
     ]
 
-    print(f"Total channels after filter: {len(entries)}")
+    after_filter = len(entries)
+
+    print("Applying ordering...")
+    entries = sort_entries(entries)
+
+    print(f"Total channels before filter: {before_filter}")
+    print(f"Total channels after filter: {after_filter}")
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(HEADER + "\n")
@@ -85,6 +106,8 @@ def main():
     with open(LOG_FILE, "w", encoding="utf-8") as logf:
         for entry in log_entries:
             logf.write(entry + "\n")
+        logf.write(f"Channels before filter: {before_filter}\n")
+        logf.write(f"Channels after filter: {after_filter}\n")
         logf.write(f"✅ Done: saved to {OUTPUT_FILE}\n")
 
     print(f"✅ Done: saved to {OUTPUT_FILE}, log written to {LOG_FILE}")
