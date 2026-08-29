@@ -1,85 +1,80 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="88",[Football] Alavés vs. Villarreal  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="63",[Football] Alavés vs. Villarreal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="89",[Football] Alavés vs. Villarreal  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="64",[Football] Alavés vs. Villarreal  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="90",[Football] Atlante vs. León (EMBDSPRT)
+#EXTINF:-1 tvg-chno="65",[Football] Tijuana vs. Pumas UNAM (EMBDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AQ5CahtFAzgVMgg1DkEKIgtHBkEAUFYeWDghZHFtEi91VxkEQEcnLUImX2h1ajZ1BlwxFjYANwZ0dzUae2oXNExLHGN-YDoYVhcdA0tQUTZsQzwLEXslAnAGPCBXYCAYak43EwNrTi0Ob1UjZR9VYwRsG0MPeCImBjo1HENiMzRuexoXQXA1bEoKFx9zRBU0ZUceQjt1KHgOeD9nZnINaQthCAJFTDRjfWkZMX1uDzIGRQcFD304MnYPQiUAFQA4cG45B34dPj1vNA4eAXczJRMYCgofAl0GU3APM1BUTHVRaEImWUkuNX04XQ1UVww8QEM-Cj14X3t7FU49RnM5BlRCFwZDdyEBfxUeAERlWjZSYBE-Dn8DLm90NHQAZzoIAFE_AFVrOzJ8HCszA2g5EU9NbUEbcQB5DxMAGHNXPnp_Sj1nWWw9I300HB1CcydjBGgdNQoAFDoBAiI7aGoAAVBIBRtYEjExeQgUD3B_Vj9QXh4jYEobDVssMSFVBEoKanU5FGQWFXEKHAlrU1QxPlEcIhYjQQQxYw1GKERgXX57YSAfRVwfGk8fFxICcSZwd3IQGC1wX3tCd041V3gABWBAVWByTlJmei89PmBRFSxuYQ8BCl5Ye3kEGgRFcy8-a00fEVBLLg0NHQQTXkhSB256KkAXUFckWSk8YwtNFhlWVkYaV1UcbHoKIwh0YiAFBhICHQxQJyVmdEAAREQMGHpiAgRGEEAATR0lHRQUITd-D3oxCmAXMWMMBBMKEywtDXA_M11ADRdLPxg3XwNRAGJibUEfB1ckZQgfB3tZHiJ0VwMKAUIfEHUIVC1eQSQjdB44PxpGWXMCczkeX1Zdfn8TNzNyAUUSSjIqDFYRBX4EWwo9FVAUe0cyHSMESy8nHBE2EHNcODVQM0hoc00AJVpGMkA8aygtUiYYYkJuOwdqRSgAegFFFncQOy9bTVV_f3oaPy1GIhNxGBwfcUdADQkRKhBWUFJmeiooKXVlWwlfSQ9COFE4LlRlRBdBV0k9c3YDGgRFPmVaHR0XaWU0d2xebUEfeVonBmVEF1FVKSpMSCQwbmsPbA8tWn8DYFIyb25_FA5UPxsBCiEXdFMsf04aBzRgbRUmdRwdHWZ1JhxdQAsUa1oPemU4BQJGYi4aHBE2YV1RDzZUJgEfCHcEDURmAzkWFlwJRjk9IAt2OwlLZyEaA2xCNVszAGl6FBIUAWE7FR9EPBphL1NjdFMyORwRNmNaRQASYio_I3NoEAdAbT0bPEcnDgAVAzBjZBUCaxE4JXNCESRXGCkqfWE5LlNNbUEbXT0FWDkCInN4EQRXBkIQB3Q1PQgvDhliXDQBU1ojEG9DLANcCCUARU0LOG0bChB_fR8YUxFcEl5HVBcBD3o1HAUDMUE1MigETE8cWloBGREWNRUdbC8bQFdRI05_CxloQBsGVDYfZEBUMn9yWSZhXnZPJ2EvIRR7VzUIWkcyHWBDVhlQDRxhfhAgKFBtEzBRSxZlVxM8bhQUJRITGAolKhZcDUUpB2BYYgx5fxY1IWFwRxJJPFUPCG4zLQcdPxxoAV8lcRIhJQpESARTSR88ZEJALm8oCG5JXjAWWkwiHA5JS3l1KR4jB2hBOUpGCjpuahQ-CBwMbGERC2MEaAw-MmEUB3t5PD0LTjY9SloFBXFMMCF3HVRqB0UAMHdSeVZrcRojeCoDaWNzIjV_UEAbWEMGAVJnNCBSbVYPe20wF29fAHlfKE8hClc6PgxaJwF4QgFxChwOCmN0DBd1fSEEH0EIKFMkMzBYThQLSBsUPX9XIGNyJCwocGorfnBeHBU8SgEvQDoAaGYTHH9xEwETURQgYQ4sFSJ9YAcIdBoZPjgALQFEIhtkC0Y7f1RNBjdwRQQAXGkAG0BzDy9ebgsFMX8pH3MiNB1dYzMlVXcfKl5qJ2VXBlwLVGUvc2UafBcsaQYkcwIjGWtPMChwUwRiW2gVEghnNBVfSRUuZ0cAVmtxJCBvBCI2XE1JKXdOIjVkazgWdglaLlVwWzRzTXAXCn0jeHISHx8GVBx-HBE2BmZWLwAMbwA7cHImDm59DAoqfkt5cS0ZOgdNFR9PZkQXVmNGJgEaFzhwaBUVel9xP20CCngAEFNjdHQUHlhOSQVzAUUSUhgOIFtwOzYCaR5CIAACDHkLHCJ7TQsGW2EmHW12DQJeaF49QlBXAwQZLiIuCx54UzIMB0VHHjgPFilkR2svDEgQXGhlVTo_X1sZRBVeJCQSczI&expires=1787974500&token=c64203dda9ad9ac237bb387ae475009eecd65d7d906b1814c93cefaa31863343
-#EXTINF:-1 tvg-chno="91",[Football] Necaxa vs. Cruz Azul (EMBDSPRT)
-#EXTVLCOPT:http-referrer=https://embedsport.live/
-#EXTVLCOPT:http-origin=https://embedsport.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AQ5CahtKFCwVPQwgDkEKIgtHBkEAUFYeWDghZHFtEi91VxkEQEcnLUImX2h1ajZ1BlwxFjYANwZ0dzUae2oXNExLHGN-YDoYVhcdA0tQUTZsQzwLEXslAnAGPCBXYCAYak43EwNrTi0Ob1UjZR9VYwRsG0MPeCImBjo1HENiMzRuexoXQXA1bEoKFx9zRBU0ZUceQjt1KHgOeD9nZnINaQthCAJFTDRjfWkZMX1uDzIGRQcFD304MnYPQiUAFQA4cG45B34dPj1vNA4eAXczJRMYCgofAl0GU3APM1BUTHVRaEImWUkuNX04XQ1UVww8QEM-Cj14X3t7FU49RnM5BlRCFwZDdyEBfxUeAERlWjZSYBE-Dn8DLm90NHQAZzoIAFE_AFVrOzJ8HCszA2g5EU9NbUEbcQB5DxMAGHNXPnp_Sj1nWWw9I300HB1CcydjBGgdNQoAFDoBAiI7aGoAAVBIBRtYEjExeQgUD3B_Vj9QXh4jYEobDVssMSFVBEoKanU5FGQWFXEKHAlrU1QxPlEcIhYjQQQxYw1GKERgXX57YSAfRVwfGk8fFxICcSZwd3IQGC1wX3tCd041V3gABWBAVWByTlJmei89PmBRFSxuYQ8BCl5Ye3kEGgRFcy8-a00fEVBLLg0NHQQTXkhSB256KkAXUFckWSk8YwtNFhlWVkYaV1UcbHoKIwh0YiAFBhICHQxQJyVmdEAAREQMGHpiAgRGEEAATR0lHRQUITd-D3oxCmAXMWMMBBMKEywtDXA_M11ADRdLPxg3XwNRAGJibUEfB1ckZQgfB3tZHiJ0VwMKAUIfEHUIVC1eQSQjdB44PxpGWXMCczkeX1Zdfn8TNzNyAUUSSjIqDFYRBX4EWwo9FVAUe0cyHSMESy8nHBE2EHNcODVQM0hoc00AJVpGMkA8aygtUiYYYkJuOwdqRSgAegFFFncQOy9bTVV_f3oaPy1GIhNxGBwfcUdADQkRKhBWUFJmeiooKXVlWwlfSQ9COFE4LlRlRBdBV0k9c3YDGgRFPmVaHR0XaWU0d2xebUEfeVonBmVEF1FVKSpMSCQwbmsPbA8tWn8DYFIyb25_FA5UPxsBCiEXdFMsf04aBzRgbRUmdRwdHWZ1JhxdQAsUa1oPemU4BQJGYi4aHBE2YV1RDzZUJgEfCHcEDURmAzkWFlwJRjk9IAt2OwlLZyEaA2xCNVszAGl6FBIUAWE7FR9EPBphL1NjdFMyORwRNmNaRQASYio_I3NoEAdAbT0bPEcnDgAVAzBjZBUCaxE4JXNCESRXGCkqfWE5LlNNbUEbXT0FWDkCInN4EQRXBkIQB3Q1PQgvDhliXDQBU1ojEG9DLANcCCUARU0LOG0bChB_fR8YUxFcEl5HVBcBD3o1HAUDMUE1MigETE8cWloBGREWNRUdbC8bQFdRI05_CxloQBsGVDYfZEBUMn9yWSZhXnZPJ2EvIRR7VzUIWkcyHWBDVhlQDRxhfhAgKFBtEzBRSxZlVxM8bhQUJRITGAolKhZcDUUpB2BYYgx5fxY1IWFwRxJJPFUPCG4zLQcdPxxoAV8lcRIhJQpESARTSR88ZEJALm8oCG5JXjAWWkwiHA5JS3l1KR4jB2hBOUpGCjpuahQ-CBwMbGERC2MEaAw-MmEUB3t5PD0LTjY9SloFBXFMMCF3HVRqB0UAMHdSeVZrcRojeCoDaWNzIjV_UEAbWEMGAVJnNCBSbVYPe20wF29fAHlfKE8hClc6PgxaJwF4QgFxChwOCmN0DBd1fSEEH0EIKFMkMzBYThQLSBsUPX9XIGNyJCwocGorfnBeHBU8SgEvQDoAaGYTHH9xEwETURQgYQ4sFSJ9YAcIdBoZPjgALQFEIhtkC0Y7f1RNBjdwRQQAXGkAG0BzDy9ebgsFMX8pH3MiNB1dYzMlVXcfKl5qJ2VXBlwLVGUvc2UafBcsaQYkcwIjGWtPMChwUwRiW2gVEghnNBVfSRUuZ0cAVmtxJCBvBCI2XE1JKXdOIjVkazgWdglaLlVwWzRzTXAXCn0jeHISHx8GVBx-HBE2BmZWLwAMbwA7cHImDm59DAoqfkt5cS0ZOgdNFR9PZkQXVmNGJgEaFzhwaBUVel9xP20CCngAEFNjdHQUHlhOSQVzAUUSUhgOIFtwOzYCaR5CIAACDHkLHCJ7TQsGW2EmHW12DQJeaF49QlBXAwQZLiIuCx54UzIMB0VHHjgPFilkR2svDEgQXGhlVTo_X1sZRBVeJCQSczI&expires=1787974500&token=e0a8c69278acdade8781e5fd317854d732ae230b45b3b31207f6bac6824362ae
-#EXTINF:-1 tvg-chno="98",[LaLiga] Deportivo Alavés vs Villarreal  Disney + (STRMXHD)
+https://server1.embedfootball.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AQ5CahtQHj4VKwM7XBkEL1IXJT1rag1zYi8OBgdiNCZabwQ7YlAUBEEkFWgDYi8TBRo-CjxcXRJ6A0ESeWgzI0FWGD4FbjMZdDAkKmhcFXRGcCEHIXsmAH4HMBtDRDkUbXAdFXUTOG1BaFxiSHJacBMYDiBpZSUHWnEMEn9QOwdBdCg4cVEjFgAsOSB0ZAEwRHklJWhRKA0EeU4YBHUrORwRMipkVR8XDxtaLlpqKypCGic8L2UgHU4BOWVGE0w0TWo9G2FuTh1RCQc5dRYyFlUPejEgdV94eiRGKFBDDXgASztgQEkaDVkbC2pmQxIpTFwhBSBXJXoHDCNpXlUqDXNOETVgUyQCbRkmKWtTIH9GTgIqFGQiJlIYQhMXEz4OfRoCHWZFOBheGi8cWBQtHGFTL1ZrcSwlBXglJ3tgDgoPZRkfAUk_Hk8bByt2VTYCExgKJh9gXTFGdjQFWHszNHRKGyd9SEESXR87I2RnOnNPTDwlCQoXPnEsGhZCRl1-f3AmG3J0RTYdbC8-AEQRFE5Nfhk8SRwhTRQ7YUtXOWkLYTICeVUPPHYpLCB5FTQDAGsQKzJHLXoHNUFpVkQhNHB6E3cGYh1xChwcClV3FDBccgM0K2ADfQcOMj1nViobS3EePXdAGA1hay4zeEkNd3dyGBFqfQ1yWC4fGwAYFCJsTAVkfEcGPwAcORRjYycFdRpwOTdmDQJZEUJnY1cdOG1gMSBiVkNjbCsuEnYDUQRHYm1BG2A9Mk0UOiNwGUoYWBcjHVVNEy57LQwvXEhGdHB-AFZrdVpyWBI-OGRoACpXbgQhbBERPHwTO2NGSQQBU2h8AxVwG3wPdUUefUwPaQtlQBVVYlJmfiwBHWdBVCAOGDkxF38NMQcwBDpAFxIbUgZCFHZjDxtZNgB_A2QIJVVGJAlqVjYNUSUQPwFRNw9ycBYKZmpSZnoRIwxETAhwD2MYIRVHGwdvBi47fGIedHgTQgh2RgNxChwZH0JiIH55Qys0aFIMHVIjU2N0Ug59SGklIXwUFh0JPC4qfH4gEQdwPFZrdSR_W3FTY3RCDB1fVhsGVn44LABpHm0UFCV3QnMMRD5kCRpndjwGdGcKGApUSSVScD42ShMvKnZxMANsQSIwPgEHKgYSDiJhVTsabwZCFAdNAixaMhU2dB8yIX1YBDgTfEt5dTEPGkMYLw98UTQDfBM_YVk9ADcCbVE3ZB0DAD91GRlmFhl0AGcKBkwGQhQFShYjfgQZCEhkLTV3XA8GMVYaAnJ3IyRTcD0hd3FCGkNjETJIMSseQWokHF5PL1ZrcQAYeS8PJUFgISVxTVVgdhcnFlFuHDlydRkRcU84GDoFHgl_Kz4CY1YUP013SCh2by48dDUia3lJAnFnHW1BH3ZYJk02AxVLFxV7aUAJI38BRRZ5e18YcFcSdFNSHTAzAh0-eiMAOAdTDQYKaAoEB04lbEsHHBZ_bBIQeEYlCTcKHnNlJzs7Am1JFF1KPjFWQRg1CTEgCwUDUQBiD3oxD0BLeXEyHyADSzs4DGVFF0dxI2R-Lw9iZB8rFl0bfwQ2Alx6WQYkBkYZHXxxSRo9WnQRY0IJGz8FXhsVZkYuGTZkFG4FAh85QBQxdUxQFShcfjk3Um4vOwd2VC4TGAo3FFg8MXsMTxteGBcCSFAJJ2NhHxNNES5jARAAJUBrMEJ8ASw_Xw8cJApwKhZAZQNifUgQJW00VANLRShzf2cPCz0FAiUFKB5oQhkODksWCQVnaBEiHWwvOWF0MSlnaR8aLnUcLVQkEhRTSxcgflJINltvBAMPFBcbQ2cvDg5sPCc_VhckUzcMJwt1SigKa0AjdUFHAw1oHyJJaiUieGh4IhRSXQh9MxQ8BxgfDwpOHiRRYBYnbDpaN3BXNipfQgwwL1siDGMEFBN-TjoHUE8kPUxOOQQJMTVrYEMgCgN5eEc9RjQjWAQ0BHp4FgRdagAmBEs7Nn5uVAN-SAwwXnslO3wBLAFcGDIFVU8UfVxtHQBTdDgbehA6bUVCNX5Eby9LPWAgBgQFJDh8FQ0oCwZCFGB2BQxsalw3UGc3A35yHzcgQCNuBQYbPlkUFCFqVTVmcUYwZUpnKSBTZy0wZWY9ShUHXy8EdyZ0AGctIGtCHWtjY1JmfjQrOUtMNR5GHgslaEpdJ3AOPTtBaBQ_c0EyBHt9JS5uOFtpVlUVcnMYexUIRFY7BCQEK2RWHipNFUULAlc4DGAuI2sDchAfT0M5Im5_AwFYZUUV&expires=1787981700&token=0fc7694f45edd072ed0f1fa395380a8b6d9d7086983d815581ae1ef5e8ab6b0f
+#EXTINF:-1 tvg-chno="71",[LaLiga] Deportivo Alavés vs Villarreal  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney9
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/disney9/index.m3u8?token=dac14bef4c6e1f2c785e6ea0bab44dcf2720c58b-ab-1788006657-1787952657
-#EXTINF:-1 tvg-chno="99",[LaLiga] Deportivo Alavés vs Villarreal  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="72",[LaLiga] Deportivo Alavés vs Villarreal  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=f1faa7eb26bfe76e7ee12f2a4bc7b66a458d6ef9-de-1788006657-1787952657
-#EXTINF:-1 tvg-chno="100",[LaLiga] Deportivo Alavés vs Villarreal  ESPN 4 (STRMXHD)
+#EXTINF:-1 tvg-chno="73",[LaLiga] Deportivo Alavés vs Villarreal  ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espn4/index.m3u8?token=86085bf6214282a40cafaa84375645caafb43328-33-1788006657-1787952657
-#EXTINF:-1 tvg-chno="101",[LaLiga] Deportivo Alavés vs Villarreal  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="74",[LaLiga] Deportivo Alavés vs Villarreal  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=bd8aab339b94354541722f15232f4a300c90803e-58-1788006657-1787952657
-#EXTINF:-1 tvg-chno="102",[LaLiga] Racing Santander vs Elche  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="75",[LaLiga] Racing Santander vs Elche  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/disney3/index.m3u8?token=40c3e34abec763046f715ff8495735f922cb9d0d-c2-1788006656-1787952656
-#EXTINF:-1 tvg-chno="103",[LaLiga] Racing Santander vs Elche  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="76",[LaLiga] Racing Santander vs Elche  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=31a3939409064b4a4c360ffb047abebf2a722410-e1-1788006656-1787952656
-#EXTINF:-1 tvg-chno="104",[LaLiga] Racing Santander vs Elche  ESPN 4 (STRMXHD)
+#EXTINF:-1 tvg-chno="77",[LaLiga] Racing Santander vs Elche  ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espn4/index.m3u8?token=709ac412b4f065fa2c7cd40bffb6995bca6fa35b-36-1788006656-1787952656
-#EXTINF:-1 tvg-chno="105",[LaLiga] Racing Santander vs Elche  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="78",[LaLiga] Racing Santander vs Elche  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=0ab06dcd285d51cf79b7078f53050b5d6f0ca5ef-58-1788006656-1787952656
-#EXTINF:-1 tvg-chno="403",[Premier League] Crystal Palace vs Manchester City  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="268",[Premier League] Crystal Palace vs Manchester City  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney7
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/disney7/index.m3u8?token=e41784ce04cc51ed543d0a280b1baa551bb53b19-b2-1788006660-1787952660
-#EXTINF:-1 tvg-chno="404",[Premier League] Crystal Palace vs Manchester City  HBO Max (STRMXHD)
+#EXTINF:-1 tvg-chno="269",[Premier League] Crystal Palace vs Manchester City  HBO Max (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=max1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/max1/index.m3u8?token=c7d3f58470dedbe4821ded733001a2c6e90b65e1-1e-1788006660-1787952660
-#EXTINF:-1 tvg-chno="407",[Serie A] Milan vs Venezia  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="274",[Serie A] Milan vs Venezia  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/disney5/index.m3u8?token=6d3f67d09d32d031e266bf1a484e9e201823458c-4c-1788006659-1787952659
-#EXTINF:-1 tvg-chno="408",[Serie A] Milan vs Venezia  ESPN (STRMXHD)
+#EXTINF:-1 tvg-chno="275",[Serie A] Milan vs Venezia  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espn/index.m3u8?token=1a1425a2bbd8f5e90136ff866d712a89cdbaeb8b-18-1788006659-1787952659
-#EXTINF:-1 tvg-chno="409",[Serie A] Milan vs Venezia  Universo (STRMXHD)
+#EXTINF:-1 tvg-chno="276",[Serie A] Milan vs Venezia  Universo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
