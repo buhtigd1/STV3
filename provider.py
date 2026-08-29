@@ -63,6 +63,7 @@ def main():
         or "[england premier league]" in block[0].lower()
         or "[formula 1]" in block[0].lower()
         or "[f1]" in block[0].lower()
+        or "[motogp]" in block[0].lower()    
         or "[motorsports]" in block[0].lower()
         or "[football]" in block[0].lower()
         or "[laliga]" in block[0].lower()
