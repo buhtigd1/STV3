@@ -14,8 +14,8 @@ PRIORITY = [
     "[england premier league]",
     "[formula 1]",
     "[f1]",
-    "[moto gp]",
-    "[motogp]",
+    "[moto gp]",        # new variant
+    "[motogp]",         # existing variant
     "[motorsports]",
     "[football]",
     "[laliga]",
