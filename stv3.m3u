@@ -1,100 +1,90 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="115",[Football] AJ Auxerre vs. Angers  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="78",[Football] AJ Auxerre vs. Angers  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/iozauyezaioyur82.m3u8
-#EXTINF:-1 tvg-chno="116",[Football] Atlas vs. Querétaro (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-08-29/ats-qro
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=liga-mx/2026-08-29/ats-qro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/liga-mx/2026-08-29/ats-qro/playlist.m3u8?tk=k5EEDeS9o_mh1cjcJm-XMA&e=1788085811
-#EXTINF:-1 tvg-chno="117",[Football] Brest vs. Toulouse  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="79",[Football] Brest vs. Toulouse  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dsqhjbjhsqd81.m3u8
-#EXTINF:-1 tvg-chno="118",[Football] Juventus vs. Parma  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="80",[Football] Juventus vs. Parma  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/zauygazhjd.m3u8
-#EXTINF:-1 tvg-chno="119",[Football] Lorient vs. Troyes  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="81",[Football] Lorient vs. Troyes  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sdghjvqazhvg80.m3u8
-#EXTINF:-1 tvg-chno="120",[Football] Lyon vs. Le Havre AC  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="82",[Football] Lyon vs. Le Havre AC  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="121",[Football] Pachuca vs. Guadalajara (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-08-29/pac-gdl
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=liga-mx/2026-08-29/pac-gdl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/liga-mx/2026-08-29/pac-gdl/playlist.m3u8?tk=k5EEDeS9o_mh1cjcJm-XMA&e=1788085811
-#EXTINF:-1 tvg-chno="122",[Football] Sevilla vs. Atlético Madrid  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="83",[Football] Sevilla vs. Atlético Madrid  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="123",[Football] Sevilla vs. Atlético Madrid  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="84",[Football] Sevilla vs. Atlético Madrid  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="127",[LaLiga] Sevilla vs Atlético Madrid 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="87",[LaLiga] Sevilla vs Atlético Madrid 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://dglvz29s.fubo18.com:443/dsports_eventos/mono.m3u8?token=235ef8029ffea5862ee457faf916cf751193e051-38-1788061570-1788043570
-#EXTINF:-1 tvg-chno="128",[LaLiga] Sevilla vs Atlético Madrid  DSports (STRMXHD)
+#EXTINF:-1 tvg-chno="88",[LaLiga] Sevilla vs Atlético Madrid  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/dsports/index.m3u8?token=ac1881a37cb3ca8af1e50f6164ae6e495c96c48d-87-1788089472-1788035472
-#EXTINF:-1 tvg-chno="129",[LaLiga] Sevilla vs Atlético Madrid  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="89",[LaLiga] Sevilla vs Atlético Madrid  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=2209d5fb84c9f7b4e93942674b76650052e76260-1f-1788089472-1788035472
-#EXTINF:-1 tvg-chno="130",[LaLiga] Sevilla vs Atlético Madrid  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="90",[LaLiga] Sevilla vs Atlético Madrid  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=832518fe652236d936dbf7d78797314e9c5b32fd-d3-1788089472-1788035472
-#EXTINF:-1 tvg-chno="131",[LaLiga] Sevilla vs Atlético Madrid  Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="91",[LaLiga] Sevilla vs Atlético Madrid  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://b2ZmaWNpYWw.fubo18.com:443/dsports/mono.m3u8?token=891fa77cdb19d7a985875e6f9fa559668669cd16-81-1788061570-1788043570
-#EXTINF:-1 tvg-chno="132",[LaLiga] Sevilla vs Atlético Madrid  Español 2 (PLIBRE)
+#EXTINF:-1 tvg-chno="92",[LaLiga] Sevilla vs Atlético Madrid  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://dglvz29s.fubo18.com:443/vtvplus/mono.m3u8?token=24d3f0f63dc7b68db84b267da2e2b48c7f6af966-8e-1788061570-1788043570
-#EXTINF:-1 tvg-chno="133",[LaLiga] Sevilla vs Atlético Madrid  Español 3 (PLIBRE)
+#EXTINF:-1 tvg-chno="93",[LaLiga] Sevilla vs Atlético Madrid  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://w5pdgvk.fubo18.com:443/espndeportes/mono.m3u8?token=905425509afad479ed720061fcde7c0f5825e229-86-1788061570-1788043570
-#EXTINF:-1 tvg-chno="134",[LaLiga] Sevilla vs Atlético Madrid  Inglés 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="94",[LaLiga] Sevilla vs Atlético Madrid  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://w5pdgvk.fubo18.com:443/espnplus3/mono.m3u8?token=fb24d15e133ea6d806a0d51ec7e57854a6ed4500-84-1788061570-1788043570
-#EXTINF:-1 tvg-chno="413",[Serie A] Juventus vs Parma  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="345",[Serie A] Juventus vs Parma  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney21
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/disney21/index.m3u8?token=e8e5a13ebfb71d5b0bb2d8f8cc7cc411c7732853-8a-1788089473-1788035473
-#EXTINF:-1 tvg-chno="414",[Serie A] Juventus vs Parma  ESPN (STRMXHD)
+#EXTINF:-1 tvg-chno="346",[Serie A] Juventus vs Parma  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espn/index.m3u8?token=bd096c4526f39c1cdd2b1244d568cf2314260138-27-1788089473-1788035473
-#EXTINF:-1 tvg-chno="415",[Serie A] Juventus vs Parma  Telemundo (STRMXHD)
+#EXTINF:-1 tvg-chno="347",[Serie A] Juventus vs Parma  Telemundo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=telemundo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=telemundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
