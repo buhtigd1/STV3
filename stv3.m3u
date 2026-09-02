@@ -1,10 +1,10 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="93",[Football] HEBC Hamburg vs. Borussia Dortmund  German (STRMCNTR)
+#EXTINF:-1 tvg-chno="51",[Football] HEBC Hamburg vs. Borussia Dortmund  German (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="94",[Football] Torino vs. Monza  Italian (STRMCNTR)
+#EXTINF:-1 tvg-chno="52",[Football] Torino vs. Monza  Italian (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
