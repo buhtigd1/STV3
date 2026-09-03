@@ -1,100 +1,130 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="62",[Football] Cagliari vs. Hellas Verona  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
+#EXTINF:-1 tvg-chno="72",[Football] Anderlecht vs. KV Kortrijk (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=belgian-pro-league/2026-09-03/and-kvk
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=belgian-pro-league/2026-09-03/and-kvk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="63",[Football] Mjällby AIF vs. Djurgården (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=allsvenskan/2026-09-03/mja-dju
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=allsvenskan/2026-09-03/mja-dju
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-03/mja-dju/playlist.m3u8?tk=QQMzJD0oM8eMrF4JdYyETQ&e=1788498046
-#EXTINF:-1 tvg-chno="64",[Football] Mjällby AIF vs. Djurgården (EMBEDSPRT)
+https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-03/and-kvk/playlist.m3u8?tk=u_oQlybbWCn7jEN6QpDnfg&e=1788501648
+#EXTINF:-1 tvg-chno="73",[Football] Anderlecht vs. KV Kortrijk (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSkfNUAYLlkzHTBcDkp8CxVdYg0JR2cXMwc7HEIJMwlNIRdkVA98WQQSPXV5HgEcETIkf0pEMlJmGhZeEVcNAGMLFh4CNA5NLxoFXVUJAmhEQmJQFhQEcSkYPHdjMRJVXnEQb14PLXVxFANGFBkAflFIE24XEzxUKCobQ1w6MXETDytoXAR5X3AvZApQAXReZVVgcmgEEx1sL2N2ShIiV30EQxxiIAREMwUjZnEdI05QCShuTScQQBEnLgADUQRdXy5GIUYcEwAEU2NwZkoBenY-HGNpAg10GVobaF8tNldrAwQWf1gDXAssFUMYSidNZjwVW0cTGnQbXABrVyIeQmAkO2p7Jxt2djcLWVIIJVJ0AAFmfiIWSCwqNkl-FD9vHik3EBZcCQMpI2RmYDwdHBE2CFdALmAIOjx_A2RbAGVmDxg1dT0bDygRYAdzCiYcETYAXlRGDUA6XDYDRy0FTEZ-FgF8Ii9xLiMjcBU_JUBAVWB2fA0zTzldfwNkIHR-ei08IAtfKXkXD2dBBEoKeEQzAlJGEDJBaVhpawNRAFNtLx8MQF98ARU8HHdtHD4BVwkLdUMlAx1sKzJBTQVjBGgEQi5cLwp2GhsCZ0wiHFJlAzVDRUUGXywlLERUKDdkZDlHNgskBmcuAnQAY11-e2giBnFrRBNQKjwpYmwrI35FETIWdDgteHNTY3RvD3RvQQMARXUiLE4XXzVHQBlzD2shQQ52S3l1JyFndWIoDnBWRj9jZjI3AT0lIFxkCjREEntCKAIkImQpLCd_ZQIrQ2w_ag1mEzFXKh41SANRAAUcCwBpSh4ZfBRGaHNUNzp8SSYrbEBBFx1sKyNhHiAxAEwGIS5ZOXtCchdgdxYbLWl7ESJZaC4nUQQ3H3QDUQRBcBA5L1kaKQB5FRlAVU4LSXYSPnIBRRYAKgsjW1QUdnBuLAY_BhkZBnYvMHFILi9-RjglfGo_YlUVNTB9bFQ0ZhN7AioBKzwOZUQTZHAtek9IGWZ6ZzYaCQopNF4VKABlciQjGEE8PHx0LGN9Qg0AVUBAK2Z9Iy5rKz0JVGUICn4bfwIyAD0dTiJPGmhTXX57QEAUAlI8Inw_LiNYbUZ0cHs9QBVABShfciMbYhdNJQ5TVWB2ECcSWQsIFUNeLydXGSYhNWk0Lm9wPjJ8GTYPcwZCFHkBRRZLBjUXUEMnNUxNCToMXiE-ZQwGJGpAChlLTiNqYhY5I3NuCDF_ajATBngmRCBqNDJaZUQTY25MfUtJNyJfVRxjUzYaMVJzNAhTXxBHamI5eUF1ICtASz00aVY0ZEBUJhlACgIzXkcwK1F6DBwKBTQ9AyEDOllMTX9edRZkTVY0YGg1F2JjaQFjBGgnAQ55WgNxGTlnUXFBaQtlQTxjFQ4-dm41b3xKBRRDZSNKMXIrBRJyMD11dyxpC2U4NkJPBTsdbC8MfXEmC3tzGB0Dch8xAhobE3tiLnRPFUMZeHI_PlcNPmlnXBI3R0crJhprJQoCA0RnA3RAG1RSGhRzfB4wXzs6G2deDwx1S3kGbwc8GWYtEjJiGRF8b0UGdwZmJhVNCQgDX2QKIQVcfj02RVp9QnA-BkYWSRRycwdqRkwaPkEVBX8DYBd0VFN8Py1yBS1PLgEgaHA0OBwRMhdmfhgccW0hE3tfBCVEHhsRKXgrEnk2GR5VFg0jUWYnBUBMGjd5PCk9YEA7LlQaOjoyAwgYAhQ8FnhLEgV3UgkFcmUVLUgSLg1YaRJxfXx9RjdDBAl1CycYa0A5Nk57GWVNbS8VHWwvMUZRGyV-D3oxPVciHk4kAwJCYBs4bwZCEHBWAWNbBlxqXEIGfwZbLgFuFlwJUhAnC1VRQX5AUB8fWxY-cQoYFwtcfg8DTg96NQlQVyhAFw8zdRMVNVwbHz92YCQBUSoKC2RUGS5PHX8bMAUdIVstDxReTjoLVmkWOhEWMQ1sGy5jYmQFA1xNKRgzZQAPUzomHgpMQTh8ERQhBXExP140P2sBRDcRdVx4FGEEKztQBjc4eXY9f05NRCtlawFkcioDPVdtASJjWnAXYHU9OXYNNWl0cAp5CRM6a0ZHThJdKh4XY0k5K0RAGBchagJ8eAkwJ3ZuXX5_bT4xbHwTZg03DA1jdwRzf0ILPRxiWxEScjBnYE0LHlJkNjQDYw4gdDYOYhQUISJ8UwsEaFg8PkFyEghDEiwUTUAjBX0UGTZUDgcTCFIHAkNtKgYeYF15ZyMfKV9UARRWEkY5AWcELnM_PH8CYkZ1cg&expires=1788465900&token=6d52228d73c28607ef12ae45df7654ebc966e6953a677d62b7c077bf8e158de8
-#EXTINF:-1 tvg-chno="65",[Football] Palermo vs. Mantova (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=coppa-italia/2026-09-03/pal-mun
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=coppa-italia/2026-09-03/pal-mun
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSoWNVQHKlltBiNdDBQpWEQFNxsWR2YOc11jHBZQaVdELF4yRQV0UCkSbFVATyJ9RxwVbEI6cQocGxFfFQUsDl0EHG4HJX1-AxMWA3s9NlZPJD1AVTkFX2xdPgNFMw9BXy41HGE6KEN5FWdfQB4OCEEiJgFFOxNKZiwAAkILKkBtCQEjahkMDgcuYF1LSiQJekVqRV1PM357Xxx9VSRjBGhxNDVCCipgDEYUY283P0pQAgZkQRgjSycXAFh2Jz55YDxCfAEsIEImQylHUyB7fQZCEHMWOhdtECMNfFM6CnEdCSogfR4qdgsBHn4XMCdyeTQjDRYcIH0SKjVSQi0KcxsSKShyNj99LD5iemgoDQ9iKjlHVB4_by4-CGtzITZEbSQLAUQXEgMhMhgXEzp4UHZFBnVgJnEKGDc5VX9XdlJ7bUEbCygYewcdPXRyKHRRREFnZlYdcQoYPzBBFzo-UhskQTh9LTFbdhMJfW0cCld2AhAAYx4tW3tfGGlcBDFRGm1BG3BcA2clOSgKEBoCblpGIREWMRVfHT08U0EFPwEfeyl8ASgucCcaBEEQT3psaT0XeEAFbEwnNBtWdDRjBGwgAzJVS3l1DEcmXWA5DWNOIwdZfic_fi0KLVAUMSFEYj4GK3gfGXkxQj4KazUcV1dVYHYBRRZzDDkffhUkLkJ7OyATewsDWBk3HnV3HgMKBkIUelNPAlotPytgcxswfxgnBT9JW3J2KUQGdwRKDl50RhV3dDUdTWgADXNjAH9VYjIeG1ocOQ9zRyADaxEfUHkGH3BeEC53EVVjc0IGKUJZJwp8ASh4AQMFYUtRKgdtE0kTQWsBEVIIFAJVECBjBGwxI2FwGX1RDiQmWHZIOQtCQRcDRxYEYD8dN31_EC9scA02fAEsPG0YPCdYVRp7AEA4IEASMCRtPAEcFBQhfkJMMRkrRF4NcyQDNwdWKn0PehERXXIUE10WGhJ_blUrfXIiPxMEHBsOcwciAGQPdRwRMgRlcUEiUzdZFHJnLXdibiYcangoGG8sJhBAcw8HDXlCHVdROzhbbhQIaHIZFUN6GxYaWCIDBncHOgFyLjVbGjsIRgFFFltuK2xHbRUCV2kxGhIWXA1mNUUdQUobJAt2OgICER5jSHtfGAV2JSdjTwcBIX8PKgQuJD1oex0UCWsTHAxqNB4dbCsXFBQhNW5yBRI8dx0xUAE_BF9uDR51UwUKVVYiJlUNVQwDaBQNBk8jPRVgO3tlLkEoa3sBIRwRMgN7EEYmUhkdMUBNVC1eXSMQDGQgLkIYQmJjdko6DHUKIF5hDwRNGlsuQXcuPmJFIRw4YAMsZwQZAgR7DnhYVhs5WRFEM244WyNDZVcWXVBwIRZRS3l1LwQGeBUwCmBsRjFkHVJmfm8DDQBfCQgGcn0-NVU8PngrTzlzZDZpC2UcFWJwUmZ-FgksWlQMYwRoHj8OdiMGbhAYC3NQAnljTjIbd3JPIg5tJhZnbgkpZXl7JSNCHzpaIyMSamo5eXoRRmNhHCA5STQrHWlPByFTfQklIV8kCFZxA2cGcyodVEcTAgxNRwJeKEhoc3ciM2FPER0bWgl4QXY4PkQVTjkJaycmAxUvH2gpVShZSwk_fUJtQR9HXClOdDolc0oeNFdUAQhlaANxChwoCGtJKw8FZgE5IFQNOQMTFCF5ZCECT0w_NQNRGDx9CTouWUsAB1RuLyI_awYpBzI_OgJHK3ltaTcYXk4-GkknOhxwRBo2emkfGhZCWQBhdUM_Qks6DnJyOQtVZQ0jYDdaI3h-ImMEaCMELksNAxJyNDVWbS01XVYjInVHAwIdbC8eQ1BUJW4beB49Vld7RiYEZhcTOilpcio1RB1FLUsxIDUDb0Z0cFAZHgFfKzMScjABURgbO25aEhUGSQ4xADEAGHV1Ni9CTRkmK0kGMgB3HjgEUhIgVFo1PltmMDtyOAV_A2A6EnNpcSAbVSshUCEdO2RPPChDcz9qWR0DEQo6HmtkYAggXHh5QztnOQhBcBFpBWQIK39iGRljYUQjVmoUC35QUwxCRC8VElEKHkd4Emh0cgoNdGBIFGVWQmQIFFQoUh8lI0JZBSE2aQM5XRASKWtNTwNwZQYWewFFEnYQDgJpQlFzX0sfIQhUWwJfAzgUYxQiaQtlRgBYVyU_fxgLbXZfFwpeSXBWa3EKAU4DAWBZcw06C0cpIwdwLyBbDToTAUgBKmZAAUotVyo-cCIDFmESShxaSgg_QV0vOwloBm9yVRkNV3ttQB0WXQ8&expires=1788469500&token=2c86bc618602555e2c987dac819ae7f63f206196a8533ce5f4b20015d221218c
+#EXTINF:-1 tvg-chno="74",[Football] Cagliari vs. Hellas Verona (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=coppa-italia/2026-09-03/cag-ver
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=coppa-italia/2026-09-03/cag-ver
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/coppa-italia/2026-09-03/pal-mun/playlist.m3u8?tk=Iw8TRLdnhJpS4flfdPg1mA&e=1788494447
-#EXTINF:-1 tvg-chno="66",[Football] Palermo vs. Mantova  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/coppa-italia/2026-09-03/cag-ver/playlist.m3u8?tk=LGgcOOd1A7kOLmXuByqULw&e=1788503448
+#EXTINF:-1 tvg-chno="75",[Football] Cagliari vs. Hellas Verona (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSscKUMPZl40Fz1bQFd-CRFGfwQdWmQLcQ47VgsVI0QVLxo9Dj0qBSU7C35pLiZ9Zj46RmITNUEvGw8UFCE_V00bNCtDGTNdDhgzWGYQOm1gQCBuYzgHch8VElBCVwJOUgwfbURfL1QVBxIXEzo0UksTF2xgHTJTKRQuXkMsdHBnHjgaVxwZBxYnC3BjTDsAYEcIbmsAZXwmVShAHlIScVk7ETN7NwMEMxQ3QW0uaQtlNGRQXC8jCW1eDnhOFXVFZgAaFldbP0cIHGhadTJ1fm8KHgUcQxNKbwMxQm1UNE9ZLycSa19-AAcUZgdUHzRzUiRrUFY2AHcTSGhzETIyAUQKChFcWi1-CDM7flkgGg5zBit3YgIGSzYICgkQJCllR3oQIwdLeXUURSYAZ11-e0QxPUFGHj5fHAIUY0FXEUBzJz01ci0SAwYuaENDXX5_FhQfUUg2EFokLCN_ExAtcxp-Nw9nFA1kdiA4aFE6DQAXEiNiTkJmYTcvN1JtN35DHD5AKWcGGVEsR2hcSAt9emohBX9nIm0dbC8UeB8bYwRoPD8-fiJ4YQQAPAFsTiQOBkIUbFYmGXInWz5achQDYUwjMi1KJj8BOi4Hd0wzIVhyITlObzI5bSwcMABPLTFgcHBCfAEsBUZ2TjwLWB8-S2cHAU5sNmQJBC8NUEpUFFBpEQE-QAN7ZQQEE152CBRSSRcZVRRDMG5sLwlTHwYFcE4ZKjgWXAkPEwEfSEwUG3RMSCtmTA5nYTZaa0NoLxBSWTAhHEJaGWYoRR5BYksiUEY8NlJdJwxpOzwuBXYBKlpYPgIjSz4ZBToHZmhrXX5_Vgk2clYCbFcSOAwFVC8EB04BKzN5JxhHc08_flA_HGkTJxVFbjEEcTM5OXgTUQBSbD4pE1UkM0E6ETcDQBkef2ggAA1pEGcKOR4teBYQFHseCxd8ASgBVBAMIAVoP30IYEd3BmIyNk4zKjd1dxkRWFkkRhp6BQQDcxh0AGMvPVMQMzFTTgVnUC4JY31BIDJMfXAYCkIkMlw5EmNAVl1-f3IEIXBFPxdRJgAcBVEREk4bcD8pBEt5dQUPNGIUFhwNaiFiERYxYG0ZATNgTzQNUxsCAxV_OwdHdzowelcKAA9PB2AAVxshYB0ZCFJxOxcEc3oAMH9WDGR4TyhWby0nXVtHJm4WLScMF0hod3QpCVNieEIWX1YBcRAsdABjQSV4bFVgdk8zEUwVXA97QjJ-cRIfJxFlNg1bdC8HBFNdfntBEmRHTi9sfD8PakhNKQFkUG1BHwIUMxJyNBhBdj4tDkweNgNoIRFiGEhoc04aHwRFOjITXgYBAxA8PgtALjtrGxwxZ1IuLkgRL29CayQ_B2YqKS1VCioPCDUDVBA7eE5aEgJGVhQBfjNdDmF3ISh9aSVWa3UcB3wBGjh6VE9pC2UeJlgRAzBCNl0bfEMxEl9ZPSBoBAQFBw5TY3R7Sg9VGggKV3QlDEkuHD54U1oPfUQcOBJJCQp6DhokdBEMCn5AABtccQYWSxFdMGF_MSgHeAU0H3UGDGJ4FyFaUSgLUmsRNEFlFD9_Czs-VEQCCwQYARAPVho_XmVEF0d1TwJMGyAiTVMAM0IdATFYcTklcUsRKw1DABJ2MhcjBlIKf10VGTdfUkUwYQlZO3lUMR9zHXpFCwYeLm0oQAJ2TTx_XEYREU52QzIOagEeXFJUAF1zIxIPCz0hAgsYAEd1M3VUVzEQfmMZEFkdWR8BTylyVEIMKy1HWSJ0GhUCU3kaOwEQRyF5fiYxaBcbGVVKJzBTcwA0CGMnbgUCIgB2UzkiUUpIInVAIA4NKD4UUEoWLVNTbUEbeVwuehggNktRKB0ITignf2shLVIzKA1_TRYtBGYuBikWXA1yMUc6fXcye1dOFTV-aEURcB1aPglwMjVTQyAkKQJfDgJ5PmhbeAsJW1IYHnF2MzFpChwTXgNRAFVLADIxRxp6DzoiKQIXIiVWezc4UUU9BmovXy1fQwgkeEQpPgN3KwN-AiAZa3cueHF2JRVfaRofcj8PamdjOQd-cC0KGwIEIn5lRBd0ZzMEaWIzGHtSRy1AJwouYXwJKEVHKwUKYAIaYxkOCFMRPRxNczExUmggJQhsCytIcBkDTFp5PzB5LSZ5FyIdRFYiHl1HByIAQT5hHWwrC0JKCA9ZUxEBPF9fAH4lEhpgVRYNamIfBAd-DWdKOwMYQlcSMnkbJSJ8ACpuBAQ&expires=1788476700&token=025ef62e67d1a6c62bf1ac7cb1efd334c09c816535e330465f6eb53c435160f9
+#EXTINF:-1 tvg-chno="76",[Football] Cagliari vs. Hellas Verona  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="67",[Football] Real Sociedad vs. Celta Vigo  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="77",[Football] KAA Gent vs. OH Leuven (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=belgian-pro-league/2026-09-03/gent-ohl
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=belgian-pro-league/2026-09-03/gent-ohl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/belgian-pro-league/2026-09-03/gent-ohl/playlist.m3u8?tk=sIl5PCorjzkkMG2zE3fuxw&e=1788501649
+#EXTINF:-1 tvg-chno="78",[Football] KAA Gent vs. OH Leuven (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSoWNVQHKlltBiNdDBQpWEQFNxsWR2YOc11jHBZQaVFPJgd0XAYnCCcfNQ9GGXtXZxQ-c3wRGR1sLyx6SFAgXBI_PzYEWgABCTU0dRAiCUNMHAZbUAYaaTlfalUUABZ_XT0VH3Y8H1Q0TzIETBkqexISAEARFhh_LFUbaxUHLlpcDzIrSTc8cHkxCQNOEn5REylnDFUObF8YSGh3ahABExgKSh5fHy9WFzphd3A2A0pQAyBgdBI7Ty0UIGtPMwJOZQIHaBZcCVw1EGRKVAoUDmdVYHZjRRl7CyMUZmsWH3ptfzIASiA7VgE9Jn1tTgRSaCoWRR1FP0wbIR1eRQcIem95KQNCLxNDChoZAWkxHHgVMQhfVwc9UwkdCWN8NgRGWA8fIWsZMm50FxV7BEoODUolZ2BlMwUdbCsAUkI6cgZOGVZrcVYNZAwxOl5nKxwBSxdjAXYFPh1sKwhbVlIfTk55H2tSIAhNLEA0am40KH9NJSB2EDA9QT1IaHN-GSFBTXhWa3EteX8QEx5LGUkud3QJZEcBRRJ5OS4KV0QEIE8dfUADFlwNUgcRPWdSSXsPdjofcWgTJgAqFANwQTERExgOGylYCG4FAjpgRU45DXh5HQFhSS0EUxgePUZHURRRWAAFLEElOmUOB2VdGTIBaU0EdwZmUmZ6FT8OdGlQAV5eGQAKeSYufy8vEH1mLip2EFVgcmoAbG48HghAdzY-QGN6HC9VFH4OAR9jZWRdfntEJ2RzZycWcStbN2ZkJiUPSQAJNHEHOUV4RWBDEDIlakoqJHlgDTNCESJiCGQHI1leOxwgFlwNBHY1IgJYCB5yd0BrdVE4In00OyNpQlUFExgOCgkLLTwBJjgDRUsvfEwREWNxExQ1aAYMKlxqOjVfcBI2HBZcCUAaLhtESwwuDhoTGkZQQRNICw82dwNRBA5eLgozQRl7cQQSJFQUDx4IFSkzd00hN387JS15aCtwW2EQGRV5WTlneUUgQRM9OwAGQhBidSJiTjUEbn9lIggHfgwdNgAlDWQYGgFzUyo7chcqYHtHAhhUPV0jY383PGVfGCA8cAUHf3FBIFkSKxpAQUkZblZSZno9XRwHUCgwcksLCjB4S3lxEQNiflITL1ERJRhkEkI9Dy5IaHMSMwBXfy08K0siKlZzGANeeyIpYRM4MXocORdye18cfANRBEVyED44Vio4TSc3GGdMNzlrbwAnbEUFAUozPmJnFC0xfRotGBd_PR4HEhhmS3giNVQGQhBla0NlSjQqKlpXCHFdQj8YOmY5BVI1LmUBcC9-TxYmKEZOMixoKylsRVYyC05-Jxo2Uj0mUBAyPmEXIjoNQgU5X0lCZ18IC2xIVCByZkEySwt8DG4FAhkjZWtMBH96P2RXdE5xChhcNGYXGix4GhBGFF8IGUIPHWhaYD0CHBE2PnNyI3EKGCU-R00RKRMYCiUVZCsGehkmP2hgCTYMeR0QfWchbE5oXhF9cCssWXkbQA9JHzpGLRUEcXkzDQxgQmQFcU8DVS8HHHZ-CiJRTx8yD0sCAXQhRyQEFSoeaE4UMWQcHmRuOBt_A2QyB0N9LSo3cQcsBDZAH11XTHpMEzgFQBNGDHMOGmJDTg4sT2EgVmt1GnlVOUIdRmATKkFNByNudTsgHWwvH2N8DA5_GQQ6E0oJKEV0JTNCaj0Vd1UfHVMTAjtQGzoNRU4OJXdIDBQIVTYjVXAEGFkRHh8MdzoVfk4dHXYvFA13ZwE_RmYLJDB8H3x8FkNkXFESDntoIRttRTYuTwYEbUhvOwcTGAoYLkQWKH9lRBNWRTQZQEcFAURlFCBue18YdVQVcVVyeUM0VwtyBzEQIwUESg5ccyEIU1ROZkEtAhdeFCpjBGwyIjRrAg5PZUQXYkJBL050CTBzFhotXWYCN3NiMBNfXi8iDEEUI053QTlbFwsmVU4JF1hLNRNXFAsyFBQlH2JvC0oKcQgOXScXOlh3FghdWSAdDElOIH1sCSkAcyUtUEAaQmlROhx0NkY2ChY9PF5lMTt_czJnTzBZI2BpFXZ8XiYUP3gML2IwTjULZys-eG4zanJ1BWEIbidjQ0VaAFNeOz4LXDQmRSomNUp4FHt2ajYkcGtSZn4QIzlpfgd0A0MpJAtiCX5-KDUfd3BNFhwRNmRmSAQGUxkrPAZhGjJ6QitLfAEsL305NSYDSio5TxEUC0UXIwxMPT4NeBYNJFp6IjpgRwoPQgcUJHVyS35pQBkqWVEODFdvWzEEZRA8fUsZVmp3S3hz&expires=1788469500&token=57ce1d02ed0b1d2fca9326dcacf5c7fd872885285c27b8ad4a4107c8e60ba9ca
+#EXTINF:-1 tvg-chno="79",[Football] Palermo vs. Mantova  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-origin=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://edgestream2.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="80",[Football] Real Sociedad vs. Celta Vigo (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQSNVoJKhhyRmMEDEh1FBNDfUZXGHlbOwFlVk8He1FLfx0dVwIMbyY7dABjDgdXEBY4DFM7Ow9qJmx4ZQYBB3ANCTZfOiRDMTgAVRNIKAtAIBtDURESfQw5OUUfAHBbSy4xaFE8PwIhOhZAGTkWCkcYPkJjNiZCBxodCGE7d1lAehtpaltzRjlONnQESgp1UDd3BmZOE1QvCTtmalMDZ2QHACpAHB9nJRkmQVgCFlBzNCp7bgNlHWwvMURAVj5DWBBEHRZcCXByOxJnbzYbdFYpHnMTNg1BEB07cG0UCXocABgSaSo6DnIdJXdtPyNaRz4ecRUtDkkfNS57Sit1fmMYMm9yNCBEMB86ZVErHmN2MiJGYxssYCkUAwVHJw8TGApHMGZbH3YEJ3QAZyIvXXpEYlB1UmZ6ZisJfWEIKnB5GEsxVF9-ZTIcdABnKiZJEikqUBUbZlkQLiBdEAYeeWYsNTdmHAkDBx8oUQRKDmFZFyVTFFJmeh1fEmFDLD8OGyo9DkpYOBJyMBBVYigqW0QWKwMRRA4dbCs_dkEPE0Ubf0UMeSMOeyQEaUZYIQ1ecSd3BmIfJFM4SGhzalIxWWsJMgNePR5aGiY6dFIfO1gRIjVGbAEhShUcCH9XVykOYAUjN0dLeXVlRBN5cywJdhA3OkB1BAdyFggSXn8iCXF8LjxqFlwNeTdOB1BSKj1odggkfRYYIl4kWGNwT1ERcw96MT5kWAx0EDQYRxcVG3tmE2tXbA05ejcfKAkVUjcHYCEgMGkYBnM6ESt9bkB1e0cVPUBXGC0dbCtpB2UQdk9aGjgNA1cKQg8AFFh3ARRdFTN3BmIOBAAdGmxXaDExXH14BmtSXw4AIxcBakAIIXV6AztufjIRHWwvLWt-KTBcXipEYFAmOUN2MSFnQxQKHBEyakBCDj5KKV0cdUIWIANdGkJvag8IXhYVFldpDwR3a0Y_f3wdGHJpHwoIFRI1BG8_SnwBLB1mFUAnWUhMAnpiPmNgYBk7CxUrCWlKMwdEeD84bWlcBFQ1Oj1REQEeYHcKAUF0JDF7NSESABESLQV5Hgo7CiURRWVEE1ERPnpPaAYWVWcOPXN7XxxgU1AKRUErG2tmJBsBdR9mQgRKDg1zNjNhQTgmQBIMOwJIMSpscC0raXsNBQ8ONRsXEz4BHBEyIWx8OjVdGh4gVmcqE1tlPSEVQxsTVjIjI19yQBoLbQcZBEEcGnQNOGpjSFQ_b3AxHnwBLBp4dEcjWGYIJ0hIRzlcUxw3bQkjP0R-V3VnfXoFbGUUOV0FDgFHZU44SXI9KmBLHjtZDQA9YWIMFQBwPkc4RgUgWnVFNmRHTjVLYEQCX15PBnc8SGhzSRERfB4ANQB8WChneVNjdBAWGwhaGhwEfEIZVDg_L35NWi53bwZWa3UCDGEUU2N0aRw6UlEfdwZmIRhvGyAXaHYNHHdbMkYDXiwCdBZOJwQSMwBvaxo9Z3dEAkIvHCtcRTYFbmEJRhoBWHpieCE8Q0s-C2FKFDVRczYCQDInGVAXFnACeBoiNFcNGw8pRgdUV11-e3IxJ2NBLjp6NwppRxAtKUAefgZpezk_AHEuGmJWQD5RThorf0xSZn4qXzhIEi8yd0EuCzdEHxFmDAJ0AGM9HmNMOBsHaD4eQTkOKAV1ATZ9bxE9L1whLAA1GTl3di84UU4TE1ZgEAVeBgU4AVQqLQZMG0YNeSkBXSo_H0NYLwp4QQkieGcgPXcvWhFnE1YoRkAKMRJiJxJWAQwmakhPNXB7MXcGZhwjTyYOEhQUISJSZh0KPUY9O3YjAgcXEzoIS1VHMWwVRzlcO1RqQEARcRMYChYJYjQsR3lEKEFONSMLalVgcl4mOWAyKCIUFCUWVRMrBA5KDAwFLQ80Ck4VDn1wJTtAQyYBSiQFIwYRCy8AWSIfNEorJ1gCMT54RxBpC2UpBnFnTgd6OCgwVkcILGBEDBcjYyFzWnkCFABFC31sZRs0XnZGZFoKOhlHFgR-AW84FB9yBwBgBUUmXBUBHXZVQBhAShAyczwJD0EeB39weToyFHBWDWYyQ2ECa0E-Who2N0BXOgZXBAAoW3YHPm9GfzwQdRgPeGVEF3xvGxRhR0JnXUUgBmk5WBNZZS0DZx8SVmt1WBlbMyQ6dWcee35aBB5cR09xChwJEEhlFHddeD0Fa1c3OgQULiVRci8FCU0SPmROPm1MOikvdkQWAWUZeiM6WhYmQjkuPgMXE3l6UAoZVXVSZ3x7Xh4&expires=1788471300&token=e71528c72a70a5c413859efd7fec444ed7ed0330fa4df64ce31cff656f2a5958
+#EXTINF:-1 tvg-chno="81",[Football] Real Sociedad vs. Celta Vigo  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="68",[Football] Toulouse vs. Lille  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="82",[Football] Toulouse vs. Lille (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPkYLehhyRmMEDEh1FBNDfUBLAnlUNwE2DkEKIgtNKUQ3dwoncBgQHBcTOjpyTUM0XhwAGFdpWREHbyAjcRsSNiNcAh9YNAcfY0ZKfF0REwJ9UwIyfhs_DlJSWiUARykVGwIMGUN1Fx11U0ANYxAUOlhSMBVKJDQtdh8kHgdFIkExAzd-DzEPaVVnXX5_bwMVERY1bX8yHD5QcS92c3sGPCpAHTljEBM-RVIBNmNKIBZMaz0gCXtfGFpTBXNOXzorbndLeXUHRBxxdDYCbm4FC3hjQBVhJyMqUGcoMXlmfjsyeDQPRnlEOkZkNAtWQBQceGFGDmIvLAJFbA8OBWIBIxgFLxFcMwY4WXYIH2t5JRBEVjA4QAYaI2gSAgJ_D3oxbVo7fmMBMgAXEz4WWkcpZgRAJnEKHFUcYmokLVpsGyNhWwl6AhIEOxcTPh5TU0ELTEBGOAo_IxlLSlUjbmUEFx9dOzl1dDE4S0Jdfnt7CjVDQ0dxChwuaHl2BglPEnkRF2QXfURlRBdzRjscX0EXNE0TQmdie18cVGEEKmNZeURvZiQGcgwSIwpVARV4RCIFERYxPEg1C38DZC93QUUJMhhpAxhiLSwBWWcLK05CQgBTVj8iTSwmK2NoEnJZEgI-CV0abgUCU2NwaioYfGxDFVxQJidrFCU_eUk6B3ltHhUWAEt5cQ4BaWRDCx5IciUqQm1FO044F28IZwp0YW9tQRtUOX1wAyYTe1ROIW5hNTENRz8uVRwEKEMeUHdHGwIaClo0PXoEDDZIbjd0AGEUN1tQBDtBe18cAhAgNQZTOCESZ15ydjU5J3dLLjVhR0YRERYxLWhmLi0HQC0UQUAfQywBD3pydxUwYnkZPFRvKSFdfi0RfXtfGEZ8OwxAQDwRbgoNA0U0QBZCdBogfwZCEAxQES1SLBpqd2IHM1AfPyFoBTcqdCkgMnVEMDtxbThkWW8vPnQUWihhH1A3RRgNBGAWXAlhESNnREoReHdgMRwFcDM6V20mHGJ-DxZ3WBoEEgc0eXgjAx1eQkg1a3okKGdRJwddHQYWeRdUN10ZGyUgUVcAbTJTY3BCSAoPVTskcEU0LVEVSGh3dxZ1elkjEDEBOwFndkM4BVFdfnsXIBRVcRIbSiYhO1AVDRRacBIWAQMmKHl4OBJ4BEoKdAZCEEd8LxlZOykpS0EiD2NHBwYLfx4-byEEBEBMK3RvET4lfxQSP3YSPg8BdA1xT3MSCjQWXAlmD0JgQEs_PFJSG2VfTAA_Wws6FFRTO3IFex9BLwY4MUUqMyliVDx6TVMhH0xwGD1XPz43VnYnKWUcEgVtUhsgXC1DYlV3HnpAUTNmZE8NbGoRD38DZAw0YWB8Ox9qIX1UEE90AGdJIm4SCTh6FC9hdTILCERpCH9eaw09fAEoJ3AWInQAZzAoT0gCPREWNQJ0CSgXfH8zKGxrOQlsaQMJfgMgaUQXSwd1dTg4W3ckZ24kHCtASwATdXIDMmxwXH0GFU4GX1ASCn57GTZTQSAVbiYBEHJHUjMAHhohCF4KKGd4H2FkRw5pC2EhE0FzEg1WHAQ9AlBVCFlcfEUsAyYcQ3dHCXlxD3RLSx04TW8fcQoYGWhTX1cKQmsjFSFdGTptETolFxM6CWt5Hxp9FzsdcicKOUMSMCRGYQ0qF0UBBFB3Az5aZC8bTUsdMXVGMzNpODUyUxYRD10aLiBsZyQMfSocGHxQARt_YhIrRGg0A1ERHG16cFZzWFoiMRt4PwJuITcrRXkRe0BqKBMRFjU_TykVOXkDUQRSTgQmIFcbGEcBFSVkBEoOfVEGZVd8RmRVOghjAVcFNAEPejE8Yz8RUDBPY0tSFwFWETl3BmINBVUGAR9JA1EAZklxEC5kFylwchsoVxkXIXtnIwddUBAFbSwXMkgRVC5fHDsZNV4XDlsvNBZdax4kHBE2C2BhNG1rHAsfW0ECLVx8Jjc9ST4EDy1PJXcTHD8IdjY5Uk4lZQg8OQ1yUFMhDh0NAz51LyJ8FzNiRU9MNWhsBmJ-UBkzXhUPPmRWWyIPbBsBGH4tc3ERBGQCETJ1S0BJFFFQBBlqMTc3Q0wzIk5zJEQWeig9cw9TY3RvNi9hexRgAU0WA2oPCm94TiAIc3t9KXwBKH1lLAUDWWY-Kg5kCSZ4TBRsHWwvPntfIDEHQRoGLwEKEkZzIglGQisbcBMeMFh0HR0BKgkeRGEBM3F5e0EJUAczWjUPCV0QTicMYAMof0UmcQsaSGl1&expires=1788471300&token=360c919dcc92858b3f87516c7958c8abcac04c64d2588b30f53d9a7cb106b169
+#EXTINF:-1 tvg-chno="83",[Football] Toulouse vs. Lille  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="86",[LaLiga] Real Sociedad vs Celta de Vigo 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="100",[LaLiga] Real Sociedad vs Celta Vigo (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55718?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55718?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://chatgpt.hereisman.net/playlist/55718/load-playlist
+#EXTINF:-1 tvg-chno="101",[LaLiga] Real Sociedad vs Celta de Vigo 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://dglvz29s.fubo18.com:443/dsports_eventos/mono.m3u8?token=fb681114790bdfdd75d509ea9d54e33d28d52fe5-9b-1788457547-1788439547
-#EXTINF:-1 tvg-chno="87",[LaLiga] Real Sociedad vs Celta de Vigo 1 (STP)
+https://a2lja3m.fubo18.com:443/dsports_eventos/mono.m3u8?token=b03909dc958a761f793ad7fe4880e561e3b4f50a-fb-1788477350-1788459350
+#EXTINF:-1 tvg-chno="102",[LaLiga] Real Sociedad vs Celta de Vigo 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://98.domhsd.com:443/global/dsports/index.m3u8?token=49baa50c8cc63ff7dc4a952fc4cead9eee31ecce-85-1788501918-1788447918
-#EXTINF:-1 tvg-chno="88",[LaLiga] Real Sociedad vs Celta de Vigo 2 (STP)
+#EXTINF:-1 tvg-chno="103",[LaLiga] Real Sociedad vs Celta de Vigo 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://85.domhsd.com:443/global/espndeportes/index.m3u8?token=30b2ea6cd4f395b1dc4f7cf7a9306668226e03cc-91-1788501918-1788447918
-#EXTINF:-1 tvg-chno="89",[LaLiga] Real Sociedad vs Celta de Vigo  DSports (STRMXHD)
+#EXTINF:-1 tvg-chno="104",[LaLiga] Real Sociedad vs Celta de Vigo  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/dsports/index.m3u8?token=9489bc8b779adb6ff00b72975cc1e49d4480f927-3c-1788501750-1788447750
-#EXTINF:-1 tvg-chno="90",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="105",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=13ce0d8e68f4f682e85727122074f1efe1cc8bad-96-1788501751-1788447751
-#EXTINF:-1 tvg-chno="91",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="106",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=69622b68a31aabb06d05b78f4b9a8809d5bad679-17-1788501751-1788447751
-#EXTINF:-1 tvg-chno="92",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="107",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c2f2zq.fubo18.com:443/dsports/mono.m3u8?token=7ee9d01bb1ad36e917431cfb47f82b324c56d941-48-1788457547-1788439547
-#EXTINF:-1 tvg-chno="93",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (STP)
+https://dglvz29s.fubo18.com:443/dsports/mono.m3u8?token=38700f6f89e01efd2f270574e8defc88741b86a4-8d-1788477350-1788459350
+#EXTINF:-1 tvg-chno="108",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://47.domhsd.com:443/global/espnplus1/index.m3u8?token=2f21d012bcfdd3ca6bda0d03de1b1a9fd2bc710b-54-1788501918-1788447918
-#EXTINF:-1 tvg-chno="94",[LaLiga] Real Sociedad vs Celta de Vigo  Español 2 (PLIBRE)
+#EXTINF:-1 tvg-chno="109",[LaLiga] Real Sociedad vs Celta de Vigo  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c2f2zq.fubo18.com:443/vtvplus/mono.m3u8?token=a31d2c136bb4e031059ac400cb399f9aa2ff498a-ee-1788457548-1788439548
-#EXTINF:-1 tvg-chno="95",[LaLiga] Real Sociedad vs Celta de Vigo  Español 3 (PLIBRE)
+https://Ym9yZQ.fubo18.com:443/vtvplus/mono.m3u8?token=be93abc5ca8a0f9a2663c449fc350bb61ac15e16-38-1788477350-1788459350
+#EXTINF:-1 tvg-chno="110",[LaLiga] Real Sociedad vs Celta de Vigo  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://eWVz.fubo18.com:443/espndeportes/mono.m3u8?token=2910d7b220080580992e0a9a49d59bbf166c0914-49-1788457548-1788439548
-#EXTINF:-1 tvg-chno="96",[LaLiga] Real Sociedad vs Celta de Vigo  Inglés 1 (PLIBRE)
+https://eWVz.fubo18.com:443/espndeportes/mono.m3u8?token=6023af57e5daa83089ecbe97c8f09d649379cb20-12-1788477351-1788459351
+#EXTINF:-1 tvg-chno="111",[LaLiga] Real Sociedad vs Celta de Vigo  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://w5pdgvk.fubo18.com:443/espnplus1/mono.m3u8?token=3ed03a258d7778f8cbd7f4a5506522968c211f80-36-1788457548-1788439548
-#EXTINF:-1 tvg-chno="97",[LaLiga] Real Sociedad vs Celta de Vigo  M+ LaLiga (STRMXHD)
+https://eWVz.fubo18.com:443/espnplus1/mono.m3u8?token=dd4c6145c76d6c6aa3aabd527b18bc8a15f74524-77-1788477351-1788459351
+#EXTINF:-1 tvg-chno="112",[LaLiga] Real Sociedad vs Celta de Vigo  M+ LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=6c4358931fe264e6bfde09d7932579e06f32412c-6f-1788501751-1788447751
-#EXTINF:-1 tvg-chno="98",[LaLiga] Real Sociedad vs Celta de Vigo  Premier Sports 2 UK (STRMXHD)
+#EXTINF:-1 tvg-chno="113",[LaLiga] Real Sociedad vs Celta de Vigo  Premier Sports 2 UK (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premier2uk
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=premier2uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
