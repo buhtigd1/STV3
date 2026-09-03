@@ -1,86 +1,101 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="44",[Football] Cagliari vs. Hellas Verona  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="62",[Football] Cagliari vs. Hellas Verona  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="45",[Football] Palermo vs. Mantova  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="63",[Football] Mjällby AIF vs. Djurgården (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=allsvenskan/2026-09-03/mja-dju
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=allsvenskan/2026-09-03/mja-dju
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-03/mja-dju/playlist.m3u8?tk=QQMzJD0oM8eMrF4JdYyETQ&e=1788498046
+#EXTINF:-1 tvg-chno="64",[Football] Mjällby AIF vs. Djurgården (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSkfNUAYLlkzHTBcDkp8CxVdYg0JR2cXMwc7HEIJMwlNIRdkVA98WQQSPXV5HgEcETIkf0pEMlJmGhZeEVcNAGMLFh4CNA5NLxoFXVUJAmhEQmJQFhQEcSkYPHdjMRJVXnEQb14PLXVxFANGFBkAflFIE24XEzxUKCobQ1w6MXETDytoXAR5X3AvZApQAXReZVVgcmgEEx1sL2N2ShIiV30EQxxiIAREMwUjZnEdI05QCShuTScQQBEnLgADUQRdXy5GIUYcEwAEU2NwZkoBenY-HGNpAg10GVobaF8tNldrAwQWf1gDXAssFUMYSidNZjwVW0cTGnQbXABrVyIeQmAkO2p7Jxt2djcLWVIIJVJ0AAFmfiIWSCwqNkl-FD9vHik3EBZcCQMpI2RmYDwdHBE2CFdALmAIOjx_A2RbAGVmDxg1dT0bDygRYAdzCiYcETYAXlRGDUA6XDYDRy0FTEZ-FgF8Ii9xLiMjcBU_JUBAVWB2fA0zTzldfwNkIHR-ei08IAtfKXkXD2dBBEoKeEQzAlJGEDJBaVhpawNRAFNtLx8MQF98ARU8HHdtHD4BVwkLdUMlAx1sKzJBTQVjBGgEQi5cLwp2GhsCZ0wiHFJlAzVDRUUGXywlLERUKDdkZDlHNgskBmcuAnQAY11-e2giBnFrRBNQKjwpYmwrI35FETIWdDgteHNTY3RvD3RvQQMARXUiLE4XXzVHQBlzD2shQQ52S3l1JyFndWIoDnBWRj9jZjI3AT0lIFxkCjREEntCKAIkImQpLCd_ZQIrQ2w_ag1mEzFXKh41SANRAAUcCwBpSh4ZfBRGaHNUNzp8SSYrbEBBFx1sKyNhHiAxAEwGIS5ZOXtCchdgdxYbLWl7ESJZaC4nUQQ3H3QDUQRBcBA5L1kaKQB5FRlAVU4LSXYSPnIBRRYAKgsjW1QUdnBuLAY_BhkZBnYvMHFILi9-RjglfGo_YlUVNTB9bFQ0ZhN7AioBKzwOZUQTZHAtek9IGWZ6ZzYaCQopNF4VKABlciQjGEE8PHx0LGN9Qg0AVUBAK2Z9Iy5rKz0JVGUICn4bfwIyAD0dTiJPGmhTXX57QEAUAlI8Inw_LiNYbUZ0cHs9QBVABShfciMbYhdNJQ5TVWB2ECcSWQsIFUNeLydXGSYhNWk0Lm9wPjJ8GTYPcwZCFHkBRRZLBjUXUEMnNUxNCToMXiE-ZQwGJGpAChlLTiNqYhY5I3NuCDF_ajATBngmRCBqNDJaZUQTY25MfUtJNyJfVRxjUzYaMVJzNAhTXxBHamI5eUF1ICtASz00aVY0ZEBUJhlACgIzXkcwK1F6DBwKBTQ9AyEDOllMTX9edRZkTVY0YGg1F2JjaQFjBGgnAQ55WgNxGTlnUXFBaQtlQTxjFQ4-dm41b3xKBRRDZSNKMXIrBRJyMD11dyxpC2U4NkJPBTsdbC8MfXEmC3tzGB0Dch8xAhobE3tiLnRPFUMZeHI_PlcNPmlnXBI3R0crJhprJQoCA0RnA3RAG1RSGhRzfB4wXzs6G2deDwx1S3kGbwc8GWYtEjJiGRF8b0UGdwZmJhVNCQgDX2QKIQVcfj02RVp9QnA-BkYWSRRycwdqRkwaPkEVBX8DYBd0VFN8Py1yBS1PLgEgaHA0OBwRMhdmfhgccW0hE3tfBCVEHhsRKXgrEnk2GR5VFg0jUWYnBUBMGjd5PCk9YEA7LlQaOjoyAwgYAhQ8FnhLEgV3UgkFcmUVLUgSLg1YaRJxfXx9RjdDBAl1CycYa0A5Nk57GWVNbS8VHWwvMUZRGyV-D3oxPVciHk4kAwJCYBs4bwZCEHBWAWNbBlxqXEIGfwZbLgFuFlwJUhAnC1VRQX5AUB8fWxY-cQoYFwtcfg8DTg96NQlQVyhAFw8zdRMVNVwbHz92YCQBUSoKC2RUGS5PHX8bMAUdIVstDxReTjoLVmkWOhEWMQ1sGy5jYmQFA1xNKRgzZQAPUzomHgpMQTh8ERQhBXExP140P2sBRDcRdVx4FGEEKztQBjc4eXY9f05NRCtlawFkcioDPVdtASJjWnAXYHU9OXYNNWl0cAp5CRM6a0ZHThJdKh4XY0k5K0RAGBchagJ8eAkwJ3ZuXX5_bT4xbHwTZg03DA1jdwRzf0ILPRxiWxEScjBnYE0LHlJkNjQDYw4gdDYOYhQUISJ8UwsEaFg8PkFyEghDEiwUTUAjBX0UGTZUDgcTCFIHAkNtKgYeYF15ZyMfKV9UARRWEkY5AWcELnM_PH8CYkZ1cg&expires=1788465900&token=6d52228d73c28607ef12ae45df7654ebc966e6953a677d62b7c077bf8e158de8
+#EXTINF:-1 tvg-chno="65",[Football] Palermo vs. Mantova (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=coppa-italia/2026-09-03/pal-mun
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=coppa-italia/2026-09-03/pal-mun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/coppa-italia/2026-09-03/pal-mun/playlist.m3u8?tk=Iw8TRLdnhJpS4flfdPg1mA&e=1788494447
+#EXTINF:-1 tvg-chno="66",[Football] Palermo vs. Mantova  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="46",[Football] Real Sociedad vs. Celta Vigo  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="67",[Football] Real Sociedad vs. Celta Vigo  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="47",[Football] Toulouse vs. Lille  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="68",[Football] Toulouse vs. Lille  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="51",[LaLiga] Real Sociedad vs Celta de Vigo 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="86",[LaLiga] Real Sociedad vs Celta de Vigo 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://dglvz29s.fubo18.com:443/dsports_eventos/mono.m3u8?token=fb681114790bdfdd75d509ea9d54e33d28d52fe5-9b-1788457547-1788439547
-#EXTINF:-1 tvg-chno="52",[LaLiga] Real Sociedad vs Celta de Vigo 1 (STP)
+#EXTINF:-1 tvg-chno="87",[LaLiga] Real Sociedad vs Celta de Vigo 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://85.domhsd.com:443/global/dsports/index.m3u8?token=6ca2b05f30dace80243ed597437bdd576804ccf2-09-1788481847-1788427847
-#EXTINF:-1 tvg-chno="53",[LaLiga] Real Sociedad vs Celta de Vigo 2 (STP)
+https://98.domhsd.com:443/global/dsports/index.m3u8?token=49baa50c8cc63ff7dc4a952fc4cead9eee31ecce-85-1788501918-1788447918
+#EXTINF:-1 tvg-chno="88",[LaLiga] Real Sociedad vs Celta de Vigo 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://98.domhsd.com:443/global/espndeportes/index.m3u8?token=5441c917983faea97c656f6495b48e367146de62-48-1788481848-1788427848
-#EXTINF:-1 tvg-chno="54",[LaLiga] Real Sociedad vs Celta de Vigo  DSports (STRMXHD)
+https://85.domhsd.com:443/global/espndeportes/index.m3u8?token=30b2ea6cd4f395b1dc4f7cf7a9306668226e03cc-91-1788501918-1788447918
+#EXTINF:-1 tvg-chno="89",[LaLiga] Real Sociedad vs Celta de Vigo  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=5b3b2c4431f01a48bade55676ea37c5627babb53-9d-1788481851-1788427851
-#EXTINF:-1 tvg-chno="55",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=9489bc8b779adb6ff00b72975cc1e49d4480f927-3c-1788501750-1788447750
+#EXTINF:-1 tvg-chno="90",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=6954b497cac79df8b4037cffff04ae7730798c14-d0-1788481851-1788427851
-#EXTINF:-1 tvg-chno="56",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=13ce0d8e68f4f682e85727122074f1efe1cc8bad-96-1788501751-1788447751
+#EXTINF:-1 tvg-chno="91",[LaLiga] Real Sociedad vs Celta de Vigo  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=88317b3c774ec0067a224161998dcbc6e47bd6e5-1f-1788481851-1788427851
-#EXTINF:-1 tvg-chno="57",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=69622b68a31aabb06d05b78f4b9a8809d5bad679-17-1788501751-1788447751
+#EXTINF:-1 tvg-chno="92",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c2f2zq.fubo18.com:443/dsports/mono.m3u8?token=7ee9d01bb1ad36e917431cfb47f82b324c56d941-48-1788457547-1788439547
-#EXTINF:-1 tvg-chno="58",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (STP)
+#EXTINF:-1 tvg-chno="93",[LaLiga] Real Sociedad vs Celta de Vigo  Español 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://14.domhsd.com:443/global/espnplus1/index.m3u8?token=1287834a197b0b19840cf8b720e5973239e1d8a9-8d-1788481847-1788427847
-#EXTINF:-1 tvg-chno="59",[LaLiga] Real Sociedad vs Celta de Vigo  Español 2 (PLIBRE)
+https://47.domhsd.com:443/global/espnplus1/index.m3u8?token=2f21d012bcfdd3ca6bda0d03de1b1a9fd2bc710b-54-1788501918-1788447918
+#EXTINF:-1 tvg-chno="94",[LaLiga] Real Sociedad vs Celta de Vigo  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://c2f2zq.fubo18.com:443/vtvplus/mono.m3u8?token=a31d2c136bb4e031059ac400cb399f9aa2ff498a-ee-1788457548-1788439548
-#EXTINF:-1 tvg-chno="60",[LaLiga] Real Sociedad vs Celta de Vigo  Español 3 (PLIBRE)
+#EXTINF:-1 tvg-chno="95",[LaLiga] Real Sociedad vs Celta de Vigo  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://eWVz.fubo18.com:443/espndeportes/mono.m3u8?token=2910d7b220080580992e0a9a49d59bbf166c0914-49-1788457548-1788439548
-#EXTINF:-1 tvg-chno="61",[LaLiga] Real Sociedad vs Celta de Vigo  Inglés 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="96",[LaLiga] Real Sociedad vs Celta de Vigo  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://w5pdgvk.fubo18.com:443/espnplus1/mono.m3u8?token=3ed03a258d7778f8cbd7f4a5506522968c211f80-36-1788457548-1788439548
-#EXTINF:-1 tvg-chno="62",[LaLiga] Real Sociedad vs Celta de Vigo  M+ LaLiga (STRMXHD)
+#EXTINF:-1 tvg-chno="97",[LaLiga] Real Sociedad vs Celta de Vigo  M+ LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=d2d02eff549e3c9a824c8c85b971f7afa69b763c-b8-1788481851-1788427851
-#EXTINF:-1 tvg-chno="63",[LaLiga] Real Sociedad vs Celta de Vigo  Premier Sports 2 UK (STRMXHD)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=6c4358931fe264e6bfde09d7932579e06f32412c-6f-1788501751-1788447751
+#EXTINF:-1 tvg-chno="98",[LaLiga] Real Sociedad vs Celta de Vigo  Premier Sports 2 UK (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=premier2uk
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=premier2uk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/premier2uk/index.m3u8?token=790871a16c7d32f29739947e516f7808f36485aa-2b-1788481852-1788427852
+https://khala.futlivehd.com/global/premier2uk/index.m3u8?token=e98c1979cdb5eb39aafecc0076a932fc762b7594-2d-1788501751-1788447751
