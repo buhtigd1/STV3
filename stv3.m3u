@@ -1,541 +1,356 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="567",[Premier League] Brentford vs Sunderland  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="619",[Premier League] Brentford vs Sunderland  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney12
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney12/index.m3u8?token=df92865a69c9196599bc22b729e4544cd0e9b906-ce-1788674457-1788620457
-#EXTINF:-1 tvg-chno="568",[Premier League] Brentford vs Sunderland  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney13
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://dglvz29s.fubo18.com:443/disney13/mono.m3u8?token=521e0757d6a2447cf186fc1c0d32eb4f47d95f31-5e-1788646547-1788628547
-#EXTINF:-1 tvg-chno="569",[Premier League] Brighton & Hove Albion vs Leeds United  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney12/index.m3u8?token=68a71b87e3c0e71a21427264701dd4144ae9e798-af-1788694258-1788640258
+#EXTINF:-1 tvg-chno="620",[Premier League] Brighton & Hove Albion vs Leeds United  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney13
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney13/index.m3u8?token=5629650d2f0f31c5973e99c7e0545cf0ad658672-82-1788674457-1788620457
-#EXTINF:-1 tvg-chno="570",[Premier League] Brighton & Hove Albion vs Leeds United  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney14
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney14
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://YXdlc29tZQ.fubo18.com:443/disney14/mono.m3u8?token=615445cd747e2407290d4e86e9c4e63a22412856-56-1788646551-1788628551
-#EXTINF:-1 tvg-chno="571",[Premier League] Brighton & Hove Albion vs Leeds United  HBO Max 2 (STRMXHD)
+https://khala.futlivehd.com/global/disney13/index.m3u8?token=034dde618342d1041acfc1bb14b8d0f271938f83-bd-1788694258-1788640258
+#EXTINF:-1 tvg-chno="621",[Premier League] Brighton & Hove Albion vs Leeds United  HBO Max 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=max2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/max2/index.m3u8?token=4d7a91a704ad2bbfb05c5239f20ab168010a5beb-9f-1788674457-1788620457
-#EXTINF:-1 tvg-chno="572",[Premier League] Fulham vs Crystal Palace  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/max2/index.m3u8?token=e55243c50e3e83207cd34c2c6a850a4108335147-92-1788694259-1788640259
+#EXTINF:-1 tvg-chno="622",[Premier League] Fulham vs Crystal Palace  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney14
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney14/index.m3u8?token=12720fd954518f01063d11bd16b9fdb5cb64e422-8d-1788674457-1788620457
-#EXTINF:-1 tvg-chno="573",[Premier League] Fulham vs Crystal Palace  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney15
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney15
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bgvnzw5k.fubo18.com:443/disney15/mono.m3u8?token=9e6561c656e53c0d619b178464b7798c303adaa3-4f-1788646556-1788628556
-#EXTINF:-1 tvg-chno="574",[Premier League] Fulham vs Crystal Palace  HBO Max 3 (STRMXHD)
+https://khala.futlivehd.com/global/disney14/index.m3u8?token=a28c065949a2f2d12932a7a949ce90d7702435b0-9d-1788694259-1788640259
+#EXTINF:-1 tvg-chno="623",[Premier League] Fulham vs Crystal Palace  HBO Max 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=max3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/max3/index.m3u8?token=7fe3e72ebe9c4ae269d6ad6c39f55ad06a78888c-fe-1788674457-1788620457
-#EXTINF:-1 tvg-chno="575",[Premier League] Hull City vs Aston Villa 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney2
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://98.domhsd.com:443/global/disney2/index.m3u8?token=b080c2e1a02a3797a7bbd051c513b43bf703b001-84-1788674447-1788620447
-#EXTINF:-1 tvg-chno="576",[Premier League] Hull City vs Aston Villa  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/max3/index.m3u8?token=a0e28714f75faf03b71c707bf3fb0f2e3921a191-03-1788694259-1788640259
+#EXTINF:-1 tvg-chno="624",[Premier League] Hull City vs Aston Villa  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney25
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney25/index.m3u8?token=bf0d23efc29581727b864aa2262f908df4f24b26-4d-1788674458-1788620458
-#EXTINF:-1 tvg-chno="577",[Premier League] Hull City vs Aston Villa  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney2
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bgvnzw5k.fubo18.com:443/disney2/mono.m3u8?token=dc9e035af70cc85f3afbea486d6b17a3dad46f0b-95-1788646554-1788628554
-#EXTINF:-1 tvg-chno="578",[Premier League] Manchester City vs Coventry City  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney25/index.m3u8?token=e5d4922b85c6ee71c3554540d02cb57371d8cb20-f0-1788694260-1788640260
+#EXTINF:-1 tvg-chno="625",[Premier League] Manchester City vs Coventry City  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney15
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney15/index.m3u8?token=eea2a0e3c827d29cdef218942f3dc077c75a4fe2-0c-1788674457-1788620457
-#EXTINF:-1 tvg-chno="579",[Premier League] Manchester City vs Coventry City  ESPN (STRMXHD)
+https://khala.futlivehd.com/global/disney15/index.m3u8?token=3783b373d062ef09ff49f4dee036cd07484e7353-9d-1788694259-1788640259
+#EXTINF:-1 tvg-chno="626",[Premier League] Manchester City vs Coventry City  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espn/index.m3u8?token=d432cafd9b80752f3d1aed8c59d4caecd8adfbfd-dd-1788674458-1788620458
-#EXTINF:-1 tvg-chno="580",[Premier League] Manchester City vs Coventry City  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bmf0aw9u.fubo18.com:443/espn/mono.m3u8?token=37938661b56921522b1a1428962302d53daae986-db-1788646555-1788628555
-#EXTINF:-1 tvg-chno="581",[Premier League] Manchester City vs Coventry City  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney12
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney12
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://Ym9yZQ.fubo18.com:443/disney12/mono.m3u8?token=9689d9838fe1774608e5c15851ef9cef91856883-86-1788646555-1788628555
-#EXTINF:-1 tvg-chno="582",[Premier League] Manchester City vs Coventry City  Español 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=max2
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=max2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://dglvz29s.fubo18.com:443/max2/mono.m3u8?token=b25c08b04abd4783e767630e996ed3b32e7b49c7-7e-1788646555-1788628555
-#EXTINF:-1 tvg-chno="583",[Premier League] Manchester City vs Coventry City  Español 4 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=telemundo
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=telemundo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://am91cm5leQ.fubo18.com:443/telemundo/mono.m3u8?token=4adeb0da51eb8166f2621d252fc3d22fe5acb26b-99-1788646556-1788628556
-#EXTINF:-1 tvg-chno="584",[Premier League] Manchester City vs Coventry City  HBO Max 4 (STRMXHD)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=b17e3b9d4afd502913d04d0fef89f4677d3a492b-05-1788694259-1788640259
+#EXTINF:-1 tvg-chno="627",[Premier League] Manchester City vs Coventry City  HBO Max 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=max4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/max4/index.m3u8?token=b099c1809e87d840e5cc0e56ee4cb9e3ac2e036a-09-1788674458-1788620458
-#EXTINF:-1 tvg-chno="585",[Premier League] Manchester City vs Coventry City  Telemundo (STRMXHD)
+https://khala.futlivehd.com/global/max4/index.m3u8?token=3f529b42c39d7acc5026f17eea7737c935a9b659-f3-1788694259-1788640259
+#EXTINF:-1 tvg-chno="628",[Premier League] Manchester City vs Coventry City  Telemundo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=telemundo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=telemundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/telemundo/index.m3u8?token=70bcdd2df1e1b8070f62b40e40c4d32ad648b9ff-b1-1788674458-1788620458
-#EXTINF:-1 tvg-chno="586",[Premier League] Newcastle United vs AFC Bournemouth  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/telemundo/index.m3u8?token=83591f209030c0a1361530b67697cd12bc58a93f-58-1788694260-1788640260
+#EXTINF:-1 tvg-chno="629",[Premier League] Newcastle United vs AFC Bournemouth  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=5e04ee134e7db00bfcaca0a1aa66817bf5891d8f-e4-1788674456-1788620456
-#EXTINF:-1 tvg-chno="587",[Premier League] Newcastle United vs AFC Bournemouth  ESPN (STRMXHD)
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=5b3c86738ccd7f0787693ea3a330c32d7734c0e2-8c-1788694258-1788640258
+#EXTINF:-1 tvg-chno="630",[Premier League] Newcastle United vs AFC Bournemouth  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espn/index.m3u8?token=c5078e8946ddfa40c6d4a7e02fa7a35707236aca-f9-1788674456-1788620456
-#EXTINF:-1 tvg-chno="588",[Premier League] Newcastle United vs AFC Bournemouth  HBO Max (STRMXHD)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=87aa432e4746f42d31381e4e1047daeba52c6cdd-11-1788694258-1788640258
+#EXTINF:-1 tvg-chno="631",[Premier League] Newcastle United vs AFC Bournemouth  HBO Max (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=max1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/max1/index.m3u8?token=2b2a4e01806029c621aa056d5245e7540e4e87df-8c-1788674456-1788620456
-#EXTINF:-1 tvg-chno="589",[Premier League] Newcastle United vs AFC Bournemouth  Universo (STRMXHD)
+https://khala.futlivehd.com/global/max1/index.m3u8?token=283c08ec62ec2efc5e417abdc4b8ea35ed7fe65e-b6-1788694258-1788640258
+#EXTINF:-1 tvg-chno="632",[Premier League] Newcastle United vs AFC Bournemouth  Universo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/universo/index.m3u8?token=a12741f3a64bfda90fbcbd24a1166c620751a7aa-25-1788674457-1788620457
-#EXTINF:-1 tvg-chno="590",[Premier League] Nottingham Forest vs Tottenham Hotspur  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/universo/index.m3u8?token=4dcb9e67c1f3339e8252c85c190f97dd7b7d2252-3d-1788694258-1788640258
+#EXTINF:-1 tvg-chno="633",[Premier League] Nottingham Forest vs Tottenham Hotspur  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney16
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney16/index.m3u8?token=a2c005696c73859037f683b42f1005d5e2476bc0-ba-1788674458-1788620458
-#EXTINF:-1 tvg-chno="591",[Premier League] Nottingham Forest vs Tottenham Hotspur  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney16
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://am91cm5leQ.fubo18.com:443/disney16/mono.m3u8?token=d7a697da1fd26f03e0e505197b7c1c08c1523a63-ca-1788646556-1788628556
-#EXTINF:-1 tvg-chno="198",[Formula 1] Formula 1 2026 - Italy GP (iSTRMEAST)
+https://khala.futlivehd.com/global/disney16/index.m3u8?token=2e974612a550900044b5cc81f43392245567bafd-ca-1788694260-1788640260
+#EXTINF:-1 tvg-chno="200",[Formula 1] Formula 1 2026 - Italy GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/55804?ad=111
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/55804?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://chatgpt.hereisman.net/playlist/55804/load-playlist
-#EXTINF:-1 tvg-chno="164",[F1] GP Italia - Clasificación - Cámara On Board  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="165",[F1] GP Italia - Clasificación - Cámara On Board  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney18
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney18/index.m3u8?token=07dd0d2da35d30b778ca9b84679efcb3d829f354-af-1788674474-1788620474
-#EXTINF:-1 tvg-chno="165",[F1] GP Italia - Clasificación - On Board Colapinto  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney18/index.m3u8?token=04210b21a0b6a38adeb53f45afa765df0767f268-0e-1788694276-1788640276
+#EXTINF:-1 tvg-chno="166",[F1] GP Italia - Clasificación - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney19
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney19/index.m3u8?token=d7c794350f49cd394e3711294801f33f26b2807b-43-1788674474-1788620474
-#EXTINF:-1 tvg-chno="166",[F1] GP Italia - Clasificación - On Board Leclerc  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney19/index.m3u8?token=9ecc9d7884a8ed42d6f6825e4de32b08832f3fa4-1f-1788694277-1788640277
+#EXTINF:-1 tvg-chno="167",[F1] GP Italia - Clasificación - On Board Leclerc  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney20
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney20/index.m3u8?token=aeabe6dce60da155a65f631ed96d3b44922542a9-c5-1788674474-1788620474
-#EXTINF:-1 tvg-chno="167",[F1] GP Italia - Clasificación  Canal 5 MX (STRMXHD)
+https://khala.futlivehd.com/global/disney20/index.m3u8?token=524d053f6dcd463c31a653c89d11d2edcd4c3f32-52-1788694277-1788640277
+#EXTINF:-1 tvg-chno="168",[F1] GP Italia - Clasificación  Canal 5 MX (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=canal5mx
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=canal5mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/canal5mx/index.m3u8?token=1471134b5876acc0941777811f4e346a1246e11e-bd-1788674474-1788620474
-#EXTINF:-1 tvg-chno="168",[F1] GP Italia - Clasificación  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/canal5mx/index.m3u8?token=0a23eb7f88ca922fdcfc59e93cdc4267dc3b08e4-df-1788694276-1788640276
+#EXTINF:-1 tvg-chno="169",[F1] GP Italia - Clasificación  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=d37156aeb4bd5442db61f1fbefda9ffeda372347-a6-1788674473-1788620473
-#EXTINF:-1 tvg-chno="169",[F1] GP Italia - Clasificación  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=ff1975d755c9602bf31af425a469cbaddcc0d766-f3-1788694276-1788640276
+#EXTINF:-1 tvg-chno="170",[F1] GP Italia - Clasificación  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney17
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney17/index.m3u8?token=db9f753b6886a960292de19aa2a6817215b4c8db-36-1788674473-1788620473
-#EXTINF:-1 tvg-chno="170",[F1] GP Italia - Clasificación  Vix 2 (STRMXHD)
+https://khala.futlivehd.com/global/disney17/index.m3u8?token=e77b67f8363f13ff7fc015570fe834819ef760b8-95-1788694276-1788640276
+#EXTINF:-1 tvg-chno="171",[F1] GP Italia - Clasificación  Vix 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=vix2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=vix2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/vix2/index.m3u8?token=7934d38aa420cc87d85c0620a712086354b0a40f-ba-1788674473-1788620473
-#EXTINF:-1 tvg-chno="171",[F1] GP Italia - Práctica #3 - Cámara On Board  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/vix2/index.m3u8?token=a37ea15942cc038c69f86a36d7dd64768cd52b0a-36-1788694276-1788640276
+#EXTINF:-1 tvg-chno="172",[F1] GP Italia - Práctica #3 - Cámara On Board  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=ae5fae131fa1ccd2f70b80629d5232d77c6ba341-69-1788674473-1788620473
-#EXTINF:-1 tvg-chno="172",[F1] GP Italia - Práctica #3 - On Board Colapinto  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=715e18429f9b2053fb98d2c4149e8e011791f46a-40-1788694275-1788640275
+#EXTINF:-1 tvg-chno="173",[F1] GP Italia - Práctica #3 - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=6b069dd22ce734a88b6ababa9902f9c6a1b28632-10-1788674473-1788620473
-#EXTINF:-1 tvg-chno="173",[F1] GP Italia - Práctica #3 - On Board Leclerc  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=b67abc3b2558452a28cfb6837a81a39d15542f92-5a-1788694276-1788640276
+#EXTINF:-1 tvg-chno="174",[F1] GP Italia - Práctica #3 - On Board Leclerc  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=9ea7d4747893bc5898678fb0d344fb8934ac7644-6c-1788674473-1788620473
-#EXTINF:-1 tvg-chno="174",[F1] GP Italia - Práctica #3  Canal 5 MX (STRMXHD)
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=5ab88e96f868aa18821172a8fa954fa813abd2b0-2f-1788694276-1788640276
+#EXTINF:-1 tvg-chno="175",[F1] GP Italia - Práctica #3  Canal 5 MX (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=canal5mx
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=canal5mx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/canal5mx/index.m3u8?token=f187927b9bb5798805194b7cdd4ec2923eeaf7c5-9d-1788674473-1788620473
-#EXTINF:-1 tvg-chno="175",[F1] GP Italia - Práctica #3  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/canal5mx/index.m3u8?token=1ebc5254542bbe84d75025b0140c0d86df251068-d8-1788694275-1788640275
+#EXTINF:-1 tvg-chno="176",[F1] GP Italia - Práctica #3  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=ab26b7d7ffcc32e6958834c4f51bb4367a6f83aa-49-1788674472-1788620472
-#EXTINF:-1 tvg-chno="176",[F1] GP Italia - Práctica #3  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=2eab854e08d31c60289af8f0a80d6b0df103d7c8-d2-1788694275-1788640275
+#EXTINF:-1 tvg-chno="177",[F1] GP Italia - Práctica #3  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=c8a8740033da4e7850070965568b0dbf95713b6b-60-1788674472-1788620472
-#EXTINF:-1 tvg-chno="177",[F1] GP Italia - Práctica #3  Vix 1 (STRMXHD)
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=f947fe5bf76dfbc3a961ccefd2450295b28bb38a-b8-1788694275-1788640275
+#EXTINF:-1 tvg-chno="178",[F1] GP Italia - Práctica #3  Vix 1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=vix1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=vix1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/vix1/index.m3u8?token=371257ddbfa95101addb04c4fb40247f2518ea7e-73-1788674472-1788620472
-#EXTINF:-1 tvg-chno="178",[Football] AS Roma vs. Atalanta (EMBEDSPRT)
+https://khala.futlivehd.com/global/vix1/index.m3u8?token=0a2a55e310b7c72a3b6883b32a52ebd31223ac35-fc-1788694275-1788640275
+#EXTINF:-1 tvg-chno="179",[Football] Arsenal vs Chelsea (GOZO)
+#EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/arsenal-vs-chelsea/
+#EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/arsenal-vs-chelsea/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://fingersoon.st/scripts/application1
+#EXTINF:-1 tvg-chno="180",[Football] Atlético de San Luis vs. Guadalajara (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-09-05/asl-gdl
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=liga-mx/2026-09-05/asl-gdl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-05/asl-gdl/playlist.m3u8?tk=0Hi0HCoxSztK_C9C8Q6x9Q&e=1788690648
+#EXTINF:-1 tvg-chno="181",[Football] Atlético de San Luis vs. Guadalajara (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBTsWK1oLKhhyRmMEDEh1FBNFfUZLGjUVPxk7DkEKIgseAyJqSyEvfg09Z0VOMD4MWwgqfEIHbEh7XxhAcVZyRVsnABdgOzJ4AhxiBU4_e1FTICQGZTQ4TBUlGFlUNSh9Ryk4YXUnfUQOPxpWbCgtDkYgMXoBRRJ1OFg7eWoGYwRsEhcbBCo8djk6aAcSIiFpQEAGBnJHBF81GxV6A1EAdGQEEh8AXwJDGCIbY2cVJHxVIGIEVSEjbTQhAFlDKRQCcyMREgpfLm4pMnQAYxYLUnU9YUZFHRMJPxstYGkgAEdyAjw6BT04YghGHlVKThUJexEGeUUNbXIfXg9VYRETA2Q8HTcDORl8ARsyXWg1GG5TMWZFFgNtDjNYbEAVVXFPGQ8BGwUGJ1sKMjgBVRAOb20mEUxlFTZ8JCoCf3AxCX1icBYtSjh7QixOI0RECyZ1Zj9nAWcyJmEqNDFAFBs_ZRI7MDoGVyh6GE4yWlgaDk5yAjd2Fz4eVg4UPXByCRBvEg5AIGcsCQcZEAN8BEoOVG1GPxEWMTpiMC9qQ0MZLQ9wITg4AhsORQZOK2gUSh4MWjYCRkkjZQEPXCICfjljBGh6AnwBLH5_FQMSFxM6OnhmEmRDESVxChgeE1lLVxJxfT8EbHkZBVQoFGlnVU4_C1MnEXpLMixLFT5uemxRK1FCBwccAAYpdSMZA2p3LghcBkIUBU0WAmpoOjsUFCUXeng4P29VWA9mDU9pAxlLFVBXPDlXYD8legsJNVVgNz9wfAcSCWNdJ2YpBTNAFi8PUWkjNAUSNAxWPRgpXksONEwPejU_XSA-dnICBn9kFQlTEwMif2NFHl0PCzRZERMceVkkGjJBDx9ADCQCfxE9Bw91FXcGZi8dTykPHllxV34AW38ZfAEoDl0sGnQAYzcgWlo5M1p2PBZAFQsqeGsWYwRoDhkfelwNXnYBOlkTMBwAURRkfx0HE2sZOX8DYDACY3w8KW1XBSJ4EiITcUI9HUBGImBcViIMewQDYwBNEgBaWC0VAEE2IlwLBRlfeD4nQXMZGEQcP2ELOAMxXGIyIXFEJjhtcQMGQysuGkpONAhRSCljZxUxEwp7XxxUbTUST0wFGwwWXAkScjQdem4NfGhnIWREaiMRDgknaEZMKwETGAombEBZEg4OMBhoah0ZdUo0G31wAAUdbC8tc05WE11rJTAQBCk4QhAYaWAYSQdVTkB3BmIDAmBmIRlhcVYyZxoFMTZBKj1QcxQJFxM-IF9EITECHT8YbwciLF5fKTYHZAsjD0dcBwY4PzN_VRoGWEskC05PMw1Qe18YB18VKgVmfREABSN9QDo6aABEOyl6c0EieEgeF0ocXhZwHjoITFB7ORdfGxkFFyUcfnMxeF5HFD5AAUUSCxEVCGB3LSRVfXwaM2MaJwUWPRxrVw55WGQSKl5tFmIAJxo9dV9Rd2d6egAOdBgvAiQAPlZZNB0ORzsoWHQaMgxqPxsHUVYwQB8hPmtHKBxRBRMERQRKDlxKMh5tEj0AezI-LF5CIHJSSHwCMgVfLhJyMCQGVRArSlQkCFpBPh9fLwQIQ3EGdnhiEDILSyw9ZHU-NkNGDmkLYTl3BmYBY38ZFAhmbAgLd28RHxJ7Xh1uJQAgeFQcBXNZQQBZVDQwDhBZG3xnEHBmexgyEX0mclwpTiNfc11-f2cydwZiDx11HQkbaUgWIWxsOAstRgYsBgECEGVtNyFrGiU6AE09E3EKKTFVEFIreXMSHWFJJG4FAhx0AGMdPUhmFhtSQDsWey8eNnsDUQB1WwQ4HVscJQcRF3QAZzsFTVk1C2NOMz5CKB9iAHUPIg4PejUSezZ9RXUsBWp1Gxx7UhoZbFIzFk0aICIIczowUWgtBTV9Jh11FRwJeWoIeF1pGyZGXQJhADdYFgkWIjQPRBkfYFcMA14OIzgFUS0UVhMCGF8BRRZbFVQ4BXExYwRsEjEYSgZuBQZTY3BFMyFtQEUiWGUHHVcGNQlfSjEOfX98EWkWXAkFDjsDYVgtaQthBRlZQx1xChwZN0ZTCh5uRAkRMl5YAQIrGHQAYzd9fmIzY2wSQGxdbBc4dRQKdE98bUEbASc_DhkwBHZlSwpSWioXBRMRB1MxWihzQDIEYF98FW5-KSlbcUMBdFUiBXobOgtBV0cbThY8PAcQEydnHx8pIAEJBHtxNR0BTgEGVWESKHpxAw5AG1o-fGk0AmMfbUEbdDkqfSkmFUEUFTxMcxQoB3AvDV97Xh4UFSc&expires=1788643500&token=94d27c222d22e29bc0103f79dd6ffb4b9e769a2e0aaa69ffb8839d395da5e50b
-#EXTINF:-1 tvg-chno="179",[Football] AS Roma vs. Atalanta  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="180",[Football] Ajax Amsterdam vs. PSV Eindhoven (EMBEDSPRT)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AA5AZxtFBDgVOQk2DkEKIgseAyJqSyEvfg09Z0VOMD4MWwgqfEIHbEh7XxhAcVZyRVsnABdgOzJ4AhxiBU4_e1FTICQGZTQ4TBUlGFlUNSh9Ryk4YXUnfUQOPxpWbCgtDkYgMXoBRRJ1OFg7eWoGYwRsEhcbBCo8djk6aAcSIiFpQEAGBnJHBF81GxV6A1EAdGQEEh8AXwJDGCIbY2cVJHxVIGIEVSEjbTQhAFlDKRQCcyMREgpfLm4pMnQAYxYLUnU9YUZFHRMJPxstYGkgAEdyAjw6BT04YghGHlVKThUJexEGeUUNbXIfXg9VYRETA2Q8HTcDORl8ARsyXWg1GG5TMWZFFgNtDjNYbEAVVXFPGQ8BGwUGJ1sKMjgBVRAOb20mEUxlFTZ8JCoCf3AxCX1icBYtSjh7QixOI0RECyZ1Zj9nAWcyJmEqNDFAFBs_ZRI7MDoGVyh6GE4yWlgaDk5yAjd2Fz4eVg4UPXByCRBvEg5AIGcsCQcZEAN8BEoOVG1GPxEWMTpiMC9qQ0MZLQ9wITg4AhsORQZOK2gUSh4MWjYCRkkjZQEPXCICfjljBGh6AnwBLH5_FQMSFxM6OnhmEmRDESVxChgeE1lLVxJxfT8EbHkZBVQoFGlnVU4_C1MnEXpLMixLFT5uemxRK1FCBwccAAYpdSMZA2p3LghcBkIUBU0WAmpoOjsUFCUXeng4P29VWA9mDU9pAxlLFVBXPDlXYD8legsJNVVgNz9wfAcSCWNdJ2YpBTNAFi8PUWkjNAUSNAxWPRgpXksONEwPejU_XSA-dnICBn9kFQlTEwMif2NFHl0PCzRZERMceVkkGjJBDx9ADCQCfxE9Bw91FXcGZi8dTykPHllxV34AW38ZfAEoDl0sGnQAYzcgWlo5M1p2PBZAFQsqeGsWYwRoDhkfelwNXnYBOlkTMBwAURRkfx0HE2sZOX8DYDACY3w8KW1XBSJ4EiITcUI9HUBGImBcViIMewQDYwBNEgBaWC0VAEE2IlwLBRlfeD4nQXMZGEQcP2ELOAMxXGIyIXFEJjhtcQMGQysuGkpONAhRSCljZxUxEwp7XxxUbTUST0wFGwwWXAkScjQdem4NfGhnIWREaiMRDgknaEZMKwETGAombEBZEg4OMBhoah0ZdUo0G31wAAUdbC8tc05WE11rJTAQBCk4QhAYaWAYSQdVTkB3BmIDAmBmIRlhcVYyZxoFMTZBKj1QcxQJFxM-IF9EITECHT8YbwciLF5fKTYHZAsjD0dcBwY4PzN_VRoGWEskC05PMw1Qe18YB18VKgVmfREABSN9QDo6aABEOyl6c0EieEgeF0ocXhZwHjoITFB7ORdfGxkFFyUcfnMxeF5HFD5AAUUSCxEVCGB3LSRVfXwaM2MaJwUWPRxrVw55WGQSKl5tFmIAJxo9dV9Rd2d6egAOdBgvAiQAPlZZNB0ORzsoWHQaMgxqPxsHUVYwQB8hPmtHKBxRBRMERQRKDlxKMh5tEj0AezI-LF5CIHJSSHwCMgVfLhJyMCQGVRArSlQkCFpBPh9fLwQIQ3EGdnhiEDILSyw9ZHU-NkNGDmkLYTl3BmYBY38ZFAhmbAgLd28RHxJ7Xh1uJQAgeFQcBXNZQQBZVDQwDhBZG3xnEHBmexgyEX0mclwpTiNfc11-f2cydwZiDx11HQkbaUgWIWxsOAstRgYsBgECEGVtNyFrGiU6AE09E3EKKTFVEFIreXMSHWFJJG4FAhx0AGMdPUhmFhtSQDsWey8eNnsDUQB1WwQ4HVscJQcRF3QAZzsFTVk1C2NOMz5CKB9iAHUPIg4PejUSezZ9RXUsBWp1Gxx7UhoZbFIzFk0aICIIczowUWgtBTV9Jh11FRwJeWoIeF1pGyZGXQJhADdYFgkWIjQPRBkfYFcMA14OIzgFUS0UVhMCGF8BRRZbFVQ4BXExYwRsEjEYSgZuBQZTY3BFMyFtQEUiWGUHHVcGNQlfSjEOfX98EWkWXAkFDjsDYVgtaQthBRlZQx1xChwZN0ZTCh5uRAkRMl5YAQIrGHQAYzd9fmIzY2wSQGxdbBc4dRQKdE98bUEbASc_DhkwBHZlSwpSWioXBRMRB1MxWihzQDIEYF98FW5-KSlbcUMBdFUiBXobOgtBV0cbThY8PAcQEydnHx8pIAEJBHtxNR0BTgEGVWESKHpxAw5AG1o-fGk0AmMfbUEbdDkqfSkmFUEUFTxMcxQoB3AvDV97Xh4UFSc&expires=1788658500&token=c14de8c307ca14f96ba182c856bd385edfb1611cd0f4ef76b8fd02c3d37ff44b
+#EXTINF:-1 tvg-chno="182",[Football] Austin FC vs. San Jose Earthquakes (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBS0BPFcHPV4zHzQdE0h-Dw5AaxkUQntZNAx3QVUVeVFDLE5teD94Tw8SGH9qTjtWawJnTFwPHF4uVSoUFCE3YR98AChcHQVkFQ8ecEtLe1ZkRzpEdAFmeR0BLnpuIS5EfCY4NFIlc3EJQCJ8aDModHMRZVF0FBodbCsXVxMCDnpPbUEfaQoJAAQBEEttQXkKeR0CVxQjZm5uPT1aUCwNExgOMRd_Dw0EcT8lanUyHX9OGBdCdEdkSQgaD1tqOS5TYBpHAFgMAA5xEwhbZV1-e003OWJpRCZZNCprUFAUF3lpDgIBeSEoARMFBHoRNytSFSlibEUjGVkkVBBwFTYicVgdRhdHACUHFyQac0wbI3BuJAVEZUMlCipUbFwTVTcFHH8KanQcCQEoGj14ZRF_TUsyBHpyNCx5PA8eS2E7CGB4BzgRCws_ThZGJF4ZCjpcUBoecWtCYXsbHwNFfwg3BFIxIGFALSgCeRUcahkbJEBBMiVlVhIWCxcnNGFfBAdiQB4qYXVdMmMCNGFrRyoCHBEyP3oSGnEKGAMAX2RTNFNQI0oDWiUqBjUzI3QZAhYMESJnTWInJlUKXGNgFxt1bnBtQRsBH24FAkMZZ1Q7aQthBhNxRkEjDQxIaHdVKi5bHhw0DkQZfn03ODJaQ0AZTRUDYERzNBpXGxUpenVXDXwYJRQxfBoOBCgUE1FOKhRvdTQ3ERYxZVE_OwgHcQJjBGwZPwtDIn1RdjIAfxhAfQEQKTtAaBw3fBYcGGRCDCJwfjE1D3wPG2dzGgBbUho-DnQzOn53EWUOHTU0UlMQKVtHOgl8ASgtWQ4DEABVLwF8TjU4BFcHH39sJz9gQA0uAVoSPCpfByBFISImfnMrAQlmO2RiQVJmegYkLUZEJy5hHnBFKAQEbgUGMzteTV1-e2wcMU1tFjpqFS8iekATD3tfbUEbdQQNfnIwOARWEycLayBrRkBBHwEuKgl2ckZ0cHkMJg9HNH9TKx8eYHU6D1pmIStRdkU8Sgs1GWtIWnddWw4fK1YIEkUYHzp5UjAhYGUbKmRNPSQAFlhpV0gIK3J7LzQ3XSV_dS07JVl5MzRWbzQ6X31GBwkYKmgUFCUjfXwcCj9-Bh4ScjR0AGM0BHZWQANwdUEkdgoobGZsUTFcYg9Wa3E7fkR3L2h8ZzEWckYlHl1gPh1sKTx_A2QUBF4fHRgYXi0CAAcFJGJPQB4AEjs-WRRSZn4qOwIJaiAWYR88Iml-LCRFBAA2AUMgaQtlHDRTdRRiARYhDWhpFSlPYDhCF3A-HUNyOmBKaBoBTUE6M1xwLi5TGjQyFBQhcE9cJEAVBgwSAQ1AJkhtQX5cYBURZBUHGFQ3LihzFS8HDnMGCSMAJAVbNSRjZXI1AGtqRDVQQBsgHWwraX5eMRdnZCoQDgcHIWc0GmNkajUVT1VFM3NGDz5xP1tiSFEEAk8YeSIJAR0ccDYSZFZXFyhBbyFlUG8NOGgzC24FdCJwQR8-BWxaI3lDBiE3d0QtOxwRMjddZjsNDhQ5GV11FSlSaXwXOwcfIAFxE3QAZw14TUsXIUNwLTpdFyY9QE8xNGFPeD0Ray8ZTwIAAgdpHz1eVVVgdm1SZnooWh12XzERfEEFMhxqAgB_cCAIV1cJBkxHORhOFSU5SB0JbH8SIgt3WX4jCGMvA3kITzpbGQohawZCFHBmUmZ-JiQXckIiHlhfLykfQxY_QigRYHNVORt1bB0ADXEfYFEUKhNlYggiABslPABpAHNNClNjcEtdfntGASNxQj4yXBIvGUBVDwwTGA4wKH8lD18yGGFjQF1-f2A5Jk5hLgNSGgcgR1Rbd2VGLEt8ASgAfxhAIwd7LBRtQCAQRU48DE4aLy91axt_Y3M-FBtWGCd5CCATZ0sgB3JTRDZ-TwMmQStYYlgTL34GazpKN2ICclMiPjh8dBF7SXYoPQRWPT8dbC85eh8BcmF4bUEfaSwKTihTY3QESg5daB0GVxEHOHkuJDVpfjAoWngAOAwHDHsScjRjfGwqH0B2VWB2UTw5XzRIaHNSDjFDQxArN3IMIFp2PGRZT11-e2xBFXVnRgwOaVU_A1wBAgRDegoPFlwJBQkCaGtnLQh9EDY5TX4yZQ84PjFeEREEUHsKJSwHCHx6BxQ9AxQoCk15OREMbi4hS24iLHl3BXAAWikibGQ0MgUnOR0DYjR_Vlo6PnZGDRptKjcidBEHC3l9DCZsFlwJcBcXG1txPD8MTgAnZEANZ2wGND0UFSdjBW4&expires=1788643500&token=dd4da32925ad981d6ffc3c12a72fa6afd95f00d6fc60b87c2f78e68fe7589ea0
-#EXTINF:-1 tvg-chno="181",[Football] Al Ittihad vs. Al Nassr (EMBEDSPRT)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FkIEKhlXHWtfNwlnBW0ydU5lLDoUeFg8WAgEZEpZAARfU0giERY1JW9rWSlASRAIZX8xPBtZXXxYB0E5QnEOfnhgHCZ_bDU8SggDEVxHKH5wY34AF3olL3oQF2ZXcRsCHBE2H1IRFhx0O0hod3wHBAFuPzIgf1d-BBobAVERLH5vEyA1X1I4Hx1sKxh_agIABRsBBwFnJBpxLR4URHFIfEh1BwdeaC08XRQ_bmhNAQ0PGy0qMHdLeXUuMTpkbEs-WEk3Y1VSAAV3HSsraWwsJQB5OyYRAyEsXHYvYWpALAFYWUkYdRciMH8sOG9_Ug0oBn0aOBheDSR-DSIGQmBMPQtXSWRZEUElC2haIwJhEQQAQiQfE3cHeEMoNAd8dzs0eEESFk5jLxpuDCIReR4GMk98eAY1Cxw9UjMcHXduTXl6ZgILQH0cJQomFAkJVSAlAxMrPgELDSNOIjQmY1MdDgpqOjxkXRAVbDQ7AwlgUD9iaApDAFU8BRJyNDx8FxVpC2UeCFpmRyZdJAZja08oJwdfDQEfCxQRAnIkZEtnKD5Ud0FrZRUPZ2AESGhzFBJjBGh9OwxGLW4FAgAQd0NOOwxxVWByVz48VWo5HWZRFHN8XQYQMVFWHkN2BWNCdjsCVmYIIX93Qx9ybAA9WWkXAwVCKjE6XDwTYRYyNBcTPn1QQiYAAnMWcQoYPBZjVi9wUBwMIhQKVnoPcy84Rm0TL31rARBhQBgwfgoUHGdpAhZmGSQiMEAMOQAXNTl4ch59D2AoPFdRBDtVMx8gFBQlIFhkPTJrRzkGci0zOwJSCAd-ETo3ZUIZPA8uNxVCSgotREscBBVhPQYHBT1nZERdfnt7OSVDRjM8b2pVbEARCWMEbA0ZNV9LeXUPGjJLaBkia2gyKn9CBx11K0hoc2AJAH8YDhpvRAUgBQgmaEBFTgcAUzcBc3BSZn4NKQ9nUjlyUkEhPAtnLAhUBScoV3NKJEt2KBFuSk5lUy8rNkNDBR9EciEYEkAmJm4GHSliSDI8AWtFYVJKHDl8DwodX0gocnRHBQcyayUzWAwyOVl4SR8IZTdgERYxMXMIOSNXawsTExgKVmtxIgN4NUYAdnBOPHd3NWRjbkUjUhYqfwNkNnNFHRFKF3UnEXwlIx1bZTEFbVQhdwZmABZQazgxcEsgDwFtOwYJXVYZDnE9PV8RXX5_VyYKDGg0BG9rGQsBayEpRG4-FGpRNm4FBho3VXAbegBrPAVtawE7QRQda39lMxBCGARCIXoMBkMiPDBadSE2UmcpOhEWNWJBKAFpfRMBHwBnfgQjf1d5UgMTEmIQCABVSjMgdhc7FQAHIyBLFSkIWl8aQQ5gIwdlCUI2VkUUOBwRNmF7XCUFaRAPOWYSCixmXiRBD3gjEkE2QzB1QwAmcEJGak1TEBBBbFwLYRQQEXFcLEY9RQEvTwwnZlZqAiBpThZmAHY2Yk9rGywETy50QmwfFRxWOzwScjQ0W2M0FQ9pJBFYdwE7XB1ZPlMSEi0AGy1Wa3Ubf0MoESJFdSIiXGo7NUVNJSZvO10UeX4iFE5oPiBsewk6UDZTY3BoXX57VUcVc10lA3I1IBt0fw8NfhoeKjxFHwFCJD8bSBAqIUlgFGR6EDYZeS1bCmB2Ig54YnEYMAscJmVlRBd2Y11-f1s5H3dANgxWKwoAd1YbMkNCL0IYRy8cew8bAwt0EHhQaTcbYGAcMA5vABVofA1-TGBtQRtZS3l1JQcgd0cxKl1vMhFFVxseHWwrGUBqKAJeWCZDCFJLeXEDPyVIZCEbU2caKEJWT2VrMgliFBQlDX5yfgFsaToTYyMmE0NLMxRPZzIncGkPbW0HGz1zQxUqeGIeMQxZNgB8MEI1eEoMPkBWRWpdETtsCB8fY193D39SSAAaF2YHfEcVLj4CUzInHBEyMX8dFWBvDEhod3whB09CbUEfFlwJUwsbBVEUCCB4Uzk9bHwkOlQMJRFkEgF2ExgKQRd-PBhOFVNjcFQzIV5JVWB2UBojTTc1Al9nAS1bHAJGMl1LeXUPRxZzYkkUDxRINwZeFRAKN18jZwNRBARjPEoAdTsPc3MwOkt7PX0ORSM5WxMFFl4PLwxEEgVxe20qH2gGPg1DGj8SCmshOUoTPyR8dRFiDi4MCwRxOT8ETQc_aHAieFg5PD1wQwICbFcqKnETExl3CSkPBANRBHF9KTkwYyo4Ai0GJGJFAn9teyk1ERczcQsa&expires=1788663900&token=76531bf09ce6b992f7ccbf2ee2dd7f35a4ba7bbb5053b33809731fe8558fb57f
+#EXTINF:-1 tvg-chno="183",[Football] Charlotte FC vs. Houston Dynamo FC (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBTsSLFcHZkcyGXxeRBkrTEZfYAQWQXkIZ0BqBAkKMkIHJgArDAkiU31CGmMSAANdaj0ZAlMYHEprFSJJbgU2DlptQRtCOX4DMwc-QW8rGUBsMjgHExgTDzYdCkcUIgVaXgM7G1scHVkLGzB5GT4FD1A-G39AOgRZaQgKUmhGdHBnLkY4eyIuEnIwC1ZjTwhOYgkeDRFEDlUODmplFDV2Zk0jBRZ4S3lxAjgdU2dLfXBXKAZ-dTE5UBsbCgEWEhBBfyI_A1sLAWV0LzpQakF9XHoZFhEWNTp_NTsXAlQCLHEbKQUuYiEIcTEuG31CTh9Kdjhie0McYmFuNTtlawI8D2AJQAxXKTlidTglXE9IG2toMT9XSz4ZbAkdGwVXUTIPHCVGb0JdfQA5RRZAY04kVU86Fl0XAzx6CCMMcl4iJFRuMjQBfTgZeAs-aVdVARoJVhxqRlISJ1ISKBUEEyADRHM8KjJCXDNOE04icUJNdVpuKGpXTA42eik8KFRkUA98RBgKPnI6IWEZThcBWCwOexMpNGZqUmZ6MyNsXANRAFhwJjFpQQsxXHksOHlASTl8UTZqTn5CZmprFBxhVA4SBxMZQiEANhEScjRjQwRKDgxrJSd3AUUWTh8oOAdRVhQTGA4AEFsDf2MHISZFFDI7d0AYMAxxA2JLbB0NcmgMA05ZAyBteCR5WiceHkZkSyRbYRM9ZnwhAnw7SGh3FwonYHh-JDgWXA1mDCQhfhceen1yPWsMFU9nYTcZFlpFJw5HaB0XNlcoH04GIB5TcSh_VXIZIVZWQAN7NicJVxdVBW5EKwYqXAMmRTpTY3RHFgJMYkImY2kyOX00XSlBbSR0fE8ZFTdbWTttDwU9W0oKLW1UPABnaUcRc2g7PxQUIR5_XT8RHVs5fw92B2ZYBEoKfEkcPhEWNRtUPRQTUEgxDXRSAxUpeiM-EnI0F1hnMX5_SkYlX09FHGhnHz4HbVo2cXkPJ3wBKBhzFSAlaBUcJ1BsIgZ2ZxQRaScICANOERNuaRIdYAIFOnEsBDRUeAoUUEg7IXxJLhJTJj0ze1ZbDgMZLh0yXioaUAcYP3kVOiF0VxsKf1wYGHw2BgMAdVIAcRhtQR9WJR1jORAcWnRdfnsGQhB4bDghCA8pCwdWLRJzHB85a0QEA3BlRBNnFAt7YBo-FH1-PDFtEgQeeG83MWcPejEucQZ-Yis3PHFoTwtKViA8DHZOZXMyAGoUFCUyYHJwPxpjOX5DEUYccE4KCE9EQzBsAUUSVDgKC1IQWg56fRE8L1wXAUdxOBJidwx-dRIIG1ZpAzZyPwUOaFwIAm9CbUEbBRc9W3M6ZFB4TgEPVAoeDRYSF10dPWtBag8vdVgKQBVyVhJ5OgxieG8UOWsRJwF5aCUdDDkJPl1SRnRwGQcLC2I_BVUjIWVbSyg4VREmGXl9ASINPyo4SUwqJwASMQQ-dxd5BhEmY0F2PzpdFhQkW0APGGlpCRFLSjMrUB58IRgFGX5BNkM4fxMMCm5FNTdhU1JmejsEGH1_VQxiaSQgL1wKCAMkFGVDSk59XAZCFEEQAzxfLRoOa0gGD31NORoLQTkuBw4-CXNzAA5PcEUaU1UQIh1sLxMUFCEwAW0PCgtkJCB6ATMIXmowfG96FSRFbgIwcRQXa2NLEwVSHAZHGH4vOAEQJwFzaTYEAEgZakZJJXEKGCkYFBQlPn9nCxcYawA-UBowIUpVDSReEjEmdXM7G1UMVA9ZEgoMcWMcNzJXWHpaDy8LXBkCBhwRMjgRFjUxSS8oPHhABwp0aTkANXlLeXEDBx15ZRA-VxMhMxEWMRdxKhcfaHEJAlxQPgFhAj0nU3hTY3RqMBQPUUUIYHwjN2gcHDB6fhUCdF8MPiEKOxJBJzQ0RE02BG9hJThsbzwkDDonMUVUGjMDEiFGFQteCkV5GABeGBwucUo-B10TBwFgMV0oe01GdHRJA0o7BzkZEnIwC3BgASQcETZ3BmYTH1UKDm9BSiI2f0UQKwpdAhl_CyNlUBFdfnsRPh9mdw4BHWwvL3pLBCwTGAoHNEQbIm8YGBBQShV6cxYbPBEWNRsJGSwZAH5VcQ5Pegk7d1wiBTkgdABjSgVNGikUYWAzZ341FAB0F1QgZUEnRCtxCBp1FgNlVBY1C1tPQWdkYgMOcR1VEGhTEHZ5XAAiPwVYO1YRQwZoWEordm9BEXgXGC1yMi84S2g2MmxSDUQ9fiEccxVDdABjPxtYaRkCcFdCOUgrPT5LFTceb01tQB0WXQ8&expires=1788643500&token=eb0d8e913fc1cd9d963f1185c59b1bf5df6821b5ccebaba415dc5d4ce08d488f
-#EXTINF:-1 tvg-chno="182",[Football] Dynamo Dresden vs. VfL Bochum (EMBEDSPRT)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FkAcJhlMGCEHOQQ-DBIoFwVSBxcQfiV9QC8-IwdZADRxRQBqRAFFFkkJWG5CVww1eHkdChZxBHgALzFmWlEoOgtiMz5Abz8WUCw7NHpLAg0ObAFFKn0nAFMNJjAFRCgvdwZCFHlCQjVwEgh_A2A5InQdDAQYSiJyAnMsPGJCSBgLdUACU08BG3N7XxxzaC8ncBl5Oi1rOgFmBhs5d1cofAlSJiVhTjsOUDsnCAV_CCR9E3kWAFoqbgUCGBZZdzV_S0IaFQVFASNpES4cQH4pCVUcGwAMe14EUCtACAJ5GRh0QgprfmVEAVwZHw8EaBcoWBofIRJyAyhYCTsFZVE5eEgRBGsCSUJiSW1bbUgVJDR0HCAfNXkqIgQ0HhNkby4PQWISMHBeMAx2CD8Vem5bI0JTHkMsX1Y5QSUFO35kN3kMYDUgbVAuP0lsFSNiHhAFVR9xEBRrVihfORQTRXAKKXsQORhadA4zeQoHDGgeJXVPfgoxaWoIGXllRBNfb04hHBE2PG5KNWRKOxcxCHwKDVcbPTYrdVYxbXVEAwdYPhxLTiRjDXVGLAsGN38DZFE3ExgKRhFmGwgScjQnc2Qaek4WIncGYgQdUDNZDnZxFDEDYD89OlsMc2I0QCIAUS8Pd0w1KkdvJGBzFF83Vk4sMnMZIBEbUAEZbxYgFVcESgoIShEEZhIgNR1sKwt9dBMKAEx-Nwh-V3MGeEUIW1U0J1pnOCN2cRM7XBg5I3dwLCdmensfCFodKUV3IRJaaysqCBUzClpHAidXMwAoSwNRAFBEBgYYARocegUbFFgRCzxyZEIYUXUROlBpHQB-VQ8vXVgpJy5_PBh6cDMaBHcdaQthKBtDUxUQUAlZYgdXVCwTGA42M18CbgUCOT1RWDEtV3E7EExvESRxExh_A2QlLHBjejUwBRkgXHI-AQtTHHpyGgAVZ2MjcQoYPh5kcBccAk4jGhZhOgl0IzMAS0QqflFRJQp3fhltCTUcHF1UBiBvWBAaMngdA1oZMDpKcREGSRs4ZwdCGT9VGjw9dkgNDQJoJT4tWDYATy86FVpKIX1qEjYVBgFFEl0VOw5IQC4uYw96MXwBLAd_DwNhY2UpekltJBcCcz1mTzQlHRQUIRMDWX8qYH0oAm0LEwR-SDwFcHcHAxEWNSN6NlgPWmcOBX8dDwAsYwBzZXlHGl5MSGkLZQQEbBw7F2gJWC5gFi4EWVgMBT4ADBMScjA9VEYpLw8aOB5jfTgiVycnKgBoIBZgXno_aEsnKXo0FBtTSSwVQ0g0C1wBRRYOJxs2AmpWJG8cBUUuSSJyBSU1NHFxSTx1TxkRRmZEGHlmNBRLXFAMeEY9IWtkPQZ7Ej9lVUUcIE0GQhQHaw8GaQ8jOFJxVy9cejwfa2UlBm42AGRTZho0U2oRZAxdADN8J19rYHZRNWFtPhdsVxgkUzg6AAVFMzZVcx00ABAlFQ4pWCxHEwoLBF4OJD92Cx5AZUQTV0g6AGAVOgZ3SCQiVzoublVEVzddHHkWfAEoPgM0HjZBViwWV0Y5GVNVHgZKCQhqf247B2RSCgUKBiYsRicAdABjMWkLYQZlc2MOBm8UBhdwYzoqfWJ4JQBWGDp9NRIYeFtJHlRTMzYCakMVdR8ebGF3Mwd-ZABKMlpWOVoSU2N0ZTppC2UIG3lnExVgMBg9a2ATPkJfIBRochoKYAw5PGAYLSQNSjoVfXAzP1xoXDd-fzkoDlACVmtxBG4FAhMgQ2QeBV9HPBB3VQQ4cntfHHJXLw1yQjodaWIPbgUGNRhGWz0Vbkk0OE5SBWwJDQE-CQNRAH1iEEUrBjQfbxQVAXBQEgdhVTQQQWA6LAELNCxWZAYwWmQAJRtmBBN8CwZlVmsTOEtaBWcMTUIYAG4sKAhIMioPTio7MH07IgAwIwldEQoGUgZCEFdvTjYMCT9_A2A5BHdTIFZrdUt5dSQ9PGZCTTxVYgAbW3wvB1YyPxJ6c1ckBg96MWt9IxlkOSN0AGMNB1REGncGZgM5TysEAmlIIiRdR345bFgAbgUCOWB1YDt9YRVHalEWDTZ8bARoSHBGdHQYAQdgaigecwRFF1lYIgkIFBYBX0tAJno4PBhnU1cgAWcPETUCWxtxNCwYcRkyFUxQQB1CbCYyDmgdO2ATNBxPGC88FQItBwQvDxteYxo2d3YECExhQDB1EToeZBNGdHRtHxITWj4PRHUbIUdxHDYKdygLUwFEEB1tKQ&expires=1788660300&token=f08325d9f7668c8d3cfc798ca2413b4f13dcd602a6636a4ce7ac79b5c7e91be2
+#EXTINF:-1 tvg-chno="184",[Football] Columbus Crew vs. Colorado Rapids (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBXpeO0YAL1IzGjhVQFd-CRFGfwQdWmQNcR49VQsBKVUVLxo9DloAZnMOHlZoNQcPVB8aRhEPLEAWCyoJVkZ0dFsfRm1AHyREDiUES246JgoUHxUDTAcETmwsGV1SKA50QjolN3gDKnx4MBgEUjYFckc9AlUTEgRbEEhod2sFc1diBBZ8ASgRUwJBFUVgAQAAFkMIWXQUZGxsO2phQQgweWFtQR9xIAdWBkVge1UgGHNyNj9cYQEECG4cDEZzCQpsQi05Cwc3IFULT2BXeBEIHBEyPHNPIRkLLAwwdhcCMEF7BzAfQjYBeCNAAkF0MHx2RBtkbRQvNWwTDCAIbCJ1Y04PAQwGID9ZLkYGYGo5IVpMOR9gcwcVDC9fLggQDnMAW3tFbkpdDEUCQDleTTIIUBAEOnZyOQJ7Jiw4U2IZAW5kHiEWeCZzUjQPBwJUFHRLVRUhXmgyGw1rLh9DfxcfXVt6CyBgVjh0I0NoUWwgdFpLCTB2UyYmXRxeE3tIMz9RaxwZD2pWDQQ5IhNwESEqa21VYHZJOWJVe18cX3wNBAZYLQkyCjQifCFHJHdTPnRDeUVgZhEOEmgsAA4AHzJ3ThkQKXwBLHlGZUQTB2ktOXoGQhBCZTI2DilYCBQUJTV_QiVHDXQ5PEB1PCZ8QhAuAXYEZEcWBwN7EAIfSVUoFQJhAkE0VAYEQwVFOVBjGyNreyYEcEFSZn5vBDtndFURVw96NQh_PDt7dhBndnA1dQESSGFtTQMYUz0pEkBkNiJZTg4nIHU4BFYQJmJecBE_W1FHBXdMPQdeb1sZaUgAM0VFJR4rSUt5cSYYH0dgSjhubjU_cU5HJ0gVKmh7QzIgWEJ_AwN8HSdeKwQwZlY0HmpuQBd_EiExHWwvAnhRFCRyQh9HYQUffF1lRBd3SxQgHBEyHVhHDh1ZMD8Rc14oIEZjBQZ8ASwNXQY_Y3RITjtSSEIaZB0FMA4VVCp2dSQSExgOIB1mOD9tdBI6W24qGHtgExdlXRIGCjYfD2llOSgPGyMCH18cLlEZBAlbSjM_cU4pFF9cJz1yLlUSBBUFKF1HDCI-dAAlfHQ0PH9VExRyWx8ecEwcDQkNXBx2FEZ0cE8DJQ1KCAZfFVNjcARKDnVrPycEdTMFDi4jDnQQNAwEXSI7HhZcCWJ1BWZrGDYKcHk7N2FoHhBxFzktYANRBEFoIEYMWC8mdAlBFkFUKCIBcUljf0gaZB1sKy5nflsKdXofRi1iXgZ1LwQVREZLLmEGQhRYQhAFW2hUEn1xOglARTE5KQIgCGcWAmN-EAAFW24EMH5FHwBhJAYeaE5GdHQcMQU1ACJ-VRlAHARWAgAAERURUWcnZUgSATNyVCF1emtwKhdJFHh9DhokYBMvH3RvIhsAQxMwVCpIaHcVLD5kexk9O1A5f14qJiVeEy4HdHoGJAFFMDZANCQ7Bx4aMVFuMUFoYj55RBcxJ1YUHDpWRwgeZRMTH0IyPTdXElcUdxw_Ri9FWyJ6cgIXZUc9KWxUVWB2QR4WdAdbEGVlDxVARSwwbVcMf0YrQGBXBEoKTBcEOlNXAABiMAgTekESL2RYHxZpfSYTdhIOE0RyTQReUhckERY1HR1sLywGYSQ_ZH0CGBRyKxJbCz5hZHgdOkhpBTZ9bg1lajMdGVUQLXJ3ZwkAb2M_G3YIOBkLShF0S04idwZiMxYdbCsieGsgIndyJgY-aSg7TzQDOVUQOTh4dDwdWXZOAVBqBBB2bzcCXU5-QjR8NxFZeAwbFxM6JhwRMjdFVTIycTgJFnNlEjVaYG1BH3AfB3wEHiNcESktHBE2EX1QDRFhCQceW1wVNA4bGx89C0t5cQs-CQRTTRZteyQxZGYGPnMGGx5zUycLThMdKi9ULC5BLDgZZGMtJmFoOyIAQD0_TCwULwQeCnN6EngyKwoAGlt5EjN6SDYZUBQAB2xLRyZyNUhoc0Uof1QeHyF8ASgRdQEPORcTPmkLYRQZWXAUYUgyLCp4STseZUQkIRF4O39VcFNjcBM2AWtwCQcRFjUhczMKMBQUITJbXT0aAWsAClUrG2d4FBMiHBEyHQVjNhcJBlttCUNRPFRuehprSjhuBQJEGEYYIQpsZzRhck8ODn1vWjxiTQxxRGguIhtlG39RdzsWUE1JeWllBAh9Z08eYSsean5QKxdQHH4DOGJbHG05RDZ9bUkPdRAfK35INTZCEDgua14mcVJnByQdZltuBQIxBlNrERx9UEU_RFEnMEJtOQJoQUZ1cg97Nw&expires=1788643500&token=3f3edb93521bb95d01b4adc8ee4fcf06fbf82c3cc9f5c8ea79e442df94673c78
-#EXTINF:-1 tvg-chno="183",[Football] Hull City vs Aston Villa (GOZO)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FkAcMBlHGDgHOQQ-DBIoFwVSBxcQfiV9QC8-IwdZADRxRQBqRAFFFkkJWG5CVww1eHkdChZxBHgALzFmWlEoOgtiMz5Abz8WUCw7NHpLAg0ObAFFKn0nAFMNJjAFRCgvdwZCFHlCQjVwEgh_A2A5InQdDAQYSiJyAnMsPGJCSBgLdUACU08BG3N7XxxzaC8ncBl5Oi1rOgFmBhs5d1cofAlSJiVhTjsOUDsnCAV_CCR9E3kWAFoqbgUCGBZZdzV_S0IaFQVFASNpES4cQH4pCVUcGwAMe14EUCtACAJ5GRh0QgprfmVEAVwZHw8EaBcoWBofIRJyAyhYCTsFZVE5eEgRBGsCSUJiSW1bbUgVJDR0HCAfNXkqIgQ0HhNkby4PQWISMHBeMAx2CD8Vem5bI0JTHkMsX1Y5QSUFO35kN3kMYDUgbVAuP0lsFSNiHhAFVR9xEBRrVihfORQTRXAKKXsQORhadA4zeQoHDGgeJXVPfgoxaWoIGXllRBNfb04hHBE2PG5KNWRKOxcxCHwKDVcbPTYrdVYxbXVEAwdYPhxLTiRjDXVGLAsGN38DZFE3ExgKRhFmGwgScjQnc2Qaek4WIncGYgQdUDNZDnZxFDEDYD89OlsMc2I0QCIAUS8Pd0w1KkdvJGBzFF83Vk4sMnMZIBEbUAEZbxYgFVcESgoIShEEZhIgNR1sKwt9dBMKAEx-Nwh-V3MGeEUIW1U0J1pnOCN2cRM7XBg5I3dwLCdmensfCFodKUV3IRJaaysqCBUzClpHAidXMwAoSwNRAFBEBgYYARocegUbFFgRCzxyZEIYUXUROlBpHQB-VQ8vXVgpJy5_PBh6cDMaBHcdaQthKBtDUxUQUAlZYgdXVCwTGA42M18CbgUCOT1RWDEtV3E7EExvESRxExh_A2QlLHBjejUwBRkgXHI-AQtTHHpyGgAVZ2MjcQoYPh5kcBccAk4jGhZhOgl0IzMAS0QqflFRJQp3fhltCTUcHF1UBiBvWBAaMngdA1oZMDpKcREGSRs4ZwdCGT9VGjw9dkgNDQJoJT4tWDYATy86FVpKIX1qEjYVBgFFEl0VOw5IQC4uYw96MXwBLAd_DwNhY2UpekltJBcCcz1mTzQlHRQUIRMDWX8qYH0oAm0LEwR-SDwFcHcHAxEWNSN6NlgPWmcOBX8dDwAsYwBzZXlHGl5MSGkLZQQEbBw7F2gJWC5gFi4EWVgMBT4ADBMScjA9VEYpLw8aOB5jfTgiVycnKgBoIBZgXno_aEsnKXo0FBtTSSwVQ0g0C1wBRRYOJxs2AmpWJG8cBUUuSSJyBSU1NHFxSTx1TxkRRmZEGHlmNBRLXFAMeEY9IWtkPQZ7Ej9lVUUcIE0GQhQHaw8GaQ8jOFJxVy9cejwfa2UlBm42AGRTZho0U2oRZAxdADN8J19rYHZRNWFtPhdsVxgkUzg6AAVFMzZVcx00ABAlFQ4pWCxHEwoLBF4OJD92Cx5AZUQTV0g6AGAVOgZ3SCQiVzoublVEVzddHHkWfAEoPgM0HjZBViwWV0Y5GVNVHgZKCQhqf247B2RSCgUKBiYsRicAdABjMWkLYQZlc2MOBm8UBhdwYzoqfWJ4JQBWGDp9NRIYeFtJHlRTMzYCakMVdR8ebGF3Mwd-ZABKMlpWOVoSU2N0ZTppC2UIG3lnExVgMBg9a2ATPkJfIBRochoKYAw5PGAYLSQNSjoVfXAzP1xoXDd-fzkoDlACVmtxBG4FAhMgQ2QeBV9HPBB3VQQ4cntfHHJXLw1yQjodaWIPbgUGNRhGWz0Vbkk0OE5SBWwJDQE-CQNRAH1iEEUrBjQfbxQVAXBQEgdhVTQQQWA6LAELNCxWZAYwWmQAJRtmBBN8CwZlVmsTOEtaBWcMTUIYAG4sKAhIMioPTio7MH07IgAwIwldEQoGUgZCEFdvTjYMCT9_A2A5BHdTIFZrdUt5dSQ9PGZCTTxVYgAbW3wvB1YyPxJ6c1ckBg96MWt9IxlkOSN0AGMNB1REGncGZgM5TysEAmlIIiRdR345bFgAbgUCOWB1YDt9YRVHalEWDTZ8bARoSHBGdHQYAQdgaigecwRFF1lYIgkIFBYBX0tAJno4PBhnU1cgAWcPETUCWxtxNCwYcRkyFUxQQB1CbCYyDmgdO2ATNBxPGC88FQItBwQvDxteYxo2d3YECExhQDB1EToeZBNGdHRtHxITWj4PRHUbIUdxHDYKdygLUwFEEB1tKQ&expires=1788660300&token=bc3ff58a7b32086d273e069da4e1b6cd0e059bbb78b8a7a6524605edd65ca20f
+#EXTINF:-1 tvg-chno="185",[Football] Everton vs Manchester United (GOZO)
+#EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/everton-vs-manchester-united/
+#EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/everton-vs-manchester-united/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://fingersoon.st/scripts/application1
+#EXTINF:-1 tvg-chno="186",[Football] FC Cincinnati vs. D.C. United (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FkAZPBlAFGtfNwlnBW0ydU5lLDoUeFg8WAgEZEpZAARfU0giERY1JW9rWSlASRAIZX8xPBtZXXxYB0E5QnEOfnhgHCZ_bDU8SggDEVxHKH5wY34AF3olL3oQF2ZXcRsCHBE2H1IRFhx0O0hod3wHBAFuPzIgf1d-BBobAVERLH5vEyA1X1I4Hx1sKxh_agIABRsBBwFnJBpxLR4URHFIfEh1BwdeaC08XRQ_bmhNAQ0PGy0qMHdLeXUuMTpkbEs-WEk3Y1VSAAV3HSsraWwsJQB5OyYRAyEsXHYvYWpALAFYWUkYdRciMH8sOG9_Ug0oBn0aOBheDSR-DSIGQmBMPQtXSWRZEUElC2haIwJhEQQAQiQfE3cHeEMoNAd8dzs0eEESFk5jLxpuDCIReR4GMk98eAY1Cxw9UjMcHXduTXl6ZgILQH0cJQomFAkJVSAlAxMrPgELDSNOIjQmY1MdDgpqOjxkXRAVbDQ7AwlgUD9iaApDAFU8BRJyNDx8FxVpC2UeCFpmRyZdJAZja08oJwdfDQEfCxQRAnIkZEtnKD5Ud0FrZRUPZ2AESGhzFBJjBGh9OwxGLW4FAgAQd0NOOwxxVWByVz48VWo5HWZRFHN8XQYQMVFWHkN2BWNCdjsCVmYIIX93Qx9ybAA9WWkXAwVCKjE6XDwTYRYyNBcTPn1QQiYAAnMWcQoYPBZjVi9wUBwMIhQKVnoPcy84Rm0TL31rARBhQBgwfgoUHGdpAhZmGSQiMEAMOQAXNTl4ch59D2AoPFdRBDtVMx8gFBQlIFhkPTJrRzkGci0zOwJSCAd-ETo3ZUIZPA8uNxVCSgotREscBBVhPQYHBT1nZERdfnt7OSVDRjM8b2pVbEARCWMEbA0ZNV9LeXUPGjJLaBkia2gyKn9CBx11K0hoc2AJAH8YDhpvRAUgBQgmaEBFTgcAUzcBc3BSZn4NKQ9nUjlyUkEhPAtnLAhUBScoV3NKJEt2KBFuSk5lUy8rNkNDBR9EciEYEkAmJm4GHSliSDI8AWtFYVJKHDl8DwodX0gocnRHBQcyayUzWAwyOVl4SR8IZTdgERYxMXMIOSNXawsTExgKVmtxIgN4NUYAdnBOPHd3NWRjbkUjUhYqfwNkNnNFHRFKF3UnEXwlIx1bZTEFbVQhdwZmABZQazgxcEsgDwFtOwYJXVYZDnE9PV8RXX5_VyYKDGg0BG9rGQsBayEpRG4-FGpRNm4FBho3VXAbegBrPAVtawE7QRQda39lMxBCGARCIXoMBkMiPDBadSE2UmcpOhEWNWJBKAFpfRMBHwBnfgQjf1d5UgMTEmIQCABVSjMgdhc7FQAHIyBLFSkIWl8aQQ5gIwdlCUI2VkUUOBwRNmF7XCUFaRAPOWYSCixmXiRBD3gjEkE2QzB1QwAmcEJGak1TEBBBbFwLYRQQEXFcLEY9RQEvTwwnZlZqAiBpThZmAHY2Yk9rGywETy50QmwfFRxWOzwScjQ0W2M0FQ9pJBFYdwE7XB1ZPlMSEi0AGy1Wa3Ubf0MoESJFdSIiXGo7NUVNJSZvO10UeX4iFE5oPiBsewk6UDZTY3BoXX57VUcVc10lA3I1IBt0fw8NfhoeKjxFHwFCJD8bSBAqIUlgFGR6EDYZeS1bCmB2Ig54YnEYMAscJmVlRBd2Y11-f1s5H3dANgxWKwoAd1YbMkNCL0IYRy8cew8bAwt0EHhQaTcbYGAcMA5vABVofA1-TGBtQRtZS3l1JQcgd0cxKl1vMhFFVxseHWwrGUBqKAJeWCZDCFJLeXEDPyVIZCEbU2caKEJWT2VrMgliFBQlDX5yfgFsaToTYyMmE0NLMxRPZzIncGkPbW0HGz1zQxUqeGIeMQxZNgB8MEI1eEoMPkBWRWpdETtsCB8fY193D39SSAAaF2YHfEcVLj4CUzInHBEyMX8dFWBvDEhod3whB09CbUEfFlwJUwsbBVEUCCB4Uzk9bHwkOlQMJRFkEgF2ExgKQRd-PBhOFVNjcFQzIV5JVWB2UBojTTc1Al9nAS1bHAJGMl1LeXUPRxZzYkkUDxRINwZeFRAKN18jZwNRBARjPEoAdTsPc3MwOkt7PX0ORSM5WxMFFl4PLwxEEgVxe20qH2gGPg1DGj8SCmshOUoTPyR8dRFiDi4MCwRxOT8ETQc_aHAieFg5PD1wQwICbFcqKnETExl3CSkPBANRBHF9KTkwYyo4Ai0GJGJFAn9teyk1ERczcQsa&expires=1788660300&token=5b9b65014cf90f4340252a22410396a73f1fe891b4ed73e497ec52a3376abef6
+#EXTINF:-1 tvg-chno="187",[Football] FC Dallas vs. Sporting Kansas City (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FkcRPhlXHDcHOQQ-DBIoFwVSBxcQfiV9QC8-IwdZADRxRQBqRAFFFkkJWG5CVww1eHkdChZxBHgALzFmWlEoOgtiMz5Abz8WUCw7NHpLAg0ObAFFKn0nAFMNJjAFRCgvdwZCFHlCQjVwEgh_A2A5InQdDAQYSiJyAnMsPGJCSBgLdUACU08BG3N7XxxzaC8ncBl5Oi1rOgFmBhs5d1cofAlSJiVhTjsOUDsnCAV_CCR9E3kWAFoqbgUCGBZZdzV_S0IaFQVFASNpES4cQH4pCVUcGwAMe14EUCtACAJ5GRh0QgprfmVEAVwZHw8EaBcoWBofIRJyAyhYCTsFZVE5eEgRBGsCSUJiSW1bbUgVJDR0HCAfNXkqIgQ0HhNkby4PQWISMHBeMAx2CD8Vem5bI0JTHkMsX1Y5QSUFO35kN3kMYDUgbVAuP0lsFSNiHhAFVR9xEBRrVihfORQTRXAKKXsQORhadA4zeQoHDGgeJXVPfgoxaWoIGXllRBNfb04hHBE2PG5KNWRKOxcxCHwKDVcbPTYrdVYxbXVEAwdYPhxLTiRjDXVGLAsGN38DZFE3ExgKRhFmGwgScjQnc2Qaek4WIncGYgQdUDNZDnZxFDEDYD89OlsMc2I0QCIAUS8Pd0w1KkdvJGBzFF83Vk4sMnMZIBEbUAEZbxYgFVcESgoIShEEZhIgNR1sKwt9dBMKAEx-Nwh-V3MGeEUIW1U0J1pnOCN2cRM7XBg5I3dwLCdmensfCFodKUV3IRJaaysqCBUzClpHAidXMwAoSwNRAFBEBgYYARocegUbFFgRCzxyZEIYUXUROlBpHQB-VQ8vXVgpJy5_PBh6cDMaBHcdaQthKBtDUxUQUAlZYgdXVCwTGA42M18CbgUCOT1RWDEtV3E7EExvESRxExh_A2QlLHBjejUwBRkgXHI-AQtTHHpyGgAVZ2MjcQoYPh5kcBccAk4jGhZhOgl0IzMAS0QqflFRJQp3fhltCTUcHF1UBiBvWBAaMngdA1oZMDpKcREGSRs4ZwdCGT9VGjw9dkgNDQJoJT4tWDYATy86FVpKIX1qEjYVBgFFEl0VOw5IQC4uYw96MXwBLAd_DwNhY2UpekltJBcCcz1mTzQlHRQUIRMDWX8qYH0oAm0LEwR-SDwFcHcHAxEWNSN6NlgPWmcOBX8dDwAsYwBzZXlHGl5MSGkLZQQEbBw7F2gJWC5gFi4EWVgMBT4ADBMScjA9VEYpLw8aOB5jfTgiVycnKgBoIBZgXno_aEsnKXo0FBtTSSwVQ0g0C1wBRRYOJxs2AmpWJG8cBUUuSSJyBSU1NHFxSTx1TxkRRmZEGHlmNBRLXFAMeEY9IWtkPQZ7Ej9lVUUcIE0GQhQHaw8GaQ8jOFJxVy9cejwfa2UlBm42AGRTZho0U2oRZAxdADN8J19rYHZRNWFtPhdsVxgkUzg6AAVFMzZVcx00ABAlFQ4pWCxHEwoLBF4OJD92Cx5AZUQTV0g6AGAVOgZ3SCQiVzoublVEVzddHHkWfAEoPgM0HjZBViwWV0Y5GVNVHgZKCQhqf247B2RSCgUKBiYsRicAdABjMWkLYQZlc2MOBm8UBhdwYzoqfWJ4JQBWGDp9NRIYeFtJHlRTMzYCakMVdR8ebGF3Mwd-ZABKMlpWOVoSU2N0ZTppC2UIG3lnExVgMBg9a2ATPkJfIBRochoKYAw5PGAYLSQNSjoVfXAzP1xoXDd-fzkoDlACVmtxBG4FAhMgQ2QeBV9HPBB3VQQ4cntfHHJXLw1yQjodaWIPbgUGNRhGWz0Vbkk0OE5SBWwJDQE-CQNRAH1iEEUrBjQfbxQVAXBQEgdhVTQQQWA6LAELNCxWZAYwWmQAJRtmBBN8CwZlVmsTOEtaBWcMTUIYAG4sKAhIMioPTio7MH07IgAwIwldEQoGUgZCEFdvTjYMCT9_A2A5BHdTIFZrdUt5dSQ9PGZCTTxVYgAbW3wvB1YyPxJ6c1ckBg96MWt9IxlkOSN0AGMNB1REGncGZgM5TysEAmlIIiRdR345bFgAbgUCOWB1YDt9YRVHalEWDTZ8bARoSHBGdHQYAQdgaigecwRFF1lYIgkIFBYBX0tAJno4PBhnU1cgAWcPETUCWxtxNCwYcRkyFUxQQB1CbCYyDmgdO2ATNBxPGC88FQItBwQvDxteYxo2d3YECExhQDB1EToeZBNGdHRtHxITWj4PRHUbIUdxHDYKdygLUwFEEB1tKQ&expires=1788663900&token=a864f5042976f3e4adbe9a78b9cabfdd5ec7cd8271d8a64b21419a300d476660
+#EXTINF:-1 tvg-chno="188",[Football] Hull City vs Aston Villa (GOZO)
 #EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/hull-city-vs-aston-villa/
 #EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/hull-city-vs-aston-villa/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="184",[Football] Le Havre AC vs. Brest (EMBEDSPRT)
+#EXTINF:-1 tvg-chno="189",[Football] Inter Miami CF vs. Atlanta United FC (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPkYLehhyRmMEDEh1FBNFfVxFFHlaLAhlVk8HewJhGUAhfAoCegtAJl1pCnlBWwgaUlRPJB1sLytmE1c1R0U7PQpmFwR1KkVmXWZPJElzBmB1ZxsgcxYvMkNwDQ1bSwNLH3pYOHkJPTV_cRl7XHMTHBEWMRleawwSfUNGdHBwLDFudxkKTgxPZAF7FRxaEyRgYhQnM1MoIhEUFCUEeGYpNWoCJz9vFDwAdEwQCU9zQGJFcgABUhI3MlRsMXJvQSo4YAILEl4EU2NwTz8nb25DIFVOMGVZKBoLfmUlN25gBxBvYB0ef3A5NlkXIXxhQiQfVV5OHnltOD52VDZzeF4mHWlkPAB2LRU-e2wsG0liRCMGUE5iVWtbKwIQVD8FbToxb1sCJ30EH2JGSToad3UzKnVGFRBCGTUUZ3QsDX4SLQcgZV4-W3gEJ1dSEgB8bEVnd2EFDUwHBisDXhoVDlkLEGwKDQZveBU5S0M6O2hRFRAHbT06aCcKG2VMNR8ObHsKDXEse24mJB8XEzohdxUddwZiGQ5WHF0oVFwIf2xDAxJoRis5cXgMCwcTKnlAZSAgWXBGbWlvFWlpfEZ0dBg5VmtxWwNiNTV0AGMODXxBRiUBdlJmfi0kMlwSNwFhXT9GE0QgKF8iTgRGFwt-SXQzHFthDydzDVkRexQOIV5lPDZqWwwJVC8kCWR3PCkcETZjXUUhBg4JDH8DYDIKZFoERT8FKhp6eU5gChIhJU1vGzFwbAYWbToCPndyGgBgZSkjCQACGl4zFCMFdjskc3AWYwJnLzpbKx41XEsRPBMYDhU3fRsKBTQhHHdMPSYJUAAZcxY9MWk4AzIGVjkJRUYhGCtSOjx7EiUcAmQzem9GVWB2fD4jTzwpMmYSW3BHHSJWa3UrIVssU2NwbhQvQGoRPGZvNSxzOB0TfFNGdHRsIjUQASgiATcdOgBpKHVLR0YZDVQwB38KSGh3dScTYF4SRz1YBwRlFDQSUWQpNVxxQjpGcS8XYjBUa1pXJSpETy4qK2sHIHwzPjxrZxM0aUo6IgxsQmdeMAY3dXcEAVhEA0cbXiM_XBg9KV1tPCRSekEBBWIwZh1sKz96cDc_UGcgJnwBLG4FAjoZfVRIHX1yRiJ6cDJibxRfLVtuJGMEaB1GKgQ3cnkGPwt5RC0AUGc5G2BTJnEKHBoYWRM2LXdHCzpudB0-Zy5OAwsQMyBUE1VgclAhDAASLgpmExcXBmcKHCt3GCwEIi50AGcUKl5yE2QNbDsDYREbNUhsE3d4aRglLQEiek8JFBxGQzItUXcpKF9gLjwdbC9sSFAPdXofKipvflg8TQxPY1diHQ9pEgAeWE00JnptIRsJfy08TBkCPTVGPHlgEzsdYGhMK11HHCYRFjFndyY_C2BoASVhHiEZCUcCeWELOwhEV00tfkEIOH1FQWxBKQoeSBRSF2YYOyQeRQp-UzYZNUptKXtdaAo-ZEkRYAwMLGxGExUwA0MFQS11OS1yJSMmFxM6KVBhPAsCbiMXVA0bNVVlVyJUHjkYbwILbgUGA2VGSR8_TncqPFFtPDNJNz8oZkNTCH5yCSEhcRgYAggRIFVXXX57alVgdlJAE38nPw17TS4Hc3MkOBEDOBJSNgcbR0UxBkMSIj9EZxNidmosF3BVVRZnegk7F3tXIF54BDxgBEoKfWFVYHJcPhl7OiwCX1MEHHBaMAcsWwl6djQ3Bn5uFR4AdhhmXW4wHWwaBj4HFw4Jb3AmSyN5S3l1KlNjcEQJPXxFOTRQaDUXSS0BEBQUJQVHZgM3MUEAe2YhU2N0YjE4Q2YpBV5gHS5OLFVrYkoHfhMYDjgRa1g5AhoiCWZCKA5ISTsKQmA1IXwTFWNkfxUhdE8-Hxd7OAliKi4aeVFMKHNIBCBNUUJsUWshYgFnEX9YeyRKPVEmInkVH2ZCdCAjCVE6OREWNTdzZw9uZnRGdHBwCjIgW0t5cWVEE1ZqFRhaFgA-dVQ-O2AGPjRddCsNYx4qQ3wBLHl5DSQCS3RdfntWOz9TTlJmeioALURPOx5YayoYNAUkflwuU2NwbkkLeGBBCgITTzEKJA8eA09RP2APejFrehpybgYjFXYSPidAeTVjA0IkP1dpHxhXdyEQQx4uRBR0DCcGdSYXRnsxDwFpKSdHFDgicA8LbAdWAhcDfRIKa1QhBwYDOmJdWDIge0EKHGFQLSx9aQkXfnEnEwMPejEeZA8BXhAyIgdMCDlpRwphYHwuMx1tKX8CYg&expires=1788643500&token=7349f75f77058bbc3cb0952a21b0dc0e1825ee927ebd4bdc4323e43f2d76fd72
-#EXTINF:-1 tvg-chno="185",[Football] Le Havre AC vs. Brest  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5Fk4ZMxlFAzgHOQQ-DBIoFwVSBxcQfiV9QC8-IwdZADRxRQBqRAFFFkkJWG5CVww1eHkdChZxBHgALzFmWlEoOgtiMz5Abz8WUCw7NHpLAg0ObAFFKn0nAFMNJjAFRCgvdwZCFHlCQjVwEgh_A2A5InQdDAQYSiJyAnMsPGJCSBgLdUACU08BG3N7XxxzaC8ncBl5Oi1rOgFmBhs5d1cofAlSJiVhTjsOUDsnCAV_CCR9E3kWAFoqbgUCGBZZdzV_S0IaFQVFASNpES4cQH4pCVUcGwAMe14EUCtACAJ5GRh0QgprfmVEAVwZHw8EaBcoWBofIRJyAyhYCTsFZVE5eEgRBGsCSUJiSW1bbUgVJDR0HCAfNXkqIgQ0HhNkby4PQWISMHBeMAx2CD8Vem5bI0JTHkMsX1Y5QSUFO35kN3kMYDUgbVAuP0lsFSNiHhAFVR9xEBRrVihfORQTRXAKKXsQORhadA4zeQoHDGgeJXVPfgoxaWoIGXllRBNfb04hHBE2PG5KNWRKOxcxCHwKDVcbPTYrdVYxbXVEAwdYPhxLTiRjDXVGLAsGN38DZFE3ExgKRhFmGwgScjQnc2Qaek4WIncGYgQdUDNZDnZxFDEDYD89OlsMc2I0QCIAUS8Pd0w1KkdvJGBzFF83Vk4sMnMZIBEbUAEZbxYgFVcESgoIShEEZhIgNR1sKwt9dBMKAEx-Nwh-V3MGeEUIW1U0J1pnOCN2cRM7XBg5I3dwLCdmensfCFodKUV3IRJaaysqCBUzClpHAidXMwAoSwNRAFBEBgYYARocegUbFFgRCzxyZEIYUXUROlBpHQB-VQ8vXVgpJy5_PBh6cDMaBHcdaQthKBtDUxUQUAlZYgdXVCwTGA42M18CbgUCOT1RWDEtV3E7EExvESRxExh_A2QlLHBjejUwBRkgXHI-AQtTHHpyGgAVZ2MjcQoYPh5kcBccAk4jGhZhOgl0IzMAS0QqflFRJQp3fhltCTUcHF1UBiBvWBAaMngdA1oZMDpKcREGSRs4ZwdCGT9VGjw9dkgNDQJoJT4tWDYATy86FVpKIX1qEjYVBgFFEl0VOw5IQC4uYw96MXwBLAd_DwNhY2UpekltJBcCcz1mTzQlHRQUIRMDWX8qYH0oAm0LEwR-SDwFcHcHAxEWNSN6NlgPWmcOBX8dDwAsYwBzZXlHGl5MSGkLZQQEbBw7F2gJWC5gFi4EWVgMBT4ADBMScjA9VEYpLw8aOB5jfTgiVycnKgBoIBZgXno_aEsnKXo0FBtTSSwVQ0g0C1wBRRYOJxs2AmpWJG8cBUUuSSJyBSU1NHFxSTx1TxkRRmZEGHlmNBRLXFAMeEY9IWtkPQZ7Ej9lVUUcIE0GQhQHaw8GaQ8jOFJxVy9cejwfa2UlBm42AGRTZho0U2oRZAxdADN8J19rYHZRNWFtPhdsVxgkUzg6AAVFMzZVcx00ABAlFQ4pWCxHEwoLBF4OJD92Cx5AZUQTV0g6AGAVOgZ3SCQiVzoublVEVzddHHkWfAEoPgM0HjZBViwWV0Y5GVNVHgZKCQhqf247B2RSCgUKBiYsRicAdABjMWkLYQZlc2MOBm8UBhdwYzoqfWJ4JQBWGDp9NRIYeFtJHlRTMzYCakMVdR8ebGF3Mwd-ZABKMlpWOVoSU2N0ZTppC2UIG3lnExVgMBg9a2ATPkJfIBRochoKYAw5PGAYLSQNSjoVfXAzP1xoXDd-fzkoDlACVmtxBG4FAhMgQ2QeBV9HPBB3VQQ4cntfHHJXLw1yQjodaWIPbgUGNRhGWz0Vbkk0OE5SBWwJDQE-CQNRAH1iEEUrBjQfbxQVAXBQEgdhVTQQQWA6LAELNCxWZAYwWmQAJRtmBBN8CwZlVmsTOEtaBWcMTUIYAG4sKAhIMioPTio7MH07IgAwIwldEQoGUgZCEFdvTjYMCT9_A2A5BHdTIFZrdUt5dSQ9PGZCTTxVYgAbW3wvB1YyPxJ6c1ckBg96MWt9IxlkOSN0AGMNB1REGncGZgM5TysEAmlIIiRdR345bFgAbgUCOWB1YDt9YRVHalEWDTZ8bARoSHBGdHQYAQdgaigecwRFF1lYIgkIFBYBX0tAJno4PBhnU1cgAWcPETUCWxtxNCwYcRkyFUxQQB1CbCYyDmgdO2ATNBxPGC88FQItBwQvDxteYxo2d3YECExhQDB1EToeZBNGdHRtHxITWj4PRHUbIUdxHDYKdygLUwFEEB1tKQ&expires=1788660300&token=b08c49f4b04dc7faf51a19a9875b89df1c3365d92383d4c1893544908b9d3296
+#EXTINF:-1 tvg-chno="190",[Football] Juventus vs Milan (GOZO)
+#EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/juventus-vs-milan/
+#EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/juventus-vs-milan/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="186",[Football] Maritimo vs Benfica/ (GOZO)
+https://fingersoon.st/scripts/application2
+#EXTINF:-1 tvg-chno="191",[Football] Maritimo vs Benfica/ (GOZO)
 #EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/maritimo-vs-benfica/
 #EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/maritimo-vs-benfica/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://fingersoon.st/scripts/application4
-#EXTINF:-1 tvg-chno="187",[Football] Nice vs. Le Mans (EMBEDSPRT)
+#EXTINF:-1 tvg-chno="192",[Football] Orlando City SC vs. San Diego FC (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPkYLehhyRmMEDEh1FBNFfVpNFDEVMwMpDkEKIgseAyJqSyEvfg09Z0VOMD4MWwgqfEIHbEh7XxhAcVZyRVsnABdgOzJ4AhxiBU4_e1FTICQGZTQ4TBUlGFlUNSh9Ryk4YXUnfUQOPxpWbCgtDkYgMXoBRRJ1OFg7eWoGYwRsEhcbBCo8djk6aAcSIiFpQEAGBnJHBF81GxV6A1EAdGQEEh8AXwJDGCIbY2cVJHxVIGIEVSEjbTQhAFlDKRQCcyMREgpfLm4pMnQAYxYLUnU9YUZFHRMJPxstYGkgAEdyAjw6BT04YghGHlVKThUJexEGeUUNbXIfXg9VYRETA2Q8HTcDORl8ARsyXWg1GG5TMWZFFgNtDjNYbEAVVXFPGQ8BGwUGJ1sKMjgBVRAOb20mEUxlFTZ8JCoCf3AxCX1icBYtSjh7QixOI0RECyZ1Zj9nAWcyJmEqNDFAFBs_ZRI7MDoGVyh6GE4yWlgaDk5yAjd2Fz4eVg4UPXByCRBvEg5AIGcsCQcZEAN8BEoOVG1GPxEWMTpiMC9qQ0MZLQ9wITg4AhsORQZOK2gUSh4MWjYCRkkjZQEPXCICfjljBGh6AnwBLH5_FQMSFxM6OnhmEmRDESVxChgeE1lLVxJxfT8EbHkZBVQoFGlnVU4_C1MnEXpLMixLFT5uemxRK1FCBwccAAYpdSMZA2p3LghcBkIUBU0WAmpoOjsUFCUXeng4P29VWA9mDU9pAxlLFVBXPDlXYD8legsJNVVgNz9wfAcSCWNdJ2YpBTNAFi8PUWkjNAUSNAxWPRgpXksONEwPejU_XSA-dnICBn9kFQlTEwMif2NFHl0PCzRZERMceVkkGjJBDx9ADCQCfxE9Bw91FXcGZi8dTykPHllxV34AW38ZfAEoDl0sGnQAYzcgWlo5M1p2PBZAFQsqeGsWYwRoDhkfelwNXnYBOlkTMBwAURRkfx0HE2sZOX8DYDACY3w8KW1XBSJ4EiITcUI9HUBGImBcViIMewQDYwBNEgBaWC0VAEE2IlwLBRlfeD4nQXMZGEQcP2ELOAMxXGIyIXFEJjhtcQMGQysuGkpONAhRSCljZxUxEwp7XxxUbTUST0wFGwwWXAkScjQdem4NfGhnIWREaiMRDgknaEZMKwETGAombEBZEg4OMBhoah0ZdUo0G31wAAUdbC8tc05WE11rJTAQBCk4QhAYaWAYSQdVTkB3BmIDAmBmIRlhcVYyZxoFMTZBKj1QcxQJFxM-IF9EITECHT8YbwciLF5fKTYHZAsjD0dcBwY4PzN_VRoGWEskC05PMw1Qe18YB18VKgVmfREABSN9QDo6aABEOyl6c0EieEgeF0ocXhZwHjoITFB7ORdfGxkFFyUcfnMxeF5HFD5AAUUSCxEVCGB3LSRVfXwaM2MaJwUWPRxrVw55WGQSKl5tFmIAJxo9dV9Rd2d6egAOdBgvAiQAPlZZNB0ORzsoWHQaMgxqPxsHUVYwQB8hPmtHKBxRBRMERQRKDlxKMh5tEj0AezI-LF5CIHJSSHwCMgVfLhJyMCQGVRArSlQkCFpBPh9fLwQIQ3EGdnhiEDILSyw9ZHU-NkNGDmkLYTl3BmYBY38ZFAhmbAgLd28RHxJ7Xh1uJQAgeFQcBXNZQQBZVDQwDhBZG3xnEHBmexgyEX0mclwpTiNfc11-f2cydwZiDx11HQkbaUgWIWxsOAstRgYsBgECEGVtNyFrGiU6AE09E3EKKTFVEFIreXMSHWFJJG4FAhx0AGMdPUhmFhtSQDsWey8eNnsDUQB1WwQ4HVscJQcRF3QAZzsFTVk1C2NOMz5CKB9iAHUPIg4PejUSezZ9RXUsBWp1Gxx7UhoZbFIzFk0aICIIczowUWgtBTV9Jh11FRwJeWoIeF1pGyZGXQJhADdYFgkWIjQPRBkfYFcMA14OIzgFUS0UVhMCGF8BRRZbFVQ4BXExYwRsEjEYSgZuBQZTY3BFMyFtQEUiWGUHHVcGNQlfSjEOfX98EWkWXAkFDjsDYVgtaQthBRlZQx1xChwZN0ZTCh5uRAkRMl5YAQIrGHQAYzd9fmIzY2wSQGxdbBc4dRQKdE98bUEbASc_DhkwBHZlSwpSWioXBRMRB1MxWihzQDIEYF98FW5-KSlbcUMBdFUiBXobOgtBV0cbThY8PAcQEydnHx8pIAEJBHtxNR0BTgEGVWESKHpxAw5AG1o-fGk0AmMfbUEbdDkqfSkmFUEUFTxMcxQoB3AvDV97Xh4UFSc&expires=1788643500&token=15678a45d127820c454cbd8a5e85afafb23f98cf9cbaee4225d82e4b38241e3e
-#EXTINF:-1 tvg-chno="188",[Football] Nice vs. Le Mans  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FkwCPhlXE2tfNwlnBW0ydU5lLDoUeFg8WAgEZEpZAARfU0giERY1JW9rWSlASRAIZX8xPBtZXXxYB0E5QnEOfnhgHCZ_bDU8SggDEVxHKH5wY34AF3olL3oQF2ZXcRsCHBE2H1IRFhx0O0hod3wHBAFuPzIgf1d-BBobAVERLH5vEyA1X1I4Hx1sKxh_agIABRsBBwFnJBpxLR4URHFIfEh1BwdeaC08XRQ_bmhNAQ0PGy0qMHdLeXUuMTpkbEs-WEk3Y1VSAAV3HSsraWwsJQB5OyYRAyEsXHYvYWpALAFYWUkYdRciMH8sOG9_Ug0oBn0aOBheDSR-DSIGQmBMPQtXSWRZEUElC2haIwJhEQQAQiQfE3cHeEMoNAd8dzs0eEESFk5jLxpuDCIReR4GMk98eAY1Cxw9UjMcHXduTXl6ZgILQH0cJQomFAkJVSAlAxMrPgELDSNOIjQmY1MdDgpqOjxkXRAVbDQ7AwlgUD9iaApDAFU8BRJyNDx8FxVpC2UeCFpmRyZdJAZja08oJwdfDQEfCxQRAnIkZEtnKD5Ud0FrZRUPZ2AESGhzFBJjBGh9OwxGLW4FAgAQd0NOOwxxVWByVz48VWo5HWZRFHN8XQYQMVFWHkN2BWNCdjsCVmYIIX93Qx9ybAA9WWkXAwVCKjE6XDwTYRYyNBcTPn1QQiYAAnMWcQoYPBZjVi9wUBwMIhQKVnoPcy84Rm0TL31rARBhQBgwfgoUHGdpAhZmGSQiMEAMOQAXNTl4ch59D2AoPFdRBDtVMx8gFBQlIFhkPTJrRzkGci0zOwJSCAd-ETo3ZUIZPA8uNxVCSgotREscBBVhPQYHBT1nZERdfnt7OSVDRjM8b2pVbEARCWMEbA0ZNV9LeXUPGjJLaBkia2gyKn9CBx11K0hoc2AJAH8YDhpvRAUgBQgmaEBFTgcAUzcBc3BSZn4NKQ9nUjlyUkEhPAtnLAhUBScoV3NKJEt2KBFuSk5lUy8rNkNDBR9EciEYEkAmJm4GHSliSDI8AWtFYVJKHDl8DwodX0gocnRHBQcyayUzWAwyOVl4SR8IZTdgERYxMXMIOSNXawsTExgKVmtxIgN4NUYAdnBOPHd3NWRjbkUjUhYqfwNkNnNFHRFKF3UnEXwlIx1bZTEFbVQhdwZmABZQazgxcEsgDwFtOwYJXVYZDnE9PV8RXX5_VyYKDGg0BG9rGQsBayEpRG4-FGpRNm4FBho3VXAbegBrPAVtawE7QRQda39lMxBCGARCIXoMBkMiPDBadSE2UmcpOhEWNWJBKAFpfRMBHwBnfgQjf1d5UgMTEmIQCABVSjMgdhc7FQAHIyBLFSkIWl8aQQ5gIwdlCUI2VkUUOBwRNmF7XCUFaRAPOWYSCixmXiRBD3gjEkE2QzB1QwAmcEJGak1TEBBBbFwLYRQQEXFcLEY9RQEvTwwnZlZqAiBpThZmAHY2Yk9rGywETy50QmwfFRxWOzwScjQ0W2M0FQ9pJBFYdwE7XB1ZPlMSEi0AGy1Wa3Ubf0MoESJFdSIiXGo7NUVNJSZvO10UeX4iFE5oPiBsewk6UDZTY3BoXX57VUcVc10lA3I1IBt0fw8NfhoeKjxFHwFCJD8bSBAqIUlgFGR6EDYZeS1bCmB2Ig54YnEYMAscJmVlRBd2Y11-f1s5H3dANgxWKwoAd1YbMkNCL0IYRy8cew8bAwt0EHhQaTcbYGAcMA5vABVofA1-TGBtQRtZS3l1JQcgd0cxKl1vMhFFVxseHWwrGUBqKAJeWCZDCFJLeXEDPyVIZCEbU2caKEJWT2VrMgliFBQlDX5yfgFsaToTYyMmE0NLMxRPZzIncGkPbW0HGz1zQxUqeGIeMQxZNgB8MEI1eEoMPkBWRWpdETtsCB8fY193D39SSAAaF2YHfEcVLj4CUzInHBEyMX8dFWBvDEhod3whB09CbUEfFlwJUwsbBVEUCCB4Uzk9bHwkOlQMJRFkEgF2ExgKQRd-PBhOFVNjcFQzIV5JVWB2UBojTTc1Al9nAS1bHAJGMl1LeXUPRxZzYkkUDxRINwZeFRAKN18jZwNRBARjPEoAdTsPc3MwOkt7PX0ORSM5WxMFFl4PLwxEEgVxe20qH2gGPg1DGj8SCmshOUoTPyR8dRFiDi4MCwRxOT8ETQc_aHAieFg5PD1wQwICbFcqKnETExl3CSkPBANRBHF9KTkwYyo4Ai0GJGJFAn9teyk1ERczcQsa&expires=1788660300&token=ee0438d294f9af5000fa574c57eeadee9107fc9447f2141fcd1e6c2b7aa78207
+#EXTINF:-1 tvg-chno="193",[Football] Philadelphia Union vs. CF Montréal (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="189",[Football] Schalke 04 vs Bayern MUnchen (GOZO)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FlMYOxlJAzgHOQQ-DBIoFwVSBxcQfiV9QC8-IwdZADRxRQBqRAFFFkkJWG5CVww1eHkdChZxBHgALzFmWlEoOgtiMz5Abz8WUCw7NHpLAg0ObAFFKn0nAFMNJjAFRCgvdwZCFHlCQjVwEgh_A2A5InQdDAQYSiJyAnMsPGJCSBgLdUACU08BG3N7XxxzaC8ncBl5Oi1rOgFmBhs5d1cofAlSJiVhTjsOUDsnCAV_CCR9E3kWAFoqbgUCGBZZdzV_S0IaFQVFASNpES4cQH4pCVUcGwAMe14EUCtACAJ5GRh0QgprfmVEAVwZHw8EaBcoWBofIRJyAyhYCTsFZVE5eEgRBGsCSUJiSW1bbUgVJDR0HCAfNXkqIgQ0HhNkby4PQWISMHBeMAx2CD8Vem5bI0JTHkMsX1Y5QSUFO35kN3kMYDUgbVAuP0lsFSNiHhAFVR9xEBRrVihfORQTRXAKKXsQORhadA4zeQoHDGgeJXVPfgoxaWoIGXllRBNfb04hHBE2PG5KNWRKOxcxCHwKDVcbPTYrdVYxbXVEAwdYPhxLTiRjDXVGLAsGN38DZFE3ExgKRhFmGwgScjQnc2Qaek4WIncGYgQdUDNZDnZxFDEDYD89OlsMc2I0QCIAUS8Pd0w1KkdvJGBzFF83Vk4sMnMZIBEbUAEZbxYgFVcESgoIShEEZhIgNR1sKwt9dBMKAEx-Nwh-V3MGeEUIW1U0J1pnOCN2cRM7XBg5I3dwLCdmensfCFodKUV3IRJaaysqCBUzClpHAidXMwAoSwNRAFBEBgYYARocegUbFFgRCzxyZEIYUXUROlBpHQB-VQ8vXVgpJy5_PBh6cDMaBHcdaQthKBtDUxUQUAlZYgdXVCwTGA42M18CbgUCOT1RWDEtV3E7EExvESRxExh_A2QlLHBjejUwBRkgXHI-AQtTHHpyGgAVZ2MjcQoYPh5kcBccAk4jGhZhOgl0IzMAS0QqflFRJQp3fhltCTUcHF1UBiBvWBAaMngdA1oZMDpKcREGSRs4ZwdCGT9VGjw9dkgNDQJoJT4tWDYATy86FVpKIX1qEjYVBgFFEl0VOw5IQC4uYw96MXwBLAd_DwNhY2UpekltJBcCcz1mTzQlHRQUIRMDWX8qYH0oAm0LEwR-SDwFcHcHAxEWNSN6NlgPWmcOBX8dDwAsYwBzZXlHGl5MSGkLZQQEbBw7F2gJWC5gFi4EWVgMBT4ADBMScjA9VEYpLw8aOB5jfTgiVycnKgBoIBZgXno_aEsnKXo0FBtTSSwVQ0g0C1wBRRYOJxs2AmpWJG8cBUUuSSJyBSU1NHFxSTx1TxkRRmZEGHlmNBRLXFAMeEY9IWtkPQZ7Ej9lVUUcIE0GQhQHaw8GaQ8jOFJxVy9cejwfa2UlBm42AGRTZho0U2oRZAxdADN8J19rYHZRNWFtPhdsVxgkUzg6AAVFMzZVcx00ABAlFQ4pWCxHEwoLBF4OJD92Cx5AZUQTV0g6AGAVOgZ3SCQiVzoublVEVzddHHkWfAEoPgM0HjZBViwWV0Y5GVNVHgZKCQhqf247B2RSCgUKBiYsRicAdABjMWkLYQZlc2MOBm8UBhdwYzoqfWJ4JQBWGDp9NRIYeFtJHlRTMzYCakMVdR8ebGF3Mwd-ZABKMlpWOVoSU2N0ZTppC2UIG3lnExVgMBg9a2ATPkJfIBRochoKYAw5PGAYLSQNSjoVfXAzP1xoXDd-fzkoDlACVmtxBG4FAhMgQ2QeBV9HPBB3VQQ4cntfHHJXLw1yQjodaWIPbgUGNRhGWz0Vbkk0OE5SBWwJDQE-CQNRAH1iEEUrBjQfbxQVAXBQEgdhVTQQQWA6LAELNCxWZAYwWmQAJRtmBBN8CwZlVmsTOEtaBWcMTUIYAG4sKAhIMioPTio7MH07IgAwIwldEQoGUgZCEFdvTjYMCT9_A2A5BHdTIFZrdUt5dSQ9PGZCTTxVYgAbW3wvB1YyPxJ6c1ckBg96MWt9IxlkOSN0AGMNB1REGncGZgM5TysEAmlIIiRdR345bFgAbgUCOWB1YDt9YRVHalEWDTZ8bARoSHBGdHQYAQdgaigecwRFF1lYIgkIFBYBX0tAJno4PBhnU1cgAWcPETUCWxtxNCwYcRkyFUxQQB1CbCYyDmgdO2ATNBxPGC88FQItBwQvDxteYxo2d3YECExhQDB1EToeZBNGdHRtHxITWj4PRHUbIUdxHDYKdygLUwFEEB1tKQ&expires=1788660300&token=33716fed678a676f80b4bbc15bb37e8ede246dfc6b64c2b9718f23ec46ce89db
+#EXTINF:-1 tvg-chno="194",[Football] Querétaro vs. Monterrey (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-09-05/qro-mty
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=liga-mx/2026-09-05/qro-mty
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-05/qro-mty/playlist.m3u8?tk=0Hi0HCoxSztK_C9C8Q6x9Q&e=1788690648
+#EXTINF:-1 tvg-chno="195",[Football] Querétaro vs. Monterrey (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AA5AZxtVBTsVMxkjDkEKIgseAyJqSyEvfg09Z0VOMD4MWwgqfEIHbEh7XxhAcVZyRVsnABdgOzJ4AhxiBU4_e1FTICQGZTQ4TBUlGFlUNSh9Ryk4YXUnfUQOPxpWbCgtDkYgMXoBRRJ1OFg7eWoGYwRsEhcbBCo8djk6aAcSIiFpQEAGBnJHBF81GxV6A1EAdGQEEh8AXwJDGCIbY2cVJHxVIGIEVSEjbTQhAFlDKRQCcyMREgpfLm4pMnQAYxYLUnU9YUZFHRMJPxstYGkgAEdyAjw6BT04YghGHlVKThUJexEGeUUNbXIfXg9VYRETA2Q8HTcDORl8ARsyXWg1GG5TMWZFFgNtDjNYbEAVVXFPGQ8BGwUGJ1sKMjgBVRAOb20mEUxlFTZ8JCoCf3AxCX1icBYtSjh7QixOI0RECyZ1Zj9nAWcyJmEqNDFAFBs_ZRI7MDoGVyh6GE4yWlgaDk5yAjd2Fz4eVg4UPXByCRBvEg5AIGcsCQcZEAN8BEoOVG1GPxEWMTpiMC9qQ0MZLQ9wITg4AhsORQZOK2gUSh4MWjYCRkkjZQEPXCICfjljBGh6AnwBLH5_FQMSFxM6OnhmEmRDESVxChgeE1lLVxJxfT8EbHkZBVQoFGlnVU4_C1MnEXpLMixLFT5uemxRK1FCBwccAAYpdSMZA2p3LghcBkIUBU0WAmpoOjsUFCUXeng4P29VWA9mDU9pAxlLFVBXPDlXYD8legsJNVVgNz9wfAcSCWNdJ2YpBTNAFi8PUWkjNAUSNAxWPRgpXksONEwPejU_XSA-dnICBn9kFQlTEwMif2NFHl0PCzRZERMceVkkGjJBDx9ADCQCfxE9Bw91FXcGZi8dTykPHllxV34AW38ZfAEoDl0sGnQAYzcgWlo5M1p2PBZAFQsqeGsWYwRoDhkfelwNXnYBOlkTMBwAURRkfx0HE2sZOX8DYDACY3w8KW1XBSJ4EiITcUI9HUBGImBcViIMewQDYwBNEgBaWC0VAEE2IlwLBRlfeD4nQXMZGEQcP2ELOAMxXGIyIXFEJjhtcQMGQysuGkpONAhRSCljZxUxEwp7XxxUbTUST0wFGwwWXAkScjQdem4NfGhnIWREaiMRDgknaEZMKwETGAombEBZEg4OMBhoah0ZdUo0G31wAAUdbC8tc05WE11rJTAQBCk4QhAYaWAYSQdVTkB3BmIDAmBmIRlhcVYyZxoFMTZBKj1QcxQJFxM-IF9EITECHT8YbwciLF5fKTYHZAsjD0dcBwY4PzN_VRoGWEskC05PMw1Qe18YB18VKgVmfREABSN9QDo6aABEOyl6c0EieEgeF0ocXhZwHjoITFB7ORdfGxkFFyUcfnMxeF5HFD5AAUUSCxEVCGB3LSRVfXwaM2MaJwUWPRxrVw55WGQSKl5tFmIAJxo9dV9Rd2d6egAOdBgvAiQAPlZZNB0ORzsoWHQaMgxqPxsHUVYwQB8hPmtHKBxRBRMERQRKDlxKMh5tEj0AezI-LF5CIHJSSHwCMgVfLhJyMCQGVRArSlQkCFpBPh9fLwQIQ3EGdnhiEDILSyw9ZHU-NkNGDmkLYTl3BmYBY38ZFAhmbAgLd28RHxJ7Xh1uJQAgeFQcBXNZQQBZVDQwDhBZG3xnEHBmexgyEX0mclwpTiNfc11-f2cydwZiDx11HQkbaUgWIWxsOAstRgYsBgECEGVtNyFrGiU6AE09E3EKKTFVEFIreXMSHWFJJG4FAhx0AGMdPUhmFhtSQDsWey8eNnsDUQB1WwQ4HVscJQcRF3QAZzsFTVk1C2NOMz5CKB9iAHUPIg4PejUSezZ9RXUsBWp1Gxx7UhoZbFIzFk0aICIIczowUWgtBTV9Jh11FRwJeWoIeF1pGyZGXQJhADdYFgkWIjQPRBkfYFcMA14OIzgFUS0UVhMCGF8BRRZbFVQ4BXExYwRsEjEYSgZuBQZTY3BFMyFtQEUiWGUHHVcGNQlfSjEOfX98EWkWXAkFDjsDYVgtaQthBRlZQx1xChwZN0ZTCh5uRAkRMl5YAQIrGHQAYzd9fmIzY2wSQGxdbBc4dRQKdE98bUEbASc_DhkwBHZlSwpSWioXBRMRB1MxWihzQDIEYF98FW5-KSlbcUMBdFUiBXobOgtBV0cbThY8PAcQEydnHx8pIAEJBHtxNR0BTgEGVWESKHpxAw5AG1o-fGk0AmMfbUEbdDkqfSkmFUEUFTxMcxQoB3AvDV97Xh4UFSc&expires=1788658500&token=c21619cd5457477f18c3d6d77aae036b812fe535cb1c07e0b63f16665db8f425
+#EXTINF:-1 tvg-chno="196",[Football] Schalke 04 vs Bayern MUnchen (GOZO)
 #EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/schalke-04-vs-bayern-munchen/
 #EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/schalke-04-vs-bayern-munchen/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="190",[Football] Sporting CP vs. C.D. Nacional (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=portuguese-liga/2026-09-05/scp-cdn
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=portuguese-liga/2026-09-05/scp-cdn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://messi.damitv.st/live-hls/channel/portuguese-liga/2026-09-05/scp-cdn/playlist.m3u8?tk=ALFAjrwD4ND7pY_LmwaDcg&e=1788681648
-#EXTINF:-1 tvg-chno="191",[Football] Sporting CP vs. C.D. Nacional (EMBEDSPRT)
+#EXTINF:-1 tvg-chno="197",[Football] Seattle Sounders FC vs. Red Bull New York (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBTgcK0cbLEIlBTQfTRErWAxCYgYSWmQBc11vHlUANhtJLB1mVAcvCnQ9AAFZNyhwbjtkQ0s_Jg0mFSJ5QBN-Rg96MShkW39EMRkifHItNXZhGmEDSzBjUC49LANnICpCYQAxMUE4JXwtFxoKZzF6Sm05GVBpJzUPOz05fwNRAHtMfRIRfwtuBQYsNXAWPDt4WjxrARctOWg9XQ4DcFMWUUE-PBIWXA11DjowdBJJBU17JBhlYho8fSg9agFXNTFjQAQpMVYkGQMZHTN5GEkpYEo0dwZmGRNTCCBpQ0cJAQdLPgQIfC0NRhg8HlEXKz9sa0AdU09BDQgGDA58Rxl_fGt7Jj10HB4CDgI_XBEvHnJiHTFbbToAby4sbkAUF38AR31FKABYfE5zMSNwFxAgVWk0OwdQHxZuEDsZSWcBJHJQDysXZTwEfAhONEZYLnxMT0ggQkEEPnQbIm8EZSY0b14RGCgBFjJkeAUSURRBL3R7SDFcXRUWTw8fP3MVKgxYejEUGGcEHW54MGJLdToOCXoWAHoBRRZVEFs3FBQlKGxECkMrVhQgDhofGlMQDQlLZUgobhFFBg0nKwpDSzd3D3t5C2prNG4FAkQgFxM6eXF2BRERFjUieRsPbEYTMWMEbDs6MV5aH3AXASYHaw8CWksSamFQQScKLjoZf0kmPkVhG0cSeVwmUCg5JXcSEC57QB8AbHIhEF17XxwATwIQZBwfEnwBKBp7EgYdBEdOCGhuSWoFHEQNUSohMVJiKzd0fywcPXU6MnEWOTBicUsgaEoDMEYTIBdQFD48ABAgHlhJPQA2XgM5TWVEF1RPNjl4EQQFeWEaEVJuHip6YVEMU3suHTEEHhF4Mxo4WVMZGE5vIgF5FDIfDggIfwNkOw9BXSo3MWRacwExQTsXEz4JU08cdwZmODhbJyQ7X3QoBE5hLgMQfhtuBQIwO3RoSgpQFQc5XxY_BAEsCWx6HxMBZW0cVmt1PQ9iFgILBkUTJXZxJBB3RzIFQTs_aFlUNh51cCZKaFgfDVsyEzdrUyAlUmgDGll9MT9ADgQQQR4rcwVMJhg0dz8scC4YGgZjFQFNSCgZTEs7EFA1NGtiFyUBBA96NTx4OB9OJjs5ZwRKDhwRMh58awJkaRo8bEFoNwMAfQJBLlkmDBJyNAQHUk8VAG02G25vEgF0NykTeHIUFxMYCgQbW1seXAEbEnsWPz9Mcx5qZh1GH1QzXX8DYBcQbhIEMAlkWz9mcDsTXVM8Ol4QEgoRFjE4Xjk8OQcfKwphcwcFNkokOwYONQFkVUoACFs5MHlQFR5ZNjkDS00nH14PejFvShgnBAxDM2sXNXpOWTxrBkE0MXsOXCp9SgoFRGh7PxgLNwVNOkUbfE0NHgt0Ix94dj5gXzoJNkUDUQAFZTAhCGIgKVQXQjhYcQwgC3U7H21SAWFZGQ8iW28CcA5TPxQdSlx6ZhBEImVmDigMRwY9UFw7BQ86JiBddg4gAh4aMm9EWz1BdR8cAFU-G19mFQdDAUUWXTcvFmgQKRJ1RhsFNlctf1MiQiBZF0kpHBE2JwBQHzNLKTkAX0MqDVFbISErZAt7eQguEGBZOjpqFjg1RUMBcQocJH8DZBVxcW0xIQ55BQZ2BS89eWlIGmBGBiN-URMdciRcCFxWICIAZHwyFHIdfWcRJhB6bzB1UkpIIFl2UmZ-Gi9_A2AbD3tpLDIBXRssbQYGKUZUECsIYgQTY2g4OWpnODIFTykBf34MGD0FXyZ4GSw_ClsyaQthGncGZhIlSRsLE1dCLwR1WzsfExZcDXQxOhp2SQoiCXIRdwZiNB1MJCgDZkwnLExcOktoYAIvD2VEF3lpIHpLFioGbHAUBHovBxFpUCcEQ24FC2BmNz1QAhMnXm8wGnt2Ggp_bwdgXBQGLkNfFnMOQ30_YQMvOQ4uJz0LRRoEUG0lOwNUIgxXbh8QWgNRBFVhcRFtZDxuBQYsE3NYEGkLZVVgdkA8OWw9WCpdZxMPWXIQIDdfPAN8FUIzAgRKDgttPQBnXSJxChwYEVxBCWMEaDweLkYHE28uNzNZTE4GDEgedwZmOGV_Hy5raRBUflMYMhEdAQd5ThZTY3ATMTgAejYHcGBEElMnNx8AEQUVXUV_ARtVPwlhNUI3BWw_LlUSRQJyUC0de2YnA0RVUwlAYhkVbwUeKmZ1IQtLEx8DdRIzHgdLDh5UHA8gf3MXHE5vfxcUfDkPYnVTY3BmLy1zSiAWRxEaJE0OCSACcjsfUQ97N3wAKg&expires=1788645900&token=e6f03de5fbdf5f19c713dcd85c679a88fbb6939b728b73d951842d717473fba9
-#EXTINF:-1 tvg-chno="192",[Football] St Mirren vs. Celtic (EMBEDSPRT)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FlAVMxlWFTpBYQozVRtXDWcZMDw9eiMAATcZGUAUADRBaxYiDFRSZnovOm8FVRIpRWQbJiB8LCEEdxkWBUkIHE8RMRFYUDwcejYfDF9tDid9Eg46b0AgAnwkOwFTFh0cWm1VYHJpEWFZFiE_FBQlHFJofzcuchcHDnVFC19xG3xtESZiZEMcIncVSGh3ZC0KV2x7QhBHNh99ETA8WmQOHAkTAQRDcR0YYjYIEGMSOi1UYXFCPGoHDxJyND91Si4BClEROHMVFiJPDyIZd1c7DHlJfiAqZiZ7eCcdZ2sRIC1tbhEoDW42Z206KihkEy0yWER4JAt4LyZULz8cZnYIDQ1SQiYNEhphDi9ebAZfUAFEaH4bNV8kD15zAjlwdzYaelsxMFZgDRNgEDsIfm0rflNeMSVpRgJzRTYTIlhtPQMMFjMXRn0DDVMvXyJIdVs1dUl9Sjp-NnNUKA8zcFYpPlxhQxt-SictXx85MGd_WwAFUxwxGwM3LWUOU2NwTDZ6VAZCFFp-GRYILAggWh85L31LeQYcQShzTRpDY2AUAQppUR0GBR0mZUBtNQAUFCF0Rw96MWx7Oz50ZUQTRGA9Lg9URQARFjEncTYAbmVhNDFBHwIEF1AGKQ8VAmdBEwgbem0fF0xXPAcMFSdoXEELCUJvexs7cQ0kZRggB3ZEXX5_EhkzYnZBA1l7XxxgajE2ehwuRR1iI3IPcU5ia0gMAFJANBpFZiIwVzorDkhgNQlXehhANWIHOFUyQQZxSTIfXxJGEWxKFCFLMQA3Q1xGdHBMJj0sclw_YA0zPHdLSD9JaDdgfkEmMlY2WipraRAqX0E6Eg1EIhlkDUYUeRcuKRwRMgp9UwA2fDY6bgkQEnFcD3o1HFkCJxJyNB5eQgEFWE0iGXZcPDJIFyAvFBQhAFxsAUEfWlg8XCtEGWIYCigPaEkic3cwAB1sKwl1czUybB4sGDB8PB91AxUUY1gdHgtLAgdsZy06AW8GK3dKESNQczorMFglOH8tLxdZWSglc1NIGgEXETpTMykLVmENKH0eCh4URwUTfDgZHXZJExUIcEEUcxZSZn47JgxlXwULXn9tQRsWXAl7CDkkAnA8HQ9TPgZxEiAeCikHEnYDUQRjHztEAAogDX4aPTRnbREIcGokJWUBRRZPHAVvZE0iK3VjfzQqRj4lDxJPYHlNFXwcETYmYnxPGHsOOm9Fd1MLdEU6Ny9UXSlvZUQXXkcfHVoVSRp4cy4bTjEUEEEXLQVmfDxBFQIWAlUNAjN4QBAYYFkbFm1MUmZ6aBQsXRUvc1Rzfj5vRBQHDnITEldiKH1Jbxw7d1Y1Z3QfVQN_XBl1fGQkBgsBORh6DCQYBkYcKFVXVWByFzgsag88FFNFNHJfQBgHNQE4AHoZACcHQD8uQUk5MwIcDiNfGhRoAHczdEV9DwU9Bgo9WCQOHWMWHAdDTyA_UhBDBnloGm9HUFYvexg8NQ5VKy5iN1NjcEQRDnV6RhhgZxsHTjEJGQVCAXJHQX5CPBZcDUJ0AjlVUg8YY00VG39DBj1qLDo_AWgrHnd4MDEvYFsDUDERJxcTOgUcETIkA2MwLWoJJzF8ZyYfWmEAQw9qCz1GCgM1e2sCfWtOABFQEjlgeRMsKQd2MhZ3YgY7YFgHc0UtJHQAZzwOHBE2Kn1pNDB5BgMvVnwlNk5ePRs-Ai8_dhc6Hl9zQRlRFxkYc20jEFM6W2tcaTocWBIyOXwBLCEScjQ0Q1A9KnBFFB52ZwYnVBRIaHdlEgp9biABNwM_KhJyMBJ7VQIJYHQaFl5eASYAbz42VR5GdHBhACtvQVsRYxgiMmJjCSZyewYWdlEzGUBnOANHQSEjQEYGOw9xOyFvCz0hBkUyJ01RCScBHB5hdGZdG0MfDRdaEywREVogHl53BgRqTkg-c0hVYHZHPG1aajoIFBQlHHRrMRt8AShuBQISGl91G3lJTzEifUsvDGswAQh5bTZyVBptQRsBIAZlEw8EFxM6OXJOFzgRFjUgVSkYM2l-DQdUQSVFEwYFJRJyNB4DZjkPCHtGZQxBRS5aGl8zA181YwRoejotCjcNYgQyYnRKARZ8Ekc0Z08YY0ocCwtzcBZyUB0FNDtfX35nBgILe2JABmBWA2J7Uj8FXmhbKlB3VhFsU3oUFn9fCHtzGSh4TTouQ20lJm5cMmNcEyINdXNWYwRoDyQ4eQcbczNDPEJUKChDECQKbUNSZ3x7Xh4&expires=1788663900&token=295ae6e403de3b596bd052b920f373f36e26d9420ae02005600124a4d9c9df1b
+#EXTINF:-1 tvg-chno="198",[Football] Toronto FC vs. Chicago Fire FC (EMBEDSPRT)
 #EXTVLCOPT:http-referrer=https://embedsport.live/
 #EXTVLCOPT:http-origin=https://embedsport.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBTsDP19DO0UlGzhXUwskUFNfYAQWQXkIZ0BqBAkQMlsHKxY1DAkiU31CGmMSAANdaj0ZAlMYHEprFSJJbgU2DlptQRtCOX4DMwc-QW8rGUBsMjgHExgTDzYdCkcUIgVaXgM7G1scHVkLGzB5GT4FD1A-G39AOgRZaQgKUmhGdHBnLkY4eyIuEnIwC1ZjTwhOYgkeDRFEDlUODmplFDV2Zk0jBRZ4S3lxAjgdU2dLfXBXKAZ-dTE5UBsbCgEWEhBBfyI_A1sLAWV0LzpQakF9XHoZFhEWNTp_NTsXAlQCLHEbKQUuYiEIcTEuG31CTh9Kdjhie0McYmFuNTtlawI8D2AJQAxXKTlidTglXE9IG2toMT9XSz4ZbAkdGwVXUTIPHCVGb0JdfQA5RRZAY04kVU86Fl0XAzx6CCMMcl4iJFRuMjQBfTgZeAs-aVdVARoJVhxqRlISJ1ISKBUEEyADRHM8KjJCXDNOE04icUJNdVpuKGpXTA42eik8KFRkUA98RBgKPnI6IWEZThcBWCwOexMpNGZqUmZ6MyNsXANRAFhwJjFpQQsxXHksOHlASTl8UTZqTn5CZmprFBxhVA4SBxMZQiEANhEScjRjQwRKDgxrJSd3AUUWTh8oOAdRVhQTGA4AEFsDf2MHISZFFDI7d0AYMAxxA2JLbB0NcmgMA05ZAyBteCR5WiceHkZkSyRbYRM9ZnwhAnw7SGh3FwonYHh-JDgWXA1mDCQhfhceen1yPWsMFU9nYTcZFlpFJw5HaB0XNlcoH04GIB5TcSh_VXIZIVZWQAN7NicJVxdVBW5EKwYqXAMmRTpTY3RHFgJMYkImY2kyOX00XSlBbSR0fE8ZFTdbWTttDwU9W0oKLW1UPABnaUcRc2g7PxQUIR5_XT8RHVs5fw92B2ZYBEoKfEkcPhEWNRtUPRQTUEgxDXRSAxUpeiM-EnI0F1hnMX5_SkYlX09FHGhnHz4HbVo2cXkPJ3wBKBhzFSAlaBUcJ1BsIgZ2ZxQRaScICANOERNuaRIdYAIFOnEsBDRUeAoUUEg7IXxJLhJTJj0ze1ZbDgMZLh0yXioaUAcYP3kVOiF0VxsKf1wYGHw2BgMAdVIAcRhtQR9WJR1jORAcWnRdfnsGQhB4bDghCA8pCwdWLRJzHB85a0QEA3BlRBNnFAt7YBo-FH1-PDFtEgQeeG83MWcPejEucQZ-Yis3PHFoTwtKViA8DHZOZXMyAGoUFCUyYHJwPxpjOX5DEUYccE4KCE9EQzBsAUUSVDgKC1IQWg56fRE8L1wXAUdxOBJidwx-dRIIG1ZpAzZyPwUOaFwIAm9CbUEbBRc9W3M6ZFB4TgEPVAoeDRYSF10dPWtBag8vdVgKQBVyVhJ5OgxieG8UOWsRJwF5aCUdDDkJPl1SRnRwGQcLC2I_BVUjIWVbSyg4VREmGXl9ASINPyo4SUwqJwASMQQ-dxd5BhEmY0F2PzpdFhQkW0APGGlpCRFLSjMrUB58IRgFGX5BNkM4fxMMCm5FNTdhU1JmejsEGH1_VQxiaSQgL1wKCAMkFGVDSk59XAZCFEEQAzxfLRoOa0gGD31NORoLQTkuBw4-CXNzAA5PcEUaU1UQIh1sLxMUFCEwAW0PCgtkJCB6ATMIXmowfG96FSRFbgIwcRQXa2NLEwVSHAZHGH4vOAEQJwFzaTYEAEgZakZJJXEKGCkYFBQlPn9nCxcYawA-UBowIUpVDSReEjEmdXM7G1UMVA9ZEgoMcWMcNzJXWHpaDy8LXBkCBhwRMjgRFjUxSS8oPHhABwp0aTkANXlLeXEDBx15ZRA-VxMhMxEWMRdxKhcfaHEJAlxQPgFhAj0nU3hTY3RqMBQPUUUIYHwjN2gcHDB6fhUCdF8MPiEKOxJBJzQ0RE02BG9hJThsbzwkDDonMUVUGjMDEiFGFQteCkV5GABeGBwucUo-B10TBwFgMV0oe01GdHRJA0o7BzkZEnIwC3BgASQcETZ3BmYTH1UKDm9BSiI2f0UQKwpdAhl_CyNlUBFdfnsRPh9mdw4BHWwvL3pLBCwTGAoHNEQbIm8YGBBQShV6cxYbPBEWNRsJGSwZAH5VcQ5Pegk7d1wiBTkgdABjSgVNGikUYWAzZ341FAB0F1QgZUEnRCtxCBp1FgNlVBY1C1tPQWdkYgMOcR1VEGhTEHZ5XAAiPwVYO1YRQwZoWEordm9BEXgXGC1yMi84S2g2MmxSDUQ9fiEccxVDdABjPxtYaRkCcFdCOUgrPT5LFTceb01tQB0WXQ8&expires=1788644100&token=441cf38ef77968d4de79c1a82e631a2e2b83d6ded75a3650ceaf3074bc750dc1
-#EXTINF:-1 tvg-chno="193",[Football] Swansea City vs. Wrexham (EMBEDSPRT)
-#EXTVLCOPT:http-referrer=https://embedsport.live/
-#EXTVLCOPT:http-origin=https://embedsport.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBS0VNR4NI1YtBjhdTwskUFNfYAQWQXkIZ0BqBAkQMVcHPws0DAkiU31CGmMSAANdaj0ZAlMYHEprFSJJbgU2DlptQRtCOX4DMwc-QW8rGUBsMjgHExgTDzYdCkcUIgVaXgM7G1scHVkLGzB5GT4FD1A-G39AOgRZaQgKUmhGdHBnLkY4eyIuEnIwC1ZjTwhOYgkeDRFEDlUODmplFDV2Zk0jBRZ4S3lxAjgdU2dLfXBXKAZ-dTE5UBsbCgEWEhBBfyI_A1sLAWV0LzpQakF9XHoZFhEWNTp_NTsXAlQCLHEbKQUuYiEIcTEuG31CTh9Kdjhie0McYmFuNTtlawI8D2AJQAxXKTlidTglXE9IG2toMT9XSz4ZbAkdGwVXUTIPHCVGb0JdfQA5RRZAY04kVU86Fl0XAzx6CCMMcl4iJFRuMjQBfTgZeAs-aVdVARoJVhxqRlISJ1ISKBUEEyADRHM8KjJCXDNOE04icUJNdVpuKGpXTA42eik8KFRkUA98RBgKPnI6IWEZThcBWCwOexMpNGZqUmZ6MyNsXANRAFhwJjFpQQsxXHksOHlASTl8UTZqTn5CZmprFBxhVA4SBxMZQiEANhEScjRjQwRKDgxrJSd3AUUWTh8oOAdRVhQTGA4AEFsDf2MHISZFFDI7d0AYMAxxA2JLbB0NcmgMA05ZAyBteCR5WiceHkZkSyRbYRM9ZnwhAnw7SGh3FwonYHh-JDgWXA1mDCQhfhceen1yPWsMFU9nYTcZFlpFJw5HaB0XNlcoH04GIB5TcSh_VXIZIVZWQAN7NicJVxdVBW5EKwYqXAMmRTpTY3RHFgJMYkImY2kyOX00XSlBbSR0fE8ZFTdbWTttDwU9W0oKLW1UPABnaUcRc2g7PxQUIR5_XT8RHVs5fw92B2ZYBEoKfEkcPhEWNRtUPRQTUEgxDXRSAxUpeiM-EnI0F1hnMX5_SkYlX09FHGhnHz4HbVo2cXkPJ3wBKBhzFSAlaBUcJ1BsIgZ2ZxQRaScICANOERNuaRIdYAIFOnEsBDRUeAoUUEg7IXxJLhJTJj0ze1ZbDgMZLh0yXioaUAcYP3kVOiF0VxsKf1wYGHw2BgMAdVIAcRhtQR9WJR1jORAcWnRdfnsGQhB4bDghCA8pCwdWLRJzHB85a0QEA3BlRBNnFAt7YBo-FH1-PDFtEgQeeG83MWcPejEucQZ-Yis3PHFoTwtKViA8DHZOZXMyAGoUFCUyYHJwPxpjOX5DEUYccE4KCE9EQzBsAUUSVDgKC1IQWg56fRE8L1wXAUdxOBJidwx-dRIIG1ZpAzZyPwUOaFwIAm9CbUEbBRc9W3M6ZFB4TgEPVAoeDRYSF10dPWtBag8vdVgKQBVyVhJ5OgxieG8UOWsRJwF5aCUdDDkJPl1SRnRwGQcLC2I_BVUjIWVbSyg4VREmGXl9ASINPyo4SUwqJwASMQQ-dxd5BhEmY0F2PzpdFhQkW0APGGlpCRFLSjMrUB58IRgFGX5BNkM4fxMMCm5FNTdhU1JmejsEGH1_VQxiaSQgL1wKCAMkFGVDSk59XAZCFEEQAzxfLRoOa0gGD31NORoLQTkuBw4-CXNzAA5PcEUaU1UQIh1sLxMUFCEwAW0PCgtkJCB6ATMIXmowfG96FSRFbgIwcRQXa2NLEwVSHAZHGH4vOAEQJwFzaTYEAEgZakZJJXEKGCkYFBQlPn9nCxcYawA-UBowIUpVDSReEjEmdXM7G1UMVA9ZEgoMcWMcNzJXWHpaDy8LXBkCBhwRMjgRFjUxSS8oPHhABwp0aTkANXlLeXEDBx15ZRA-VxMhMxEWMRdxKhcfaHEJAlxQPgFhAj0nU3hTY3RqMBQPUUUIYHwjN2gcHDB6fhUCdF8MPiEKOxJBJzQ0RE02BG9hJThsbzwkDDonMUVUGjMDEiFGFQteCkV5GABeGBwucUo-B10TBwFgMV0oe01GdHRJA0o7BzkZEnIwC3BgASQcETZ3BmYTH1UKDm9BSiI2f0UQKwpdAhl_CyNlUBFdfnsRPh9mdw4BHWwvL3pLBCwTGAoHNEQbIm8YGBBQShV6cxYbPBEWNRsJGSwZAH5VcQ5Pegk7d1wiBTkgdABjSgVNGikUYWAzZ341FAB0F1QgZUEnRCtxCBp1FgNlVBY1C1tPQWdkYgMOcR1VEGhTEHZ5XAAiPwVYO1YRQwZoWEordm9BEXgXGC1yMi84S2g2MmxSDUQ9fiEccxVDdABjPxtYaRkCcFdCOUgrPT5LFTceb01tQB0WXQ8&expires=1788644100&token=7f15b2f55b5eee87f9024aa5c4a469072eeff36ee00b4f693b800ae85c0b1f7d
-#EXTINF:-1 tvg-chno="194",[Football] UFC Fight Night Hooker vs Salahdine Parnasse (GOZO)
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSUfKhxcewV2W2ELDEh5FlcfIBlHHz0HOQQ-DBIoFwVSBxcQfiV9QC8-IwdZADRxRQBqRAFFFkkJWG5CVww1eHkdChZxBHgALzFmWlEoOgtiMz5Abz8WUCw7NHpLAg0ObAFFKn0nAFMNJjAFRCgvdwZCFHlCQjVwEgh_A2A5InQdDAQYSiJyAnMsPGJCSBgLdUACU08BG3N7XxxzaC8ncBl5Oi1rOgFmBhs5d1cofAlSJiVhTjsOUDsnCAV_CCR9E3kWAFoqbgUCGBZZdzV_S0IaFQVFASNpES4cQH4pCVUcGwAMe14EUCtACAJ5GRh0QgprfmVEAVwZHw8EaBcoWBofIRJyAyhYCTsFZVE5eEgRBGsCSUJiSW1bbUgVJDR0HCAfNXkqIgQ0HhNkby4PQWISMHBeMAx2CD8Vem5bI0JTHkMsX1Y5QSUFO35kN3kMYDUgbVAuP0lsFSNiHhAFVR9xEBRrVihfORQTRXAKKXsQORhadA4zeQoHDGgeJXVPfgoxaWoIGXllRBNfb04hHBE2PG5KNWRKOxcxCHwKDVcbPTYrdVYxbXVEAwdYPhxLTiRjDXVGLAsGN38DZFE3ExgKRhFmGwgScjQnc2Qaek4WIncGYgQdUDNZDnZxFDEDYD89OlsMc2I0QCIAUS8Pd0w1KkdvJGBzFF83Vk4sMnMZIBEbUAEZbxYgFVcESgoIShEEZhIgNR1sKwt9dBMKAEx-Nwh-V3MGeEUIW1U0J1pnOCN2cRM7XBg5I3dwLCdmensfCFodKUV3IRJaaysqCBUzClpHAidXMwAoSwNRAFBEBgYYARocegUbFFgRCzxyZEIYUXUROlBpHQB-VQ8vXVgpJy5_PBh6cDMaBHcdaQthKBtDUxUQUAlZYgdXVCwTGA42M18CbgUCOT1RWDEtV3E7EExvESRxExh_A2QlLHBjejUwBRkgXHI-AQtTHHpyGgAVZ2MjcQoYPh5kcBccAk4jGhZhOgl0IzMAS0QqflFRJQp3fhltCTUcHF1UBiBvWBAaMngdA1oZMDpKcREGSRs4ZwdCGT9VGjw9dkgNDQJoJT4tWDYATy86FVpKIX1qEjYVBgFFEl0VOw5IQC4uYw96MXwBLAd_DwNhY2UpekltJBcCcz1mTzQlHRQUIRMDWX8qYH0oAm0LEwR-SDwFcHcHAxEWNSN6NlgPWmcOBX8dDwAsYwBzZXlHGl5MSGkLZQQEbBw7F2gJWC5gFi4EWVgMBT4ADBMScjA9VEYpLw8aOB5jfTgiVycnKgBoIBZgXno_aEsnKXo0FBtTSSwVQ0g0C1wBRRYOJxs2AmpWJG8cBUUuSSJyBSU1NHFxSTx1TxkRRmZEGHlmNBRLXFAMeEY9IWtkPQZ7Ej9lVUUcIE0GQhQHaw8GaQ8jOFJxVy9cejwfa2UlBm42AGRTZho0U2oRZAxdADN8J19rYHZRNWFtPhdsVxgkUzg6AAVFMzZVcx00ABAlFQ4pWCxHEwoLBF4OJD92Cx5AZUQTV0g6AGAVOgZ3SCQiVzoublVEVzddHHkWfAEoPgM0HjZBViwWV0Y5GVNVHgZKCQhqf247B2RSCgUKBiYsRicAdABjMWkLYQZlc2MOBm8UBhdwYzoqfWJ4JQBWGDp9NRIYeFtJHlRTMzYCakMVdR8ebGF3Mwd-ZABKMlpWOVoSU2N0ZTppC2UIG3lnExVgMBg9a2ATPkJfIBRochoKYAw5PGAYLSQNSjoVfXAzP1xoXDd-fzkoDlACVmtxBG4FAhMgQ2QeBV9HPBB3VQQ4cntfHHJXLw1yQjodaWIPbgUGNRhGWz0Vbkk0OE5SBWwJDQE-CQNRAH1iEEUrBjQfbxQVAXBQEgdhVTQQQWA6LAELNCxWZAYwWmQAJRtmBBN8CwZlVmsTOEtaBWcMTUIYAG4sKAhIMioPTio7MH07IgAwIwldEQoGUgZCEFdvTjYMCT9_A2A5BHdTIFZrdUt5dSQ9PGZCTTxVYgAbW3wvB1YyPxJ6c1ckBg96MWt9IxlkOSN0AGMNB1REGncGZgM5TysEAmlIIiRdR345bFgAbgUCOWB1YDt9YRVHalEWDTZ8bARoSHBGdHQYAQdgaigecwRFF1lYIgkIFBYBX0tAJno4PBhnU1cgAWcPETUCWxtxNCwYcRkyFUxQQB1CbCYyDmgdO2ATNBxPGC88FQItBwQvDxteYxo2d3YECExhQDB1EToeZBNGdHRtHxITWj4PRHUbIUdxHDYKdygLUwFEEB1tKQ&expires=1788660300&token=55a1095601699db59b59058782cd0f050d4e5d5c2b0ce877268e23fddba84347
+#EXTINF:-1 tvg-chno="199",[Football] UFC Fight Night Hooker vs Salahdine Parnasse (GOZO)
 #EXTVLCOPT:http-referrer=https://unxer123.gozo.st/games/ufc-fight-night-hooker-vs-salahdine-parnasse/
 #EXTVLCOPT:http-origin=https://unxer123.gozo.st/games/ufc-fight-night-hooker-vs-salahdine-parnasse/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://fingersoon.st/scripts/application5
-#EXTINF:-1 tvg-chno="195",[Football] Villarreal vs. Deportivo (EMBEDSPRT)
-#EXTVLCOPT:http-referrer=https://embedsport.live/
-#EXTVLCOPT:http-origin=https://embedsport.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQSNVoJKhhyRmMEDEh1FBNFfUJNG3lcOx1lVk8HewJhGUAhfAoCegtAJl1pCnlBWwgaUlRPJB1sLytmE1c1R0U7PQpmFwR1KkVmXWZPJElzBmB1ZxsgcxYvMkNwDQ1bSwNLH3pYOHkJPTV_cRl7XHMTHBEWMRleawwSfUNGdHBwLDFudxkKTgxPZAF7FRxaEyRgYhQnM1MoIhEUFCUEeGYpNWoCJz9vFDwAdEwQCU9zQGJFcgABUhI3MlRsMXJvQSo4YAILEl4EU2NwTz8nb25DIFVOMGVZKBoLfmUlN25gBxBvYB0ef3A5NlkXIXxhQiQfVV5OHnltOD52VDZzeF4mHWlkPAB2LRU-e2wsG0liRCMGUE5iVWtbKwIQVD8FbToxb1sCJ30EH2JGSToad3UzKnVGFRBCGTUUZ3QsDX4SLQcgZV4-W3gEJ1dSEgB8bEVnd2EFDUwHBisDXhoVDlkLEGwKDQZveBU5S0M6O2hRFRAHbT06aCcKG2VMNR8ObHsKDXEse24mJB8XEzohdxUddwZiGQ5WHF0oVFwIf2xDAxJoRis5cXgMCwcTKnlAZSAgWXBGbWlvFWlpfEZ0dBg5VmtxWwNiNTV0AGMODXxBRiUBdlJmfi0kMlwSNwFhXT9GE0QgKF8iTgRGFwt-SXQzHFthDydzDVkRexQOIV5lPDZqWwwJVC8kCWR3PCkcETZjXUUhBg4JDH8DYDIKZFoERT8FKhp6eU5gChIhJU1vGzFwbAYWbToCPndyGgBgZSkjCQACGl4zFCMFdjskc3AWYwJnLzpbKx41XEsRPBMYDhU3fRsKBTQhHHdMPSYJUAAZcxY9MWk4AzIGVjkJRUYhGCtSOjx7EiUcAmQzem9GVWB2fD4jTzwpMmYSW3BHHSJWa3UrIVssU2NwbhQvQGoRPGZvNSxzOB0TfFNGdHRsIjUQASgiATcdOgBpKHVLR0YZDVQwB38KSGh3dScTYF4SRz1YBwRlFDQSUWQpNVxxQjpGcS8XYjBUa1pXJSpETy4qK2sHIHwzPjxrZxM0aUo6IgxsQmdeMAY3dXcEAVhEA0cbXiM_XBg9KV1tPCRSekEBBWIwZh1sKz96cDc_UGcgJnwBLG4FAjoZfVRIHX1yRiJ6cDJibxRfLVtuJGMEaB1GKgQ3cnkGPwt5RC0AUGc5G2BTJnEKHBoYWRM2LXdHCzpudB0-Zy5OAwsQMyBUE1VgclAhDAASLgpmExcXBmcKHCt3GCwEIi50AGcUKl5yE2QNbDsDYREbNUhsE3d4aRglLQEiek8JFBxGQzItUXcpKF9gLjwdbC9sSFAPdXofKipvflg8TQxPY1diHQ9pEgAeWE00JnptIRsJfy08TBkCPTVGPHlgEzsdYGhMK11HHCYRFjFndyY_C2BoASVhHiEZCUcCeWELOwhEV00tfkEIOH1FQWxBKQoeSBRSF2YYOyQeRQp-UzYZNUptKXtdaAo-ZEkRYAwMLGxGExUwA0MFQS11OS1yJSMmFxM6KVBhPAsCbiMXVA0bNVVlVyJUHjkYbwILbgUGA2VGSR8_TncqPFFtPDNJNz8oZkNTCH5yCSEhcRgYAggRIFVXXX57alVgdlJAE38nPw17TS4Hc3MkOBEDOBJSNgcbR0UxBkMSIj9EZxNidmosF3BVVRZnegk7F3tXIF54BDxgBEoKfWFVYHJcPhl7OiwCX1MEHHBaMAcsWwl6djQ3Bn5uFR4AdhhmXW4wHWwaBj4HFw4Jb3AmSyN5S3l1KlNjcEQJPXxFOTRQaDUXSS0BEBQUJQVHZgM3MUEAe2YhU2N0YjE4Q2YpBV5gHS5OLFVrYkoHfhMYDjgRa1g5AhoiCWZCKA5ISTsKQmA1IXwTFWNkfxUhdE8-Hxd7OAliKi4aeVFMKHNIBCBNUUJsUWshYgFnEX9YeyRKPVEmInkVH2ZCdCAjCVE6OREWNTdzZw9uZnRGdHBwCjIgW0t5cWVEE1ZqFRhaFgA-dVQ-O2AGPjRddCsNYx4qQ3wBLHl5DSQCS3RdfntWOz9TTlJmeioALURPOx5YayoYNAUkflwuU2NwbkkLeGBBCgITTzEKJA8eA09RP2APejFrehpybgYjFXYSPidAeTVjA0IkP1dpHxhXdyEQQx4uRBR0DCcGdSYXRnsxDwFpKSdHFDgicA8LbAdWAhcDfRIKa1QhBwYDOmJdWDIge0EKHGFQLSx9aQkXfnEnEwMPejEeZA8BXhAyIgdMCDlpRwphYHwuMx1tKX8CYg&expires=1788644100&token=e3458fd973a77127bb224312d644118d0d53146476d964a1ead178ffadf614ef
-#EXTINF:-1 tvg-chno="196",[Football] Villarreal vs. Deportivo  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-origin=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="197",[Football] Willem II vs. Excelsior (EMBEDSPRT)
-#EXTVLCOPT:http-referrer=https://embedsport.live/
-#EXTVLCOPT:http-origin=https://embedsport.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBS0BPFcHPV4zHzQdE0h-Dw5AaxkUQntPNwF3VF4AeVFDLE5teD94Tw8SGH9qTjtWawJnTFwPHF4uVSoUFCE3YR98AChcHQVkFQ8ecEtLe1ZkRzpEdAFmeR0BLnpuIS5EfCY4NFIlc3EJQCJ8aDModHMRZVF0FBodbCsXVxMCDnpPbUEfaQoJAAQBEEttQXkKeR0CVxQjZm5uPT1aUCwNExgOMRd_Dw0EcT8lanUyHX9OGBdCdEdkSQgaD1tqOS5TYBpHAFgMAA5xEwhbZV1-e003OWJpRCZZNCprUFAUF3lpDgIBeSEoARMFBHoRNytSFSlibEUjGVkkVBBwFTYicVgdRhdHACUHFyQac0wbI3BuJAVEZUMlCipUbFwTVTcFHH8KanQcCQEoGj14ZRF_TUsyBHpyNCx5PA8eS2E7CGB4BzgRCws_ThZGJF4ZCjpcUBoecWtCYXsbHwNFfwg3BFIxIGFALSgCeRUcahkbJEBBMiVlVhIWCxcnNGFfBAdiQB4qYXVdMmMCNGFrRyoCHBEyP3oSGnEKGAMAX2RTNFNQI0oDWiUqBjUzI3QZAhYMESJnTWInJlUKXGNgFxt1bnBtQRsBH24FAkMZZ1Q7aQthBhNxRkEjDQxIaHdVKi5bHhw0DkQZfn03ODJaQ0AZTRUDYERzNBpXGxUpenVXDXwYJRQxfBoOBCgUE1FOKhRvdTQ3ERYxZVE_OwgHcQJjBGwZPwtDIn1RdjIAfxhAfQEQKTtAaBw3fBYcGGRCDCJwfjE1D3wPG2dzGgBbUho-DnQzOn53EWUOHTU0UlMQKVtHOgl8ASgtWQ4DEABVLwF8TjU4BFcHH39sJz9gQA0uAVoSPCpfByBFISImfnMrAQlmO2RiQVJmegYkLUZEJy5hHnBFKAQEbgUGMzteTV1-e2wcMU1tFjpqFS8iekATD3tfbUEbdQQNfnIwOARWEycLayBrRkBBHwEuKgl2ckZ0cHkMJg9HNH9TKx8eYHU6D1pmIStRdkU8Sgs1GWtIWnddWw4fK1YIEkUYHzp5UjAhYGUbKmRNPSQAFlhpV0gIK3J7LzQ3XSV_dS07JVl5MzRWbzQ6X31GBwkYKmgUFCUjfXwcCj9-Bh4ScjR0AGM0BHZWQANwdUEkdgoobGZsUTFcYg9Wa3E7fkR3L2h8ZzEWckYlHl1gPh1sKTx_A2QUBF4fHRgYXi0CAAcFJGJPQB4AEjs-WRRSZn4qOwIJaiAWYR88Iml-LCRFBAA2AUMgaQtlHDRTdRRiARYhDWhpFSlPYDhCF3A-HUNyOmBKaBoBTUE6M1xwLi5TGjQyFBQhcE9cJEAVBgwSAQ1AJkhtQX5cYBURZBUHGFQ3LihzFS8HDnMGCSMAJAVbNSRjZXI1AGtqRDVQQBsgHWwraX5eMRdnZCoQDgcHIWc0GmNkajUVT1VFM3NGDz5xP1tiSFEEAk8YeSIJAR0ccDYSZFZXFyhBbyFlUG8NOGgzC24FdCJwQR8-BWxaI3lDBiE3d0QtOxwRMjddZjsNDhQ5GV11FSlSaXwXOwcfIAFxE3QAZw14TUsXIUNwLTpdFyY9QE8xNGFPeD0Ray8ZTwIAAgdpHz1eVVVgdm1SZnooWh12XzERfEEFMhxqAgB_cCAIV1cJBkxHORhOFSU5SB0JbH8SIgt3WX4jCGMvA3kITzpbGQohawZCFHBmUmZ-JiQXckIiHlhfLykfQxY_QigRYHNVORt1bB0ADXEfYFEUKhNlYggiABslPABpAHNNClNjcEtdfntGASNxQj4yXBIvGUBVDwwTGA4wKH8lD18yGGFjQF1-f2A5Jk5hLgNSGgcgR1Rbd2VGLEt8ASgAfxhAIwd7LBRtQCAQRU48DE4aLy91axt_Y3M-FBtWGCd5CCATZ0sgB3JTRDZ-TwMmQStYYlgTL34GazpKN2ICclMiPjh8dBF7SXYoPQRWPT8dbC85eh8BcmF4bUEfaSwKTihTY3QESg5daB0GVxEHOHkuJDVpfjAoWngAOAwHDHsScjRjfGwqH0B2VWB2UTw5XzRIaHNSDjFDQxArN3IMIFp2PGRZT11-e2xBFXVnRgwOaVU_A1wBAgRDegoPFlwJBQkCaGtnLQh9EDY5TX4yZQ84PjFeEREEUHsKJSwHCHx6BxQ9AxQoCk15OREMbi4hS24iLHl3BXAAWikibGQ0MgUnOR0DYjR_Vlo6PnZGDRptKjcidBEHC3l9DCZsFlwJcBcXG1txPD8MTgAnZEANZ2wGND0UFSdjBW4&expires=1788644100&token=91e8676ea8848c30d028e4d9cd6562c0be05271dfbcf30317d7f65a1a34aefc8
-#EXTINF:-1 tvg-chno="234",[LaLiga] Athletic Club vs Atlético Madrid  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="212",[LaLiga] Athletic Club vs Atlético Madrid  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney21
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney21/index.m3u8?token=7b396e36c278260c7186f2a5e074a16fa41afacf-e2-1788674449-1788620449
-#EXTINF:-1 tvg-chno="235",[LaLiga] Athletic Club vs Atlético Madrid  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/disney21/index.m3u8?token=0effeefe8d466387c3586c607f91c6c4a7cce4db-14-1788694250-1788640250
+#EXTINF:-1 tvg-chno="213",[LaLiga] Athletic Club vs Atlético Madrid  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=36062b07652582503bfd286de574c2b8e4e11a4c-06-1788674449-1788620449
-#EXTINF:-1 tvg-chno="236",[LaLiga] Athletic Club vs Atlético Madrid  ESPN 3 (STRMXHD)
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=da8ae074537b321800cb69febe3213bdf0632864-bd-1788694250-1788640250
+#EXTINF:-1 tvg-chno="214",[LaLiga] Athletic Club vs Atlético Madrid  ESPN 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espn3/index.m3u8?token=b365a6dc91ee85f90c6468a06f0d63116b3c239c-74-1788674450-1788620450
-#EXTINF:-1 tvg-chno="237",[LaLiga] Athletic Club vs Atlético Madrid  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espn3/index.m3u8?token=e804111b639574e17f7591d1eef121a9b8fc6a79-a7-1788694250-1788640250
+#EXTINF:-1 tvg-chno="215",[LaLiga] Athletic Club vs Atlético Madrid  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=8806a1b4f61396f8246c092afc86a65b83391c9a-54-1788674450-1788620450
-#EXTINF:-1 tvg-chno="238",[LaLiga] Athletic Club vs Atlético Madrid  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a2lja3m.fubo18.com:443/espn3/mono.m3u8?token=0a26590fbe6765fcb433646ac67b769e046ab448-11-1788646547-1788628547
-#EXTINF:-1 tvg-chno="239",[LaLiga] Athletic Club vs Atlético Madrid  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney18
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://eWVz.fubo18.com:443/disney18/mono.m3u8?token=4bd18172b2af43c13a3cab2a8213f8d4d6face73-75-1788646547-1788628547
-#EXTINF:-1 tvg-chno="240",[LaLiga] Athletic Club vs Atlético Madrid  Español 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://eWVz.fubo18.com:443/espndeportes/mono.m3u8?token=6533c83be5b1b36d99d9e4c7c0f2c2c45b9f2052-6a-1788646547-1788628547
-#EXTINF:-1 tvg-chno="241",[LaLiga] Athletic Club vs Atlético Madrid  M LaLiga (STRMXHD)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=eceb6a4755d92d7bfed7bcd7ce6924ddf92b303f-c2-1788694251-1788640251
+#EXTINF:-1 tvg-chno="216",[LaLiga] Athletic Club vs Atlético Madrid  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=de4f55ed2f59595dfc956e4a312d136361fa4e93-30-1788674450-1788620450
-#EXTINF:-1 tvg-chno="242",[LaLiga] Rayo Vallecano vs Racing Santander 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bgvnzw5k.fubo18.com:443/dsports_eventos/mono.m3u8?token=acce260ddb94303e623c1ab218341417029d3244-72-1788646552-1788628552
-#EXTINF:-1 tvg-chno="243",[LaLiga] Rayo Vallecano vs Racing Santander 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://193.domhsd.com:443/global/dsports/index.m3u8?token=abf04c5a7c5b158c623c4ea9074a964f8c7df5b4-53-1788674449-1788620449
-#EXTINF:-1 tvg-chno="244",[LaLiga] Rayo Vallecano vs Racing Santander  DSports (STRMXHD)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=00565f5d368fb8b49dda6ef322793c9332412cad-62-1788694251-1788640251
+#EXTINF:-1 tvg-chno="217",[LaLiga] Rayo Vallecano vs Racing Santander  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=f7cbb6e3c46581b440b9cac5730b23d461bfa4a5-7e-1788674450-1788620450
-#EXTINF:-1 tvg-chno="245",[LaLiga] Rayo Vallecano vs Racing Santander  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=7b7e4ec139d8a60227742faa0d79e9ccf3deb525-d1-1788694251-1788640251
+#EXTINF:-1 tvg-chno="218",[LaLiga] Rayo Vallecano vs Racing Santander  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=d4daeacc6a8dab23e3e96d65c23526dc9f85ffa2-b6-1788674451-1788620451
-#EXTINF:-1 tvg-chno="246",[LaLiga] Rayo Vallecano vs Racing Santander  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=c479a45f5f9f9a8e4246cc822fad0bc91e9ca015-e0-1788694251-1788640251
+#EXTINF:-1 tvg-chno="219",[LaLiga] Rayo Vallecano vs Racing Santander  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=93e5b3c6379c5506759503bab05a73bf883b50c7-8b-1788674451-1788620451
-#EXTINF:-1 tvg-chno="247",[LaLiga] Rayo Vallecano vs Racing Santander  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://eWVz.fubo18.com:443/dsports/mono.m3u8?token=cc1f9f85594e4dfbcac3990f4de107de33215582-ab-1788646552-1788628552
-#EXTINF:-1 tvg-chno="248",[LaLiga] Rayo Vallecano vs Racing Santander  Español 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus2
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://98.domhsd.com:443/global/espnplus2/index.m3u8?token=a7f65dff6703aaf52b98eb19567f0a096f638f03-d6-1788674449-1788620449
-#EXTINF:-1 tvg-chno="249",[LaLiga] Rayo Vallecano vs Racing Santander  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://Ym9yZQ.fubo18.com:443/vtvplus/mono.m3u8?token=d368f34baa2f78efa12557af807b2660024c65ba-e4-1788646552-1788628552
-#EXTINF:-1 tvg-chno="250",[LaLiga] Rayo Vallecano vs Racing Santander  Español 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://Ym9yZQ.fubo18.com:443/espndeportes/mono.m3u8?token=92b37fce44d5f6d127e227f9966635e6d2c17750-b6-1788646552-1788628552
-#EXTINF:-1 tvg-chno="251",[LaLiga] Rayo Vallecano vs Racing Santander  M LaLiga (STRMXHD)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=dcd263fac6941326dfb85ce962b6b89df963bb44-8c-1788694252-1788640252
+#EXTINF:-1 tvg-chno="220",[LaLiga] Rayo Vallecano vs Racing Santander  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=9a54cbfd10cc38a0abd7c214970c9f7c58184016-bb-1788674450-1788620450
-#EXTINF:-1 tvg-chno="252",[LaLiga] Villarreal vs Deportivo La Coruña 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bgvnzw5k.fubo18.com:443/dsports_eventos/mono.m3u8?token=95b16cfb9c5b25b3cc636f29e3dfae3228f18ecc-6e-1788646553-1788628553
-#EXTINF:-1 tvg-chno="253",[LaLiga] Villarreal vs Deportivo La Coruña 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://193.domhsd.com:443/global/dsports/index.m3u8?token=60a4dc12c57f139df109879ab8f85b4b4046fe1a-64-1788674451-1788620451
-#EXTINF:-1 tvg-chno="254",[LaLiga] Villarreal vs Deportivo La Coruña 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://7.domhsd.com:443/global/espndeportes/index.m3u8?token=827361574f17cbfc882ecfe155c07289878a2de6-ea-1788674452-1788620452
-#EXTINF:-1 tvg-chno="255",[LaLiga] Villarreal vs Deportivo La Coruña  DSports (STRMXHD)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=993c32ef99627740af39f6dd70b7730d249d4688-cd-1788694251-1788640251
+#EXTINF:-1 tvg-chno="221",[LaLiga] Villarreal vs Deportivo La Coruña  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=470c7b702a4504c53108b98d8d19aa0d598931ed-de-1788674451-1788620451
-#EXTINF:-1 tvg-chno="256",[LaLiga] Villarreal vs Deportivo La Coruña  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=5100efbb6d9bf76435e57366ca7dd3c5b800ee34-9e-1788694252-1788640252
+#EXTINF:-1 tvg-chno="222",[LaLiga] Villarreal vs Deportivo La Coruña  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=7b41bb78eacf705ebf29f6effa939db372e810d9-de-1788674451-1788620451
-#EXTINF:-1 tvg-chno="257",[LaLiga] Villarreal vs Deportivo La Coruña  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=f4699711176d9eecb7b166763a7017ff9be2f7f7-65-1788694252-1788640252
+#EXTINF:-1 tvg-chno="223",[LaLiga] Villarreal vs Deportivo La Coruña  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=565b1b3a2a29ef0a41bc4cf576b7ec4b6274d469-0f-1788674451-1788620451
-#EXTINF:-1 tvg-chno="258",[LaLiga] Villarreal vs Deportivo La Coruña  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://bmf0aw9u.fubo18.com:443/dsports/mono.m3u8?token=6c245d6b8c430e117877de0b731b8c1f602aaeb7-48-1788646553-1788628553
-#EXTINF:-1 tvg-chno="259",[LaLiga] Villarreal vs Deportivo La Coruña  Español 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus3
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://14.domhsd.com:443/global/espnplus3/index.m3u8?token=1c416e8576cd2048f913e42972bc82e2d0e19772-86-1788674452-1788620452
-#EXTINF:-1 tvg-chno="260",[LaLiga] Villarreal vs Deportivo La Coruña  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://c2f2zq.fubo18.com:443/vtvplus/mono.m3u8?token=bf6cd3d04818dd61283d4959d8d162c15032fe3c-9b-1788646553-1788628553
-#EXTINF:-1 tvg-chno="261",[LaLiga] Villarreal vs Deportivo La Coruña  Español 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://Ym9yZQ.fubo18.com:443/espndeportes/mono.m3u8?token=a25afdb20a49c5e3ff9c92844987d3cd4da4d2da-12-1788646554-1788628554
-#EXTINF:-1 tvg-chno="262",[LaLiga] Villarreal vs Deportivo La Coruña  M LaLiga (STRMXHD)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=75c5d370804d3b937bb489647f57804d40630eb7-c1-1788694252-1788640252
+#EXTINF:-1 tvg-chno="224",[LaLiga] Villarreal vs Deportivo La Coruña  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=291b5372aedd28fcee68622b9023dfecda0ee4d8-ef-1788674451-1788620451
-#EXTINF:-1 tvg-chno="617",[Serie A] Fiorentina vs Torino  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=872b4f1ab802b6398dfe7fd5c19014bcb61dc453-52-1788694252-1788640252
+#EXTINF:-1 tvg-chno="651",[Serie A] Fiorentina vs Torino  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney6/index.m3u8?token=eaa096b9fe6e9517478a7c5cba14aeea3842450e-13-1788674455-1788620455
-#EXTINF:-1 tvg-chno="618",[Serie A] Fiorentina vs Torino  ESPN 5 (STRMXHD)
+https://khala.futlivehd.com/global/disney6/index.m3u8?token=596d874017068a05aab85f931510f35c71b71031-06-1788694256-1788640256
+#EXTINF:-1 tvg-chno="652",[Serie A] Fiorentina vs Torino  ESPN 5 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn5
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espn5/index.m3u8?token=e558a70655dbe81f1eeaec2d15f7ec6440cb64e5-17-1788674455-1788620455
-#EXTINF:-1 tvg-chno="619",[Serie A] Inter vs Napoli 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney1
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://47.domhsd.com:443/global/disney1/index.m3u8?token=6a55400f0f718b549e9ab952ecd4305bffe51bff-8b-1788674447-1788620447
-#EXTINF:-1 tvg-chno="620",[Serie A] Inter vs Napoli 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn5
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://193.domhsd.com:443/global/espn5/index.m3u8?token=517003b3a6e76992f2881e0590b1a74d992c75fa-1e-1788674447-1788620447
-#EXTINF:-1 tvg-chno="621",[Serie A] Inter vs Napoli 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnmx
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnmx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://14.domhsd.com:443/global/espnmx/index.m3u8?token=da05db4352b2ac58bb82cf114fd060ad62f8287d-dd-1788674447-1788620447
-#EXTINF:-1 tvg-chno="622",[Serie A] Inter vs Napoli  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn5
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://YXdlc29tZQ.fubo18.com:443/espn5/mono.m3u8?token=ac7a6bc16ab2de9dbdf76170f9ed5676bcd379b9-8a-1788646547-1788628547
-#EXTINF:-1 tvg-chno="623",[Serie A] Inter vs Napoli  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney1
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://w5pdgvk.fubo18.com:443/disney1/mono.m3u8?token=331e36d3cb584bd89e4acd3d89a9f210aecc2de6-1e-1788646548-1788628548
-#EXTINF:-1 tvg-chno="624",[Serie A] Inter vs Napoli  Español 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnmx
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnmx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://a2lja3m.fubo18.com:443/espnmx/mono.m3u8?token=c722d2e7c2806a2c72babdaf5c44660887b91fbf-39-1788646548-1788628548
-#EXTINF:-1 tvg-chno="625",[Serie A] Internazionale vs Napoli  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/espn5/index.m3u8?token=48cecca73c8f94b1d561103f5167338b6704e316-bf-1788694256-1788640256
+#EXTINF:-1 tvg-chno="653",[Serie A] Internazionale vs Napoli  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney24
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney24/index.m3u8?token=7ef74ae0134a23b3b2ce0e7a284996b3e72be03b-89-1788674455-1788620455
-#EXTINF:-1 tvg-chno="626",[Serie A] Internazionale vs Napoli  ESPN 5 (STRMXHD)
+https://khala.futlivehd.com/global/disney24/index.m3u8?token=9fe3a9791a7848652789031d138fdd67efab3e0a-bb-1788694257-1788640257
+#EXTINF:-1 tvg-chno="654",[Serie A] Internazionale vs Napoli  ESPN 5 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn5
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/espn5/index.m3u8?token=eda45e44862c10394c3fe2234fc56736e7a74478-25-1788674455-1788620455
-#EXTINF:-1 tvg-chno="627",[Serie A] Internazionale vs Napoli  Peacock TV (STRMXHD)
+https://khala.futlivehd.com/global/espn5/index.m3u8?token=cf4a54a0e112c1a2478861489e64ec2ae08d57dc-9f-1788694257-1788640257
+#EXTINF:-1 tvg-chno="655",[Serie A] Internazionale vs Napoli  Peacock TV (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=peacock1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=peacock1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/peacock1/index.m3u8?token=1368dd7d2c41e82bb8637579560671a5cd6fb91e-6f-1788674455-1788620455
-#EXTINF:-1 tvg-chno="628",[Serie A] Roma vs Atalanta 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney7
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://193.domhsd.com:443/global/disney7/index.m3u8?token=99a299992db8faa60f0ae2a7abe41dfcb028cb37-54-1788674451-1788620451
-#EXTINF:-1 tvg-chno="629",[Serie A] Roma vs Atalanta 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=telemundo
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=telemundo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://7.domhsd.com:443/global/telemundo/index.m3u8?token=723cf5546ca9a7d202915f581ee5502f7a8e60d8-1b-1788674451-1788620451
-#EXTINF:-1 tvg-chno="630",[Serie A] Roma vs Atalanta  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/peacock1/index.m3u8?token=ddf245ac975b6d8f3e850b2801072ef6a57784d0-15-1788694257-1788640257
+#EXTINF:-1 tvg-chno="656",[Serie A] Roma vs Atalanta  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney30
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/disney30/index.m3u8?token=d07ce31c95b55fd9eef8802aa15f0c75c9b46a8e-65-1788674456-1788620456
-#EXTINF:-1 tvg-chno="631",[Serie A] Roma vs Atalanta  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney8
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://eWVz.fubo18.com:443/disney8/mono.m3u8?token=db785a076fe6046f2d32213faafee25df8c62d69-34-1788646553-1788628553
-#EXTINF:-1 tvg-chno="632",[Serie A] Roma vs Atalanta  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=telemundo
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=telemundo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://am91cm5leQ.fubo18.com:443/telemundo/mono.m3u8?token=37fa79b093255a6ee16cccbe2ba10def0c3464ec-c0-1788646553-1788628553
-#EXTINF:-1 tvg-chno="633",[Serie A] Roma vs Atalanta  Telemundo (STRMXHD)
+https://khala.futlivehd.com/global/disney30/index.m3u8?token=6b08ff0f5044d7a918e4acda7b5c220520305800-d8-1788694257-1788640257
+#EXTINF:-1 tvg-chno="657",[Serie A] Roma vs Atalanta  Telemundo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=telemundo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=telemundo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://khala.futlivehd.com/global/telemundo/index.m3u8?token=b807616e6446b614d1d07d1b8aa9d303be8b6e8d-e2-1788674456-1788620456
-#EXTINF:-1 tvg-chno="219",[Italy Serie A] Roma vs Atalanta  EN (PLYFST)
-#EXTVLCOPT:http-referrer=https://forgemindly.com
-#EXTVLCOPT:http-origin=https://forgemindly.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn7.zohanayaan.com:1686/hls/do7.m3u8?md5=a1KjpnCSgwMN5gWt-NOf5A&expires=1788651055
-#EXTINF:-1 tvg-chno="220",[Italy Serie A] Roma vs Atalanta  IT (PLYFST)
-#EXTVLCOPT:http-referrer=https://forgemindly.com
-#EXTVLCOPT:http-origin=https://forgemindly.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn5.zohanayaan.com:1686/hls/do47.m3u8?md5=klK9DcJtAMCpUZV3uW1AkA&expires=1788651058
+https://khala.futlivehd.com/global/telemundo/index.m3u8?token=eb4bbc9fdb47c54d84d9f21448b3740792e00869-d4-1788694257-1788640257
