@@ -1,1 +1,6 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="38",[Football] Sundby vs. FC Midtjylland (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSwSN1odIxojAyEdE0h-Dw5AaxkVR3tLKwN3XE8H&expires=1789067100&token=7fe3e2f6e3adce6c67f7c3e0c64fc07d4015acca17ec4055d86be459c56e1280
