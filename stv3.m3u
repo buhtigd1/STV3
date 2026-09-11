@@ -1,1 +1,6 @@
 #EXTM3U url-tvg=""
+#EXTINF:-1 tvg-chno="47",[Football] Pumas UNAM vs. León (EMBEDSPRT)
+#EXTVLCOPT:http-referrer=https://embedsport.live/
+#EXTVLCOPT:http-origin=https://embedsport.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AA5BYhtRGTVVcwE_Xg&expires=1789104900&token=c622e0ade0ee2d6625e48a6b5ba3474ae2f300e453a1acb098789485a0c49e94
