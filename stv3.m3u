@@ -1,105 +1,100 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="203",[Premier League] Leeds United vs Newcastle United  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="155",[Premier League] Leeds United vs Newcastle United  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney8
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney8/index.m3u8?token=e3ea7bb46b2a2c7d1862c40d9244c8c5ced3a1ef-de-1789471905-1789417905
-#EXTINF:-1 tvg-chno="204",[Premier League] Leeds United vs Newcastle United  ESPN 2 (STRMXHD)
+#EXTINF:-1 tvg-chno="156",[Premier League] Leeds United vs Newcastle United  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn2/index.m3u8?token=e3dd2d7f41c8badbfdc07bc468fba91884cb9c38-10-1789471906-1789417906
-#EXTINF:-1 tvg-chno="205",[Premier League] Leeds United vs Newcastle United  FOX One (STRMXHD)
+#EXTINF:-1 tvg-chno="157",[Premier League] Leeds United vs Newcastle United  FOX One (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=foxone
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=foxone
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/foxone/index.m3u8?token=14b0922d4b4632f772c94c70a96fb5a8228bbf15-28-1789471906-1789417906
-#EXTINF:-1 tvg-chno="42",[Football] Como vs. Parma  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="33",[Football] Como vs. Parma  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="43",[Football] Internazionale vs. Udinese  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="34",[Football] Internazionale vs. Udinese  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="44",[Football] Leeds United vs. Newcastle United  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="35",[Football] Leeds United vs. Newcastle United  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="45",[Football] León vs. Atlético de San Luis (EMBEDSPRT)
-#EXTVLCOPT:http-referrer=https://embedfootball.site/ppv/?id=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AA5BZhtIEjsVPx42
-#EXTVLCOPT:http-origin=https://embedfootball.site/ppv/?id=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AA5BZhtIEjsVPx42
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://embedsport.site/vip6/playlist.m3u8?playlist=Bj9DMAVrHQ4dIVtGFDtaQB41Fi0ZdVRLASNSBSQaPlJDJk9vRGEAF1V8AA5BZhtIEjsVPx42&expires=1789443300&token=02b54a70b45697942da249ba5c06ca16647e1198f2e6d51191c90465280890ee
-#EXTINF:-1 tvg-chno="46",[Football] Torino vs. AS Roma  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="36",[Football] Torino vs. AS Roma  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="47",[Football] Villarreal vs. Real Betis  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="37",[Football] Villarreal vs. Real Betis  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="49",[LaLiga] Villarreal vs Real Betis  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="39",[LaLiga] Villarreal vs Real Betis  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney7
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney7/index.m3u8?token=e80134cd7ac689f71432ebb831f0bdd4b47442ee-4a-1789471904-1789417904
-#EXTINF:-1 tvg-chno="50",[LaLiga] Villarreal vs Real Betis  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="40",[LaLiga] Villarreal vs Real Betis  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=291dd172329872c0c70f31b776fc45ad737e7f79-48-1789471904-1789417904
-#EXTINF:-1 tvg-chno="51",[LaLiga] Villarreal vs Real Betis  ESPN 3 (STRMXHD)
+#EXTINF:-1 tvg-chno="41",[LaLiga] Villarreal vs Real Betis  ESPN 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn3/index.m3u8?token=5283c93023443d61136a0a2c6b8612ce4f9215fb-3f-1789471904-1789417904
-#EXTINF:-1 tvg-chno="52",[LaLiga] Villarreal vs Real Betis  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="42",[LaLiga] Villarreal vs Real Betis  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=7e8faf2dea1a6b17369829db5c4b6539b0fb8e26-f3-1789471905-1789417905
-#EXTINF:-1 tvg-chno="53",[LaLiga] Villarreal vs Real Betis  M LaLiga (STRMXHD)
+#EXTINF:-1 tvg-chno="43",[LaLiga] Villarreal vs Real Betis  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=57c323bf3d618b33426363d063f5a6763bf389ce-ec-1789471905-1789417905
-#EXTINF:-1 tvg-chno="54",[Laliga] Villarreal vs Real Betis  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="44",[Laliga] Villarreal vs Real Betis  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://off.futtv.nx.kg/bet/index.m3u8
-#EXTINF:-1 tvg-chno="211",[Serie A] Como vs Parma  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="163",[Serie A] Como vs Parma  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney2/index.m3u8?token=41b12998ea68aa7684a2179ee8ede28c0a8f6302-89-1789471903-1789417903
-#EXTINF:-1 tvg-chno="212",[Serie A] Internazionale vs Udinese  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="164",[Serie A] Internazionale vs Udinese  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney6/index.m3u8?token=08193c0a4a99af88ac2f036fca6ae5fc3ec690ca-1e-1789471904-1789417904
-#EXTINF:-1 tvg-chno="213",[Serie A] Internazionale vs Udinese  ESPN (STRMXHD)
+#EXTINF:-1 tvg-chno="165",[Serie A] Internazionale vs Udinese  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn/index.m3u8?token=faa643db346d1ef6cb17ab5602865c2c1d7a69c8-78-1789471904-1789417904
-#EXTINF:-1 tvg-chno="214",[Serie A] Internazionale vs Udinese  Universo (STRMXHD)
+#EXTINF:-1 tvg-chno="166",[Serie A] Internazionale vs Udinese  Universo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/universo/index.m3u8?token=ad3aa6db6a2a22d9c2a26d2baa52cf67ec8d22ae-74-1789471904-1789417904
-#EXTINF:-1 tvg-chno="215",[Serie A] Torino vs Roma  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="167",[Serie A] Torino vs Roma  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney3/index.m3u8?token=2607435a1dbe36f3704a6696b2957448d0337742-df-1789471903-1789417903
-#EXTINF:-1 tvg-chno="216",[Serie A] Torino vs Roma  ESPN 2 (STRMXHD)
+#EXTINF:-1 tvg-chno="168",[Serie A] Torino vs Roma  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
