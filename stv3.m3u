@@ -1,270 +1,145 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="161",[Football] Alavés vs. Valencia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="93",[Football] Alavés vs. Valencia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="162",[Football] Elche vs. Real Madrid  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="94",[Football] Elche vs. Real Madrid  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="163",[Football] Fiorentina vs. Pisa (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=coppa-italia/2026-09-15/fio-pis
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=coppa-italia/2026-09-15/fio-pis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/coppa-italia/2026-09-15/fio-pis/playlist.m3u8?tk=y21rjLkIP52THQrvATDQYA&e=1789540253
-#EXTINF:-1 tvg-chno="164",[Football] Fiorentina vs. Pisa  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="95",[Football] Fiorentina vs. Pisa  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="165",[Football] Ipswich Town vs. Arsenal (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/ips-ars
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/ips-ars
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/carabao-cup/2026-09-15/ips-ars/playlist.m3u8?tk=3J9YjwujiKtIN4WHL1Cuzw&e=1789540252
-#EXTINF:-1 tvg-chno="166",[Football] Ipswich Town vs. Arsenal  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="96",[Football] Ipswich Town vs. Arsenal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="167",[Football] Liverpool vs. Tottenham Hotspur (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/liv-tot
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/liv-tot
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/carabao-cup/2026-09-15/liv-tot/playlist.m3u8?tk=3J9YjwujiKtIN4WHL1Cuzw&e=1789540252
-#EXTINF:-1 tvg-chno="168",[Football] Liverpool vs. Tottenham Hotspur  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="97",[Football] Liverpool vs. Tottenham Hotspur  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="169",[Football] Peterborough United vs. Barnsley (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/pet-bar
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/pet-bar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/carabao-cup/2026-09-15/pet-bar/playlist.m3u8?tk=VsBsgUSwOomS_zrWgE9M0g&e=1789538450
-#EXTINF:-1 tvg-chno="170",[Football] Peterborough United vs. Barnsley  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="98",[Football] Peterborough United vs. Barnsley  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="171",[Football] Reading vs. Brentford (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/rea-bre
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/rea-bre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/carabao-cup/2026-09-15/rea-bre/playlist.m3u8?tk=y21rjLkIP52THQrvATDQYA&e=1789540253
-#EXTINF:-1 tvg-chno="172",[Football] Reading vs. Brentford  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="99",[Football] Reading vs. Brentford  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="173",[Football] West Ham United vs. Fulham (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/whu-ful
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=carabao-cup/2026-09-15/whu-ful
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/carabao-cup/2026-09-15/whu-ful/playlist.m3u8?tk=3J9YjwujiKtIN4WHL1Cuzw&e=1789540252
-#EXTINF:-1 tvg-chno="174",[Football] West Ham United vs. Fulham  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="100",[Football] West Ham United vs. Fulham  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="183",[LaLiga] Deportivo Alavés vs Valencia 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports2
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://14.domhsd.com:443/global/dsports2/index.m3u8?token=1887b5e32799e378e207a5ecb8998aa3e1ed38fa-c2-1789538452-1789484452
-#EXTINF:-1 tvg-chno="184",[LaLiga] Deportivo Alavés vs Valencia 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus2
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://47.domhsd.com:443/global/espnplus2/index.m3u8?token=50299c45d1b7f3c5a9045ccf4d6f4f133fedc56a-7b-1789538452-1789484452
-#EXTINF:-1 tvg-chno="185",[LaLiga] Deportivo Alavés vs Valencia 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=daznlaliga
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=daznlaliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://193.domhsd.com:443/global/daznlaliga/index.m3u8?token=34a3866d13c1376792a285c467a292bfef848711-2b-1789538452-1789484452
-#EXTINF:-1 tvg-chno="186",[LaLiga] Deportivo Alavés vs Valencia  DAZN LaLiga (STRMXHD)
+#EXTINF:-1 tvg-chno="102",[LaLiga] Deportivo Alavés vs Valencia  DAZN LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=d78ccb5ea7aa650cb75ab59334a2abec9078b6af-52-1789538454-1789484454
-#EXTINF:-1 tvg-chno="187",[LaLiga] Deportivo Alavés vs Valencia  DSports 2 (STRMXHD)
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=c9f3e4e361729cd3df248d4d4f5f39d1ddd40306-02-1789558253-1789504253
+#EXTINF:-1 tvg-chno="103",[LaLiga] Deportivo Alavés vs Valencia  DSports 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsports2/index.m3u8?token=8a90f15a2a6c280e806ff94a3af7ea62c763f26d-ed-1789538453-1789484453
-#EXTINF:-1 tvg-chno="188",[LaLiga] Deportivo Alavés vs Valencia  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/dsports2/index.m3u8?token=8f7caf7cbce87575bfd28297dc6c072ad9fde7c2-a2-1789558253-1789504253
+#EXTINF:-1 tvg-chno="104",[LaLiga] Deportivo Alavés vs Valencia  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=f8ac77792d0463972eafbc9dc7bc3881d034cd14-ef-1789538453-1789484453
-#EXTINF:-1 tvg-chno="189",[LaLiga] Deportivo Alavés vs Valencia  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports2
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/dsports2/mono.m3u8?token=08ecf7ce385eab53492746fb82cd28661f831f23-4e-1789510552-1789492552
-#EXTINF:-1 tvg-chno="190",[LaLiga] Deportivo Alavés vs Valencia  Inglés 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus2
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://b2ZmaWNpYWw.fubo18.com:443/espnplus2/mono.m3u8?token=e7934b1435974aec9b9a505771277049bdd3973f-3d-1789510552-1789492552
-#EXTINF:-1 tvg-chno="191",[LaLiga] Elche vs Real Madrid (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56498?ad=111
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56498?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/56498/load-playlist
-#EXTINF:-1 tvg-chno="192",[LaLiga] Elche vs Real Madrid 1 (PLIBRE)
+https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=0866f2e1f815043cdcb465e22c20cc6a323af5c7-c5-1789558253-1789504253
+#EXTINF:-1 tvg-chno="105",[LaLiga] Elche vs Real Madrid 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/dsports_eventos/mono.m3u8?token=51b7620bc8b5fe2c3bdabfbc87e7a35fa34789c0-28-1789510554-1789492554
-#EXTINF:-1 tvg-chno="193",[LaLiga] Elche vs Real Madrid 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://85.domhsd.com:443/global/dsports/index.m3u8?token=0ab1f38168b522c34f747939365765275eaa75cd-1e-1789538454-1789484454
-#EXTINF:-1 tvg-chno="194",[LaLiga] Elche vs Real Madrid 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus3
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://193.domhsd.com:443/global/espnplus3/index.m3u8?token=14f43462a4add1bbf7314642880c182aaa2136a4-5a-1789538454-1789484454
-#EXTINF:-1 tvg-chno="195",[LaLiga] Elche vs Real Madrid 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://17.domhsd.com:443/global/espndeportes/index.m3u8?token=33ca6273fa3174827e8b37c80dac769f337bf5d8-c0-1789538454-1789484454
-#EXTINF:-1 tvg-chno="196",[LaLiga] Elche vs Real Madrid  DSports (STRMXHD)
+https://bgvnzw5k.fubo18.com:443/dsports_eventos/mono.m3u8?token=cb17ebe7e36681931c1fd67f8e19cd44f9a42712-4c-1789530351-1789512351
+#EXTINF:-1 tvg-chno="106",[LaLiga] Elche vs Real Madrid  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=e6dbf0b1c9b04f25afe22987abe6c475478849d0-89-1789538454-1789484454
-#EXTINF:-1 tvg-chno="197",[LaLiga] Elche vs Real Madrid  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=2d5052982c0beaaee2b969d11dd5b3076495c22e-19-1789558253-1789504253
+#EXTINF:-1 tvg-chno="107",[LaLiga] Elche vs Real Madrid  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=9b9b4c7aeb576b682a25b92483f76503ccdf6c33-fe-1789538454-1789484454
-#EXTINF:-1 tvg-chno="198",[LaLiga] Elche vs Real Madrid  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=cffcc653730c72a15909dcd211f46b1ab79ae1a9-73-1789558254-1789504254
+#EXTINF:-1 tvg-chno="108",[LaLiga] Elche vs Real Madrid  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=70c6c7ad667299834f51c59b8915ae82e15f37f8-a6-1789538454-1789484454
-#EXTINF:-1 tvg-chno="199",[LaLiga] Elche vs Real Madrid  Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=d5f6c4ee3efe779ef4f97557c7b2db76e1bb560c-2d-1789558254-1789504254
+#EXTINF:-1 tvg-chno="109",[LaLiga] Elche vs Real Madrid  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/dsports/mono.m3u8?token=c138fd1959f240522e375cb0b8e1fdc421e4da32-ac-1789510554-1789492554
-#EXTINF:-1 tvg-chno="200",[LaLiga] Elche vs Real Madrid  Español 2 (PLIBRE)
+https://c2f2zq.fubo18.com:443/dsports/mono.m3u8?token=2b43e584d3e099ed65c7d1be18e2027858805259-29-1789530351-1789512351
+#EXTINF:-1 tvg-chno="110",[LaLiga] Elche vs Real Madrid  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/vtvplus/mono.m3u8?token=5266391f5634c8cc0d89a09c577b8173907385c1-1f-1789510554-1789492554
-#EXTINF:-1 tvg-chno="201",[LaLiga] Elche vs Real Madrid  Español 3 (PLIBRE)
+https://a2lja3m.fubo18.com:443/vtvplus/mono.m3u8?token=dc9bec93e251d8e24f1cce8dd5d88c868fa8611f-4d-1789530351-1789512351
+#EXTINF:-1 tvg-chno="111",[LaLiga] Elche vs Real Madrid  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/espndeportes/mono.m3u8?token=7c0f5f2eae2b74e7aa7cad111fe03a5ed9f2ec7c-4f-1789510554-1789492554
-#EXTINF:-1 tvg-chno="202",[LaLiga] Elche vs Real Madrid  Inglés 1 (PLIBRE)
+https://c2f2zq.fubo18.com:443/espndeportes/mono.m3u8?token=b43a0316f586092707fb2328402a165b6098ea79-77-1789530351-1789512351
+#EXTINF:-1 tvg-chno="112",[LaLiga] Elche vs Real Madrid  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/espnplus3/mono.m3u8?token=495452e7906f9385cfae6abb5fc936354f5c13e0-28-1789510554-1789492554
-#EXTINF:-1 tvg-chno="203",[LaLiga] Elche vs Real Madrid  M LaLiga (STRMXHD)
+https://y2fzdgxl.fubo18.com:443/espnplus3/mono.m3u8?token=66a4ded3df82686fc7601d551bf6b521c31d9261-22-1789530351-1789512351
+#EXTINF:-1 tvg-chno="113",[LaLiga] Elche vs Real Madrid  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=fef8045c28e405b24bad967cdc6b9c15ea59a089-ea-1789538454-1789484454
-#EXTINF:-1 tvg-chno="204",[LaLiga] Rayo Vallecano vs Espanyol 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney2
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.domhsd.com:443/global/disney2/index.m3u8?token=ba45095ac016039e75b8af378a20f3d9bf5cad52-9a-1789538451-1789484451
-#EXTINF:-1 tvg-chno="205",[LaLiga] Rayo Vallecano vs Espanyol 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://7.domhsd.com:443/global/espnplus1/index.m3u8?token=0fabc56f39a3fc8f311b4d1d5afd6ef81bbbfdef-5e-1789538452-1789484452
-#EXTINF:-1 tvg-chno="206",[LaLiga] Rayo Vallecano vs Espanyol 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn2
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://85.domhsd.com:443/global/espn2/index.m3u8?token=26a328803cfdaa191170dd478789178b82ce5e28-8b-1789538452-1789484452
-#EXTINF:-1 tvg-chno="207",[LaLiga] Rayo Vallecano vs Espanyol 4 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://17.domhsd.com:443/global/espndeportes/index.m3u8?token=3e887e8d3ec3add89115e8b96ba20994776ead6d-11-1789538452-1789484452
-#EXTINF:-1 tvg-chno="208",[LaLiga] Rayo Vallecano vs Espanyol 5 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=canal5mx
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=canal5mx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://47.domhsd.com:443/global/canal5mx/index.m3u8?token=4e01ca1eb3e4901c6567d1f0faa9a20d5d339322-85-1789538452-1789484452
-#EXTINF:-1 tvg-chno="209",[LaLiga] Rayo Vallecano vs Espanyol  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=f110515fd81abf8cdc6e2323f57193d49be97acb-79-1789558254-1789504254
+#EXTINF:-1 tvg-chno="114",[LaLiga] Rayo Vallecano vs Espanyol  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=ab07d75e0c1c062f93f3cc69f50a69f3b5295876-ae-1789538452-1789484452
-#EXTINF:-1 tvg-chno="210",[LaLiga] Rayo Vallecano vs Espanyol  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=a4ba92fa83014df3a008c57a41fe1f1e7460e02a-7b-1789558252-1789504252
+#EXTINF:-1 tvg-chno="115",[LaLiga] Rayo Vallecano vs Espanyol  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=28c43e788df247e3d68e9aaa5d19e47b97d42c4b-2e-1789538453-1789484453
-#EXTINF:-1 tvg-chno="211",[LaLiga] Rayo Vallecano vs Espanyol  ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=6ca4991969497363f3a387033796a70c2ec04ecf-f9-1789558252-1789504252
+#EXTINF:-1 tvg-chno="116",[LaLiga] Rayo Vallecano vs Espanyol  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=a388baa1c2a2476c8a135e1d3cf13b2bcd7a7d62-27-1789538453-1789484453
-#EXTINF:-1 tvg-chno="212",[LaLiga] Rayo Vallecano vs Espanyol  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=da7d442513f3b1493d8f49d262485cdc98f736d0-b4-1789558252-1789504252
+#EXTINF:-1 tvg-chno="117",[LaLiga] Rayo Vallecano vs Espanyol  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=2b6e25fb24cef62611c391cb6d275d57b3aa27fe-01-1789538453-1789484453
-#EXTINF:-1 tvg-chno="213",[LaLiga] Rayo Vallecano vs Espanyol  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/espn2/mono.m3u8?token=3ad5f5e5b959f267d76cd801b7ff7b20af6f47e8-15-1789510552-1789492552
-#EXTINF:-1 tvg-chno="214",[LaLiga] Rayo Vallecano vs Espanyol  Español 2 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney3
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmf0aw9u.fubo18.com:443/disney3/mono.m3u8?token=16ba9d58a6fca664468ccb3ea193f8b613aa08f0-cd-1789510552-1789492552
-#EXTINF:-1 tvg-chno="215",[LaLiga] Rayo Vallecano vs Espanyol  Español 3 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=canal5
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=canal5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/canal5/mono.m3u8?token=2d2275cf97930d2bca5a6f542dd66a5171fef2b5-d3-1789510552-1789492552
-#EXTINF:-1 tvg-chno="216",[LaLiga] Rayo Vallecano vs Espanyol  Español 4 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/espndeportes/mono.m3u8?token=acc47c5910078cbdd74fe16836838bec3ecd2f39-e4-1789510552-1789492552
-#EXTINF:-1 tvg-chno="217",[LaLiga] Rayo Vallecano vs Espanyol  Inglés 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus1
-#EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/espnplus1/mono.m3u8?token=13215eb737a672eb535ede83fb407b53963c6607-93-1789510552-1789492552
-#EXTINF:-1 tvg-chno="218",[LaLiga] Rayo Vallecano vs Espanyol  M LaLiga (STRMXHD)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=58e826067d66050232d61ad9bf6cd83c8854f281-b0-1789558252-1789504252
+#EXTINF:-1 tvg-chno="118",[LaLiga] Rayo Vallecano vs Espanyol  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=b9fd1cef379860b5289c17b13cf4753a36f8eb21-0d-1789538453-1789484453
-#EXTINF:-1 tvg-chno="219",[Laliga] Alaves vs Valencia  Main Feed (FUTBOLX)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=2eda812b6de5b78785d38c1f5859c70515b6a98a-95-1789558252-1789504252
+#EXTINF:-1 tvg-chno="119",[Laliga] Alaves vs Valencia  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://off.futtv.nx.kg/alaves/index.m3u8
-#EXTINF:-1 tvg-chno="220",[Laliga] Elche vs Real Madrid  Alt Feed 1 Es (FUTBOLX)
+#EXTINF:-1 tvg-chno="120",[Laliga] Elche vs Real Madrid  Alt Feed 1 Es (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://off.futtv.nx.kg/rm-es/index.m3u8
-#EXTINF:-1 tvg-chno="221",[Laliga] Elche vs Real Madrid  Main Feed En (FUTBOLX)
+#EXTINF:-1 tvg-chno="121",[Laliga] Elche vs Real Madrid  Main Feed En (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://off.futtv.nx.kg/rm-en/index.m3u8
-#EXTINF:-1 tvg-chno="222",[Laliga] Rayo Vallecano vs Espanyol  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="122",[Laliga] Rayo Vallecano vs Espanyol  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
