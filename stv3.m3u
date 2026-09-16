@@ -1,276 +1,306 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="127",[Football] AC Milan vs. Benfica  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="335",[Motorsports] Max vs 100 (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=max-vs-100-28844
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=max-vs-100-28844
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/max-vs-100-28844/playlist.m3u8?tk=eS6tspWOc6Atllcb5LfI4w&e=1789617651
+#EXTINF:-1 tvg-chno="171",[Football] AC Milan vs. Benfica  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/2rB5nTKlP8mE.m3u8
-#EXTINF:-1 tvg-chno="128",[Football] Anderlecht vs. Lyon  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="172",[Football] AIK vs. Mjällby AIF (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=allsvenskan/2026-09-16/aik-mja
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=allsvenskan/2026-09-16/aik-mja
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/allsvenskan/2026-09-16/aik-mja/playlist.m3u8?tk=lD52OK03OlnMwuQoyIOifg&e=1789621253
+#EXTINF:-1 tvg-chno="173",[Football] Anderlecht vs. Lyon  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/okhrtofm78.m3u8
-#EXTINF:-1 tvg-chno="129",[Football] Ararat-Armenia vs. Sparta Prague  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="174",[Football] Ararat-Armenia vs. Sparta Prague  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/xscqqza8740.m3u8
-#EXTINF:-1 tvg-chno="130",[Football] Atlético Madrid vs. Osasuna  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="175",[Football] Atlético Madrid vs. Osasuna  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="131",[Football] Barcelona vs. Racing Santander  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="176",[Football] Barcelona vs. Racing Santander  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="132",[Football] Bayer Leverkusen vs. NK Celje  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="177",[Football] Bayer Leverkusen vs. NK Celje  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/xscqqza8740.m3u8
-#EXTINF:-1 tvg-chno="133",[Football] Coventry City vs. Aston Villa  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="178",[Football] Coventry City vs. Aston Villa  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="134",[Football] Deportivo vs. Sevilla  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="179",[Football] Deportivo vs. Sevilla  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="135",[Football] Everton vs. Wolverhampton Wanderers  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="180",[Football] Everton vs. Wolverhampton Wanderers  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="136",[Football] Fleetwood Town vs. Sheffield United  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="181",[Football] Fleetwood Town vs. Sheffield United  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="137",[Football] Levante vs. Athletic Club  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="182",[Football] Levante vs. Athletic Club  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="138",[Football] Manchester United vs. Brighton & Hove Albion  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="183",[Football] Manchester United vs. Brighton & Hove Albion  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="139",[Football] Omonia Nicosia vs. Celta Vigo  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="184",[Football] Omonia Nicosia vs. Celta Vigo  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/2rB5nTKlP8mE.m3u8
-#EXTINF:-1 tvg-chno="140",[Football] Sunderland vs. AZ Alkmaar  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="185",[Football] Sunderland vs. AZ Alkmaar  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/zauygazhjd.m3u8
-#EXTINF:-1 tvg-chno="145",[LaLiga] Atlético Madrid vs Osasuna 1 (STP)
+#EXTINF:-1 tvg-chno="451",[football] AIK vs Mjällby (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~ppv-aik-vs-mj-llby-aif
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=sd-admin~ppv-aik-vs-mj-llby-aif
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-aik-vs-mj-llby-aif/playlist.m3u8?tk=lD52OK03OlnMwuQoyIOifg&e=1789621253
+#EXTINF:-1 tvg-chno="205",[LaLiga] Atlético Madrid vs Osasuna 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.domhsd.com:443/global/disney3/index.m3u8?token=80c03907ef33f4f988a37177e5c91a795c5cd8fa-c8-1789605050-1789551050
-#EXTINF:-1 tvg-chno="146",[LaLiga] Atlético Madrid vs Osasuna 2 (STP)
+https://99.domhsd.com:443/global/disney3/index.m3u8?token=e505f25476cfab19d582442f5f8f9ee9f5d86d30-bb-1789624852-1789570852
+#EXTINF:-1 tvg-chno="206",[LaLiga] Atlético Madrid vs Osasuna 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://193.domhsd.com:443/global/espnplus1/index.m3u8?token=aee4ed6859d06c4c13d4b3199d0eb25423cddd9b-40-1789605050-1789551050
-#EXTINF:-1 tvg-chno="147",[LaLiga] Atlético Madrid vs Osasuna 3 (STP)
+https://47.domhsd.com:443/global/espnplus1/index.m3u8?token=dc4ba67cc3024b0091238000cc6da2f5e7ca517e-68-1789624852-1789570852
+#EXTINF:-1 tvg-chno="207",[LaLiga] Atlético Madrid vs Osasuna 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.domhsd.com:443/global/espn/index.m3u8?token=bca20063d22a0b964353f2fa77b3944d0a9491d3-d3-1789605050-1789551050
-#EXTINF:-1 tvg-chno="148",[LaLiga] Atlético Madrid vs Osasuna 4 (STP)
+https://7.domhsd.com:443/global/espn/index.m3u8?token=8bfb28b94f9fad3ee481a2660e152f037f2502f9-d9-1789624852-1789570852
+#EXTINF:-1 tvg-chno="208",[LaLiga] Atlético Madrid vs Osasuna 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://93.domhsd.com:443/global/espndeportes/index.m3u8?token=10395ede9a2f8cfc3a858d627df73726b58679ef-60-1789605051-1789551051
-#EXTINF:-1 tvg-chno="149",[LaLiga] Atlético Madrid vs Osasuna  Disney + (STRMXHD)
+https://47.domhsd.com:443/global/espndeportes/index.m3u8?token=ca0b6fb00056075485339b56dfaaede0dd3657da-5c-1789624852-1789570852
+#EXTINF:-1 tvg-chno="209",[LaLiga] Atlético Madrid vs Osasuna  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=937e36888237942fdffb75cb7db30f2012d543be-59-1789605050-1789551050
-#EXTINF:-1 tvg-chno="150",[LaLiga] Atlético Madrid vs Osasuna  ESPN (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=415d26d4acea5f08b7f307a4ec080a016c3fd3fd-ee-1789624852-1789570852
+#EXTINF:-1 tvg-chno="210",[LaLiga] Atlético Madrid vs Osasuna  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn/index.m3u8?token=4dc0bf723e51f12feab1acbc2b3c0b3dfedec85b-e7-1789605051-1789551051
-#EXTINF:-1 tvg-chno="151",[LaLiga] Atlético Madrid vs Osasuna  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=56a6c8b3d95b21666c1392a4a128a2ddc8387cf4-95-1789624852-1789570852
+#EXTINF:-1 tvg-chno="211",[LaLiga] Atlético Madrid vs Osasuna  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=a81e9459f81ec2bff9b1073e9cd772430ecd8c05-fa-1789605051-1789551051
-#EXTINF:-1 tvg-chno="152",[LaLiga] Atlético Madrid vs Osasuna  Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=5d28c404ebd896ed868c419153d4d42da6ede807-cc-1789624852-1789570852
+#EXTINF:-1 tvg-chno="212",[LaLiga] Atlético Madrid vs Osasuna  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://b2ZmaWNpYWw.fubo18.com:443/espn/mono.m3u8?token=a0e47c584875aaa2dadfcdf3ed0f64c33c53f776-c0-1789580751-1789562751
-#EXTINF:-1 tvg-chno="153",[LaLiga] Atlético Madrid vs Osasuna  Español 2 (PLIBRE)
+#EXTINF:-1 tvg-chno="213",[LaLiga] Atlético Madrid vs Osasuna  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney4
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bgvnzw5k.fubo18.com:443/disney4/mono.m3u8?token=50e2a5efa3b79728a7b4b8866b21dd27947b606c-f3-1789580751-1789562751
-#EXTINF:-1 tvg-chno="154",[LaLiga] Atlético Madrid vs Osasuna  Español 3 (PLIBRE)
+#EXTINF:-1 tvg-chno="214",[LaLiga] Atlético Madrid vs Osasuna  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://YXdlc29tZQ.fubo18.com:443/espndeportes/mono.m3u8?token=b03861d257c42181ac1086037d8742a404ef817e-24-1789580751-1789562751
-#EXTINF:-1 tvg-chno="155",[LaLiga] Atlético Madrid vs Osasuna  Inglés 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="215",[LaLiga] Atlético Madrid vs Osasuna  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmf0aw9u.fubo18.com:443/espnplus1/mono.m3u8?token=17aa0254e6443b6cabbe67aad243b3e9f630bbc2-92-1789580751-1789562751
-#EXTINF:-1 tvg-chno="156",[LaLiga] Atlético Madrid vs Osasuna  M LaLiga (STRMXHD)
+#EXTINF:-1 tvg-chno="216",[LaLiga] Atlético Madrid vs Osasuna  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=e5e6f06367b4876334adca0645a72c19f76334ef-94-1789605051-1789551051
-#EXTINF:-1 tvg-chno="157",[LaLiga] Barcelona vs Racing Santander 1 (STP)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=cb21e167f524a2a826e186728c13d899170d659e-15-1789624852-1789570852
+#EXTINF:-1 tvg-chno="217",[LaLiga] Barcelona vs Racing Santander 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://47.domhsd.com:443/global/espn/index.m3u8?token=772ceb5dce36de215e4b72fc75c5d63f150ef2a9-83-1789605053-1789551053
-#EXTINF:-1 tvg-chno="158",[LaLiga] Barcelona vs Racing Santander 2 (STP)
+https://47.domhsd.com:443/global/espn/index.m3u8?token=164ae2dbb28f17c1d6c952135da96f079072263c-eb-1789624855-1789570855
+#EXTINF:-1 tvg-chno="218",[LaLiga] Barcelona vs Racing Santander 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney15
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://85.domhsd.com:443/global/disney15/index.m3u8?token=7bde98dcd1a08029d609fb050a4c5679e1471518-22-1789605053-1789551053
-#EXTINF:-1 tvg-chno="159",[LaLiga] Barcelona vs Racing Santander 3 (STP)
+https://7.domhsd.com:443/global/disney15/index.m3u8?token=3a9dd27ac1223a2a786634c65495c080e62b293a-d7-1789624855-1789570855
+#EXTINF:-1 tvg-chno="219",[LaLiga] Barcelona vs Racing Santander 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.domhsd.com:443/global/espnplus3/index.m3u8?token=2c1e1792034cc03a8b857c3781eca59482c2daf3-63-1789605053-1789551053
-#EXTINF:-1 tvg-chno="160",[LaLiga] Barcelona vs Racing Santander 4 (STP)
+https://85.domhsd.com:443/global/espnplus3/index.m3u8?token=23f636dedb3800c4b8152ea386fb8164af6ac8ac-54-1789624855-1789570855
+#EXTINF:-1 tvg-chno="220",[LaLiga] Barcelona vs Racing Santander 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://14.domhsd.com:443/global/espndeportes/index.m3u8?token=7881a0fb4b0fe926303a5b34aa7013f0158f831a-3f-1789605053-1789551053
-#EXTINF:-1 tvg-chno="161",[LaLiga] Barcelona vs Racing Santander  DAZN LaLiga (STRMXHD)
+https://47.domhsd.com:443/global/espndeportes/index.m3u8?token=85fe793b3de937f351a2860e7a639509f6c03876-dd-1789624856-1789570856
+#EXTINF:-1 tvg-chno="221",[LaLiga] Barcelona vs Racing Santander  DAZN LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=0cd3cea27cc2dbfb5c6d78fca2c26e99b842856c-3c-1789605052-1789551052
-#EXTINF:-1 tvg-chno="162",[LaLiga] Barcelona vs Racing Santander  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=ffbed4cbc927735ccc88e2e1cb862fbbbf27bb3a-a1-1789624853-1789570853
+#EXTINF:-1 tvg-chno="222",[LaLiga] Barcelona vs Racing Santander  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney15
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney15/index.m3u8?token=a6163013343a0ad81bf9de55d5b8b7e5626d7e40-d3-1789605052-1789551052
-#EXTINF:-1 tvg-chno="163",[LaLiga] Barcelona vs Racing Santander  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/disney15/index.m3u8?token=af2b01c80d677eea8fd814fbb729aa4f43d4783f-21-1789624853-1789570853
+#EXTINF:-1 tvg-chno="223",[LaLiga] Barcelona vs Racing Santander  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=81df4b180ac289f3e514ebdc6ac2d9feffbdf605-a5-1789605052-1789551052
-#EXTINF:-1 tvg-chno="164",[LaLiga] Barcelona vs Racing Santander  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=f61bd139240d47b5e0442e5bd0049bd0dfa64523-4a-1789624853-1789570853
+#EXTINF:-1 tvg-chno="224",[LaLiga] Barcelona vs Racing Santander  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=961fa8c99020cd854c71300726f3e4ea8f96f7f1-98-1789605052-1789551052
-#EXTINF:-1 tvg-chno="165",[LaLiga] Barcelona vs Racing Santander  Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=02b48c64861fce2684f84d7179c49d727330268f-6b-1789624854-1789570854
+#EXTINF:-1 tvg-chno="225",[LaLiga] Barcelona vs Racing Santander  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney17
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://a2lja3m.fubo18.com:443/disney17/mono.m3u8?token=eb775b211874e2b839708899aa5582a76ed58a85-72-1789580755-1789562755
-#EXTINF:-1 tvg-chno="166",[LaLiga] Barcelona vs Racing Santander  Español 2 (PLIBRE)
+#EXTINF:-1 tvg-chno="226",[LaLiga] Barcelona vs Racing Santander  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmf0aw9u.fubo18.com:443/espndeportes/mono.m3u8?token=a8b76d76d88e67429cbc418fc86ddd4cbfe7ff22-e7-1789580755-1789562755
-#EXTINF:-1 tvg-chno="167",[LaLiga] Barcelona vs Racing Santander  Inglés 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="227",[LaLiga] Barcelona vs Racing Santander  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus3
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://dglvz29s.fubo18.com:443/espnplus3/mono.m3u8?token=ab8ed9868f69809f218f67a1bef62a2993b0049a-b2-1789580755-1789562755
-#EXTINF:-1 tvg-chno="168",[LaLiga] Deportivo La Coruña vs Sevilla 1 (STP)
+#EXTINF:-1 tvg-chno="228",[LaLiga] Deportivo La Coruña vs Sevilla 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.domhsd.com:443/global/disney4/index.m3u8?token=babdac76942b9131e4e1e5e8458a5b746424eae8-56-1789605051-1789551051
-#EXTINF:-1 tvg-chno="169",[LaLiga] Deportivo La Coruña vs Sevilla 2 (STP)
+https://193.domhsd.com:443/global/disney4/index.m3u8?token=1ed0b56402bc2d971f93391bc226a9c64d6a3d91-32-1789624852-1789570852
+#EXTINF:-1 tvg-chno="229",[LaLiga] Deportivo La Coruña vs Sevilla 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://193.domhsd.com:443/global/espnplus2/index.m3u8?token=581648ec47603e595564a3bb01a13fcd04b9a27b-77-1789605051-1789551051
-#EXTINF:-1 tvg-chno="170",[LaLiga] Deportivo La Coruña vs Sevilla 3 (STP)
+https://17.domhsd.com:443/global/espnplus2/index.m3u8?token=0749ce076d7ecee13e1a029925408f42946a9b47-dd-1789624852-1789570852
+#EXTINF:-1 tvg-chno="230",[LaLiga] Deportivo La Coruña vs Sevilla 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn4
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.domhsd.com:443/global/espn4/index.m3u8?token=4e0ad535e8c6e2ed583bfdca9edef0b6a7db5252-97-1789605051-1789551051
-#EXTINF:-1 tvg-chno="171",[LaLiga] Deportivo La Coruña vs Sevilla  DAZN LaLiga (STRMXHD)
+https://17.domhsd.com:443/global/espn4/index.m3u8?token=a935a0211aaf4a82c4eebbd89df1b55a5a19d135-30-1789624852-1789570852
+#EXTINF:-1 tvg-chno="231",[LaLiga] Deportivo La Coruña vs Sevilla  DAZN LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=97e92f7b8c5790b77fa51bdb50f861ccad746325-13-1789605051-1789551051
-#EXTINF:-1 tvg-chno="172",[LaLiga] Deportivo La Coruña vs Sevilla  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=675bb58e792f03a5fc58675b6dffd0f1ec152e4b-b7-1789624853-1789570853
+#EXTINF:-1 tvg-chno="232",[LaLiga] Deportivo La Coruña vs Sevilla  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=4927abbba21d6f7b875adedfbe7dd8e4366db398-c4-1789605051-1789551051
-#EXTINF:-1 tvg-chno="173",[LaLiga] Deportivo La Coruña vs Sevilla  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=094568efa6f71a22078b282423c3c94d8f573354-a5-1789624852-1789570852
+#EXTINF:-1 tvg-chno="233",[LaLiga] Deportivo La Coruña vs Sevilla  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=04bf66863aced5cfba10c478e2db411927287285-67-1789605051-1789551051
-#EXTINF:-1 tvg-chno="174",[LaLiga] Deportivo La Coruña vs Sevilla  ESPN 4 (STRMXHD)
+https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=9a68f304bee056b88d5d0d808e50fe7a3d748735-0d-1789624853-1789570853
+#EXTINF:-1 tvg-chno="234",[LaLiga] Deportivo La Coruña vs Sevilla  ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn4/index.m3u8?token=dba40fe9c2e9dc23fed9a9905e277914e7afe7a8-90-1789605051-1789551051
-#EXTINF:-1 tvg-chno="175",[LaLiga] Deportivo La Coruña vs Sevilla  Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/espn4/index.m3u8?token=b0bc5c1475b03520f710decbedad9ce96e9c5526-07-1789624853-1789570853
+#EXTINF:-1 tvg-chno="235",[LaLiga] Deportivo La Coruña vs Sevilla  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn4
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://w5pdgvk.fubo18.com:443/espn4/mono.m3u8?token=dd2496a6babbe4e03ca2d2b5f6e248fe0c1a1a04-f1-1789580751-1789562751
-#EXTINF:-1 tvg-chno="176",[LaLiga] Deportivo La Coruña vs Sevilla  Español 2 (PLIBRE)
+#EXTINF:-1 tvg-chno="236",[LaLiga] Deportivo La Coruña vs Sevilla  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://b2ZmaWNpYWw.fubo18.com:443/disney5/mono.m3u8?token=49d2dc1fd20512f4da399340dd1bbe644a6ec231-90-1789580752-1789562752
-#EXTINF:-1 tvg-chno="177",[LaLiga] Deportivo La Coruña vs Sevilla  Inglés 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="237",[LaLiga] Deportivo La Coruña vs Sevilla  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://c2f2zq.fubo18.com:443/espnplus2/mono.m3u8?token=80935ec6064460a0d2d9fb90f96da5f1130e32c1-5b-1789580752-1789562752
-#EXTINF:-1 tvg-chno="178",[LaLiga] Levante vs Athletic Club 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="238",[LaLiga] Deportivo de A Coruña vs Sevilla (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56531?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56531?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56531/load-playlist
+#EXTINF:-1 tvg-chno="239",[LaLiga] Levante vs Athletic Club 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmf0aw9u.fubo18.com:443/dsports_eventos/mono.m3u8?token=e0ba48a64b3c47ec2b51ff551fe4880609414d1f-5f-1789580755-1789562755
-#EXTINF:-1 tvg-chno="179",[LaLiga] Levante vs Athletic Club 1 (STP)
+#EXTINF:-1 tvg-chno="240",[LaLiga] Levante vs Athletic Club 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://14.domhsd.com:443/global/dsports/index.m3u8?token=a9eaacaa0fafba09ddb1a6409fd2033e29db4ce1-46-1789605054-1789551054
-#EXTINF:-1 tvg-chno="180",[LaLiga] Levante vs Athletic Club 2 (STP)
+https://85.domhsd.com:443/global/dsports/index.m3u8?token=7ffecae1f74e712a0d212050d265680580a54afe-2e-1789624856-1789570856
+#EXTINF:-1 tvg-chno="241",[LaLiga] Levante vs Athletic Club 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus4
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://17.domhsd.com:443/global/espnplus4/index.m3u8?token=5a8c5df1dc11c97e7b36bdafb4310b7497db8394-d9-1789605054-1789551054
-#EXTINF:-1 tvg-chno="181",[LaLiga] Levante vs Athletic Club  DSports (STRMXHD)
+https://98.domhsd.com:443/global/espnplus4/index.m3u8?token=1404e05811fd70aa76664d58087376ec6fc8199d-4b-1789624856-1789570856
+#EXTINF:-1 tvg-chno="242",[LaLiga] Levante vs Athletic Club  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=66d9553e885c04665a34fe0c84534ad9db411113-7c-1789605052-1789551052
-#EXTINF:-1 tvg-chno="182",[LaLiga] Levante vs Athletic Club  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=2f63717a589002b69fea2ffc32977cd73ac044ef-aa-1789624854-1789570854
+#EXTINF:-1 tvg-chno="243",[LaLiga] Levante vs Athletic Club  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus4/index.m3u8?token=d3b41679c753a1902770717fc3b0ece9a875c826-79-1789605052-1789551052
-#EXTINF:-1 tvg-chno="183",[LaLiga] Levante vs Athletic Club  Español 1 (PLIBRE)
+https://khala.futlivehd.com/global/espnplus4/index.m3u8?token=6fe94e6dffbae10506bd5ccf799c5ab26874775e-c0-1789624854-1789570854
+#EXTINF:-1 tvg-chno="244",[LaLiga] Levante vs Athletic Club  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://YXdlc29tZQ.fubo18.com:443/dsports/mono.m3u8?token=a989a18ef80ae9f6e13d6f7344fc6066825fb7aa-75-1789580755-1789562755
-#EXTINF:-1 tvg-chno="184",[LaLiga] Levante vs Athletic Club  Español 2 (PLIBRE)
+#EXTINF:-1 tvg-chno="245",[LaLiga] Levante vs Athletic Club  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://bmf0aw9u.fubo18.com:443/vtvplus/mono.m3u8?token=2a06d3bc02bdc9416b238db348910baba42e9bd2-1-1789580755-1789562755
-#EXTINF:-1 tvg-chno="185",[LaLiga] Levante vs Athletic Club  Inglés 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="246",[LaLiga] Levante vs Athletic Club  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus4
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://Ym9yZQ.fubo18.com:443/espnplus4/mono.m3u8?token=3281a2bbebc57bcc663e40835002227c0fdb15d2-ca-1789580755-1789562755
+#EXTINF:-1 tvg-chno="247",[Laliga] Atlético Madrid vs Osasuna  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-origin=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://type.futtv.nx.kg/atm/index.m3u8
+#EXTINF:-1 tvg-chno="248",[Laliga] Deportivo vs Sevilla  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-origin=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://type.futtv.nx.kg/sev/index.m3u8
