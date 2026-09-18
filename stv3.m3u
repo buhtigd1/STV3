@@ -1,191 +1,241 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="313",[Premier League] Brentford vs Chelsea 1 (STP)
+#EXTINF:-1 tvg-chno="244",[Premier League] Brentford vs Chelsea (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56605?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56605?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56605/load-playlist-multi
+#EXTINF:-1 tvg-chno="245",[Premier League] Brentford vs Chelsea 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://85.domhsd.com:443/global/disney4/index.m3u8?token=3250d0af6b7be969fb4257d99f86dc25a527759e-09-1789785054-1789731054
-#EXTINF:-1 tvg-chno="314",[Premier League] Brentford vs Chelsea 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=foxone3
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=foxone3
+https://93.domhsd.com:443/global/disney4/index.m3u8?token=fbf88314fed0468fbe880739856a8735ae35f724-09-1789804854-1789750854
+#EXTINF:-1 tvg-chno="246",[Premier League] Brentford vs Chelsea 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn2
+#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://93.domhsd.com:443/global/foxone3/index.m3u8?token=2869f8691474ee8795235e041ffe4ba931276f26-cb-1789785054-1789731054
-#EXTINF:-1 tvg-chno="315",[Premier League] Brentford vs Chelsea 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn2col
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn2col
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.domhsd.com:443/global/espn2col/index.m3u8?token=42583b647d1e7b1cd8c4a110e89708d60384d838-35-1789785054-1789731054
-#EXTINF:-1 tvg-chno="316",[Premier League] Brentford vs Chelsea  Disney + (STRMXHD)
+https://98.domhsd.com:443/global/espn2/index.m3u8?token=bc3fa900f99325e857fd63258714d49f80984e31-08-1789804854-1789750854
+#EXTINF:-1 tvg-chno="247",[Premier League] Brentford vs Chelsea  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney4/index.m3u8?token=07fde29f093cffaca00d8b77d4abc1d86783da01-18-1789797656-1789743656
-#EXTINF:-1 tvg-chno="317",[Premier League] Brentford vs Chelsea  ESPN (STRMXHD)
+#EXTINF:-1 tvg-chno="248",[Premier League] Brentford vs Chelsea  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn/index.m3u8?token=72a5965179da5d3b8cc5ee20be3f5b6571b28827-6d-1789797656-1789743656
-#EXTINF:-1 tvg-chno="318",[Premier League] Brentford vs Chelsea  ESPN AR (STRMXHD)
+#EXTINF:-1 tvg-chno="249",[Premier League] Brentford vs Chelsea  ESPN AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnar
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espnar/index.m3u8?token=38c06e7346d45894c65e12e3167903de89e77278-1d-1789797656-1789743656
-#EXTINF:-1 tvg-chno="319",[Premier League] Brentford vs Chelsea  Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="250",[Premier League] Brentford vs Chelsea  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/espn/mono.m3u8?token=7e815796e6053b8961fd27ac44488b5f113b600b-4d-1789753556-1789735556
-#EXTINF:-1 tvg-chno="320",[Premier League] Brentford vs Chelsea  Español 2 (PLIBRE)
+https://y2fzdgxl.fubo18.com:443/espn/mono.m3u8?token=a204675a14a8809c743584393c800404a5c3f00a-3d-1789773354-1789755354
+#EXTINF:-1 tvg-chno="251",[Premier League] Brentford vs Chelsea  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney6
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/disney6/mono.m3u8?token=4ebf5dcedd0c77a710d5d4fe24d6650729adcc41-4b-1789753556-1789735556
-#EXTINF:-1 tvg-chno="300",[MotoGP] MotoGP Grand Prix of Austria (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
-#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+https://YXdlc29tZQ.fubo18.com:443/disney6/mono.m3u8?token=86babf23f8562c096e911298b70924140d581d1a-36-1789773354-1789755354
+#EXTINF:-1 tvg-chno="252",[Premier League] Brentford vs. Chelsea (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-09-18/bre-che
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=pl/2026-09-18/bre-che
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.44/hls/ssssAA.m3u8
-#EXTINF:-1 tvg-chno="132",[Football] AS Monaco vs. Lens  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/pl/2026-09-18/bre-che/playlist.m3u8?tk=L_EQ7EoCqaAmJXxwas3STA&e=1789799452
+#EXTINF:-1 tvg-chno="253",[Premier League] Chelsea vs Brentford (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-origin=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/chelsea-vs-brentford1080p3/index.m3u8?_e=1789788653&_n=a75a3d2bfa31e11c&_t=bbVCrvlQVfRFICmPAWIKzg
+#EXTINF:-1 tvg-chno="66",[England Premier League] Brentford vs Chelsea  DE (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdn6.zohanayaan.com:1686/hls/do16.m3u8?md5=71uJ0fsnUBJf24Raj74iIA&expires=1789768871
+#EXTINF:-1 tvg-chno="67",[England Premier League] Brentford vs Chelsea  EN (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdn6.zohanayaan.com:1686/hls/do10.m3u8?md5=mj4b8HynHQ2UdfS__vMX2Q&expires=1789768869
+#EXTINF:-1 tvg-chno="68",[England Premier League] Brentford vs Chelsea  FR (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdn9.zohanayaan.com:1686/hls/do50.m3u8?md5=MfxZl9bpENkhDEq8ctfueA&expires=1789768874
+#EXTINF:-1 tvg-chno="88",[Football] AS Monaco vs. Lens  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="133",[Football] Bayern Munich vs. 1. FC Union Berlin  English (STRMCNTR)
+https://edgestream7.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="89",[Football] Bayern Munich vs. 1. FC Union Berlin  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="134",[Football] Brentford vs. Chelsea  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="90",[Football] Brentford vs. Chelsea  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="135",[Football] Bristol City vs. Watford  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="91",[Football] Bristol City vs. Watford  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="136",[Football] Espanyol vs. Elche  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="92",[Football] Espanyol vs. Elche  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/okhrtofm78.m3u8
-#EXTINF:-1 tvg-chno="137",[Football] Espanyol vs. Elche  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="93",[Football] Espanyol vs. Elche  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="138",[Football] FC Groningen vs. PEC Zwolle (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=eredivisie/2026-09-18/gro-pec
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=eredivisie/2026-09-18/gro-pec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/eredivisie/2026-09-18/gro-pec/playlist.m3u8?tk=nxX_0APHhTAFIHAMCHLEcQ&e=1789795852
-#EXTINF:-1 tvg-chno="139",[Football] Monza vs. Sassuolo  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="94",[Football] Monza vs. Sassuolo  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="205",[LaLiga] Espanyol vs Elche 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="135",[LaLiga] Espanyol vs Elche (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56604?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56604?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56604/load-playlist
+#EXTINF:-1 tvg-chno="136",[LaLiga] Espanyol vs Elche 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports_eventos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/dsports_eventos/mono.m3u8?token=0441025010d71e976b74ae8aad213ba3788e10ca-4-1789753558-1789735558
-#EXTINF:-1 tvg-chno="206",[LaLiga] Espanyol vs Elche 1 (STP)
+https://b2ZmaWNpYWw.fubo18.com:443/dsports_eventos/mono.m3u8?token=5b9e4bae07aa0a61f1a0a73e622a9bacc9563cc4-2-1789773356-1789755356
+#EXTINF:-1 tvg-chno="137",[LaLiga] Espanyol vs Elche 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://17.domhsd.com:443/global/dsports/index.m3u8?token=ee20abb76fece92ab12647a5d1fa9a42f1f045ca-67-1789785054-1789731054
-#EXTINF:-1 tvg-chno="207",[LaLiga] Espanyol vs Elche 2 (STP)
+https://99.domhsd.com:443/global/dsports/index.m3u8?token=9920641b5f0de53965233d986ecbbc2059fae9a8-9b-1789804854-1789750854
+#EXTINF:-1 tvg-chno="138",[LaLiga] Espanyol vs Elche 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.domhsd.com:443/global/espnplus1/index.m3u8?token=d4cfffba2a43dab09e0be20af9a92e6faea52242-2a-1789785054-1789731054
-#EXTINF:-1 tvg-chno="208",[LaLiga] Espanyol vs Elche 3 (STP)
+https://193.domhsd.com:443/global/espnplus1/index.m3u8?token=1a3df2fd9036638818e67385e764edb29f19a8d3-93-1789804854-1789750854
+#EXTINF:-1 tvg-chno="139",[LaLiga] Espanyol vs Elche 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://93.domhsd.com:443/global/espndeportes/index.m3u8?token=30636993db1b1512b08caac9cb0f3fcbda2c2c7b-a5-1789785054-1789731054
-#EXTINF:-1 tvg-chno="209",[LaLiga] Espanyol vs Elche  DAZN LaLiga (STRMXHD)
+https://99.domhsd.com:443/global/espndeportes/index.m3u8?token=02e4b823203d24b1ca1dc77be32d9345d0e82f7f-9d-1789804854-1789750854
+#EXTINF:-1 tvg-chno="140",[LaLiga] Espanyol vs Elche  DAZN LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=1f727dfc7b42368cc8c09f8096ad4291056f1beb-e2-1789797658-1789743658
-#EXTINF:-1 tvg-chno="210",[LaLiga] Espanyol vs Elche  DSports (STRMXHD)
+#EXTINF:-1 tvg-chno="141",[LaLiga] Espanyol vs Elche  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/dsports/index.m3u8?token=6450fea268c4c23623d807b2d2f15aae4bd5c6cb-1a-1789797657-1789743657
-#EXTINF:-1 tvg-chno="211",[LaLiga] Espanyol vs Elche  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="142",[LaLiga] Espanyol vs Elche  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=4ff9dc4e847c4b48402e0a3b37a8291840f606c0-97-1789797657-1789743657
-#EXTINF:-1 tvg-chno="212",[LaLiga] Espanyol vs Elche  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="143",[LaLiga] Espanyol vs Elche  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=7875d8db775751b001c857d8cc73e54c4ae363ab-e2-1789797658-1789743658
-#EXTINF:-1 tvg-chno="213",[LaLiga] Espanyol vs Elche  Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="144",[LaLiga] Espanyol vs Elche  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdgxl.fubo18.com:443/dsports/mono.m3u8?token=cd70e783976266caf694e23fb1b4ca1c72d0f31e-f8-1789753558-1789735558
-#EXTINF:-1 tvg-chno="214",[LaLiga] Espanyol vs Elche  Español 2 (PLIBRE)
+https://YXdlc29tZQ.fubo18.com:443/dsports/mono.m3u8?token=ed404b5cd5bf8f43f2ec83b2002719914492f248-d4-1789773356-1789755356
+#EXTINF:-1 tvg-chno="145",[LaLiga] Espanyol vs Elche  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=vtvplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://b2ZmaWNpYWw.fubo18.com:443/vtvplus/mono.m3u8?token=6a0cdcdb92d164193044369f87d9d5d45b729534-62-1789753558-1789735558
-#EXTINF:-1 tvg-chno="215",[LaLiga] Espanyol vs Elche  Inglés 1 (PLIBRE)
+https://YXdlc29tZQ.fubo18.com:443/vtvplus/mono.m3u8?token=61ef949a42d5ddc1634dc90a00c7b9a0be00afd3-32-1789773356-1789755356
+#EXTINF:-1 tvg-chno="146",[LaLiga] Espanyol vs Elche  Inglés 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/espnplus1/mono.m3u8?token=e52a43a911bab8f9ce2aa2880fa2bc32b9cc75f7-f2-1789753558-1789735558
-#EXTINF:-1 tvg-chno="329",[Serie A] Monza vs Sassuolo 1 (STP)
+https://c2f2zq.fubo18.com:443/espnplus1/mono.m3u8?token=55b4db147d99f013085d86b8359449401d39721a-4b-1789773356-1789755356
+#EXTINF:-1 tvg-chno="147",[Laliga] Espanyol vs Elche  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-origin=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://type.futtv.nx.kg/esp-el/index.m3u8
+#EXTINF:-1 tvg-chno="257",[Serie A] Monza vs Sassuolo (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/56603?ad=111
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net/new-stream-embed/56603?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/56603/load-playlist
+#EXTINF:-1 tvg-chno="258",[Serie A] Monza vs Sassuolo 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=disney2
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://193.domhsd.com:443/global/disney2/index.m3u8?token=6550a31caf2ce37f7bbfb48209e78594e271122d-42-1789785053-1789731053
-#EXTINF:-1 tvg-chno="330",[Serie A] Monza vs Sassuolo 2 (STP)
+https://193.domhsd.com:443/global/disney2/index.m3u8?token=ec15f4113f0e30a47dea87a4b6bea21399062808-c9-1789804853-1789750853
+#EXTINF:-1 tvg-chno="259",[Serie A] Monza vs Sassuolo 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=universo_usa
 #EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=universo_usa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://7.domhsd.com:443/global/universo_usa/index.m3u8?token=9a0b70450b14171568f3014001af6399e093de78-18-1789785053-1789731053
-#EXTINF:-1 tvg-chno="331",[Serie A] Monza vs Sassuolo 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn3col
-#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn3col
+https://7.domhsd.com:443/global/universo_usa/index.m3u8?token=6357eb53963dfd5eb9c0f026e81c23aae7d3f19a-b6-1789804853-1789750853
+#EXTINF:-1 tvg-chno="260",[Serie A] Monza vs Sassuolo 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamtp-golden1.click/global1.php?stream=espn3
+#EXTVLCOPT:http-origin=https://streamtp-golden1.click/global1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://85.domhsd.com:443/global/espn3col/index.m3u8?token=ffeb218dd1e7f87cc075bc5847437b218a43cc22-d2-1789785053-1789731053
-#EXTINF:-1 tvg-chno="332",[Serie A] Monza vs Sassuolo  Disney + (STRMXHD)
+https://17.domhsd.com:443/global/espn3/index.m3u8?token=10f3c0f908364b84c6130b755251f3cebe38e876-00-1789804853-1789750853
+#EXTINF:-1 tvg-chno="261",[Serie A] Monza vs Sassuolo  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney2/index.m3u8?token=92a7bcdcd11bf705ea2243aa776fc3d113cd30e0-3d-1789797655-1789743655
-#EXTINF:-1 tvg-chno="333",[Serie A] Monza vs Sassuolo  ESPN 3 (STRMXHD)
+#EXTINF:-1 tvg-chno="262",[Serie A] Monza vs Sassuolo  ESPN 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn3/index.m3u8?token=c83ac45c93a886bd43a887aa6c2db2625e94f7af-67-1789797656-1789743656
-#EXTINF:-1 tvg-chno="334",[Serie A] Monza vs Sassuolo  Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="263",[Serie A] Monza vs Sassuolo  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn3
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://w5pdgvk.fubo18.com:443/espn3/mono.m3u8?token=56c1e421b558fe034067df2f93e2e1170f402641-30-1789753555-1789735555
-#EXTINF:-1 tvg-chno="335",[Serie A] Monza vs Sassuolo  Español 2 (PLIBRE)
+https://w5pdgvk.fubo18.com:443/espn3/mono.m3u8?token=90e9da9e8f6999ab79f8043fb0bb2548a5fd3ed9-36-1789773354-1789755354
+#EXTINF:-1 tvg-chno="264",[Serie A] Monza vs Sassuolo  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmf0aw9u.fubo18.com:443/disney5/mono.m3u8?token=2e7718cb2b02a1f2903f12a2868858f2d19a7357-32-1789753555-1789735555
-#EXTINF:-1 tvg-chno="336",[Serie A] Monza vs Sassuolo  Español 3 (PLIBRE)
+https://Ym9yZQ.fubo18.com:443/disney5/mono.m3u8?token=959dd050fbf303749d04805783aef432f1665ca3-20-1789773354-1789755354
+#EXTINF:-1 tvg-chno="265",[Serie A] Monza vs Sassuolo  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=universo
 #EXTVLCOPT:http-origin=https://la18hd.su/vivo/canales.php?stream=universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/universo/mono.m3u8?token=02522cad3b226347ab730db3d6048c1bc8f8dd2c-a8-1789753556-1789735556
-#EXTINF:-1 tvg-chno="337",[Serie A] Monza vs Sassuolo  Universo (STRMXHD)
+https://dglvz29s.fubo18.com:443/universo/mono.m3u8?token=d0b189655a29a171670a2d654d3c2b67ae195252-b8-1789773354-1789755354
+#EXTINF:-1 tvg-chno="266",[Serie A] Monza vs Sassuolo  Universo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/universo/index.m3u8?token=35e874043967fe6d2436978e9ec602a4460a6769-bd-1789797656-1789743656
-#EXTINF:-1 tvg-chno="199",[Italy Serie A] Monza vs Sassuolo (FAWA)
+#EXTINF:-1 tvg-chno="267",[Serie A] Monza vs. Sassuolo (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=seriea/2026-09-18/mon-sas
+#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=seriea/2026-09-18/mon-sas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/seriea/2026-09-18/mon-sas/playlist.m3u8?tk=wwiZq79PgyMDTYdYOxJoWA&e=1789799451
+#EXTINF:-1 tvg-chno="268",[Serie A] Sassuolo vs Monza (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-origin=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/sassuolo-vs-monza1080p3/index.m3u8?_e=1789788652&_n=40433dd8d1e5ba7f&_t=Mcs6dBEH4_kzS1liozWHsg
+#EXTINF:-1 tvg-chno="127",[Italy Serie A] Monza vs Sassuolo 2 (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-origin=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.55/hls/USSSQQQ.m3u8
+https://www.rtmpcdn.com/live/7ad87852-b23b-4ac8-a232-a1cfb2e2b32c.m3u8
+#EXTINF:-1 tvg-chno="128",[Italy Serie A] Monza vs Sassuolo 3 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://live3.dyrur1.com/live/9gklzi1e0epum7x_703f5f9114bd71d43b26a2e4365c596a_540p.m3u8?auth_key=1789771761-0-0-696fcbce0a510f266ac374b1643998bd
+#EXTINF:-1 tvg-chno="129",[Italy Serie A] Monza vs Sassuolo  IT (PLYFST)
+#EXTVLCOPT:http-referrer=https://forgemindly.com/
+#EXTVLCOPT:http-origin=https://forgemindly.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://cdn4.zohanayaan.com:1686/hls/do47.m3u8?md5=OFCeYM7yrq5n7ux2kPLT8A&expires=1789768883
