@@ -1,75 +1,75 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="61",[Football] AFC Wimbledon vs. Milton Keynes Dons  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="58",[Football] AFC Wimbledon vs. Milton Keynes Dons  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="62",[Football] Besiktas vs. Marseille  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="59",[Football] Besiktas vs. Marseille  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="63",[Football] Celtic vs. Ferencvaros  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="60",[Football] Celtic vs. Ferencvaros  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="64",[Football] Crystal Palace vs. Lech Poznan  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="61",[Football] Crystal Palace vs. Lech Poznan  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="65",[Football] Juventus vs. NEC Nijmegen  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="62",[Football] Juventus vs. NEC Nijmegen  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="66",[Football] Manchester City vs. Norwich City  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="63",[Football] Manchester City vs. Norwich City  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="67",[Football] Málaga vs. Villarreal  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="64",[Football] Málaga vs. Villarreal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="68",[Football] Málaga vs. Villarreal  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="65",[Football] Málaga vs. Villarreal  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/okhrtofm78.m3u8
-#EXTINF:-1 tvg-chno="69",[Football] Real Sociedad vs. AFC Bournemouth  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="66",[Football] Real Sociedad vs. AFC Bournemouth  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="72",[LaLiga] Málaga vs Villarreal  DAZN LaLiga (STRMXHD)
+#EXTINF:-1 tvg-chno="68",[LaLiga] Málaga vs Villarreal  DAZN LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=61368e854b5f63877528bbdff7f5a2b5ec712ab9-7e-1789731143-1789677143
-#EXTINF:-1 tvg-chno="73",[LaLiga] Málaga vs Villarreal  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="69",[LaLiga] Málaga vs Villarreal  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney11
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney11/index.m3u8?token=b20c6fe0defbe9cefe78f944f0e0221c67987f3b-7b-1789731142-1789677142
-#EXTINF:-1 tvg-chno="74",[LaLiga] Málaga vs Villarreal  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="70",[LaLiga] Málaga vs Villarreal  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=9ca5498281b3af63ba6596dff4ef2f15b49f5d40-41-1789731143-1789677143
-#EXTINF:-1 tvg-chno="75",[LaLiga] Málaga vs Villarreal  ESPN 4 (STRMXHD)
+#EXTINF:-1 tvg-chno="71",[LaLiga] Málaga vs Villarreal  ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn4/index.m3u8?token=4f5475f01becf5f71026a7dc98f6a188fa4fe04b-a2-1789731143-1789677143
-#EXTINF:-1 tvg-chno="76",[LaLiga] Málaga vs Villarreal  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="72",[LaLiga] Málaga vs Villarreal  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=fbb48f5340a72070e6fd663f7f6e7d138a0da96f-c9-1789731143-1789677143
-#EXTINF:-1 tvg-chno="77",[Laliga] Real Betis vs Getafe  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="73",[Laliga] Real Betis vs Getafe  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
