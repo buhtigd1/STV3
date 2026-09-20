@@ -1,155 +1,140 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="488",[Motorsports] Bristol Motor Speedway -  Bass Pro Shops Night Race (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=bristol-motor-speedway---bass-pro-shops-night-race-29016
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=bristol-motor-speedway---bass-pro-shops-night-race-29016
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/bristol-motor-speedway---bass-pro-shops-night-race-29016/playlist.m3u8?tk=zcvc5Ge6vPgmvYnMFXzvRg&e=1789902012
-#EXTINF:-1 tvg-chno="207",[Football] AS Roma vs. Internazionale  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="163",[Football] AS Roma vs. Internazionale  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="208",[Football] Angers vs. Troyes  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="164",[Football] Angers vs. Troyes  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="209",[Football] Athletic Club vs. Alavés  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="165",[Football] Athletic Club vs. Alavés  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="210",[Football] Atlas vs. Pumas UNAM (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-09-19/ats-unam
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=liga-mx/2026-09-19/ats-unam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/ats-unam/playlist.m3u8?tk=5AP-8Ux5mS75fD0HMttHyA&e=1789900211
-#EXTINF:-1 tvg-chno="211",[Football] Atlético de San Luis vs. Necaxa (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-09-19/asl-ncx
-#EXTVLCOPT:http-origin=https://ondemand.st/embed/?id=liga-mx/2026-09-19/asl-ncx
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-19/asl-ncx/playlist.m3u8?tk=5AP-8Ux5mS75fD0HMttHyA&e=1789900211
-#EXTINF:-1 tvg-chno="212",[Football] Bologna vs. Torino  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="166",[Football] Bologna vs. Torino  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="213",[Football] Brighton & Hove Albion vs. Arsenal  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="167",[Football] Brighton & Hove Albion vs. Arsenal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="214",[Football] Celta Vigo vs. Racing Santander  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="168",[Football] Celta Vigo vs. Racing Santander  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="215",[Football] Everton vs. Ipswich Town  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="169",[Football] Everton vs. Ipswich Town  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="216",[Football] Le Mans vs. Lorient  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="170",[Football] Le Mans vs. Lorient  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="217",[Football] Lyon vs. Stade Rennais  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="171",[Football] Lyon vs. Stade Rennais  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="218",[Football] Newcastle United vs. Hull City  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="172",[Football] Newcastle United vs. Hull City  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="219",[Football] Nottingham Forest vs. Coventry City  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="173",[Football] Nottingham Forest vs. Coventry City  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="220",[Football] Osasuna vs. Rayo Vallecano  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="174",[Football] Osasuna vs. Rayo Vallecano  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="221",[Football] Paris FC vs. Strasbourg  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="175",[Football] Paris FC vs. Strasbourg  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="222",[Football] Sevilla vs. Barcelona  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="176",[Football] Sevilla vs. Barcelona  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="223",[Football] Toulouse vs. Le Havre AC  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="177",[Football] Toulouse vs. Le Havre AC  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="224",[Football] Udinese vs. Cagliari  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="178",[Football] Udinese vs. Cagliari  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="225",[Football] Venezia vs. Lazio  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="179",[Football] Venezia vs. Lazio  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="226",[Football] VfB Stuttgart vs. Borussia Dortmund  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="180",[Football] VfB Stuttgart vs. Borussia Dortmund  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-origin=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="239",[LaLiga] Sevilla vs Barcelona  DSports (STRMXHD)
+#EXTINF:-1 tvg-chno="191",[LaLiga] Sevilla vs Barcelona  DSports (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=dsports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/dsports/index.m3u8?token=c1d478e5caa041f70a5d4f4295e17038f16394ac-34-1789903815-1789849815
-#EXTINF:-1 tvg-chno="240",[LaLiga] Sevilla vs Barcelona  ESPN + (STRMXHD)
+#EXTINF:-1 tvg-chno="192",[LaLiga] Sevilla vs Barcelona  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus4
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espnplus4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espnplus4/index.m3u8?token=f3d54d95865bee5bf697fe6eff664d0fdda0fec8-7d-1789903815-1789849815
-#EXTINF:-1 tvg-chno="241",[LaLiga] Sevilla vs Barcelona  ESPN Deportes (STRMXHD)
+#EXTINF:-1 tvg-chno="193",[LaLiga] Sevilla vs Barcelona  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=f2486932aad382741ba37f619cbbcd004096052c-23-1789903815-1789849815
-#EXTINF:-1 tvg-chno="242",[LaLiga] Sevilla vs Barcelona  M LaLiga (STRMXHD)
+#EXTINF:-1 tvg-chno="194",[LaLiga] Sevilla vs Barcelona  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=42028b6ffd6cb08bece11ff989545beaeb7df79a-45-1789903815-1789849815
-#EXTINF:-1 tvg-chno="243",[Laliga] Celta Vigo vs Racing Santander  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="195",[Laliga] Celta Vigo vs Racing Santander  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://type.futtv.nx.kg/celta/index.m3u8
-#EXTINF:-1 tvg-chno="244",[Laliga] Sevilla vs Barcelona  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="196",[Laliga] Sevilla vs Barcelona  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-origin=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://futbolx.ryzn.pro/bar/index.m3u8
-#EXTINF:-1 tvg-chno="627",[Serie A] Venezia vs Lazio  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="553",[Serie A] Venezia vs Lazio  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney23
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=disney23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney23/index.m3u8?token=246ccd8f3ea3fbe1e6903c1d7e2021fbf4dc0cc0-47-1789903813-1789849813
-#EXTINF:-1 tvg-chno="628",[Serie A] Venezia vs Lazio  ESPN 2 (STRMXHD)
+#EXTINF:-1 tvg-chno="554",[Serie A] Venezia vs Lazio  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn2/index.m3u8?token=097920ae6d03b5310d5e4a4b4f3351fd5d5766b4-07-1789903813-1789849813
-#EXTINF:-1 tvg-chno="629",[Serie A] Venezia vs Lazio  ESPN 2 AR (STRMXHD)
+#EXTINF:-1 tvg-chno="555",[Serie A] Venezia vs Lazio  ESPN 2 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2ar
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=espn2ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=85382ebe0c63196e4356d68f6285d1b8f20386ea-f0-1789903814-1789849814
-#EXTINF:-1 tvg-chno="630",[Serie A] Venezia vs Lazio  Universo (STRMXHD)
+#EXTINF:-1 tvg-chno="556",[Serie A] Venezia vs Lazio  Universo (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-origin=https://streamxhd.com/live1.php?stream=universo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
