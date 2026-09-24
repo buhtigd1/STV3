@@ -1,5 +1,85 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="35",[F1] Azerbaijan Grand Prix - Practice 1  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="81",[F1] Azerbaijan Grand Prix - Practice 1  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://sweden.futbol-x.top/sky/index.m3u8
+#EXTINF:-1 tvg-chno="82",[F1] Azerbaijan Grand Prix - Practice 2  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://sweden.futbol-x.top/sky/index.m3u8
+#EXTINF:-1 tvg-chno="83",[F1] GP Azerbaiyán - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=4eee0c97a89995dc8cca236ad4634df60d7a3ab1-b3-1790306303-1790252303
+#EXTINF:-1 tvg-chno="84",[F1] GP Azerbaiyán - Práctica #1 - On Board Verstappen  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=feba727cc3a82c8604549a43bab2b3325cf6e541-e4-1790306303-1790252303
+#EXTINF:-1 tvg-chno="85",[F1] GP Azerbaiyán - Práctica #1  DAZN F1 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=cb10e6cea9b25d7333f29426c863e698963e0b1f-be-1790306303-1790252303
+#EXTINF:-1 tvg-chno="86",[F1] GP Azerbaiyán - Práctica #1  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=d61fb793c40119b6abe8aa779724b72b12d7853e-d8-1790306303-1790252303
+#EXTINF:-1 tvg-chno="87",[F1] GP Azerbaiyán - Práctica #1  Fox Sports 1 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=7e6a3f54e4a2372f4af96de028451b1454a5a0d5-88-1790306303-1790252303
+#EXTINF:-1 tvg-chno="88",[F1] GP Azerbaiyán - Práctica #2 - Cámara On Board  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=61511273e62ca230edff12bbffde4e9a473074a9-aa-1790306303-1790252303
+#EXTINF:-1 tvg-chno="89",[F1] GP Azerbaiyán - Práctica #2 - On Board Colapinto  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=b1f938f2b9cc9ea99ab074180a289c64304e7938-9e-1790306303-1790252303
+#EXTINF:-1 tvg-chno="90",[F1] GP Azerbaiyán - Práctica #2 - On Board Verstappen  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=c778595e2d65514f86c7eec6adfcf72a1209f7e0-ac-1790306304-1790252304
+#EXTINF:-1 tvg-chno="91",[F1] GP Azerbaiyán - Práctica #2  DAZN F1 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=12ebe218c25ab49ceb8170ce044bb62effa3e2b1-9e-1790306303-1790252303
+#EXTINF:-1 tvg-chno="92",[F1] GP Azerbaiyán - Práctica #2  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=5dbe2d6e937062ef2338622337ca6c19fc8b839e-97-1790306303-1790252303
+#EXTINF:-1 tvg-chno="93",[F1] GP Azerbaiyán - Práctica #2  Fox Sports 1 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=a6fb5fc5953bf400e3cab359ffaa473f39aaf097-30-1790306303-1790252303
+#EXTINF:-1 tvg-chno="100",[Football] Andorra vs. Malta (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-24/and-mlt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-24/and-mlt/playlist.m3u8?tk=Zza8xu2SC2JzSZFvmU75Rw&e=1790308826
+#EXTINF:-1 tvg-chno="101",[Football] Andorra vs. Malta  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="102",[Football] Kosovo vs. Republic of Ireland  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="103",[Football] Liechtenstein vs. Lithuania  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="104",[Football] Netherlands vs. Germany  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="105",[Football] Norway vs. Denmark  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="106",[Football] Portugal vs. Wales  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="107",[Football] Serbia vs. Greece  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
