@@ -1,165 +1,165 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="91",[Formula 1] Formula 1 2026 - Azerbaijan GP (iSTRMEAST)
+#EXTINF:-1 tvg-chno="141",[Formula 1] Formula 1 2026 - Azerbaijan GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57011?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57011/load-playlist
-#EXTINF:-1 tvg-chno="92",[Formula 1] Qatar Airways Azerbaijan Grand Prix - Qual (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401839111/qatar-airways-azerbaijan-grand-prix/prime/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb4.wfty.st/secure/Em-gieMfwsU7weBDnrrRiQ/prime/qatar-airways-azerbaijan-grand-prix/1/401839111/1790362852/playlist.m3u8
-#EXTINF:-1 tvg-chno="59",[F1] Azerbaijan Grand Prix - Practice 3  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="108",[F1] Azerbaijan Grand Prix - Practice 3  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://sweden.futbol-x.top/sky/index.m3u8
-#EXTINF:-1 tvg-chno="60",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports (FUTBOLX)
+#EXTINF:-1 tvg-chno="109",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/sky/index.m3u8
-#EXTINF:-1 tvg-chno="61",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports UHD (FUTBOLX)
+#EXTINF:-1 tvg-chno="110",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports UHD (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/sky-uhd/index.m3u8
-#EXTINF:-1 tvg-chno="62",[F1] GP Azerbaiyán - Clasificación - Cámara On Board  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="111",[F1] GP Azerbaiyán - Clasificación - Cámara On Board  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=322f982cb5cd41274ad2431757777123bbccc4d9-32-1790382665-1790328665
-#EXTINF:-1 tvg-chno="63",[F1] GP Azerbaiyán - Clasificación - On Board Colapinto  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=5d00e1bf6376ab158cc6eefd555d1bb63562dd55-f1-1790404264-1790350264
+#EXTINF:-1 tvg-chno="112",[F1] GP Azerbaiyán - Clasificación - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=7da1f5b9607ffa0cdea60cd918aa02cd1237dedb-39-1790382665-1790328665
-#EXTINF:-1 tvg-chno="64",[F1] GP Azerbaiyán - Clasificación - On Board Verstappen  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=5bca9c7c149e1a39d1f1352f91ee049965f2f8b7-50-1790404264-1790350264
+#EXTINF:-1 tvg-chno="113",[F1] GP Azerbaiyán - Clasificación - On Board Verstappen  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=931f8e213a17bff466b72aa80e5c5fd0ee582d54-67-1790382665-1790328665
-#EXTINF:-1 tvg-chno="65",[F1] GP Azerbaiyán - Clasificación  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=5282ce18e2b9c5a1d64f32eda004bce515df2e54-42-1790404264-1790350264
+#EXTINF:-1 tvg-chno="114",[F1] GP Azerbaiyán - Clasificación  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=11e8dc62eaf9806309033e655aa1c334c646234f-31-1790382665-1790328665
-#EXTINF:-1 tvg-chno="66",[F1] GP Azerbaiyán - Clasificación  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=4bbd8ff4e0d87f9cfc50732727b4306a7eccb004-4e-1790404264-1790350264
+#EXTINF:-1 tvg-chno="115",[F1] GP Azerbaiyán - Clasificación  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=90ddc92b2ec2b8d2fa28b74c612ac66e2881d157-ea-1790382665-1790328665
-#EXTINF:-1 tvg-chno="67",[F1] GP Azerbaiyán - Clasificación  FOX Sports 1 AR (STRMXHD)
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=5f49c79bf96de0c4e18cc569e4def6629ee123e0-6b-1790404264-1790350264
+#EXTINF:-1 tvg-chno="116",[F1] GP Azerbaiyán - Clasificación  FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=5eb22f96ef1d286d9177092b6df701387eb4ca04-98-1790382665-1790328665
-#EXTINF:-1 tvg-chno="68",[F1] GP Azerbaiyán - Clasificación  SporTV 3 (STRMXHD)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=20ca17ec571015a1f0d496a2a85a8b8995b9ad20-af-1790404264-1790350264
+#EXTINF:-1 tvg-chno="117",[F1] GP Azerbaiyán - Clasificación  SporTV 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=2d8afd382aba51b82b09bc6f0fd06aba68e5f43d-0c-1790382665-1790328665
-#EXTINF:-1 tvg-chno="69",[F1] GP Azerbaiyán - Práctica #3 - On Board Colapinto  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=bddb7677ba96f04f5d44348a3eb263d89256b474-88-1790404264-1790350264
+#EXTINF:-1 tvg-chno="118",[F1] GP Azerbaiyán - Práctica #3 - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=6fe580c73efdb949799310ce6fb1af5466db100b-9c-1790382664-1790328664
-#EXTINF:-1 tvg-chno="70",[F1] GP Azerbaiyán - Práctica #3 - On Board Verstappen  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=8c16e7456bb3a1b0548bb465e7d7fd5f7540868c-8b-1790404263-1790350263
+#EXTINF:-1 tvg-chno="119",[F1] GP Azerbaiyán - Práctica #3 - On Board Verstappen  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=325ff776189e82549d240d58264504635da0afb8-c8-1790382664-1790328664
-#EXTINF:-1 tvg-chno="71",[F1] GP Azerbaiyán - Práctica #3  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=6c963087a37ec6cb1fadd314069afd6d6e1c65e7-0a-1790404263-1790350263
+#EXTINF:-1 tvg-chno="120",[F1] GP Azerbaiyán - Práctica #3  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=106659fb1a5ca815e8c025f8820b66b8553de6ba-14-1790382664-1790328664
-#EXTINF:-1 tvg-chno="72",[F1] GP Azerbaiyán - Práctica #3  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=877379ddb43098ca59f2216722d95d54fafdacd1-16-1790404263-1790350263
+#EXTINF:-1 tvg-chno="121",[F1] GP Azerbaiyán - Práctica #3  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=914dc8a2abf818f431f0d130799743dc90642be8-70-1790382664-1790328664
-#EXTINF:-1 tvg-chno="73",[F1] GP Azerbaiyán - Práctica #3  FOX Sports 1 AR (STRMXHD)
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=7a87ce7a7b1918e5e15939f4aa0f279d99a31efd-ac-1790404263-1790350263
+#EXTINF:-1 tvg-chno="122",[F1] GP Azerbaiyán - Práctica #3  FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=aa912c576ee20f46f11c5f7f84f45aea6534f8f4-ab-1790382664-1790328664
-#EXTINF:-1 tvg-chno="74",[F1] GP Azerbaiyán - Práctica #3  SporTV 3 (STRMXHD)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=f16cad650ab05f61e6cf78785828a90e29bb1194-38-1790404263-1790350263
+#EXTINF:-1 tvg-chno="123",[F1] GP Azerbaiyán - Práctica #3  SporTV 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=0f15234e8699e0683d873fdaa6aae6bb040f65bd-cf-1790382664-1790328664
-#EXTINF:-1 tvg-chno="174",[Motorsports] Azerbaijan Grand Prix - Qualifying (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=f1/2026/azerbaijan/qualifying
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=5ca51a25bd30531af9c9778faf0066a0ed8acc07-ea-1790404263-1790350263
+#EXTINF:-1 tvg-chno="131",[Football] Armenia vs. Latvia (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-25/arm-lva
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/f1/2026/azerbaijan/qualifying/playlist.m3u8?tk=Dgfc7CGYgGb-jLpxO2_Ihg&e=1790380865
-#EXTINF:-1 tvg-chno="82",[Football] Armenia vs. Latvia  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-25/arm-lva/playlist.m3u8?tk=UqmDT5-Q8kwpjcAaMx-Jdw&e=1790395250
+#EXTINF:-1 tvg-chno="132",[Football] Armenia vs. Latvia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="83",[Football] Georgia vs. Northern Ireland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="133",[Football] Georgia vs. Northern Ireland (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-25/geo-nir
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-25/geo-nir/playlist.m3u8?tk=UqmDT5-Q8kwpjcAaMx-Jdw&e=1790395250
+#EXTINF:-1 tvg-chno="134",[Football] Georgia vs. Northern Ireland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="84",[Football] Hungary vs. Ukraine  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="135",[Football] Hungary vs. Ukraine  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="85",[Football] Italy vs. Belgium  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="136",[Football] Italy vs. Belgium  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="86",[Football] Montenegro vs. Cyprus  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="137",[Football] Montenegro vs. Cyprus  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="87",[Football] Poland vs. Bosnia-Herzegovina  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="138",[Football] Poland vs. Bosnia-Herzegovina  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="88",[Football] Sweden vs. Romania  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="139",[Football] Sweden vs. Romania  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="89",[Football] Türkiye vs. France  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="140",[Football] Türkiye vs. France  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="196",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPRO  HD (TVF90)
+#EXTINF:-1 tvg-chno="305",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPRO  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dw5pdGVk.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=fdcab16b871de02759097c0a07670a0e97ef106e-17-1790354778-1790336778
-#EXTINF:-1 tvg-chno="197",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPro (TVF90)
+https://a2lja3m.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=e45cb3d9db948afc79bb34a24b7602d86b4b6c62-2f-1790376381-1790358381
+#EXTINF:-1 tvg-chno="306",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPro (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=b85965c5d0ae279043f3d3d024e3471f2ee9a02f-3-1790354777-1790336777
-#EXTINF:-1 tvg-chno="198",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPro  OP2 (TVF90)
+https://11.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=e46676f8ce1743079de34294f836d5b6ec1af9fb-f9-1790376380-1790358380
+#EXTINF:-1 tvg-chno="307",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPro  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://9.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=ade1fcbe52d2d37efc1925986353c786239169de-c6-1790354778-1790336778
-#EXTINF:-1 tvg-chno="199",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPro  OP3 (TVF90)
+https://9.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=b8d0dd67e3c0b21f06f390ace1bac1eb342ce512-fe-1790376380-1790358380
+#EXTINF:-1 tvg-chno="308",[Serie A] Academia Costa Del Este vs Potros Del Este  ECDF LigaPro  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=7ebc370b658ee795c92f027146900396fc860f48-66-1790354778-1790336778
-#EXTINF:-1 tvg-chno="200",[Serie A] Academia Costa Del Este vs Potros Del Este  ECUAVISA (TVF90)
+https://4.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=d1ac96bf7b44a74c73e592ad60da22dcde95354e-6b-1790376381-1790358381
+#EXTINF:-1 tvg-chno="309",[Serie A] Academia Costa Del Este vs Potros Del Este  ECUAVISA (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://7.ftlly.com:443/ecdf/mono.m3u8?token=6ffe4e20621d2a98054917a986cc3b780739c6a6-5e-1790354778-1790336778
-#EXTINF:-1 tvg-chno="201",[Serie A] Academia Costa Del Este vs Potros Del Este  ECUAVISA  OP2 (TVF90)
+https://6.ftlly.com:443/ecdf/mono.m3u8?token=ab4175794173e0d4249bb36393c4c8d64c6bcd15-d6-1790376382-1790358382
+#EXTINF:-1 tvg-chno="310",[Serie A] Academia Costa Del Este vs Potros Del Este  ECUAVISA  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/ecdf/mono.m3u8?token=41ae0d6e34e12d72d5b6698ade8e36a732a0cb3f-8-1790354778-1790336778
-#EXTINF:-1 tvg-chno="202",[Serie A] Academia Costa Del Este vs Potros Del Este  ECUAVISA  OP3 (TVF90)
+https://2.ftlly.com:443/ecdf/mono.m3u8?token=b4f16a7350949a7291bcd62d8cf4982a6849ee8d-68-1790376382-1790358382
+#EXTINF:-1 tvg-chno="311",[Serie A] Academia Costa Del Este vs Potros Del Este  ECUAVISA  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/ecdf/mono.m3u8?token=caae98df2a02606554eefb9934111e5063d24914-48-1790354779-1790336779
-#EXTINF:-1 tvg-chno="203",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPRO  HD (TVF90)
+https://6.ftlly.com:443/ecdf/mono.m3u8?token=c9604188e699fc4b9e04b0e0a6fc20b83a74cb00-9c-1790376382-1790358382
+#EXTINF:-1 tvg-chno="312",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPRO  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=8c355a4a1e04955d9fc8df3a676c719d19226a60-6b-1790354769-1790336769
-#EXTINF:-1 tvg-chno="204",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro (TVF90)
+https://YXdlc29tZQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=df848a5a3385ed478c8dd678509da3b131274b42-be-1790376367-1790358367
+#EXTINF:-1 tvg-chno="313",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=fbc7de380d53a9bb4e87af9e442b11c6768a3ca1-2-1790354768-1790336768
-#EXTINF:-1 tvg-chno="205",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP2 (TVF90)
+https://8.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=fafef5c664cb3753947c4f40a32bbde17d6970bb-3b-1790376367-1790358367
+#EXTINF:-1 tvg-chno="314",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=bdcbf6754dd4e4bb2c241ffde8abfee7c564a14b-b-1790354768-1790336768
-#EXTINF:-1 tvg-chno="206",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP3 (TVF90)
+https://10.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=5654bdfbb09c13a8868903f0f5688a8d1e65c6aa-67-1790376367-1790358367
+#EXTINF:-1 tvg-chno="315",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=0592ff11fa2a314477c1d43cd755ee8f81991cc3-80-1790354768-1790336768
-#EXTINF:-1 tvg-chno="207",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA (TVF90)
+https://10.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=53f82bf37c63189629fab50dfd0de60ff508df1b-c1-1790376367-1790358367
+#EXTINF:-1 tvg-chno="316",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/ecdf/mono.m3u8?token=ce553601a94dd4a9be51bb2cf29be1776f12339e-6f-1790354769-1790336769
-#EXTINF:-1 tvg-chno="208",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP2 (TVF90)
+https://6.ftlly.com:443/ecdf/mono.m3u8?token=ca0547d988f7f71a2b2d50eb61004d88ced33ac5-2d-1790376368-1790358368
+#EXTINF:-1 tvg-chno="317",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/ecdf/mono.m3u8?token=e88c4b962d9e7545e1106c2115c324758cb1c780-2e-1790354769-1790336769
-#EXTINF:-1 tvg-chno="209",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP3 (TVF90)
+https://7.ftlly.com:443/ecdf/mono.m3u8?token=bdd383a878c4662c126f2de59c8e77a07971c423-57-1790376368-1790358368
+#EXTINF:-1 tvg-chno="318",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/ecdf/mono.m3u8?token=7ac383521a9dbbf8e4f694cd6aea7139e3bda002-a2-1790354769-1790336769
+https://10.ftlly.com:443/ecdf/mono.m3u8?token=b50667bca12e832ed0d75f3cb93d712be6195d70-22-1790376368-1790358368
