@@ -1,121 +1,77 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="214",[Formula 1] Formula 1 2026 - Azerbaijan GP (iSTRMEAST)
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57011?ad=111
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://chatgpt.hereisman.net/playlist/57011/load-playlist
-#EXTINF:-1 tvg-chno="215",[Formula 1] Qatar Airways Azerbaijan Grand Prix - Race (WATCHFTY)
-#EXTVLCOPT:http-referrer=https://sportsembed.su/embed/401839112/qatar-airways-azerbaijan-grand-prix/deluxe/1?player=clappr&autoplay=true
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://lb3.wfty.st/secure/TucRwvus0CIex4P3mek9SA/deluxe/qatar-airways-azerbaijan-grand-prix/1/401839112/1790447495/playlist.m3u8
-#EXTINF:-1 tvg-chno="216",[Formula 1] Qatar Airways Azerbaijan Grand Prix vs Dazn F1 Spain (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/f6n7j523
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/259a6bb0a154e3f73882f79a68742a5037f0b16adf0b1334cf5f1c61dcddf2ac/1790434890/daznf1.m3u8
-#EXTINF:-1 tvg-chno="217",[Formula 1] Qatar Airways Azerbaijan Grand Prix vs Sky Sports 1 NZ (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/8num3afh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/0c44b52a4221d1c03526ea7bdca7fea6bc0480a236a54c14fdae5d40385eabdd/1790434891/skysport1-nz.m3u8
-#EXTINF:-1 tvg-chno="218",[Formula 1] Qatar Airways Azerbaijan Grand Prix vs Sky Sports F1 De (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/f596f98r-7946
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/7a316e4a763a90848c9c8581cda3301cd1dfacf7dd2229e747c3b6906364ea32/1790434891/skysportsf1-uk.m3u8
-#EXTINF:-1 tvg-chno="219",[Formula 1] Qatar Airways Azerbaijan Grand Prix vs Sky Sports F1 IT (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/t5mpn192
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/a535af7e52937ea2ae6a06eacbca368f2b461de18cd0ce03c76bc46054cbae9c/1790434890/skysportf1-it.m3u8
-#EXTINF:-1 tvg-chno="220",[Formula 1] Qatar Airways Azerbaijan Grand Prix vs Sky Sports F1 UK (FLYEMBD)
-#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/f596f98r-7946
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://juxrd.hundxvision.co.uk/main/secure/f61c5ea337f1ac0bce275049743efaa689b298c5d846db874491a862926daedc/1790434890/skysportsf1-uk.m3u8
-#EXTINF:-1 tvg-chno="190",[F1] Azerbaijan Grand Prix - Race  F1 Tv (FUTBOLX)
+#EXTINF:-1 tvg-chno="241",[F1] Azerbaijan Grand Prix - Race  F1 Tv (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/apple/index.m3u8
-#EXTINF:-1 tvg-chno="191",[F1] Azerbaijan Grand Prix - Race  Sky Sports F1 (FUTBOLX)
+#EXTINF:-1 tvg-chno="242",[F1] Azerbaijan Grand Prix - Race  Sky Sports F1 (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/sky/index.m3u8
-#EXTINF:-1 tvg-chno="192",[F1] Azerbaijan Grand Prix - Race  Sky Sports UHD (FUTBOLX)
+#EXTINF:-1 tvg-chno="243",[F1] Azerbaijan Grand Prix - Race  Sky Sports UHD (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/uhd/index.m3u8
-#EXTINF:-1 tvg-chno="193",[F1] GP Azerbaiyán - Carrera - Cámara On Board  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
+#EXTINF:-1 tvg-chno="468",[Motorsports] Ridgedale (Final) (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=smx-final
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=01dd26b97e911116d8fcb5aeb06243c1ef2b807a-31-1790470889-1790416889
-#EXTINF:-1 tvg-chno="194",[F1] GP Azerbaiyán - Carrera - On Board Colapinto  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=6c964aacb6c132898d5f29500bb04358b6dbb24c-2c-1790470889-1790416889
-#EXTINF:-1 tvg-chno="195",[F1] GP Azerbaiyán - Carrera - On Board Verstappen  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=34f5d3ae2d9fed5cb5af03ed94ea5aac281ee947-91-1790470890-1790416890
-#EXTINF:-1 tvg-chno="196",[F1] GP Azerbaiyán - Carrera - Race Hub  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=dc0ca01d1057dc5bfbc2c49748293fd929472f15-8f-1790470889-1790416889
-#EXTINF:-1 tvg-chno="197",[F1] GP Azerbaiyán - Carrera  DAZN F1 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=cf0cdc57e36b7a7751edd232b9932f97b999e721-b0-1790470889-1790416889
-#EXTINF:-1 tvg-chno="198",[F1] GP Azerbaiyán - Carrera  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=cc7bd7d63ae429610cc98f0cf63ae6c0a8d06b03-9f-1790470889-1790416889
-#EXTINF:-1 tvg-chno="199",[F1] GP Azerbaiyán - Carrera  FOX Sports 1 AR (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=47809641c41736db3fa987b41599a6444c3b1891-b7-1790470889-1790416889
-#EXTINF:-1 tvg-chno="200",[F1] GP Azerbaiyán - Carrera  SporTV 3 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=f15b1b3d234dff8b0a8ddc362a731e838d927677-5f-1790470889-1790416889
-#EXTINF:-1 tvg-chno="202",[Football] Albania vs. Belarus  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/smx-final/playlist.m3u8?tk=M_2jNtwO530kFv-AAFPCPQ&e=1790485265
+#EXTINF:-1 tvg-chno="246",[Football] Albania vs. Belarus  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="203",[Football] Bulgaria vs. Luxembourg  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="247",[Football] Bulgaria vs. Luxembourg (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/bul-lux
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/bul-lux/playlist.m3u8?tk=7t4iqsi5Zm7YImUfxVx5bQ&e=1790481651
+#EXTINF:-1 tvg-chno="248",[Football] Bulgaria vs. Luxembourg  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="204",[Football] Czechia vs. Croatia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="249",[Football] Czechia vs. Croatia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="205",[Football] England vs. Spain  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="250",[Football] England vs. Spain  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="206",[Football] Faroe Islands vs. Kazakhstan  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="251",[Football] Faroe Islands vs. Kazakhstan (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/fro-kaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/fro-kaz/playlist.m3u8?tk=7t4iqsi5Zm7YImUfxVx5bQ&e=1790481651
+#EXTINF:-1 tvg-chno="252",[Football] Faroe Islands vs. Kazakhstan  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="207",[Football] Fleetwood Town vs. Rochdale (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=efl-league-two/2026-09-26/fle-rch
+#EXTINF:-1 tvg-chno="253",[Football] Iceland vs. Estonia (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/isl-est
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/efl-league-two/2026-09-26/fle-rch/playlist.m3u8?tk=NV4lP-y-nHXya8-fU6eM_A&e=1790474466
-#EXTINF:-1 tvg-chno="208",[Football] Iceland vs. Estonia  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/isl-est/playlist.m3u8?tk=7t4iqsi5Zm7YImUfxVx5bQ&e=1790481651
+#EXTINF:-1 tvg-chno="254",[Football] Iceland vs. Estonia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="209",[Football] North Macedonia vs. Switzerland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="255",[Football] North Macedonia vs. Switzerland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="210",[Football] San Marino vs. Finland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="256",[Football] Oldham Athletic vs. Salford City (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=efl-league-two/2026-09-26/old-sal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/efl-league-two/2026-09-26/old-sal/playlist.m3u8?tk=7t4iqsi5Zm7YImUfxVx5bQ&e=1790481651
+#EXTINF:-1 tvg-chno="257",[Football] San Marino vs. Finland (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/smr-fin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/smr-fin/playlist.m3u8?tk=7t4iqsi5Zm7YImUfxVx5bQ&e=1790481651
+#EXTINF:-1 tvg-chno="258",[Football] San Marino vs. Finland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="211",[Football] Slovakia vs. Moldova  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="259",[Football] Slovakia vs. Moldova  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="212",[Football] Slovenia vs. Scotland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-26/svn-sco
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-26/svn-sco/playlist.m3u8?tk=CJj_tPd2Eodf-L8TUPErng&e=1790469090
-#EXTINF:-1 tvg-chno="213",[Football] Slovenia vs. Scotland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="260",[Football] Slovenia vs. Scotland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
