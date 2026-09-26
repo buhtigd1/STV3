@@ -1,69 +1,101 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="86",[Formula 1] Formula 1 2026 - Azerbaijan GP (iSTRMEAST)
+#EXTINF:-1 tvg-chno="84",[Formula 1] Formula 1 2026 - Azerbaijan GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57011?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57011/load-playlist
-#EXTINF:-1 tvg-chno="70",[F1] Azerbaijan Grand Prix - Practice 3  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="64",[F1] Azerbaijan Grand Prix - Practice 3  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://sweden.futbol-x.top/sky/index.m3u8
-#EXTINF:-1 tvg-chno="71",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports (FUTBOLX)
+#EXTINF:-1 tvg-chno="65",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/sky/index.m3u8
-#EXTINF:-1 tvg-chno="72",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports UHD (FUTBOLX)
+#EXTINF:-1 tvg-chno="66",[F1] Azerbaijan Grand Prix - Qualifying  Sky Sports UHD (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://hey.futbol-tv.online/sky-uhd/index.m3u8
-#EXTINF:-1 tvg-chno="80",[Football] Hungary vs. Ukraine  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="67",[F1] GP Azerbaiyán - Carrera - Cámara On Board  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=297953f6de948c985b47eaaad0cc22cd83c06847-b1-1790429449-1790375449
+#EXTINF:-1 tvg-chno="68",[F1] GP Azerbaiyán - Carrera - On Board Colapinto  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=15737c8efcc69c0fa45b54f858b3789b9ac4318c-37-1790429449-1790375449
+#EXTINF:-1 tvg-chno="69",[F1] GP Azerbaiyán - Carrera - On Board Verstappen  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=39b035b302dca916db2de9bc07617127bd76d94f-22-1790429449-1790375449
+#EXTINF:-1 tvg-chno="70",[F1] GP Azerbaiyán - Carrera - Race Hub  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=d80357a31048fcfb48f6ef6e55c53a8462194e55-22-1790429449-1790375449
+#EXTINF:-1 tvg-chno="71",[F1] GP Azerbaiyán - Carrera  DAZN F1 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=74ef20c23fa412035e37293fd92f105c22bd7430-ad-1790429448-1790375448
+#EXTINF:-1 tvg-chno="72",[F1] GP Azerbaiyán - Carrera  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=e7e834740d800ba34ce13343485613c733700b54-78-1790429448-1790375448
+#EXTINF:-1 tvg-chno="73",[F1] GP Azerbaiyán - Carrera  FOX Sports 1 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=2b0fcdf89f445955bfcc205f43aa7146d295a939-04-1790429448-1790375448
+#EXTINF:-1 tvg-chno="74",[F1] GP Azerbaiyán - Carrera  SporTV 3 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=1e816607bad1a9b9c0df2fb414d7b96f5ecca67f-73-1790429448-1790375448
+#EXTINF:-1 tvg-chno="78",[Football] Hungary vs. Ukraine  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="81",[Football] Italy vs. Belgium  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="79",[Football] Italy vs. Belgium  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="82",[Football] Montenegro vs. Cyprus  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="80",[Football] Montenegro vs. Cyprus  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="83",[Football] Poland vs. Bosnia-Herzegovina  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="81",[Football] Poland vs. Bosnia-Herzegovina  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="84",[Football] Sweden vs. Romania  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="82",[Football] Sweden vs. Romania  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="85",[Football] Türkiye vs. France  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="83",[Football] Türkiye vs. France  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="327",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPRO  HD (TVF90)
+#EXTINF:-1 tvg-chno="330",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPRO  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://a2lja3m.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=9dd78bfdf97f4fca6c01c5ecdc06b37daf4bc400-6-1790397967-1790379967
-#EXTINF:-1 tvg-chno="328",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro (TVF90)
+#EXTINF:-1 tvg-chno="331",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=4f33d3e1dc31e2b2f1351932f10ec5ac4d9e5824-e6-1790397966-1790379966
-#EXTINF:-1 tvg-chno="329",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP2 (TVF90)
+#EXTINF:-1 tvg-chno="332",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://11.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=550ff621e306c98b778ad2e0d04eb2f223696f11-9b-1790397966-1790379966
-#EXTINF:-1 tvg-chno="330",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP3 (TVF90)
+#EXTINF:-1 tvg-chno="333",[Serie A] Chorrillo vs Umecit Reserves  ECDF LigaPro  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://6.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=531fc274ca244069eca47c6a296afbd0acb5c54a-6a-1790397966-1790379966
-#EXTINF:-1 tvg-chno="331",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA (TVF90)
+#EXTINF:-1 tvg-chno="334",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://6.ftlly.com:443/ecdf/mono.m3u8?token=967cfc395a6824b1cded418a6b1732ba7ae9c975-25-1790397967-1790379967
-#EXTINF:-1 tvg-chno="332",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP2 (TVF90)
+#EXTINF:-1 tvg-chno="335",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://8.ftlly.com:443/ecdf/mono.m3u8?token=f24b70337212856102a4ecaf6d1ac320448f5de3-56-1790397967-1790379967
-#EXTINF:-1 tvg-chno="333",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP3 (TVF90)
+#EXTINF:-1 tvg-chno="336",[Serie A] Chorrillo vs Umecit Reserves  ECUAVISA  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://11.ftlly.com:443/ecdf/mono.m3u8?token=3c43d8776f8d363ff3b492d2751fd12220593aa2-89-1790397967-1790379967
