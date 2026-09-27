@@ -1,81 +1,49 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="125",[Football] Austria vs. Kosovo  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="114",[Football] Arizona Cardinals vs San Francisco 49ers (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-10.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hlss.b-cdn.net/nfl10/mono.ts.m3u8?token=06642214275a0409118115e99a249a3b
+#EXTINF:-1 tvg-chno="115",[Football] Austria vs. Kosovo  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="126",[Football] Carolina Panthers vs Cleveland Browns (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-2.html
+#EXTINF:-1 tvg-chno="116",[Football] Baltimore Ravens vs Dallas Cowboys (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-12.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tokenized.b-cdn.net/nfl2/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
-#EXTINF:-1 tvg-chno="127",[Football] Cincinnati Bengals vs Pittsburgh Steelers (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-7.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/nfl7/mono.ts.m3u8?token=06642214275a0409118115e99a249a3b
-#EXTINF:-1 tvg-chno="128",[Football] Denmark vs. Wales  English (STRMCNTR)
+https://tokenized.b-cdn.net/nfl12/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
+#EXTINF:-1 tvg-chno="117",[Football] Denmark vs. Wales  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="129",[Football] Germany vs. Greece (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-27/ger-gre
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/ger-gre/playlist.m3u8?tk=zNOBSDpB8ZUaHd8MPsozIg&e=1790577064
-#EXTINF:-1 tvg-chno="130",[Football] Germany vs. Greece  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="118",[Football] Germany vs. Greece  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="131",[Football] Gibraltar vs. Andorra  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="119",[Football] Gibraltar vs. Andorra  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="132",[Football] Houston Texans vs Indianapolis Colts (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-4.html
+#EXTINF:-1 tvg-chno="120",[Football] Kansas City Chiefs vs Miami Dolphins (OVO)
+#EXTVLCOPT:http-referrer=https://otaghera.site/updatesnfl/kansas-city-chiefs-vs-miami-dolphins/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tokenized.b-cdn.net/nfl4/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
-#EXTINF:-1 tvg-chno="133",[Football] Israel vs. Republic of Ireland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-27/isr-irl
+https://fingersoon.st/scripts/application5
+#EXTINF:-1 tvg-chno="121",[Football] Las Vegas Raiders vs New Orleans Saints (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-13.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/isr-irl/playlist.m3u8?tk=zNOBSDpB8ZUaHd8MPsozIg&e=1790577064
-#EXTINF:-1 tvg-chno="134",[Football] Kansas City Chiefs vs Miami Dolphins (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-5.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tokenized.b-cdn.net/nfl5/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
-#EXTINF:-1 tvg-chno="135",[Football] Lithuania vs. Azerbaijan  English (STRMCNTR)
+https://tokenized.b-cdn.net/nfl13/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
+#EXTINF:-1 tvg-chno="122",[Football] Lithuania vs. Azerbaijan  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="136",[Football] Los Angeles Rams vs Buffalo Bills (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
+#EXTINF:-1 tvg-chno="123",[Football] Minnesota Vikings vs Tampa Bay Buccaneers (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-11.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tokenized.b-cdn.net/nfl1/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
-#EXTINF:-1 tvg-chno="137",[Football] New England Patriots vs Jacksonville Jaguars (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-9.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tokenized.b-cdn.net/nfl9/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
-#EXTINF:-1 tvg-chno="138",[Football] New York Giants vs Detroit Lions (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-3.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://xyzstreams.space/nfl3/mono.ts.m3u8?token=06642214275a0409118115e99a249a3b
-#EXTINF:-1 tvg-chno="139",[Football] Norway vs. Portugal (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-27/nor-por
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-27/nor-por/playlist.m3u8?tk=zNOBSDpB8ZUaHd8MPsozIg&e=1790577064
-#EXTINF:-1 tvg-chno="140",[Football] Norway vs. Portugal  English (STRMCNTR)
+https://hlss.b-cdn.net/nfl11/mono.ts.m3u8?token=06642214275a0409118115e99a249a3b
+#EXTINF:-1 tvg-chno="124",[Football] Norway vs. Portugal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="141",[Football] Pumas UNAM vs. Atlético de San Luis (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-09-27/unam-asl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/liga-mx/2026-09-27/unam-asl/playlist.m3u8?tk=lPajp5DoOHWY3hvMni4G5A&e=1790573450
-#EXTINF:-1 tvg-chno="142",[Football] Seattle Seahawks vs Washington Commanders (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-8.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://tokenized.b-cdn.net/nfl8/mono.ts.m3u8?token=de697f38616d343d5c34174d3ea2cbaa
-#EXTINF:-1 tvg-chno="143",[Football] Serbia vs. Netherlands  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="125",[Football] Serbia vs. Netherlands  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="144",[Football] Tennessee Titans vs New York Jets (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-6.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://hlss.b-cdn.net/nfl6/mono.ts.m3u8?token=06642214275a0409118115e99a249a3b
