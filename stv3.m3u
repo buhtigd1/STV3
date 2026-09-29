@@ -1,41 +1,65 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="75",[Football] Bulgaria vs. Estonia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="96",[Football] Bulgaria vs. Estonia (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/bul-est
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/bul-est/playlist.m3u8?tk=szlvSN1i7nj1MkGc9yODDg&e=1790749834
+#EXTINF:-1 tvg-chno="97",[Football] Bulgaria vs. Estonia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="76",[Football] Czechia vs. England  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="98",[Football] Czechia vs. England (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/cze-eng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/cze-eng/playlist.m3u8?tk=szlvSN1i7nj1MkGc9yODDg&e=1790749834
+#EXTINF:-1 tvg-chno="99",[Football] Czechia vs. England  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="77",[Football] Finland vs. Belarus  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="100",[Football] Luxembourg vs. Iceland (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/lux-isl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="78",[Football] Luxembourg vs. Iceland  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/lux-isl/playlist.m3u8?tk=szlvSN1i7nj1MkGc9yODDg&e=1790749834
+#EXTINF:-1 tvg-chno="101",[Football] Luxembourg vs. Iceland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="79",[Football] Moldova vs. Faroe Islands  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+#EXTINF:-1 tvg-chno="102",[Football] San Marino vs. Albania (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/smr-alb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="80",[Football] San Marino vs. Albania  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/smr-alb/playlist.m3u8?tk=szlvSN1i7nj1MkGc9yODDg&e=1790749834
+#EXTINF:-1 tvg-chno="103",[Football] San Marino vs. Albania  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="81",[Football] Scotland vs. Switzerland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="104",[Football] Scotland vs. Switzerland (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/sco-sui
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/sco-sui/playlist.m3u8?tk=szlvSN1i7nj1MkGc9yODDg&e=1790749834
+#EXTINF:-1 tvg-chno="105",[Football] Scotland vs. Switzerland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="82",[Football] Slovakia vs. Kazakhstan  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="106",[Football] Slovakia vs. Kazakhstan (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/svk-kaz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/svk-kaz/playlist.m3u8?tk=szlvSN1i7nj1MkGc9yODDg&e=1790749834
+#EXTINF:-1 tvg-chno="107",[Football] Slovakia vs. Kazakhstan  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="83",[Football] Slovenia vs. North Macedonia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="108",[Football] Slovenia vs. North Macedonia (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/svn-mkd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/svn-mkd/playlist.m3u8?tk=TbF1S-1uRzg5i8_iXxCcmw&e=1790749835
+#EXTINF:-1 tvg-chno="109",[Football] Slovenia vs. North Macedonia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="84",[Football] Spain vs. Croatia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="110",[Football] Spain vs. Croatia (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-09-29/esp-cro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-09-29/esp-cro/playlist.m3u8?tk=TbF1S-1uRzg5i8_iXxCcmw&e=1790749835
+#EXTINF:-1 tvg-chno="111",[Football] Spain vs. Croatia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
