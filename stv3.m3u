@@ -1,33 +1,33 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="57",[F1] GP Bahréin - Práctica #1 - On Board Antonelli  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="55",[F1] GP Bahréin - Práctica #1 - On Board Antonelli  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney15/index.m3u8?token=06ca60bc135f73833dfee1a12e0148e4f4951842-5d-1790863248-1790809248
-#EXTINF:-1 tvg-chno="58",[F1] GP Bahréin - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="56",[F1] GP Bahréin - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney16/index.m3u8?token=d9d57af311a9d8b0f941d8d9cadfff8aac25e3bb-0c-1790863248-1790809248
-#EXTINF:-1 tvg-chno="59",[F1] GP Bahréin - Práctica #1  DAZN F1 (STRMXHD)
+#EXTINF:-1 tvg-chno="57",[F1] GP Bahréin - Práctica #1  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/daznf1/index.m3u8?token=ac7bf92fa5c4d7888261e6fd3ecafc3db41cec58-5d-1790863247-1790809247
-#EXTINF:-1 tvg-chno="60",[F1] GP Bahréin - Práctica #1  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="58",[F1] GP Bahréin - Práctica #1  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney14/index.m3u8?token=0971b4da480365f70a69a66f87e954afc9f859af-25-1790863247-1790809247
-#EXTINF:-1 tvg-chno="61",[F1] GP Bahréin - Práctica #1  ESPN (STRMXHD)
+#EXTINF:-1 tvg-chno="59",[F1] GP Bahréin - Práctica #1  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/espn/index.m3u8?token=4e75a67cd35f584990e496b861d9796b09a67e44-ff-1790863247-1790809247
-#EXTINF:-1 tvg-chno="62",[F1] GP Bahréin - Práctica #1  FOX Sports 1 AR (STRMXHD)
+#EXTINF:-1 tvg-chno="60",[F1] GP Bahréin - Práctica #1  FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=7dbc1593004b9cfbc3072bc25b9bec30d22af7f5-80-1790863247-1790809247
-#EXTINF:-1 tvg-chno="63",[F1] GP Bahréin - Práctica #1  SporTV 3 (STRMXHD)
+#EXTINF:-1 tvg-chno="61",[F1] GP Bahréin - Práctica #1  SporTV 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=baa76896ff7f360f7691d1d86f2a8fecd087afe9-22-1790863248-1790809248
-#EXTINF:-1 tvg-chno="131",[MotoGP] GP Japón - Práctica (Moto3/Moto2/MotoGP)  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="122",[MotoGP] GP Japón - Práctica (Moto3/Moto2/MotoGP)  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://khala.futlivehd.com/global/disney13/index.m3u8?token=3af933359fa8d27653fbbe508fb9708a46ba3261-5d-1790863247-1790809247
