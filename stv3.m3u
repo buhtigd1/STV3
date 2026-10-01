@@ -1,69 +1,97 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="47",[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)
+#EXTINF:-1 tvg-chno="64",[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57392?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57392/load-playlist
-#EXTINF:-1 tvg-chno="30",[F1] GP Bahréin - Práctica #1 - On Board Antonelli  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="42",[F1] GP Bahréin - Práctica #1 - On Board Antonelli  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney15
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney15/index.m3u8?token=61046d5d85d811b0018147d887de1080ac2038d9-2a-1790901035-1790847035
-#EXTINF:-1 tvg-chno="31",[F1] GP Bahréin - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney15/index.m3u8?token=860c9ef747621c390817295498ddbcf492e62984-e7-1790920847-1790866847
+#EXTINF:-1 tvg-chno="43",[F1] GP Bahréin - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney16/index.m3u8?token=be7e94712b26d1e0b9b555cf47b6fb2b596d58dd-69-1790901036-1790847036
-#EXTINF:-1 tvg-chno="32",[F1] GP Bahréin - Práctica #1  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney16/index.m3u8?token=9826d425fdbe5522bb86f4d25f9e878c7e560b44-a5-1790920848-1790866848
+#EXTINF:-1 tvg-chno="44",[F1] GP Bahréin - Práctica #1  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=286c7c5408fec0e9fc1cceccbb36fff9048137a3-22-1790901035-1790847035
-#EXTINF:-1 tvg-chno="33",[F1] GP Bahréin - Práctica #1  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=12ad4060197fa27b5aa56bc8c1827945cc7d882b-e8-1790920848-1790866848
+#EXTINF:-1 tvg-chno="45",[F1] GP Bahréin - Práctica #1  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney14/index.m3u8?token=3334f296266b3084fe4311438cb155e0bc60bcf9-fe-1790901035-1790847035
-#EXTINF:-1 tvg-chno="34",[F1] GP Bahréin - Práctica #1  ESPN (STRMXHD)
+https://khala.futlivehd.com/global/disney14/index.m3u8?token=81b4ba17668d01104ae3e9c08965c2169c9aa0cf-f5-1790920848-1790866848
+#EXTINF:-1 tvg-chno="46",[F1] GP Bahréin - Práctica #1  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn/index.m3u8?token=24324681289f891cc6088ebe52a03c721dbdc367-ec-1790901035-1790847035
-#EXTINF:-1 tvg-chno="35",[F1] GP Bahréin - Práctica #1  FOX Sports 1 AR (STRMXHD)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=cf1bb5d618a163b3dd6c9c57806d351c48d43f08-77-1790920848-1790866848
+#EXTINF:-1 tvg-chno="47",[F1] GP Bahréin - Práctica #1  FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=d61b6a2f8013c5891adade6dfba45fb6a5d299ab-ab-1790901035-1790847035
-#EXTINF:-1 tvg-chno="36",[F1] GP Bahréin - Práctica #1  SporTV 3 (STRMXHD)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=6ab857d27dce4b1ac9f216af7ec6f76f2892678f-90-1790920848-1790866848
+#EXTINF:-1 tvg-chno="48",[F1] GP Bahréin - Práctica #1  SporTV 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=dbd417895818dae6eda8c9c3298d69ed978c540e-42-1790901036-1790847036
-#EXTINF:-1 tvg-chno="130",[MotoGP] GP Japón - Práctica (Moto3/Moto2/MotoGP)  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=f9dc9e550e134a0ccb8563f926b40282fe5cae9f-25-1790920848-1790866848
+#EXTINF:-1 tvg-chno="143",[MotoGP] GP Japón - Práctica (Moto3/Moto2/MotoGP)  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney13/index.m3u8?token=432ba266ecf2ceddbbf73c6613ecb68c218596bb-fc-1790901035-1790847035
-#EXTINF:-1 tvg-chno="39",[Football] Azerbaijan vs. Liechtenstein (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/aze-lie
+https://khala.futlivehd.com/global/disney13/index.m3u8?token=ae873c8b6487dc3f7a676c6ea5036fa50b411bdd-db-1790920847-1790866847
+#EXTINF:-1 tvg-chno="49",[Football] Denmark vs. Portugal (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/den-por
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/aze-lie/playlist.m3u8?tk=brv68MqwqMJ2ZuoSi0mE5A&e=1790913647
-#EXTINF:-1 tvg-chno="40",[Football] Azerbaijan vs. Liechtenstein  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="41",[Football] Denmark vs. Portugal  English (STRMCNTR)
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/den-por/playlist.m3u8?tk=rwbc3skCAMs1m2duWC3Ucg&e=1790922635
+#EXTINF:-1 tvg-chno="50",[Football] Denmark vs. Portugal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="42",[Football] Germany vs. Serbia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="51",[Football] Germany vs. Serbia (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/ger-srb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/ger-srb/playlist.m3u8?tk=rwbc3skCAMs1m2duWC3Ucg&e=1790922635
+#EXTINF:-1 tvg-chno="52",[Football] Germany vs. Serbia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="43",[Football] Greece vs. Netherlands  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="53",[Football] Greece vs. Netherlands (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/gre-ned
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/gre-ned/playlist.m3u8?tk=rwbc3skCAMs1m2duWC3Ucg&e=1790922635
+#EXTINF:-1 tvg-chno="54",[Football] Greece vs. Netherlands  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="44",[Football] Malta vs. Gibraltar  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="55",[Football] Israel vs. Kosovo (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/isr-kos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/isr-kos/playlist.m3u8?tk=rwbc3skCAMs1m2duWC3Ucg&e=1790922635
+#EXTINF:-1 tvg-chno="56",[Football] Malta vs. Gibraltar (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/mlt-gib
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/mlt-gib/playlist.m3u8?tk=LWOC9x-335HjH8TDAH2gjw&e=1790922636
+#EXTINF:-1 tvg-chno="57",[Football] Malta vs. Gibraltar  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="45",[Football] Republic of Ireland vs. Austria  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="58",[Football] Manchester City vs. Real Madrid (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-womens-champions-league/2026-10-01/mci-rma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-womens-champions-league/2026-10-01/mci-rma/playlist.m3u8?tk=LWOC9x-335HjH8TDAH2gjw&e=1790922636
+#EXTINF:-1 tvg-chno="59",[Football] Paris Saint-Germain vs. OH Leuven (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-womens-champions-league/2026-10-01/psg-ohl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-womens-champions-league/2026-10-01/psg-ohl/playlist.m3u8?tk=LWOC9x-335HjH8TDAH2gjw&e=1790922636
+#EXTINF:-1 tvg-chno="60",[Football] Republic of Ireland vs. Austria (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/irl-aut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/irl-aut/playlist.m3u8?tk=LWOC9x-335HjH8TDAH2gjw&e=1790922636
+#EXTINF:-1 tvg-chno="61",[Football] Republic of Ireland vs. Austria  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="46",[Football] Wales vs. Norway  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="62",[Football] Wales vs. Norway (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-01/wal-nor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-01/wal-nor/playlist.m3u8?tk=LWOC9x-335HjH8TDAH2gjw&e=1790922636
+#EXTINF:-1 tvg-chno="63",[Football] Wales vs. Norway  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
