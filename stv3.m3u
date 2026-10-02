@@ -1,37 +1,145 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="33",[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)
+#EXTINF:-1 tvg-chno="67",[Formula 1] Formula 1 2026 - Bahrain GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57392?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57392/load-playlist
-#EXTINF:-1 tvg-chno="25",[F1] GP Bahréin - Práctica #1 - On Board Antonelli  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney15
+#EXTINF:-1 tvg-chno="29",[F1] Bahrain GP - Practice 1  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney15/index.m3u8?token=e1b62744acf565632f1bdb9671a79d6241b3326f-42-1790942797-1790888797
-#EXTINF:-1 tvg-chno="26",[F1] GP Bahréin - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
+https://maniy.b-cdn.net/f1/index.m3u8
+#EXTINF:-1 tvg-chno="30",[F1] Bahrain GP - Practice 2  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://maniy.b-cdn.net/f1/index.m3u8
+#EXTINF:-1 tvg-chno="31",[F1] GP Bahréin - Práctica #1 - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney16/index.m3u8?token=3880dc158e410f74c610b4fa4b655f5a1d5fd1b6-27-1790942798-1790888798
-#EXTINF:-1 tvg-chno="27",[F1] GP Bahréin - Práctica #1  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney16/index.m3u8?token=074199bba187174a0a8aac8e1194140f89280943-46-1790991217-1790937217
+#EXTINF:-1 tvg-chno="32",[F1] GP Bahréin - Práctica #1  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=9346eb90e5d3de2fcca9f03bc7cfd1ac741ee704-ed-1790942798-1790888798
-#EXTINF:-1 tvg-chno="28",[F1] GP Bahréin - Práctica #1  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=e9b4e66cd8b53c9f1b53148f9036380ceb4a8a7c-95-1790991217-1790937217
+#EXTINF:-1 tvg-chno="33",[F1] GP Bahréin - Práctica #1  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney14
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney14/index.m3u8?token=3711cad801fea0a5bd2797fd76d7d0fc4c709e18-f2-1790942797-1790888797
-#EXTINF:-1 tvg-chno="29",[F1] GP Bahréin - Práctica #1  ESPN (STRMXHD)
+https://khala.futlivehd.com/global/disney14/index.m3u8?token=a4d7a1d7e72aea1008206bf5e417282163e29bd8-69-1790991217-1790937217
+#EXTINF:-1 tvg-chno="34",[F1] GP Bahréin - Práctica #1  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn/index.m3u8?token=7091caf0b5dd4b610090d38caac7939db2a97ccc-62-1790942797-1790888797
-#EXTINF:-1 tvg-chno="30",[F1] GP Bahréin - Práctica #1  FOX Sports 1 AR (STRMXHD)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=587df5e75065fe05737cf625f3c71db3baa27c3a-51-1790991217-1790937217
+#EXTINF:-1 tvg-chno="35",[F1] GP Bahréin - Práctica #1  FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=db5053c6c434182c28c305e8b3741288fe180181-6d-1790942798-1790888798
-#EXTINF:-1 tvg-chno="31",[F1] GP Bahréin - Práctica #1  SporTV 3 (STRMXHD)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=f981b630e28de71d4464c48f406bbfff19404398-e6-1790991217-1790937217
+#EXTINF:-1 tvg-chno="36",[F1] GP Bahréin - Práctica #1  SporTV 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=5793f6be040ebd94a993dc19dd2026ee57853783-33-1790942798-1790888798
-#EXTINF:-1 tvg-chno="121",[MotoGP] GP Japón - Práctica (Moto3/Moto2/MotoGP)  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=0932db398004f50fcadd41f0f30cc6cc2f1a1e3b-3f-1790991217-1790937217
+#EXTINF:-1 tvg-chno="37",[F1] GP Bahréin - Práctica #2 - On Board Antonelli  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney2/index.m3u8?token=4388e7be7f9ebafb80b1d39cb8da2424ae1c56bf-fe-1790991218-1790937218
+#EXTINF:-1 tvg-chno="38",[F1] GP Bahréin - Práctica #2 - On Board Colapinto  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=1c5763b19a438269326d20e80283d293cccc5a2f-91-1790991218-1790937218
+#EXTINF:-1 tvg-chno="39",[F1] GP Bahréin - Práctica #2  DAZN F1 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=b72b95bb0a93c8f69eb099b171274daa6552f098-a8-1790991218-1790937218
+#EXTINF:-1 tvg-chno="40",[F1] GP Bahréin - Práctica #2  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=3ccbca2cc387a442fd3eb3be10c61a531250a288-d0-1790991218-1790937218
+#EXTINF:-1 tvg-chno="41",[F1] GP Bahréin - Práctica #2  ESPN (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn/index.m3u8?token=ff2f241f23393fe9d005ae0701af19317cfe478d-83-1790991218-1790937218
+#EXTINF:-1 tvg-chno="42",[F1] GP Bahréin - Práctica #2  FOX Sports 1 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=c8350dc9cf1b0ffd460a2adae1115d60636e8882-5b-1790991218-1790937218
+#EXTINF:-1 tvg-chno="43",[F1] GP Bahréin - Práctica #2  SporTV 3 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=cb132acdb4f85b178c2e3af2bd3d85e9c03152fd-4f-1790991218-1790937218
+#EXTINF:-1 tvg-chno="44",[F1] GP Bahréin - Práctica #3 - On Board Antonelli  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney17/index.m3u8?token=5449c5076f5cf7d72ea0dacffad65a34d46f4d4c-be-1790991219-1790937219
+#EXTINF:-1 tvg-chno="45",[F1] GP Bahréin - Práctica #3 - On Board Colapinto  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney18/index.m3u8?token=6552f647e4a52c2fde34067c7b6e673557311f26-af-1790991219-1790937219
+#EXTINF:-1 tvg-chno="46",[F1] GP Bahréin - Práctica #3  DAZN F1 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=a1c6e8a7df865c13cde878e0303091316784720f-b2-1790991219-1790937219
+#EXTINF:-1 tvg-chno="47",[F1] GP Bahréin - Práctica #3  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney16/index.m3u8?token=5f25983c91d5fb1725b3b3114a2ff3cb26e4d0bf-fb-1790991218-1790937218
+#EXTINF:-1 tvg-chno="48",[F1] GP Bahréin - Práctica #3  ESPN (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn/index.m3u8?token=ff2f241f23393fe9d005ae0701af19317cfe478d-83-1790991218-1790937218
+#EXTINF:-1 tvg-chno="49",[F1] GP Bahréin - Práctica #3  FOX Sports 1 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=3401d725959b2be4b9e8b46b4264e9156f6bad22-94-1790991219-1790937219
+#EXTINF:-1 tvg-chno="50",[F1] GP Bahréin - Práctica #3  SporTV 3 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=23c7c4742b3f96e34fef88bb7ce616120640bfcf-6c-1790991219-1790937219
+#EXTINF:-1 tvg-chno="193",[MotoGP] GP Japón - Clasificación  ESPN 3 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn3/index.m3u8?token=e8983f78c4b5d714154f0db29b8f5d375f3f1a1b-25-1790991217-1790937217
+#EXTINF:-1 tvg-chno="194",[MotoGP] GP Japón - Práctica (Moto3/Moto2/MotoGP)  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney13/index.m3u8?token=0bb083cb842dde668b22387a21561bd7c032aaa7-95-1790942797-1790888797
+https://khala.futlivehd.com/global/disney13/index.m3u8?token=12ed4c303d91b071667a04442793894eb4825403-9f-1790991217-1790937217
+#EXTINF:-1 tvg-chno="56",[Football] Belgium vs. Türkiye  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="57",[Football] Bosnia-Herzegovina vs. Sweden  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="58",[Football] Cyprus vs. Armenia  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="59",[Football] Faroe Islands vs. Slovakia  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="60",[Football] France vs. Italy  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="61",[Football] Hungary vs. Georgia  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="62",[Football] Kazakhstan vs. Moldova (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-02/kaz-mda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-02/kaz-mda/playlist.m3u8?tk=X4oH65pVoONVFWDdJSknzw&e=1790992833
+#EXTINF:-1 tvg-chno="63",[Football] Kazakhstan vs. Moldova  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="64",[Football] Latvia vs. Montenegro  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="65",[Football] Poland vs. Romania  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="66",[Football] Ukraine vs. Northern Ireland  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream2.pro/hls/sqdahach1ax.m3u8
