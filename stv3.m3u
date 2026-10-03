@@ -1,81 +1,69 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="187",[F1] Bahrain GP - Practice 3  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="191",[F1] Bahrain GP - Practice 3  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="188",[F1] Bahrain GP - Qualifying  F1 Tv (FUTBOLX)
+#EXTINF:-1 tvg-chno="192",[F1] Bahrain GP - Qualifying  F1 Tv (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/f1tv/index.m3u8
-#EXTINF:-1 tvg-chno="189",[F1] Bahrain GP - Qualifying  Sky Sports F1 (FUTBOLX)
+#EXTINF:-1 tvg-chno="193",[F1] Bahrain GP - Qualifying  Sky Sports F1 (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="190",[F1] Bahrain GP - Qualifying  UHD (FUTBOLX)
+#EXTINF:-1 tvg-chno="194",[F1] Bahrain GP - Qualifying  UHD (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/uhd/index.m3u8
-#EXTINF:-1 tvg-chno="343",[MotoGP] GP Japón - Carrera Moto3/Moto2/MotoGP  ESPN 3 (STRMXHD)
+#EXTINF:-1 tvg-chno="321",[MotoGP] GP Japón - Carrera Moto3/Moto2/MotoGP  ESPN 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn3/index.m3u8?token=2f46054ac60084ffab96b0a7704f4d4341676a8a-fc-1791093646-1791039646
-#EXTINF:-1 tvg-chno="344",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3 (TVF90)
+https://khala.futlivehd.com/global/espn3/index.m3u8?token=95f253dbb9480ff32932cc4d84bb66b44e9cffbd-a4-1791113459-1791059459
+#EXTINF:-1 tvg-chno="322",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/espn3/mono.m3u8?token=62f587b44c9d32d76dc86446b3b0388c15ff58de-fe-1791065763-1791047763
-#EXTINF:-1 tvg-chno="345",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3  HD (TVF90)
+https://y2fzdGxl.fubo18.com:443/espn3/mono.m3u8?token=04d86d587a96564813269968db99ec3940dc7b1a-1c-1791085572-1791067572
+#EXTINF:-1 tvg-chno="323",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/espn3/mono.m3u8?token=b3b3164bacfe8f807366bc6730ff0e60cb67f80a-6-1791065763-1791047763
-#EXTINF:-1 tvg-chno="346",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3  OP2 (TVF90)
+https://Ym9yZQ.fubo18.com:443/espn3/mono.m3u8?token=60dca7ca31800d67f4d47d2cc75d887ba9e899bf-96-1791085572-1791067572
+#EXTINF:-1 tvg-chno="324",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/espn3/mono.m3u8?token=8c611f01c5d87bc0c690d7ac51f7aa19f63dc686-8a-1791065763-1791047763
-#EXTINF:-1 tvg-chno="347",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3  OP3 (TVF90)
+https://9.ftlly.com:443/espn3/mono.m3u8?token=22da13e4ded2d54c7786fd3f620a3f908ff59c62-2f-1791085572-1791067572
+#EXTINF:-1 tvg-chno="325",[MotoGP] GP Japón – Moto3 / Moto2 / MotoGP – Carrera  ESPN 3  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/espn3/mono.m3u8?token=8cb6a58149a4d847490f59b15fbb06536532fce0-16-1791065763-1791047763
-#EXTINF:-1 tvg-chno="196",[Football] Belarus vs. San Marino  English (STRMCNTR)
+https://3.ftlly.com:443/espn3/mono.m3u8?token=e17eae9109d28cb69bec920a54e9b438c73a4258-15-1791085572-1791067572
+#EXTINF:-1 tvg-chno="198",[Football] Belarus vs. San Marino  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="197",[Football] Croatia vs. England  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="199",[Football] Croatia vs. England  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="198",[Football] Estonia vs. Luxembourg  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="200",[Football] Estonia vs. Luxembourg  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="199",[Football] Finland vs. Albania  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="201",[Football] Finland vs. Albania  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="200",[Football] Iceland vs. Bulgaria  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="202",[Football] Iceland vs. Bulgaria  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="201",[Football] North Macedonia vs. Scotland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-03/mkd-sco
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-03/mkd-sco/playlist.m3u8?tk=zxH7nA1YEyc1aviSrCTVVQ&e=1791095459
-#EXTINF:-1 tvg-chno="202",[Football] North Macedonia vs. Scotland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="203",[Football] North Macedonia vs. Scotland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="203",[Football] Spain vs. Czechia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-03/esp-cze
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-03/esp-cze/playlist.m3u8?tk=zxH7nA1YEyc1aviSrCTVVQ&e=1791095459
 #EXTINF:-1 tvg-chno="204",[Football] Spain vs. Czechia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="205",[Football] Switzerland vs. Slovenia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-03/sui-svn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-03/sui-svn/playlist.m3u8?tk=zxH7nA1YEyc1aviSrCTVVQ&e=1791095459
-#EXTINF:-1 tvg-chno="206",[Football] Switzerland vs. Slovenia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="205",[Football] Switzerland vs. Slovenia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream2.pro/hls/b0h5fNwDKH.m3u8
