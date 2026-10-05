@@ -1,49 +1,49 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="62",[F1] Bahrain GP - Race  F1TV (FUTBOLX)
+#EXTINF:-1 tvg-chno="52",[F1] Bahrain GP - Race  F1TV (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/f1tv/index.m3u8
-#EXTINF:-1 tvg-chno="63",[F1] Bahrain GP - Race  Sky Sports En (FUTBOLX)
+#EXTINF:-1 tvg-chno="53",[F1] Bahrain GP - Race  Sky Sports En (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="64",[F1] Bahrain GP - Race  Sky Sports Ita (FUTBOLX)
+#EXTINF:-1 tvg-chno="54",[F1] Bahrain GP - Race  Sky Sports Ita (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/ita/index.m3u8
-#EXTINF:-1 tvg-chno="65",[F1] Bahrain GP - Race  Sky Sports UHD (FUTBOLX)
+#EXTINF:-1 tvg-chno="55",[F1] Bahrain GP - Race  Sky Sports UHD (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://maniy.b-cdn.net/uhd/index.m3u8
-#EXTINF:-1 tvg-chno="69",[Football] Azerbaijan vs. Lithuania  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="57",[Football] Azerbaijan vs. Lithuania  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="70",[Football] Greece vs. Germany  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="58",[Football] Greece vs. Germany  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="71",[Football] Kosovo vs. Austria  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="59",[Football] Kosovo vs. Austria  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="72",[Football] Malta vs. Andorra  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="60",[Football] Malta vs. Andorra  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="73",[Football] Netherlands vs. Serbia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="61",[Football] Netherlands vs. Serbia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="74",[Football] Portugal vs. Norway  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="62",[Football] Portugal vs. Norway  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="75",[Football] UFC 332 (OVO)
+#EXTINF:-1 tvg-chno="63",[Football] UFC 332 (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/ufc-332/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="76",[Football] Wales vs. Denmark  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="64",[Football] Wales vs. Denmark  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/griogoehvn2.m3u8
