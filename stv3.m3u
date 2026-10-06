@@ -1,37 +1,37 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="23",[Football] Bosnia-Herzegovina vs. Poland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="42",[Football] Atlanta Falcons vs New Orleans Saints (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://us2-hlss2.b-cdn.net/espn/mono.ts.m3u8?token=0181b6bd9c7e2b6b9bb127cab190107b
+#EXTINF:-1 tvg-chno="43",[Football] Bosnia-Herzegovina vs. Poland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="24",[Football] Cyprus vs. Latvia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uefa-nations-league/2026-10-05/cyp-lva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-hls/channel/uefa-nations-league/2026-10-05/cyp-lva/playlist.m3u8?tk=f6Olu8gO1Jks7tf8hBoQ2g&e=1791257604
-#EXTINF:-1 tvg-chno="25",[Football] Cyprus vs. Latvia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="44",[Football] Cyprus vs. Latvia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="26",[Football] France vs. Belgium  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="45",[Football] France vs. Belgium  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="27",[Football] Italy vs. Türkiye  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="46",[Football] Italy vs. Türkiye  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="28",[Football] Montenegro vs. Armenia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="47",[Football] Montenegro vs. Armenia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="29",[Football] Northern Ireland vs. Georgia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="48",[Football] Northern Ireland vs. Georgia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="30",[Football] Romania vs. Sweden  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="49",[Football] Romania vs. Sweden  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="31",[Football] Ukraine vs. Hungary  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="50",[Football] Ukraine vs. Hungary  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/eJmauBDCIf.m3u8
