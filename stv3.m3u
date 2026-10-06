@@ -1,37 +1,33 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="42",[Football] Atlanta Falcons vs New Orleans Saints (XYZ)
-#EXTVLCOPT:http-referrer=https://xyzstreams.st/nfl-1.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://us2-hlss2.b-cdn.net/espn/mono.ts.m3u8?token=0181b6bd9c7e2b6b9bb127cab190107b
-#EXTINF:-1 tvg-chno="43",[Football] Bosnia-Herzegovina vs. Poland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="31",[Football] Bosnia-Herzegovina vs. Poland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="44",[Football] Cyprus vs. Latvia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="32",[Football] Cyprus vs. Latvia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="45",[Football] France vs. Belgium  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="33",[Football] France vs. Belgium  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="46",[Football] Italy vs. Türkiye  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="34",[Football] Italy vs. Türkiye  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="47",[Football] Montenegro vs. Armenia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="35",[Football] Montenegro vs. Armenia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="48",[Football] Northern Ireland vs. Georgia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="36",[Football] Northern Ireland vs. Georgia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="49",[Football] Romania vs. Sweden  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="37",[Football] Romania vs. Sweden  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="50",[Football] Ukraine vs. Hungary  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="38",[Football] Ukraine vs. Hungary  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/eJmauBDCIf.m3u8
