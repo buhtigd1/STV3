@@ -1,77 +1,41 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="115",[Football] Albania vs San Marino (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-c-gr-1_albania-san-marino-live-streaming-539559360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-c-gr-1_albania-san-marino-live-streaming-539559360/playlist.m3u8?tk=0v_KkaUDWELesbHCCVNyxQ&e=1791354630
-#EXTINF:-1 tvg-chno="116",[Football] Albania vs. San Marino  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="108",[Football] Albania vs. San Marino  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="117",[Football] Belarus vs Finland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-c-gr-1_belarus-finland-live-streaming-539559792
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-c-gr-1_belarus-finland-live-streaming-539559792/playlist.m3u8?tk=0v_KkaUDWELesbHCCVNyxQ&e=1791354630
-#EXTINF:-1 tvg-chno="118",[Football] Belarus vs. Finland  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="119",[Football] Croatia vs Spain (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-a-gr-3_croatia-spain-live-streaming-539558496
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-3_croatia-spain-live-streaming-539558496/playlist.m3u8?tk=0v_KkaUDWELesbHCCVNyxQ&e=1791354630
-#EXTINF:-1 tvg-chno="120",[Football] Croatia vs. Spain  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="121",[Football] England vs Czechia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-a-gr-3_england-czechia-live-streaming-539558928
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-a-gr-3_england-czechia-live-streaming-539558928/playlist.m3u8?tk=EXWo_dswPv5mpPX15S8yPA&e=1791354629
-#EXTINF:-1 tvg-chno="122",[Football] England vs. Czechia  English (STRMCNTR)
+https://edgestream6.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="109",[Football] Argentina vs. Benin  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="123",[Football] Estonia vs Iceland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-c-gr-4_estonia-iceland-live-streaming-539561088
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-c-gr-4_estonia-iceland-live-streaming-539561088/playlist.m3u8?tk=EXWo_dswPv5mpPX15S8yPA&e=1791354629
-#EXTINF:-1 tvg-chno="124",[Football] Estonia vs. Iceland  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="110",[Football] Belarus vs. Finland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="125",[Football] Kazakhstan vs. Faroe Islands  English (STRMCNTR)
+https://edgestream7.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="111",[Football] Croatia vs. Spain  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="112",[Football] England vs. Czechia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="126",[Football] Luxembourg vs Bulgaria (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-c-gr-4_luxembourg-bulgaria-live-streaming-539561520
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-c-gr-4_luxembourg-bulgaria-live-streaming-539561520/playlist.m3u8?tk=EXWo_dswPv5mpPX15S8yPA&e=1791354629
-#EXTINF:-1 tvg-chno="127",[Football] Luxembourg vs. Bulgaria  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="113",[Football] Estonia vs. Iceland  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="128",[Football] Moldova vs Slovakia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-c-gr-3_moldova-slovakia-live-streaming-539560656
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-c-gr-3_moldova-slovakia-live-streaming-539560656/playlist.m3u8?tk=EXWo_dswPv5mpPX15S8yPA&e=1791354629
-#EXTINF:-1 tvg-chno="129",[Football] Moldova vs. Slovakia  English (STRMCNTR)
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="114",[Football] Luxembourg vs. Bulgaria  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="130",[Football] Scotland vs Slovenia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-b-gr-1_scotland-slovenia-live-streaming-539379216
+https://edgestream5.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-chno="115",[Football] Moldova vs. Slovakia  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-b-gr-1_scotland-slovenia-live-streaming-539379216/playlist.m3u8?tk=EXWo_dswPv5mpPX15S8yPA&e=1791354629
-#EXTINF:-1 tvg-chno="131",[Football] Scotland vs. Slovenia  English (STRMCNTR)
+https://edgestream5.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="116",[Football] Scotland vs. Slovenia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="132",[Football] Switzerland vs North Macedonia (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-delta~live_uefa-nations-league-league-b-gr-1_switzerland-north-macedonia-live-streaming-539382240
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/delta/live_uefa-nations-league-league-b-gr-1_switzerland-north-macedonia-live-streaming-539382240/playlist.m3u8?tk=EXWo_dswPv5mpPX15S8yPA&e=1791354629
-#EXTINF:-1 tvg-chno="133",[Football] Switzerland vs. North Macedonia  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="117",[Football] Switzerland vs. North Macedonia  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/377qj1h2727.m3u8
+https://edgestream5.pro/hls/377qj1h2727.m3u8
