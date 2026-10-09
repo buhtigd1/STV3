@@ -1,201 +1,185 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="75",[Formula 1] Formula 1 2026 - Singapore GP (iSTRMEAST)
+#EXTINF:-1 tvg-chno="121",[Formula 1] Formula 1 2026 - Singapore GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57720?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57720/load-playlist
-#EXTINF:-1 tvg-chno="76",[Formula 1] Singapore Grand Prix - 1st Sprint Shootout  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/disney3/mono.m3u8?token=652b02631134de445ffc4c6ce1691a1abc3717d6-19-1791564306-1791546306
-#EXTINF:-1 tvg-chno="77",[Formula 1] Singapore Grand Prix - 2nd Sprint Shootout  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/disney5/mono.m3u8?token=d2c7670a88cfc44468a06384a740aabbd2bce2a5-c6-1791564306-1791546306
-#EXTINF:-1 tvg-chno="78",[Formula 1] Singapore Grand Prix - 3rd Sprint Shootout  Español 1 (PLIBRE)
-#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/disney6/mono.m3u8?token=1b4cac37324b4465787cccb6477accf80fde89e7-9b-1791564306-1791546306
-#EXTINF:-1 tvg-chno="59",[F1] GP Singapur - Clasificación Sprint - On Board Colapinto  Disney + (STRMXHD)
+#EXTINF:-1 tvg-chno="105",[F1] GP Singapur - Clasificación Sprint - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=bc82770a6d324fcd65d122ad513b49f7fac7ef13-13-1791592206-1791538206
-#EXTINF:-1 tvg-chno="60",[F1] GP Singapur - Clasificación Sprint - On Board Hamilton  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=28ce368529e1f30da1a71ea53130bb7c7f0f3c67-8b-1791612009-1791558009
+#EXTINF:-1 tvg-chno="106",[F1] GP Singapur - Clasificación Sprint - On Board Hamilton  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney6/index.m3u8?token=8807df8bb27ff7e80892b980dda9e282f5dd8832-7c-1791592206-1791538206
-#EXTINF:-1 tvg-chno="61",[F1] GP Singapur - Clasificación Sprint  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney6/index.m3u8?token=a5b9fe9eef26a7725eb5496240f680d88cb5cd88-fd-1791612009-1791558009
+#EXTINF:-1 tvg-chno="107",[F1] GP Singapur - Clasificación Sprint  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=47d35fb739605759871b6c699c881e8e9f08295c-6a-1791592206-1791538206
-#EXTINF:-1 tvg-chno="62",[F1] GP Singapur - Clasificación Sprint  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=6efa01e0dd1c714dcdb43bd9ea7916b8c8d804d3-d3-1791612008-1791558008
+#EXTINF:-1 tvg-chno="108",[F1] GP Singapur - Clasificación Sprint  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney4/index.m3u8?token=c4f26a027e1e2564310883cf21ccff73a9698c28-66-1791592206-1791538206
-#EXTINF:-1 tvg-chno="63",[F1] GP Singapur - Clasificación Sprint  FOX Sports 1 AR (STRMXHD)
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=52d9bc9e64b68b8cff93807e16976e477e644207-b6-1791612008-1791558008
+#EXTINF:-1 tvg-chno="109",[F1] GP Singapur - Clasificación Sprint  FOX Sports 1 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=8a6d79a8a68de5d5b773e10abb505f8f1af5f7cf-df-1791592206-1791538206
-#EXTINF:-1 tvg-chno="64",[F1] GP Singapur - Practica 1 - On Board Colapinto  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=9f890dc364b73e67ea7a1ba45ade9215a4faf8f8-45-1791592206-1791538206
-#EXTINF:-1 tvg-chno="65",[F1] GP Singapur - Practica 1 - On Board Hamilton  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=0fd2670223f97ea0b176a348ed6ffe0bb3878975-55-1791592206-1791538206
-#EXTINF:-1 tvg-chno="66",[F1] GP Singapur - Practica 1  DAZN F1 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=2b7393cffdf5fd8a4df2bd4611654ec51dd3a818-bf-1791592205-1791538205
-#EXTINF:-1 tvg-chno="67",[F1] GP Singapur - Practica 1  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=327b4cfab0c53cb9ab9061c022df3943ed623446-c4-1791592205-1791538205
-#EXTINF:-1 tvg-chno="68",[F1] GP Singapur - Practica 1  FOX Sports 1 AR (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=0894af37769f3e647b1d536d7c0742f9f85f891c-04-1791592205-1791538205
-#EXTINF:-1 tvg-chno="69",[F1] Singapore Grand Prix - Practice 1  Main Feed (FUTBOLX)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=e4551600e9dc0a3bee4e28dadf27939cf82c70b6-30-1791612009-1791558009
+#EXTINF:-1 tvg-chno="110",[F1] Singapore Grand Prix - Practice 1  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://futbolxx.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="70",[F1] Singapore Grand Prix - Sprint Qualifying  Main Feed (FUTBOLX)
+#EXTINF:-1 tvg-chno="111",[F1] Singapore Grand Prix - Sprint Qualifying  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://futbolxx.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="178",[MotoGP] GP Indonesia - Clasificación  ESPN 4 (STRMXHD)
+#EXTINF:-1 tvg-chno="257",[MotoGP] GP Indonesia - Clasificación  ESPN 4 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn4/index.m3u8?token=06b1631c170b6e5be413ae430e9a2e4ac5f1ceea-a7-1791592206-1791538206
-#EXTINF:-1 tvg-chno="179",[MotoGP] MotoGP Grand Prix of Indonesia (FAWA)
+https://khala.futlivehd.com/global/espn4/index.m3u8?token=1efec7915de6a76f9a961a0ea11cca423d0ce625-bb-1791612009-1791558009
+#EXTINF:-1 tvg-chno="258",[MotoGP] MotoGP Grand Prix of Indonesia (FAWA)
 #EXTVLCOPT:http-referrer=http://www.fawanews.sc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 http://193.47.62.50/hls/HHHHRAAA.m3u8
-#EXTINF:-1 tvg-chno="71",[Football] Borussia Dortmund vs. Werder Bremen  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="117",[Football] Borussia Dortmund vs. Werder Bremen  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="72",[Football] Lens vs. Lyon  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="118",[Football] Lens vs. Lyon  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="73",[Football] Málaga vs. Espanyol  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="119",[Football] Málaga vs. Espanyol  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="74",[Football] West Ham United vs. Queens Park Rangers  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="120",[Football] West Ham United vs. Queens Park Rangers  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="91",[LaLiga] Malaga vs Espanyol  Español 1 (PLIBRE)
+#EXTINF:-1 tvg-chno="156",[LaLiga] Malaga vs Espanyol  Español 1 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://YXdlc29tZQ.fubo18.com:443/espn2/mono.m3u8?token=9e0dcad83c176f55ce2c338f7534bf11d604db53-2f-1791564307-1791546307
-#EXTINF:-1 tvg-chno="92",[LaLiga] Malaga vs Espanyol  Español 2 (PLIBRE)
+https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=fd95e18eb33a99339767823788aafe9a024e995f-c-1791584110-1791566110
+#EXTINF:-1 tvg-chno="157",[LaLiga] Malaga vs Espanyol  Español 2 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/disney11/mono.m3u8?token=6d9438112bac43c12329c39f6090caefeb54066a-95-1791564307-1791546307
-#EXTINF:-1 tvg-chno="93",[LaLiga] Malaga vs Espanyol  Español 3 (PLIBRE)
+https://YXdlc29tZQ.fubo18.com:443/disney11/mono.m3u8?token=ccc98c2eacf655e0bf376dcd00c0db5a01ef61b8-9b-1791584110-1791566110
+#EXTINF:-1 tvg-chno="158",[LaLiga] Malaga vs Espanyol  Español 3 (PLIBRE)
 #EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmf0aw9u.fubo18.com:443/espndeportes/mono.m3u8?token=31f9b84d1b54b55138883ada47431ac7972b2095-35-1791564308-1791546308
-#EXTINF:-1 tvg-chno="94",[LaLiga] Málaga vs Espanyol 1 (STP)
+https://bmf0aw9u.fubo18.com:443/espndeportes/mono.m3u8?token=e0ff94f0009b72009a58a5f015353e1086b9dd48-76-1791584110-1791566110
+#EXTINF:-1 tvg-chno="159",[LaLiga] Málaga vs Espanyol 1 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/disney8/index.m3u8?token=546e80c6d2bfe9d2c90426c0c0a26e90bd2669b0-20-1791592206-1791538206
-#EXTINF:-1 tvg-chno="95",[LaLiga] Málaga vs Espanyol 2 (STP)
+https://s3.envivoslatam99.sbs:443/global/disney8/index.m3u8?token=37f56d0887b82628e14c06d354b5580d9a440ace-a7-1791612009-1791558009
+#EXTINF:-1 tvg-chno="160",[LaLiga] Málaga vs Espanyol 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/espnplus2/index.m3u8?token=f00f4001f8e14e587ffd3c8dc54fe169c6442379-43-1791592206-1791538206
-#EXTINF:-1 tvg-chno="96",[LaLiga] Málaga vs Espanyol 3 (STP)
+https://s3.envivoslatam99.sbs:443/global/espnplus2/index.m3u8?token=fa78720a2736d1bba6b6a11db0d36f2e07f715a0-93-1791612009-1791558009
+#EXTINF:-1 tvg-chno="161",[LaLiga] Málaga vs Espanyol 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s2.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=0dd9d3295e8d818bf86dff389e93dfb1408ee60b-86-1791592206-1791538206
-#EXTINF:-1 tvg-chno="97",[LaLiga] Málaga vs Espanyol 4 (STP)
+https://s2.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=767438f2b33a2dc5435d6bf6c52e0320eca26b1b-4d-1791612009-1791558009
+#EXTINF:-1 tvg-chno="162",[LaLiga] Málaga vs Espanyol 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/daznlaliga/index.m3u8?token=198eea324dc30d10bab0a37372992fff4d2139a0-bc-1791592206-1791538206
-#EXTINF:-1 tvg-chno="98",[LaLiga] Málaga vs Espanyol 5 (STP)
+https://s2.envivoslatam99.sbs:443/global/daznlaliga/index.m3u8?token=83a72201d583032eb7a4b0eeb1b3ec57b072e6fc-4f-1791612009-1791558009
+#EXTINF:-1 tvg-chno="163",[LaLiga] Málaga vs Espanyol 5 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=8abae68f594d4d17672b26733c8813f6aa721625-ab-1791592206-1791538206
-#EXTINF:-1 tvg-chno="99",[LaLiga] Málaga vs Espanyol  Disney + (STRMXHD)
+https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=9bad191ab23c8781f33bc3a1182be6997b15d39b-a1-1791612009-1791558009
+#EXTINF:-1 tvg-chno="164",[LaLiga] Málaga vs Espanyol  Dazn La Liga (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=1f834e904f237c4a20d631157d611564ca22f687-75-1791599415-1791545415
+#EXTINF:-1 tvg-chno="165",[LaLiga] Málaga vs Espanyol  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney12
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney12/index.m3u8?token=39e593be1dc29e48d491c8f1c567833df5a65239-d1-1791592210-1791538210
-#EXTINF:-1 tvg-chno="100",[LaLiga] Málaga vs Espanyol  ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/disney12/index.m3u8?token=7c82190f963e79d7850ddea10d91786f9cc9acd4-06-1791612012-1791558012
+#EXTINF:-1 tvg-chno="166",[LaLiga] Málaga vs Espanyol  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=6c6c483f2f29fb17050ebe9d7fc0d4bed3095bd0-1e-1791592210-1791538210
-#EXTINF:-1 tvg-chno="101",[LaLiga] Málaga vs Espanyol  ESPN 2 (TVF90)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=d646f02e17e22bb339ba5e12c7ac746d6eb4077b-4b-1791612012-1791558012
+#EXTINF:-1 tvg-chno="167",[LaLiga] Málaga vs Espanyol  ESPN 2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://Ym9yZQ.fubo18.com:443/espn2/mono.m3u8?token=83727ea88fbce8f2a37dfaab3a63dd5368193f47-5-1791564313-1791546313
-#EXTINF:-1 tvg-chno="102",[LaLiga] Málaga vs Espanyol  ESPN 2  HD (TVF90)
+https://YXdlc29tZQ.fubo18.com:443/espn2/mono.m3u8?token=d6ab81792ab8cf7676da2dfb189de05f865e6c3b-71-1791584116-1791566116
+#EXTINF:-1 tvg-chno="168",[LaLiga] Málaga vs Espanyol  ESPN 2  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/espn2/mono.m3u8?token=9754de8f57467ebd616320b108d72ae3ae265870-21-1791564313-1791546313
-#EXTINF:-1 tvg-chno="103",[LaLiga] Málaga vs Espanyol  ESPN 2  OP2 (TVF90)
+https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=72c37822baeb47e2a238a80a1931b82c4bd3b52a-53-1791584117-1791566117
+#EXTINF:-1 tvg-chno="169",[LaLiga] Málaga vs Espanyol  ESPN 2  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/espn2/mono.m3u8?token=d6abdb196eb41fc8d9e2dbf3a61c6f5b836277be-a6-1791564313-1791546313
-#EXTINF:-1 tvg-chno="104",[LaLiga] Málaga vs Espanyol  ESPN 2  OP3 (TVF90)
+https://7.ftlly.com:443/espn2/mono.m3u8?token=1ceaf16bffa6f96bd2b11adc601a6aaa18880a00-f4-1791584116-1791566116
+#EXTINF:-1 tvg-chno="170",[LaLiga] Málaga vs Espanyol  ESPN 2  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/espn2/mono.m3u8?token=7aa2f4f7899809cbc1dde68aea9a58dc616e9769-99-1791564313-1791546313
-#EXTINF:-1 tvg-chno="218",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPRO  HD (TVF90)
+https://3.ftlly.com:443/espn2/mono.m3u8?token=152370973d84f084dad69a3ea9babf4df55442b6-72-1791584116-1791566116
+#EXTINF:-1 tvg-chno="171",[LaLiga] Málaga vs Espanyol  Espn +  (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=ce5eb24ff599eada241f59eedaf8ee71e6eb4ebd-e8-1791599415-1791545415
+#EXTINF:-1 tvg-chno="172",[Laliga] Malaga vs Espanyol  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://fut2.b-cdn.net/mal/index.m3u8
+#EXTINF:-1 tvg-chno="173",[Laliga] Málaga vs Espanyol (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/6trsant7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://justkidding.junksonus.party/main/secure/7bcd5ddcd8c251faa5b4a353998c23803d726183bd7f268d3cfc7f6bba438c17/1791579614/espndeportes-usa.m3u8
+#EXTINF:-1 tvg-chno="315",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPRO  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmF0aw9u.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=2a23887ea140c6b30312f605472fc47375074fad-c9-1791564317-1791546317
-#EXTINF:-1 tvg-chno="219",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro (TVF90)
+https://eWVz.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=f4ac84e3036d20111df800b0705279977cd89af4-4a-1791584120-1791566120
+#EXTINF:-1 tvg-chno="316",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://a2lja3m.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=71b066ec08b1837c0ee702c621b198fda973dd4c-a0-1791564317-1791546317
-#EXTINF:-1 tvg-chno="220",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro  OP2 (TVF90)
+https://c2f2zQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=9109025f2bf8dc4bfa36102effb65e508f250116-49-1791584120-1791566120
+#EXTINF:-1 tvg-chno="317",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=bed77cd20a82196004b57ee24f2135ce55042737-dd-1791564317-1791546317
-#EXTINF:-1 tvg-chno="221",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro  OP3 (TVF90)
+https://5.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=714cb0a74f54c8d722df8cab270be0e9305bd88e-c1-1791584120-1791566120
+#EXTINF:-1 tvg-chno="318",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=c3c8d415a67eb33897064fd399428ec357323930-61-1791564317-1791546317
-#EXTINF:-1 tvg-chno="222",[Serie A] Delfin vs Mushuc Runa  ECUAVISA (TVF90)
+https://7.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=ba92d10c54c0a8c74e71a8cef1726088b9f6cb4c-a4-1791584120-1791566120
+#EXTINF:-1 tvg-chno="319",[Serie A] Delfin vs Mushuc Runa  ECUAVISA (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdGxl.fubo18.com:443/ecdf/mono.m3u8?token=af0bad982720e4299f4f16112e54d391aad9d8c5-1f-1791564317-1791546317
-#EXTINF:-1 tvg-chno="223",[Serie A] Delfin vs Mushuc Runa  ECUAVISA  OP2 (TVF90)
+https://dw5pdGVk.fubo18.com:443/ecdf/mono.m3u8?token=73f737b546625c09a59c33392583f03eb267d77e-3b-1791584121-1791566121
+#EXTINF:-1 tvg-chno="320",[Serie A] Delfin vs Mushuc Runa  ECUAVISA  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/ecdf/mono.m3u8?token=ad8d6519dae5d77e5775bb09973d5a45eb58f416-ad-1791564318-1791546318
-#EXTINF:-1 tvg-chno="224",[Serie A] Delfin vs Mushuc Runa  ECUAVISA  OP3 (TVF90)
+https://10.ftlly.com:443/ecdf/mono.m3u8?token=cad96f7b42d3675af7274a9c6c296b23563f050f-d5-1791584121-1791566121
+#EXTINF:-1 tvg-chno="321",[Serie A] Delfin vs Mushuc Runa  ECUAVISA  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://5.ftlly.com:443/ecdf/mono.m3u8?token=2182d23c2cd9e66e79a37d99e972e6a879f3f61c-f5-1791564318-1791546318
-#EXTINF:-1 tvg-chno="225",[Serie A] Libertad vs Leones del Norte  ECDF LigaPRO  HD (TVF90)
+https://8.ftlly.com:443/ecdf/mono.m3u8?token=48ac20a5a6627e187d72f64a2e6a9f2280088fea-b1-1791584121-1791566121
+#EXTINF:-1 tvg-chno="322",[Serie A] Libertad vs Leones del Norte  ECDF LigaPRO  HD (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://y2fzdGxl.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=e33156226c99ed7de903236a3dfb289a07b28699-c1-1791564310-1791546310
-#EXTINF:-1 tvg-chno="226",[Serie A] Libertad vs Leones del Norte  ECDF LigaPro (TVF90)
+https://c2f2zQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=e5b0d6a58c0ae89b877d6cc00335aa9e297f81d5-41-1791584113-1791566113
+#EXTINF:-1 tvg-chno="323",[Serie A] Libertad vs Leones del Norte  ECDF LigaPro (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://eWVz.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=b2fd6490d9b002bf1e57e9a058688171e0a3e252-3c-1791564309-1791546309
-#EXTINF:-1 tvg-chno="227",[Serie A] Libertad vs Leones del Norte  ECDF LigaPro  OP2 (TVF90)
+https://bmF0aw9u.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=904260d3b6b02e643ac2e2feeb273f7759a644f2-5c-1791584112-1791566112
+#EXTINF:-1 tvg-chno="324",[Serie A] Libertad vs Leones del Norte  ECDF LigaPro  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=b0d02c371675315ade4a97551160c658e7677ce2-7d-1791564309-1791546309
-#EXTINF:-1 tvg-chno="228",[Serie A] Libertad vs Leones del Norte  ECDF LigaPro  OP3 (TVF90)
+https://8.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=5cb9e4f280aef8cd85be176bb1a081a70aee4187-d0-1791584112-1791566112
+#EXTINF:-1 tvg-chno="325",[Serie A] Libertad vs Leones del Norte  ECDF LigaPro  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=ff828235ebad96574fd3a165bf6a713d6a17e82b-35-1791564309-1791546309
-#EXTINF:-1 tvg-chno="229",[Serie A] Libertad vs Leones del Norte  ECUAVISA (TVF90)
+https://8.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=0738fdd373c60cb85d73a02d7a2b53160116b15d-7a-1791584112-1791566112
+#EXTINF:-1 tvg-chno="326",[Serie A] Libertad vs Leones del Norte  ECUAVISA (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://dglvz29s.fubo18.com:443/ecdf/mono.m3u8?token=d8784cfbcf4f9de77debd373b9264609edfad67d-fc-1791564310-1791546310
-#EXTINF:-1 tvg-chno="230",[Serie A] Libertad vs Leones del Norte  ECUAVISA  OP2 (TVF90)
+https://bmF0aw9u.fubo18.com:443/ecdf/mono.m3u8?token=882c7cdac2f0f9ea218e0458b2bd5917f055a67f-ed-1791584113-1791566113
+#EXTINF:-1 tvg-chno="327",[Serie A] Libertad vs Leones del Norte  ECUAVISA  OP2 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/ecdf/mono.m3u8?token=4c43bf24ee74040e8bbc0d5ddac03060df6e4ccb-86-1791564310-1791546310
-#EXTINF:-1 tvg-chno="231",[Serie A] Libertad vs Leones del Norte  ECUAVISA  OP3 (TVF90)
+https://11.ftlly.com:443/ecdf/mono.m3u8?token=b34b60bb3bd54a7f7267ff97e65459528c5e3db2-c5-1791584113-1791566113
+#EXTINF:-1 tvg-chno="328",[Serie A] Libertad vs Leones del Norte  ECUAVISA  OP3 (TVF90)
 #EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://6.ftlly.com:443/ecdf/mono.m3u8?token=b2d15b7a43279a8eb33ab6ff841309d8f0f36bbe-15-1791564310-1791546310
+https://8.ftlly.com:443/ecdf/mono.m3u8?token=97be98851e7c91de56ec087022f4fc272c8824d9-19-1791584113-1791566113
