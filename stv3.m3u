@@ -1,277 +1,985 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="341",[Premier League] Ipswich Town vs Fulham  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney19
+#EXTINF:-1 tvg-chno="679",[Premier League] AFC Bournemouth @ Chelsea (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/hujoxnbr-4965
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney19/index.m3u8?token=8eed752f8d538ba01e885d43dd03a65367b2711b-83-1791639007-1791585007
-#EXTINF:-1 tvg-chno="342",[Premier League] Manchester United vs Tottenham Hotspur  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney26
+https://judiaslevels.embeds.gay/main/secure/b92eefe2cf43af52a75db4e417953e0221814625aa29c690c2a0f666fd1648b2/1791649815/premierleague-401878775.m3u8
+#EXTINF:-1 tvg-chno="680",[Premier League] AFC Bournemouth vs Chelsea (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney26/index.m3u8?token=8cf24487f38d08794fbe419d9c0481bc8a7e02b0-99-1791639007-1791585007
-#EXTINF:-1 tvg-chno="343",[Premier League] Manchester United vs Tottenham Hotspur  ESPN (STRMXHD)
+https://streamfree.top/live-origin/afc-bournemouth-vs-chelsea1080p3/index.m3u8?_e=1791673205&_n=ef32a21f396cda25&_t=TL7ndwq0rcqZmvwUs4k8AQ
+#EXTINF:-1 tvg-chno="681",[Premier League] AFC Bournemouth vs Chelsea  English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401878775
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401878775/index.m3u8?st=AuMKP3aa1j5Y-OTpCfxztQ&e=1791651616
+#EXTINF:-1 tvg-chno="682",[Premier League] Arsenal vs Leeds United (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57779?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57779/load-playlist
+#EXTINF:-1 tvg-chno="683",[Premier League] Arsenal vs Leeds United 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/disney3/index.m3u8?token=85243a7ea9af5e62a39696957784707bb3c73eef-0b-1791678606-1791624606
+#EXTINF:-1 tvg-chno="684",[Premier League] Arsenal vs Leeds United 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=max1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/max1/index.m3u8?token=1fabaf15abfa32391a14af686690da690ce9c763-84-1791678606-1791624606
+#EXTINF:-1 tvg-chno="685",[Premier League] Arsenal vs Leeds United 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espn/index.m3u8?token=b4948f1c9c95ded4215fbe0d3749ae06574e856e-fc-1791678606-1791624606
+#EXTINF:-1 tvg-chno="686",[Premier League] Arsenal vs Leeds United 4 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/universo/index.m3u8?token=e4ccf5b843cb5dec11f52604fabd0a17721aedf8-6f-1791678606-1791624606
+#EXTINF:-1 tvg-chno="687",[Premier League] Arsenal vs Leeds United  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=96bcfa4d06afb10c7904f0ab26d7b2e119ff6cc7-d8-1791682214-1791628214
+#EXTINF:-1 tvg-chno="688",[Premier League] Arsenal vs Leeds United  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eWVz.fubo18.com:443/disney5/mono.m3u8?token=431512886a6babbd012ba74b7bf96a7b928a7ca9-53-1791650721-1791632721
+#EXTINF:-1 tvg-chno="689",[Premier League] Arsenal vs Leeds United  ESPN (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn/index.m3u8?token=901c0b103ade762e43ea3193a75e85e4d8572488-4f-1791639008-1791585008
-#EXTINF:-1 tvg-chno="344",[Premier League] Manchester United vs Tottenham Hotspur  ESPN AR (STRMXHD)
+https://khala.futlivehd.com/global/espn/index.m3u8?token=a269776baca40fea4e6b400f7bd0986bebfc7538-c6-1791682214-1791628214
+#EXTINF:-1 tvg-chno="690",[Premier League] Arsenal vs Leeds United  ESPN (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/espn/mono.m3u8?token=de3781949621a8fdb80e4cb86a97e6e28c5240b1-bf-1791650720-1791632720
+#EXTINF:-1 tvg-chno="691",[Premier League] Arsenal vs Leeds United  ESPN AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnar/index.m3u8?token=eb81bc258312344702d6eee1fb6f3cbcfd1a18a8-f9-1791639008-1791585008
-#EXTINF:-1 tvg-chno="91",[Formula 1] Formula 1 2026 - Singapore GP (iSTRMEAST)
+https://khala.futlivehd.com/global/espnar/index.m3u8?token=a3e69e489a60535a7f708684a6304495ea67941d-24-1791682214-1791628214
+#EXTINF:-1 tvg-chno="692",[Premier League] Arsenal vs Leeds United  ESPN AR┃OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://3.ftlly.com:443/espn/mono.m3u8?token=cb681752084d8b9808d4593781b669f60caf256e-d9-1791650721-1791632721
+#EXTINF:-1 tvg-chno="693",[Premier League] Arsenal vs Leeds United  ESPN AR┃OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/espn/mono.m3u8?token=9670619a2f50386c349af7b489f560249369331f-80-1791650721-1791632721
+#EXTINF:-1 tvg-chno="694",[Premier League] Arsenal vs Leeds United  Max 1 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/max1/index.m3u8?token=093386d06f00ab1ce7d0dfb4c484b268f368b2d7-73-1791682214-1791628214
+#EXTINF:-1 tvg-chno="695",[Premier League] Arsenal vs Leeds United  Universo (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/universo/index.m3u8?token=3bd6131eb7812a28eab77aab31b1d715f71a3c97-a7-1791682214-1791628214
+#EXTINF:-1 tvg-chno="696",[Premier League] Arsenal vs Leeds  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zq.fubo18.com:443/espn/mono.m3u8?token=93c4a41577bbb0ce9e7b40bde09af3ae2537752a-6f-1791650707-1791632707
+#EXTINF:-1 tvg-chno="697",[Premier League] Arsenal vs Leeds  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dglvz29s.fubo18.com:443/disney5/mono.m3u8?token=30238d1a54ac2d1dd2df26dcc7181410419a3cc5-46-1791650707-1791632707
+#EXTINF:-1 tvg-chno="698",[Premier League] Arsenal vs Leeds  Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://am91cm5leQ.fubo18.com:443/universo/mono.m3u8?token=314951c37f43b835196d172e72a107899b463213-8c-1791650707-1791632707
+#EXTINF:-1 tvg-chno="699",[Premier League] Aston Villa vs Brentford (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57788?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57788/load-playlist
+#EXTINF:-1 tvg-chno="700",[Premier League] Aston Villa vs Brentford 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney15
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/disney15/index.m3u8?token=2ca8a8bb50a31153d5559af0d351721308211667-ea-1791678607-1791624607
+#EXTINF:-1 tvg-chno="701",[Premier League] Aston Villa vs Brentford 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=foxone4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/foxone4/index.m3u8?token=3f866985c789e2bfe243436e35622e25a5684c22-38-1791678607-1791624607
+#EXTINF:-1 tvg-chno="702",[Premier League] Aston Villa vs Brentford 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/universo/index.m3u8?token=239d2344f545bc9d1767b6baf4fee22a006d675d-fb-1791678607-1791624607
+#EXTINF:-1 tvg-chno="703",[Premier League] Aston Villa vs Brentford  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney17/index.m3u8?token=6a51649fab1956f650bfcb20cc712b28ef4246be-ba-1791682214-1791628214
+#EXTINF:-1 tvg-chno="704",[Premier League] Aston Villa vs Brentford  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmF0aw9u.fubo18.com:443/disney16/mono.m3u8?token=9a8c942b8f63f6ead5b4868723dc48794e14105a-86-1791650742-1791632742
+#EXTINF:-1 tvg-chno="705",[Premier League] Aston Villa vs Brentford  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dglvz29s.fubo18.com:443/disney16/mono.m3u8?token=3de80f5116e2a36bf83d08fdc9508966f74a9dc4-d8-1791650709-1791632709
+#EXTINF:-1 tvg-chno="706",[Premier League] Aston Villa vs Brentford  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/universo/mono.m3u8?token=1791292f27335d32363849eaf34e0608813c2383-4c-1791650709-1791632709
+#EXTINF:-1 tvg-chno="707",[Premier League] Aston Villa vs Brentford  Universo (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/universo/index.m3u8?token=7afa3be5c26cdff7160ce8272a739afeaa52995b-0e-1791682214-1791628214
+#EXTINF:-1 tvg-chno="708",[Premier League] Aston Villa vs Brentford  Universo (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/universo/mono.m3u8?token=a133c4074b6f4a2e3c582c29de585d144acf8c54-e3-1791650743-1791632743
+#EXTINF:-1 tvg-chno="709",[Premier League] Aston Villa vs Brentford  Universo  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://am91cm5leQ.fubo18.com:443/universo/mono.m3u8?token=2597db27c88fe3590512277d367da94e5be131d7-8a-1791650743-1791632743
+#EXTINF:-1 tvg-chno="710",[Premier League] Aston Villa vs. Brentford (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-10-10/avl-bre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-aston-villa-vs-brentford/2/playlist.m3u8?tk=yS1DfjhOvsm4Sg9Fv67rJA&e=1791682737
+#EXTINF:-1 tvg-chno="711",[Premier League] Brentford @ Aston Villa (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/s9d209ss-8179
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/c57611a4e9ed7c3303587c443557043e5a118957c992e7c1ae38054daac98701/1791649815/premierleague-401878776.m3u8
+#EXTINF:-1 tvg-chno="712",[Premier League] Brentford vs Aston Villa (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/brentford-vs-aston-villa1080p3/index.m3u8?_e=1791673205&_n=ba920d90d2dda44e&_t=PERvQt_owrNeAc0_GRXh8g
+#EXTINF:-1 tvg-chno="713",[Premier League] Brentford vs Aston Villa  English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401878776
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401878776/index.m3u8?st=kB_g4hznLA5F6_a7DK6MyA&e=1791651615
+#EXTINF:-1 tvg-chno="714",[Premier League] Brighton & Hove Albion vs Sunderland (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-cdn/brighton-hove-albion-vs-sunderland1080p3/index.m3u8?_e=1791673206&_n=7cb60fa28dc4247a&_t=98y89iGQg7jSmLlgBL1JIg
+#EXTINF:-1 tvg-chno="715",[Premier League] Brighton & Hove Albion vs Sunderland  English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401878772
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.xyz/live3/tv401878772/index.m3u8?st=iieTQb10lOqRB0ncprr_Dw&e=1791651617
+#EXTINF:-1 tvg-chno="716",[Premier League] Brighton and Hove Albion @ Sunderland (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/o7djd5vs-3037
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/4326a9203c158f3a638a225b5f88779c0e7d1ab51e8fae85bc8fcf367ba0248e/1791649815/premierleague-401878772.m3u8
+#EXTINF:-1 tvg-chno="717",[Premier League] Chelsea vs AFC Bournemouth 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/disney16/index.m3u8?token=4ad1b6fd722f835091a76ba4628fdd84add98888-81-1791678607-1791624607
+#EXTINF:-1 tvg-chno="718",[Premier League] Chelsea vs AFC Bournemouth 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=foxone5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/foxone5/index.m3u8?token=b25e48b40f3e4619fa5f902118d9e3388b224fa6-89-1791678607-1791624607
+#EXTINF:-1 tvg-chno="719",[Premier League] Chelsea vs AFC Bournemouth 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/espn/index.m3u8?token=b58eec5db7125bbb2be76c5b7e4899166b8933b9-e1-1791678608-1791624608
+#EXTINF:-1 tvg-chno="720",[Premier League] Chelsea vs AFC Bournemouth  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney18/index.m3u8?token=fe0c9623b46906f6d98089dccff0129caf86832e-e9-1791682214-1791628214
+#EXTINF:-1 tvg-chno="721",[Premier League] Chelsea vs AFC Bournemouth  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/disney17/mono.m3u8?token=2dee2632b7cecc396dece671f85aa2effc0ea7dc-fe-1791650726-1791632726
+#EXTINF:-1 tvg-chno="722",[Premier League] Chelsea vs AFC Bournemouth  ESPN (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn/index.m3u8?token=72c9e26975047ec677125fe3a7644764bc42f059-7c-1791682215-1791628215
+#EXTINF:-1 tvg-chno="723",[Premier League] Chelsea vs AFC Bournemouth  ESPN (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dw5pdGVk.fubo18.com:443/espn/mono.m3u8?token=26334ac5394571240be628f50a8ef19f5bf7fedc-aa-1791650725-1791632725
+#EXTINF:-1 tvg-chno="724",[Premier League] Chelsea vs AFC Bournemouth  ESPN AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnar/index.m3u8?token=cf72793bac77606ddab8ef33e4ba9b3f1bb858c4-42-1791682215-1791628215
+#EXTINF:-1 tvg-chno="725",[Premier League] Chelsea vs AFC Bournemouth  ESPN AR┃OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4.ftlly.com:443/espn/mono.m3u8?token=ad64df133b0c44392597794e573729444b44d0c1-b5-1791650725-1791632725
+#EXTINF:-1 tvg-chno="726",[Premier League] Chelsea vs AFC Bournemouth  ESPN AR┃OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/espn/mono.m3u8?token=2093583cd33bb2b12aec1ea9e7b0388f6aae7e6f-71-1791650725-1791632725
+#EXTINF:-1 tvg-chno="727",[Premier League] Chelsea vs Bournemouth (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57790?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57790/load-playlist
+#EXTINF:-1 tvg-chno="728",[Premier League] Chelsea vs Bournemouth  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/espn/mono.m3u8?token=bd5a79c9d4bf588a2ddc1088c5aabdd4311b3e65-ad-1791650709-1791632709
+#EXTINF:-1 tvg-chno="729",[Premier League] Chelsea vs Bournemouth  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/disney17/mono.m3u8?token=18b95b51b05c6b4312e7fcc02ecb115f4f16c9e4-98-1791650709-1791632709
+#EXTINF:-1 tvg-chno="730",[Premier League] Chelsea vs. AFC Bournemouth (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-10-10/che-bou
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-chelsea-vs-afc-bournemouth/2/playlist.m3u8?tk=yS1DfjhOvsm4Sg9Fv67rJA&e=1791682737
+#EXTINF:-1 tvg-chno="731",[Premier League] Fulham @ Ipswich Town (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/i2epnjkp-6290
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/767f3490358fa7a4ce7a7590fd7ca29b9faa1fbc34888a013c86d721c3c09f28/1791649815/premierleague-401879265.m3u8
+#EXTINF:-1 tvg-chno="732",[Premier League] Fulham vs Ipswich Town (STRMFREE)
+#EXTVLCOPT:http-referrer=https://streamfree.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://streamfree.top/live-origin/fulham-vs-ipswich-town1080p3/index.m3u8?_e=1791673206&_n=8ce10a83663e0196&_t=CFoa9-V9PqiTGSqnA3AWWA
+#EXTINF:-1 tvg-chno="733",[Premier League] Fulham vs Ipswich Town  English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401879265
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.pro/live3/tv401879265/index.m3u8?st=6ut0voBhQk_0bmFEaNlUTQ&e=1791651616
+#EXTINF:-1 tvg-chno="734",[Premier League] Ipswich Town vs Fulham (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57789?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57789/load-playlist
+#EXTINF:-1 tvg-chno="735",[Premier League] Ipswich Town vs Fulham 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/disney17/index.m3u8?token=c7f31a93617164e00fcdd5e476902a752e252b6e-c2-1791678608-1791624608
+#EXTINF:-1 tvg-chno="736",[Premier League] Ipswich Town vs Fulham 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=foxone6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/foxone6/index.m3u8?token=ee4ce50b13a2d5dad06f56dd3d12f464eb1650e3-21-1791678608-1791624608
+#EXTINF:-1 tvg-chno="737",[Premier League] Ipswich Town vs Fulham  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney19/index.m3u8?token=41674e3fe4d8f98a30e6fc3504caacd480f46c6d-6a-1791682215-1791628215
+#EXTINF:-1 tvg-chno="738",[Premier League] Ipswich Town vs Fulham  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://Ym9yZQ.fubo18.com:443/disney18/mono.m3u8?token=fde33102c4d81fe47ef9fc8a4b9af18a28991a95-b4-1791650706-1791632706
+#EXTINF:-1 tvg-chno="739",[Premier League] Ipswich Town vs Fulham  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/disney18/mono.m3u8?token=923e40ea39e9b783ff1010eec055cf6334b1f371-79-1791650709-1791632709
+#EXTINF:-1 tvg-chno="740",[Premier League] Ipswich Town vs. Fulham (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-10-10/ips-ful
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-ipswich-town-vs-fulham/2/playlist.m3u8?tk=yS1DfjhOvsm4Sg9Fv67rJA&e=1791682737
+#EXTINF:-1 tvg-chno="741",[Premier League] Leeds United @ Arsenal (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/e0lyrkhr-1411
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/fe28037b30c8639fe4e171ea7d00a4578a981e134bd8122560f07877fe1de036/1791649814/tntsports1-uk.m3u8
+#EXTINF:-1 tvg-chno="742",[Premier League] Manchester United vs Tottenham Hotspur 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/disney6/index.m3u8?token=17c15a4f6ba4859cee626b67d611a5c85a00c74d-ee-1791678609-1791624609
+#EXTINF:-1 tvg-chno="743",[Premier League] Manchester United vs Tottenham Hotspur 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=foxone8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/foxone8/index.m3u8?token=9f2b9127d7df00a03b3e120f5b82a32c9d5714c5-ff-1791678609-1791624609
+#EXTINF:-1 tvg-chno="744",[Premier League] Manchester United vs Tottenham Hotspur 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/espn/index.m3u8?token=dfafc3bbb318f92c4cff5ce5e1496ae0ce9aa849-09-1791678609-1791624609
+#EXTINF:-1 tvg-chno="745",[Premier League] Manchester United vs Tottenham Hotspur 4 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=telemundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/telemundo/index.m3u8?token=3594372f22a1f8db317bd58f89a8fe8ee26e95e8-0a-1791678609-1791624609
+#EXTINF:-1 tvg-chno="746",[Premier League] Manchester United vs Tottenham Hotspur  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney26
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney26/index.m3u8?token=1f7f4f9897d1dd2a54e49a44fcb606a70da60daf-9d-1791682213-1791628213
+#EXTINF:-1 tvg-chno="747",[Premier League] Manchester United vs Tottenham Hotspur  ESPN (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn/index.m3u8?token=1e545461303abda15c5d0842802f649dc71d5177-82-1791682213-1791628213
+#EXTINF:-1 tvg-chno="748",[Premier League] Manchester United vs Tottenham Hotspur  ESPN (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/espn/mono.m3u8?token=1fdd01f8c5495df5882b5bf366fc5313f611172e-ee-1791650718-1791632718
+#EXTINF:-1 tvg-chno="749",[Premier League] Manchester United vs Tottenham Hotspur  ESPN AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnar/index.m3u8?token=b13ab3490eb762386bdd017919ad8ef0fd2d0edc-7c-1791682214-1791628214
+#EXTINF:-1 tvg-chno="750",[Premier League] Manchester United vs Tottenham Hotspur  ESPN AR┃OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/espn/mono.m3u8?token=3d0e68848bae40cbdd5dbd6648bcbe296a2539e0-25-1791650718-1791632718
+#EXTINF:-1 tvg-chno="751",[Premier League] Manchester United vs Tottenham Hotspur  ESPN AR┃OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/espn/mono.m3u8?token=b7fb888659c89e53edb71785b192b9a77c06156b-22-1791650718-1791632718
+#EXTINF:-1 tvg-chno="752",[Premier League] Manchester United vs Tottenham  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/espn/mono.m3u8?token=e0bd5b41da6dd3f87aaed1f29bf06816725c78b7-aa-1791650712-1791632712
+#EXTINF:-1 tvg-chno="753",[Premier League] Manchester United vs Tottenham  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://y2fzdgxl.fubo18.com:443/disney8/mono.m3u8?token=1bb7f2f032a0ccd19fa5eedd316bef42decc4033-22-1791650712-1791632712
+#EXTINF:-1 tvg-chno="754",[Premier League] Manchester United vs Tottenham  Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=telemundo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/telemundo/mono.m3u8?token=5fbaa0245c0201c8c9deb8386996ef7bbc9f9ead-ca-1791650712-1791632712
+#EXTINF:-1 tvg-chno="755",[Premier League] Sunderland vs Brighton & Hove Albion (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57791?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57791/load-playlist
+#EXTINF:-1 tvg-chno="756",[Premier League] Sunderland vs Brighton & Hove Albion 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/disney18/index.m3u8?token=63e99c5703b2f843e28257fdf23398e484407701-52-1791678608-1791624608
+#EXTINF:-1 tvg-chno="757",[Premier League] Sunderland vs Brighton & Hove Albion 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=max2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/max2/index.m3u8?token=2841b8d28a5e9090b38cbf2b33c8ce582323a23a-fe-1791678608-1791624608
+#EXTINF:-1 tvg-chno="758",[Premier League] Sunderland vs Brighton & Hove Albion  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney20/index.m3u8?token=f56ea9beca66348366bf056fddc858d61a02a4d4-b9-1791682213-1791628213
+#EXTINF:-1 tvg-chno="759",[Premier League] Sunderland vs Brighton & Hove Albion  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dw5pdGVk.fubo18.com:443/disney19/mono.m3u8?token=a25cffc918fa1c5ff3c76491ab80d1bccafa8ff4-e1-1791650743-1791632743
+#EXTINF:-1 tvg-chno="760",[Premier League] Sunderland vs Brighton & Hove Albion  Max 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=max2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/max2/index.m3u8?token=a43bdb972107d9bcdf360f4db03d2fd2520aff83-31-1791682213-1791628213
+#EXTINF:-1 tvg-chno="761",[Premier League] Sunderland vs Brighton  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/disney19/mono.m3u8?token=d9131f85b651d04d9116f3f961742e17d3e624da-69-1791650709-1791632709
+#EXTINF:-1 tvg-chno="762",[Premier League] Sunderland vs. Brighton & Hove Albion (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=pl/2026-10-10/sun-bha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-sunderland-vs-brighton-hove-albion/2/playlist.m3u8?tk=yS1DfjhOvsm4Sg9Fv67rJA&e=1791682737
+#EXTINF:-1 tvg-chno="323",[Formula 1] Formula 1 2026 - Singapore GP (iSTRMEAST)
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57720?ad=111
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://chatgpt.hereisman.net/playlist/57720/load-playlist
-#EXTINF:-1 tvg-chno="70",[F1] GP de Singapur - Carrera Sprint - On Board Colapinto  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney2
+#EXTINF:-1 tvg-chno="285",[F1] GP Singapur - Clasificación Sprint - On Board Colapinto  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney2/index.m3u8?token=45beb8711287439e4c11358f4db8ce3396eba8ff-9d-1791639004-1791585004
-#EXTINF:-1 tvg-chno="71",[F1] GP de Singapur - Carrera Sprint - On Board Hamilton  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=a47b3c0b85197fc52af8d54fe3230d48ee60f9bf-f7-1791678606-1791624606
+#EXTINF:-1 tvg-chno="286",[F1] GP Singapur - Clasificación Sprint - On Board Hamilton  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=96a1573b023053577bdd05946dfc614560e0247e-71-1791639004-1791585004
-#EXTINF:-1 tvg-chno="72",[F1] GP de Singapur - Carrera Sprint  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney6/index.m3u8?token=dcc835441b62f0dfe38d250d887340ccfbbecb3c-8d-1791678606-1791624606
+#EXTINF:-1 tvg-chno="287",[F1] GP Singapur - Clasificación Sprint  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=c91246e94f282829a8606e4466977dd591169ffd-2e-1791639004-1791585004
-#EXTINF:-1 tvg-chno="73",[F1] GP de Singapur - Carrera Sprint  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=c47b6e877627d506bca0dc38997795d7c20d20ae-f9-1791678606-1791624606
+#EXTINF:-1 tvg-chno="288",[F1] GP Singapur - Clasificación Sprint  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=e41819624864138c931562d21da00bd15b8356ae-b4-1791639003-1791585003
-#EXTINF:-1 tvg-chno="74",[F1] GP de Singapur - Carrera Sprint  SporTV 3 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
+https://khala.futlivehd.com/global/disney4/index.m3u8?token=2058faac8726c37cd268ad7eb9905bafb18bf0fd-c7-1791678606-1791624606
+#EXTINF:-1 tvg-chno="289",[F1] GP Singapur - Clasificación Sprint  FOX Sports 1 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=fox1ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=c7c5fd081ee6a0fed948b3855cad1ff608b1a379-22-1791639004-1791585004
-#EXTINF:-1 tvg-chno="75",[F1] GP de Singapur - Clasificación - Cámara On Board  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/fox1ar/index.m3u8?token=236710e1a5d543167a48b517080fa65109d3756c-83-1791678606-1791624606
+#EXTINF:-1 tvg-chno="290",[F1] GP de Singapur - Clasificación - Cámara On Board  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney11/index.m3u8?token=888d11767d11fb43889ab382111a4722ac7ff2ee-57-1791639004-1791585004
-#EXTINF:-1 tvg-chno="76",[F1] GP de Singapur - Clasificación - On Board Colapinto  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney11/index.m3u8?token=54ef8ccf61bad85ec7e5ce3e9e9ce4e86a36337d-84-1791682205-1791628205
+#EXTINF:-1 tvg-chno="291",[F1] GP de Singapur - Clasificación - On Board Colapinto  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney9/index.m3u8?token=91443d16c9b0bd52a4ff9c046893f0649fb64f9d-88-1791639004-1791585004
-#EXTINF:-1 tvg-chno="77",[F1] GP de Singapur - Clasificación - On Board Hamilton  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/disney9/index.m3u8?token=e79bdb2f6ef2f6ee46208f0bffb37f5f0a08fae4-ea-1791682205-1791628205
+#EXTINF:-1 tvg-chno="292",[F1] GP de Singapur - Clasificación - On Board Hamilton  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney10
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney10/index.m3u8?token=cc6f341b5c3a7e74d823a0f5bf459f810402594f-5b-1791639004-1791585004
-#EXTINF:-1 tvg-chno="78",[F1] GP de Singapur - Clasificación  DAZN F1 (STRMXHD)
+https://khala.futlivehd.com/global/disney10/index.m3u8?token=7381c1135c1aa98d19965772b94980c4f7b3283d-fc-1791682205-1791628205
+#EXTINF:-1 tvg-chno="293",[F1] GP de Singapur - Clasificación  DAZN F1 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznf1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznf1/index.m3u8?token=3292674b6d55691b9dbbfc9607d91e3e46934fd0-b1-1791639004-1791585004
-#EXTINF:-1 tvg-chno="79",[F1] GP de Singapur - Clasificación  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/daznf1/index.m3u8?token=177d99549694399a905f381f1518e42e2149cae9-5b-1791682205-1791628205
+#EXTINF:-1 tvg-chno="294",[F1] GP de Singapur - Clasificación  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney8/index.m3u8?token=7558187f0bc8594a54f98650853672b0b6603a2d-f6-1791639004-1791585004
-#EXTINF:-1 tvg-chno="80",[F1] GP de Singapur - Clasificación  SporTV 3 (STRMXHD)
+https://khala.futlivehd.com/global/disney8/index.m3u8?token=5b442daf420c52ad3c52f9fb72eb9c75b81f9e8e-3b-1791682204-1791628204
+#EXTINF:-1 tvg-chno="295",[F1] GP de Singapur - Clasificación  SporTV 3 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=sporttvbr3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=4db8601a78c0a742b2cd53d7497a59ab407fbdce-d4-1791639004-1791585004
-#EXTINF:-1 tvg-chno="81",[F1] Singapore Grand Prix - Practice 1  Main Feed (FUTBOLX)
+https://khala.futlivehd.com/global/sporttvbr3/index.m3u8?token=6c326dbf4a1e77b99d72848176dc8b830ff598f0-98-1791682205-1791628205
+#EXTINF:-1 tvg-chno="296",[F1] Singapore Grand Prix - Qualifying  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://futbolxx.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="82",[F1] Singapore Grand Prix - Sprint Qualifying  Main Feed (FUTBOLX)
+https://vixtri.b-cdn.net/f1/index.m3u8
+#EXTINF:-1 tvg-chno="297",[F1] Singapore Grand Prix - Sprint  Main Feed (FUTBOLX)
 #EXTVLCOPT:http-referrer=https://www.futbol-x.top
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://futbolxx.b-cdn.net/f1/index.m3u8
-#EXTINF:-1 tvg-chno="270",[MotoGP] GP Indonesia - Clasificación  ESPN 4 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn4/index.m3u8?token=5a6784d7ff7e1f1d23a1921c948cc9fe5ab385bc-cb-1791631814-1791577814
-#EXTINF:-1 tvg-chno="271",[MotoGP] GP Indonesia - Moto3/Moto2/MotoGP  ESPN 2 (STRMXHD)
+https://vixtri.b-cdn.net/f1/index.m3u8
+#EXTINF:-1 tvg-chno="641",[MotoGP] GP Indonesia - Moto3/Moto2/MotoGP  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=6c96d1a3400a96d3056caec367f829244d918124-12-1791639003-1791585003
-#EXTINF:-1 tvg-chno="272",[MotoGP] GP Indonesia - Sprint  ESPN 3 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn3
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=bf3b3e5a377abd9f8955c80e52d2029e49b5ba1f-81-1791682205-1791628205
+#EXTINF:-1 tvg-chno="299",[Football] AS Monaco vs. Toulouse  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn3/index.m3u8?token=78ac9910cf074d5f046c6798ac3703460c070170-df-1791639003-1791585003
-#EXTINF:-1 tvg-chno="273",[MotoGP] MotoGP Grand Prix of Indonesia (FAWA)
-#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+https://edgestream7.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="300",[Football] Alavés vs. Atlético Madrid  Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-http://193.47.62.50/hls/HHHHRAAA.m3u8
-#EXTINF:-1 tvg-chno="84",[Football] Borussia Dortmund vs. Werder Bremen  English (STRMCNTR)
+https://edgestream5.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="301",[Football] Arsenal vs. Leeds United  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="302",[Football] Aston Villa vs Brentford (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/i-epl-6.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://hls.fancy-shark151.workers.dev/usa/mono.ts.m3u8?token=10c8d7ea079ebe3978c733373246629e
+#EXTINF:-1 tvg-chno="303",[Football] Aston Villa vs. Brentford  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="304",[Football] Barcelona vs. Getafe  Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="305",[Football] Brest vs. Angers  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream7.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="306",[Football] Chelsea vs AFC Bournemouth (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/i-epl-3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eu-4605069466.duckdns.org/nbcsn/mono.ts.m3u8?token=eaac2f3bd912c47194d403c7556142b9
+#EXTINF:-1 tvg-chno="307",[Football] Chelsea vs. AFC Bournemouth  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="308",[Football] FC Augsburg vs. Bayern Munich  German (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="85",[Football] Lens vs. Lyon  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="309",[Football] Genoa vs. Fiorentina  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream6.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="310",[Football] Internazionale vs. Parma  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream6.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="311",[Football] Ipswich Town vs Fulham (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/i-epl-4.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://xyzstreams.space/NBCSN2/mono.ts.m3u8?token=8ffb74c53322d2c91677857f6b59142a
+#EXTINF:-1 tvg-chno="312",[Football] Ipswich Town vs. Fulham  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="313",[Football] Lille vs. Le Havre AC  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="86",[Football] Málaga vs. Espanyol  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="314",[Football] Lorient vs. Paris FC  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream5.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="315",[Football] Manchester United vs. Tottenham Hotspur  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="316",[Football] Mjällby AIF vs. Degerfors IF (DAMITV)
+#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=allsvenskan/2026-10-10/mja-deg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://messi.damitv.st/live-sd/streamed/admin/ppv-mj-llby-aif-vs-degerfors-if/2/playlist.m3u8?tk=rE9lnhSnWA0E3eviFTdilA&e=1791687608
+#EXTINF:-1 tvg-chno="317",[Football] Napoli vs. Frosinone  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="318",[Football] Paris Saint-Germain vs. Le Mans  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream4.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="319",[Football] Rayo Vallecano vs. Athletic Club  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="87",[Football] Puebla vs León (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~ppv-puebla-vs-le-n
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-puebla-vs-le-n/2/playlist.m3u8?tk=S5ckfMRsBXa1DxW8rLn2Ig&e=1791635414
-#EXTINF:-1 tvg-chno="88",[Football] Puebla vs. León (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-10-09/pue-leo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-puebla-vs-le-n/2/playlist.m3u8?tk=bSHlH9rhzZPSvca2RwqYxw&e=1791635413
-#EXTINF:-1 tvg-chno="89",[Football] Tigres UANL vs. Toluca (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=liga-mx/2026-10-09/uanl-tol
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-tigres-uanl-vs-toluca/2/playlist.m3u8?tk=BixtaTT0yVbC6M9qzQApow&e=1791642604
-#EXTINF:-1 tvg-chno="90",[Football] West Ham United vs. Queens Park Rangers  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="320",[Football] Real Madrid vs. Villarreal  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="103",[LaLiga] Barcelona vs Getafe  DAZN LaLiga (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
+https://edgestream7.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="321",[Football] Sunderland vs Brighton & Hove Albion (XYZ)
+#EXTVLCOPT:http-referrer=https://xyzstreams.st/i-epl-5.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=f74cea98bf7a32bdff96c16b90133d3c31ff5956-3e-1791639010-1791585010
-#EXTINF:-1 tvg-chno="104",[LaLiga] Barcelona vs Getafe  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney28
+https://hls.fancy-shark151.workers.dev/NBCSN3/mono.ts.m3u8?token=10c8d7ea079ebe3978c733373246629e
+#EXTINF:-1 tvg-chno="322",[Football] Sunderland vs. Brighton & Hove Albion  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney28/index.m3u8?token=7d94fdce4e56d4f1618c7a28320662b654889f24-88-1791639009-1791585009
-#EXTINF:-1 tvg-chno="105",[LaLiga] Barcelona vs Getafe  ESPN + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus3
+https://edgestream6.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="399",[LaLiga] Alavés vs Atlético de Madrid  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=ff013afb46a086ead48bd2e2be9f0e78295a5543-57-1791639009-1791585009
-#EXTINF:-1 tvg-chno="106",[LaLiga] Barcelona vs Getafe  ESPN 2 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+https://c2f2zq.fubo18.com:443/espn2/mono.m3u8?token=380d689d944741a83fc09a5d8e030f8e8631f0e4-d7-1791650710-1791632710
+#EXTINF:-1 tvg-chno="400",[LaLiga] Alavés vs Atlético de Madrid  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=4ffc67284e2ed95c016f9f373f4d4d9d859b9b06-a9-1791639010-1791585010
-#EXTINF:-1 tvg-chno="107",[LaLiga] Barcelona vs Getafe  ESPN 2 AR (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2ar
+https://eWVz.fubo18.com:443/disney2/mono.m3u8?token=9c0d5f5574defb54750f73718aae661024241bff-fe-1791650710-1791632710
+#EXTINF:-1 tvg-chno="401",[LaLiga] Alavés vs Atlético de Madrid  Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=006af478e589cebb137039b2bfcfffac6a8161a7-9b-1791639009-1791585009
-#EXTINF:-1 tvg-chno="108",[LaLiga] Barcelona vs Getafe  ESPN Deportes (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+https://b2ZmaWNpYWw.fubo18.com:443/espndeportes/mono.m3u8?token=73450cc6f52889b82eda037551deda8b229e4bc3-b0-1791650710-1791632710
+#EXTINF:-1 tvg-chno="402",[LaLiga] Barcelona vs Getafe 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=355f349321471ee5350bf175433208c3a6735f35-2d-1791639009-1791585009
-#EXTINF:-1 tvg-chno="109",[LaLiga] Deportivo Alavés vs Atlético Madrid  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney22/index.m3u8?token=c4c60badcfcb0c7f3129f338fdbe4508facc2d2b-fd-1791639009-1791585009
-#EXTINF:-1 tvg-chno="110",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=a752c022c15f63250c91b20b1e86a5b1808f8747-a4-1791639009-1791585009
-#EXTINF:-1 tvg-chno="111",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2 (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=c66eace63ea047b6e96e1424b526dbfd2eac72e4-b2-1791639009-1791585009
-#EXTINF:-1 tvg-chno="112",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2 AR (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=a20f1deafe63e8cdc67b63e4c36b510c36847603-db-1791639009-1791585009
-#EXTINF:-1 tvg-chno="113",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN Deportes (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=05cd1754c1abeb286d127f769ad42025a6fe3175-0f-1791639009-1791585009
-#EXTINF:-1 tvg-chno="114",[LaLiga] Deportivo Alavés vs Atlético Madrid  M LaLiga (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=ed5ac600683fdd61732114a5989749d413655555-17-1791639009-1791585009
-#EXTINF:-1 tvg-chno="115",[LaLiga] Málaga vs Espanyol 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/disney8/index.m3u8?token=610a4a13b3b9a9ec3b8273fb8ee82dbce8d257d8-b8-1791631815-1791577815
-#EXTINF:-1 tvg-chno="116",[LaLiga] Málaga vs Espanyol 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnplus2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/espnplus2/index.m3u8?token=871a2dd256a70f11a905e40f6124aec7b601540c-ff-1791631815-1791577815
-#EXTINF:-1 tvg-chno="117",[LaLiga] Málaga vs Espanyol 3 (STP)
+https://s3.envivoslatam99.sbs:443/global/disney5/index.m3u8?token=94fce572549b3d37f569684ae61dcd5e65160cd1-38-1791678609-1791624609
+#EXTINF:-1 tvg-chno="403",[LaLiga] Barcelona vs Getafe 2 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=308ab7465e940737639c143d063ac89cb5bdac74-a1-1791631815-1791577815
-#EXTINF:-1 tvg-chno="118",[LaLiga] Málaga vs Espanyol 4 (STP)
+https://s2.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=44894384221206c45c7dc0c1dad1ac0e64492bb1-ef-1791678609-1791624609
+#EXTINF:-1 tvg-chno="404",[LaLiga] Barcelona vs Getafe 3 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/daznlaliga/index.m3u8?token=76070aa2b7ed0a936b34ee5c4e96c0ece49d53c2-b0-1791631815-1791577815
-#EXTINF:-1 tvg-chno="119",[LaLiga] Málaga vs Espanyol 5 (STP)
+https://s2.envivoslatam99.sbs:443/global/daznlaliga/index.m3u8?token=97e6c757a8322b14e8a2fe666b1bd7a9f49caf33-f7-1791678609-1791624609
+#EXTINF:-1 tvg-chno="405",[LaLiga] Barcelona vs Getafe 4 (STP)
 #EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://s3.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=9a9670c186183575669d0f88066dcc5522c28e35-bb-1791631815-1791577815
-#EXTINF:-1 tvg-chno="120",[LaLiga] Rayo Vallecano vs Athletic Club  DAZN LaLiga (STRMXHD)
+https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=a82e42b3612378e3305fb5113a70eeeb487f83d5-83-1791678609-1791624609
+#EXTINF:-1 tvg-chno="406",[LaLiga] Barcelona vs Getafe  DAZN LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=af946204b807504a4108f9dcaf7b751b5bcdf0b1-dc-1791639008-1791585008
-#EXTINF:-1 tvg-chno="121",[LaLiga] Rayo Vallecano vs Athletic Club  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=c8625db562f8dd5f58c857c4fefcc6f3427db2b6-d4-1791682211-1791628211
+#EXTINF:-1 tvg-chno="407",[LaLiga] Barcelona vs Getafe  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney28
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=6c21469fa53cac0005ef3e22bb2f0b153b65b282-e9-1791639008-1791585008
-#EXTINF:-1 tvg-chno="122",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
+https://khala.futlivehd.com/global/disney28/index.m3u8?token=5f754ba2ca18ffe2124361590127683abeef4fa9-cd-1791682210-1791628210
+#EXTINF:-1 tvg-chno="408",[LaLiga] Barcelona vs Getafe  ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=e2d3a16f9c46a479f996f67c8b0a17dd0ef035d8-2e-1791639008-1791585008
-#EXTINF:-1 tvg-chno="123",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/espnplus3/index.m3u8?token=d9151e272bca17ef099703f565a4cff9ed0e7c72-4e-1791682210-1791628210
+#EXTINF:-1 tvg-chno="409",[LaLiga] Barcelona vs Getafe  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=af555466b24f7bf2855e04f1e5030e9699bb00c0-9d-1791639008-1791585008
-#EXTINF:-1 tvg-chno="124",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN 2 AR (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=7de1d52792d265b8cb4487d0d14c2cbb112a7419-d6-1791682211-1791628211
+#EXTINF:-1 tvg-chno="410",[LaLiga] Barcelona vs Getafe  ESPN 2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=129d77e733b1c9ae3fb0ea8d77446fef5d325620-57-1791650737-1791632737
+#EXTINF:-1 tvg-chno="411",[LaLiga] Barcelona vs Getafe  ESPN 2 AR (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=eeb64ffd3f04a8f48423bb067101968839b8f8f8-5c-1791639008-1791585008
-#EXTINF:-1 tvg-chno="125",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=4786d0e5fc56cd666ec34eb526d859eba44dc3fd-de-1791682210-1791628210
+#EXTINF:-1 tvg-chno="412",[LaLiga] Barcelona vs Getafe  ESPN 2  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/espn2/mono.m3u8?token=c3f06e062a627222552f8e9a1bd7d37d7db19f97-e8-1791650738-1791632738
+#EXTINF:-1 tvg-chno="413",[LaLiga] Barcelona vs Getafe  ESPN 2  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://7.ftlly.com:443/espn2/mono.m3u8?token=b5004a76e65aec75a0ba44af77c69de8f4638291-4f-1791650738-1791632738
+#EXTINF:-1 tvg-chno="414",[LaLiga] Barcelona vs Getafe  ESPN 2  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/espn2/mono.m3u8?token=c83f2ea0856dd2131cc8bb58a04983da71858f6e-d9-1791650738-1791632738
+#EXTINF:-1 tvg-chno="415",[LaLiga] Barcelona vs Getafe  ESPN Deportes   OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/espndeportes/mono.m3u8?token=ff118de2a9fcd3e8ad79c8171d98d900c6e67434-cd-1791650738-1791632738
+#EXTINF:-1 tvg-chno="416",[LaLiga] Barcelona vs Getafe  ESPN Deportes   OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://3.ftlly.com:443/espndeportes/mono.m3u8?token=8b6a87d923b5bd63985a76b429925c644ea3e0a6-11-1791650739-1791632739
+#EXTINF:-1 tvg-chno="417",[LaLiga] Barcelona vs Getafe  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=4617bf402f83dc5f086cc798a0e0cf1b00c7ea8e-29-1791639008-1791585008
-#EXTINF:-1 tvg-chno="126",[LaLiga] Real Madrid vs Villarreal  DSports (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=f582ca58ecef3ba24046c9087ed7eb5c6440bf43-70-1791682210-1791628210
+#EXTINF:-1 tvg-chno="418",[LaLiga] Barcelona vs Getafe  ESPN Deportes (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/dsports/index.m3u8?token=890cf0393f4135fa177a22de3723ec75e0c40301-cd-1791639010-1791585010
-#EXTINF:-1 tvg-chno="127",[LaLiga] Real Madrid vs Villarreal  ESPN + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus4
+https://y2fzdGxl.fubo18.com:443/espndeportes/mono.m3u8?token=2c46d73ecb9a1a3e5fb5bb5bef09f469dfa5e077-e7-1791650738-1791632738
+#EXTINF:-1 tvg-chno="419",[LaLiga] Barcelona vs Getafe  Es 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnplus3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus4/index.m3u8?token=141aaf163a02688ca8d9745b7df56c9a9a27e546-a5-1791639010-1791585010
-#EXTINF:-1 tvg-chno="128",[LaLiga] Real Madrid vs Villarreal  ESPN Deportes (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+https://s3.envivoslatam99.sbs:443/global/espnplus3/index.m3u8?token=65fcbecbb707a19f39c4c1c63857ffc33171ff12-a4-1791678609-1791624609
+#EXTINF:-1 tvg-chno="420",[LaLiga] Barcelona vs Getafe  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=408065775dc74f837ceb1f627b495877bb99265d-83-1791639010-1791585010
-#EXTINF:-1 tvg-chno="129",[LaLiga] Real Madrid vs Villarreal  M LaLiga (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
+https://a2lja3m.fubo18.com:443/espn2/mono.m3u8?token=b992ffa651ee46aa7f17481d16494905efd7799e-7a-1791650711-1791632711
+#EXTINF:-1 tvg-chno="421",[LaLiga] Barcelona vs Getafe  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=946b609fe28365196d9fd6e4746f8653ea29f25b-97-1791639010-1791585010
-#EXTINF:-1 tvg-chno="130",[Laliga] Malaga vs Espanyol  Main Feed (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+https://bgvnzw5k.fubo18.com:443/disney7/mono.m3u8?token=48bba194eecfe3b8a7fb2db0c7b4f5e349c5a370-20-1791650711-1791632711
+#EXTINF:-1 tvg-chno="422",[LaLiga] Barcelona vs Getafe  Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bxn.futbolx.ryzn.pro/mal/index.m3u8
-#EXTINF:-1 tvg-chno="372",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPRO  HD (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
+https://Ym9yZQ.fubo18.com:443/espndeportes/mono.m3u8?token=400a7dc562e6d141d833999592af4a9ab372398d-7-1791650712-1791632712
+#EXTINF:-1 tvg-chno="423",[LaLiga] Deportivo Alavés vs Atlético Madrid 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://am91cm5leQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=32c38d263bff4dae6ad5906da8e607a08c99dd5b-ac-1791603923-1791585923
-#EXTINF:-1 tvg-chno="373",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
+https://s2.envivoslatam99.sbs:443/global/disney1/index.m3u8?token=229a09847584f93b0b57bf2ac1957e45088322e5-05-1791678608-1791624608
+#EXTINF:-1 tvg-chno="424",[LaLiga] Deportivo Alavés vs Atlético Madrid 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bgvnzw5k.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=a45cca06ecd5d7d619783afea3a402a69d20a6ee-86-1791603922-1791585922
-#EXTINF:-1 tvg-chno="374",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro  OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
+https://s2.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=863ba36166f12075ec538ced5a2b7d0193bf5f84-27-1791678608-1791624608
+#EXTINF:-1 tvg-chno="425",[LaLiga] Deportivo Alavés vs Atlético Madrid 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=cf1a59e560caeeefcf217bd6fc2192156152893b-2d-1791603923-1791585923
-#EXTINF:-1 tvg-chno="375",[Serie A] Delfin vs Mushuc Runa  ECDF LigaPro  OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
+https://s2.envivoslatam99.sbs:443/global/mlaliga/index.m3u8?token=4b63cede39acc787a61e59216155b2e15436103b-aa-1791678608-1791624608
+#EXTINF:-1 tvg-chno="426",[LaLiga] Deportivo Alavés vs Atlético Madrid 4 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=7d4a12818b379dfd92f974a95ca4e3a744e6c01f-a0-1791603923-1791585923
-#EXTINF:-1 tvg-chno="376",[Serie A] Delfin vs Mushuc Runa  ECUAVISA (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
+https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=1390e8b8ff28999dedd52f0231fd54517ea76392-5c-1791678608-1791624608
+#EXTINF:-1 tvg-chno="427",[LaLiga] Deportivo Alavés vs Atlético Madrid  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney22
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://bmF0aw9u.fubo18.com:443/ecdf/mono.m3u8?token=d2c64e3db1f639d34c97c27319a37167a93a7f78-4a-1791603923-1791585923
-#EXTINF:-1 tvg-chno="377",[Serie A] Delfin vs Mushuc Runa  ECUAVISA  OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
+https://khala.futlivehd.com/global/disney22/index.m3u8?token=cc61424eb5b3b9029c5dacf8bb1145155dd4e770-08-1791682209-1791628209
+#EXTINF:-1 tvg-chno="428",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/ecdf/mono.m3u8?token=acf9fbffbf2f4bcfa64172da02035eac504a93fb-84-1791603924-1791585924
-#EXTINF:-1 tvg-chno="378",[Serie A] Delfin vs Mushuc Runa  ECUAVISA  OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://11.ftlly.com:443/ecdf/mono.m3u8?token=6c02e100b96e6ec15d68d297186a4b07ae7cc04e-67-1791603924-1791585924
-#EXTINF:-1 tvg-chno="379",[Serie A] Genoa vs Fiorentina  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney6/index.m3u8?token=af870731bdd6aa2857ffcf1d73ee13b74acd5792-4a-1791639010-1791585010
-#EXTINF:-1 tvg-chno="380",[Serie A] Internazionale vs Parma  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney24
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney24/index.m3u8?token=d1e19d14ca58b698142788e98a0b57cb3ba336b7-a3-1791639010-1791585010
-#EXTINF:-1 tvg-chno="381",[Serie A] Internazionale vs Parma  Universo (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/universo/index.m3u8?token=3da76a1744153136480dbb7d37c9100b7e44fb8d-89-1791639010-1791585010
-#EXTINF:-1 tvg-chno="382",[Serie A] Napoli vs Frosinone  Disney + (STRMXHD)
-#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney1/index.m3u8?token=66198c4d38ab6aa9918dee69ce4d2b08a2c0b9a2-14-1791639011-1791585011
-#EXTINF:-1 tvg-chno="383",[Serie A] Napoli vs Frosinone  ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/espnplus2/index.m3u8?token=2635bde3b94ad0ce3aa37d681136f6d6e350c3ba-a0-1791682210-1791628210
+#EXTINF:-1 tvg-chno="429",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=8c876bc339d098321fe14de6c82ee1327e7b90f2-ba-1791639011-1791585011
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=4b359c0309e458647bcf7657539a15873148a171-45-1791682210-1791628210
+#EXTINF:-1 tvg-chno="430",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://eWVz.fubo18.com:443/espn2/mono.m3u8?token=14bb4a053546dc4709f6c3d0c1a1c94a8cfc5bd7-92-1791650737-1791632737
+#EXTINF:-1 tvg-chno="431",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=cf6ef6a93005194af654bdcecdbe0b0da738138f-45-1791682210-1791628210
+#EXTINF:-1 tvg-chno="432",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dw5pdGVk.fubo18.com:443/espn2/mono.m3u8?token=f92483a39c42734473a3baf0a11cfe6d422b80aa-d4-1791650737-1791632737
+#EXTINF:-1 tvg-chno="433",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/espn2/mono.m3u8?token=5933315c517fa01ad3da75f18bbd88b094b9fe3a-7f-1791650737-1791632737
+#EXTINF:-1 tvg-chno="434",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN 2  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/espn2/mono.m3u8?token=a1b4bfe9d14f708cd1400df0a4b224f8ba4ec39a-7b-1791650737-1791632737
+#EXTINF:-1 tvg-chno="435",[LaLiga] Deportivo Alavés vs Atlético Madrid  ESPN Deportes (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=bd130a60ad4c0571b597216a28212cedc0fb70c8-f3-1791682210-1791628210
+#EXTINF:-1 tvg-chno="436",[LaLiga] Deportivo Alavés vs Atlético Madrid  Es 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnplus2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espnplus2/index.m3u8?token=4ad23db7d3e862789ea7cec943f156dc4e93847e-7d-1791678608-1791624608
+#EXTINF:-1 tvg-chno="437",[LaLiga] Deportivo Alavés vs Atlético Madrid  M LaLiga (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=692f716f1a2b0ffd9c39ed84c9829f1ffe9abb0e-f4-1791682210-1791628210
+#EXTINF:-1 tvg-chno="438",[LaLiga] Rayo Vallecano vs Athletic Club (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57780?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57780/load-playlist
+#EXTINF:-1 tvg-chno="439",[LaLiga] Rayo Vallecano vs Athletic Club 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/disney5/index.m3u8?token=30026930f2033f5bd151d621e42e25ba3dbcf4db-ba-1791678606-1791624606
+#EXTINF:-1 tvg-chno="440",[LaLiga] Rayo Vallecano vs Athletic Club 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=2554db3355d755a8a18478140bb4ae8c5b607ea2-26-1791678606-1791624606
+#EXTINF:-1 tvg-chno="441",[LaLiga] Rayo Vallecano vs Athletic Club 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=daznlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/daznlaliga/index.m3u8?token=466a5c0773b6e1a8691266ba660d15fe791947a2-a2-1791678606-1791624606
+#EXTINF:-1 tvg-chno="442",[LaLiga] Rayo Vallecano vs Athletic Club 4 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=d0d78718f654272bcb8c2d3989ba2cbf30a297b5-c1-1791678606-1791624606
+#EXTINF:-1 tvg-chno="443",[LaLiga] Rayo Vallecano vs Athletic Club  DAZN LaLiga (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=daznlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/daznlaliga/index.m3u8?token=115503bdb71796f71b8a7a115f39e7ae49a811d1-38-1791682209-1791628209
+#EXTINF:-1 tvg-chno="444",[LaLiga] Rayo Vallecano vs Athletic Club  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=577dcdc37c5903f9b0c83fb1453047954a29a5c9-2a-1791682209-1791628209
+#EXTINF:-1 tvg-chno="445",[LaLiga] Rayo Vallecano vs Athletic Club  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://Ym9yZQ.fubo18.com:443/disney7/mono.m3u8?token=527f6984dd21b67544da7b29bebc96f90c46b4dc-ce-1791650722-1791632722
+#EXTINF:-1 tvg-chno="446",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=8c93336e5493fe8fea6f32f7247295cf6b76a4a0-2e-1791682209-1791628209
+#EXTINF:-1 tvg-chno="447",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=600718a8bded289403435c56be05d5a9d2aa6c51-1c-1791682209-1791628209
+#EXTINF:-1 tvg-chno="448",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN 2 AR (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2ar/index.m3u8?token=4d63849dc6cec0056de5642f5bec96ff368f025b-91-1791682209-1791628209
+#EXTINF:-1 tvg-chno="449",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN Deportes   OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/espndeportes/mono.m3u8?token=dddede3ad0ffe1966d02f16fbe4e61fbbe6cc676-2d-1791650721-1791632721
+#EXTINF:-1 tvg-chno="450",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN Deportes   OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://3.ftlly.com:443/espndeportes/mono.m3u8?token=c2923523f0c9d274cef3c6534106ac2572747df7-6f-1791650722-1791632722
+#EXTINF:-1 tvg-chno="451",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN Deportes (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=a786a399502fb5272943e9425043f325a69bdb22-8a-1791682209-1791628209
+#EXTINF:-1 tvg-chno="452",[LaLiga] Rayo Vallecano vs Athletic Club  ESPN Deportes (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/espndeportes/mono.m3u8?token=818ac2f53b2b001fb020835f25af697ce9c8c507-b8-1791650721-1791632721
+#EXTINF:-1 tvg-chno="453",[LaLiga] Rayo Vallecano vs Athletic Club  Es 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/espnplus1/index.m3u8?token=dfd64649c2be2da954b066ef84500b337f8ca74d-88-1791678606-1791624606
+#EXTINF:-1 tvg-chno="454",[LaLiga] Rayo Vallecano vs Athletic Club  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://YXdlc29tZQ.fubo18.com:443/disney7/mono.m3u8?token=480f7772c10d1ea8cc4cd7b75439e13bc1db5372-7f-1791650707-1791632707
+#EXTINF:-1 tvg-chno="455",[LaLiga] Rayo Vallecano vs Athletic Club  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zq.fubo18.com:443/espndeportes/mono.m3u8?token=af540a6358f033e0eec9bc68f7c8f80e6f7c510a-4d-1791650707-1791632707
+#EXTINF:-1 tvg-chno="456",[LaLiga] Real Madrid vs Villarreal 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=dsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/dsports/index.m3u8?token=b854daac2db4e27adde222f836bfb0f5a585198d-34-1791678610-1791624610
+#EXTINF:-1 tvg-chno="457",[LaLiga] Real Madrid vs Villarreal 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=mlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/mlaliga/index.m3u8?token=ea0cf8c2e2433c4e40bce9441ed0652eb8751434-cf-1791678610-1791624610
+#EXTINF:-1 tvg-chno="458",[LaLiga] Real Madrid vs Villarreal 4 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/espndeportes/index.m3u8?token=6d83596a7599deb1b95d0c1f057f9e290f7089e2-35-1791678610-1791624610
+#EXTINF:-1 tvg-chno="459",[LaLiga] Real Madrid vs Villarreal  DSports (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/dsports/index.m3u8?token=238cb2b3bf4226e697bedec2769caad7d7a92385-fc-1791682211-1791628211
+#EXTINF:-1 tvg-chno="460",[LaLiga] Real Madrid vs Villarreal  ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnplus4/index.m3u8?token=318014922750df8c04e0ca229963dbb029505598-18-1791682211-1791628211
+#EXTINF:-1 tvg-chno="461",[LaLiga] Real Madrid vs Villarreal  ESPN Deportes (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=32af600506f0b0904995d3f68c8b5fa03f66a77e-66-1791682211-1791628211
+#EXTINF:-1 tvg-chno="462",[LaLiga] Real Madrid vs Villarreal  Es 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnplus5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espnplus5/index.m3u8?token=3df30849ab9ecbdbcee3d48b0f3c5ba0ace0e94d-45-1791678610-1791624610
+#EXTINF:-1 tvg-chno="463",[LaLiga] Real Madrid vs Villarreal  M LaLiga (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=7f4071da3ba77d3cca3f637fedeca95c2948f20e-4c-1791682211-1791628211
+#EXTINF:-1 tvg-chno="464",[Laliga] Alavés vs Atlético Madrid (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/6trsant7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/1d06466539af8e5e2fbde010b886edd8511494b0c08cc6e3d90c02fdfa264ae3/1791649818/espndeportes-usa.m3u8
+#EXTINF:-1 tvg-chno="465",[Laliga] Alavés vs Atlético Madrid  Main Feed (FUTBOLX)
+#EXTVLCOPT:http-referrer=https://www.futbol-x.top
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bxn.futbolx.ryzn.pro/atl/index.m3u8
+#EXTINF:-1 tvg-chno="466",[Laliga] Rayo Vallecano vs Athletic Club (FLYEMBD)
+#EXTVLCOPT:http-referrer=https://exmxbxe.cfd/flyemb/6trsant7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/6665eb1778b81e733698410240302af39e1f36d893b2a6203007b75eadf6b440/1791649817/espndeportes-usa.m3u8
+#EXTINF:-1 tvg-chno="841",[Serie A] Atalanta vs Venezia (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57787?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57787/load-playlist
+#EXTINF:-1 tvg-chno="842",[Serie A] Fiorentina @ Genoa (TIMSTRM)
+#EXTVLCOPT:http-referrer=https://grandemx.org/psvbb73s-3709
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://judiaslevels.embeds.gay/main/secure/1cb86bed6621e4c10348549551af88e9d0e13c093ed762a487e321334669e139/1791653404/seriea-401874947.m3u8
+#EXTINF:-1 tvg-chno="843",[Serie A] Fiorentina vs Genoa  English (STRMGATE)
+#EXTVLCOPT:http-referrer=https://xstream.st/livetv.php?stream=tv401874947
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://instreams.live/live3/tv401874947/index.m3u8?st=50FVSh3NklGTlGG1nD1OHg&e=1791648004
+#EXTINF:-1 tvg-chno="844",[Serie A] Genoa vs Fiorentina (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57781?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57781/load-playlist
+#EXTINF:-1 tvg-chno="845",[Serie A] Genoa vs Fiorentina 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/disney6/index.m3u8?token=e88460524beeb9337b7ea58f97791e8f15798614-a4-1791678606-1791624606
+#EXTINF:-1 tvg-chno="846",[Serie A] Genoa vs Fiorentina 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espnmx/index.m3u8?token=2291eabdc12811ae24ca8a35c63cc29b9eab71d0-bc-1791678606-1791624606
+#EXTINF:-1 tvg-chno="847",[Serie A] Genoa vs Fiorentina  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney6/index.m3u8?token=5f4b4cc6b2e9270b90b2ff5ef841f9a7d27fdca4-78-1791682215-1791628215
+#EXTINF:-1 tvg-chno="848",[Serie A] Genoa vs Fiorentina  Disney+ (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=disney8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/disney8/mono.m3u8?token=2321357ba94c9aad729ece8d6285d2c721b6a4a1-58-1791650722-1791632722
+#EXTINF:-1 tvg-chno="849",[Serie A] Genoa vs Fiorentina  ESPN MX (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/espnmx/mono.m3u8?token=a7fff941a6e331a8b89519328ee5b09149c18d29-f2-1791650722-1791632722
+#EXTINF:-1 tvg-chno="850",[Serie A] Genoa vs Fiorentina  ESPN MX  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/canal.php?stream=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://dglvz29s.fubo18.com:443/espnmx/mono.m3u8?token=7320ec1d8e5ba77f4157594836cb60e649da0aa3-5c-1791650723-1791632723
+#EXTINF:-1 tvg-chno="851",[Serie A] Genoa vs Fiorentina  ESPN MX  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/espnmx/mono.m3u8?token=7ad655252d81e60fc7a0b855e41d57d80ba798f4-35-1791650723-1791632723
+#EXTINF:-1 tvg-chno="852",[Serie A] Genoa vs Fiorentina  ESPN MX  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4.ftlly.com:443/espnmx/mono.m3u8?token=51ca87ca78f1287d0490ea405af695c10b6480b7-79-1791650723-1791632723
+#EXTINF:-1 tvg-chno="853",[Serie A] Guayaquil City vs Emelec  ECDF LigaPRO  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=dfd0fbbbde78588b80830a28e8066f85e18b5e4f-d1-1791650715-1791632715
+#EXTINF:-1 tvg-chno="854",[Serie A] Guayaquil City vs Emelec  ECDF LigaPro (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=09477a9e59c7667586eafa6279c688c433fecc77-40-1791650714-1791632714
+#EXTINF:-1 tvg-chno="855",[Serie A] Guayaquil City vs Emelec  ECDF LigaPro  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://9.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=b500f438ddf264d1704a7118be10b4fae2625916-e8-1791650715-1791632715
+#EXTINF:-1 tvg-chno="856",[Serie A] Guayaquil City vs Emelec  ECDF LigaPro  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://7.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=ed093d5724e0f21e28392be741ebec445150cb8c-2f-1791650715-1791632715
+#EXTINF:-1 tvg-chno="857",[Serie A] Guayaquil City vs Emelec  ECUAVISA (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/ecdf/mono.m3u8?token=f1c6bef5ad0670dc705ced7be3395b81689bd399-d1-1791650715-1791632715
+#EXTINF:-1 tvg-chno="858",[Serie A] Guayaquil City vs Emelec  ECUAVISA  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/ecdf/mono.m3u8?token=27ca570b1dad49a7e5ff58326375b83676c4e77d-59-1791650716-1791632716
+#EXTINF:-1 tvg-chno="859",[Serie A] Guayaquil City vs Emelec  ECUAVISA  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://8.ftlly.com:443/ecdf/mono.m3u8?token=bb46ee84b09fa05014f6268af28856979be7f343-bb-1791650716-1791632716
+#EXTINF:-1 tvg-chno="860",[Serie A] Génova vs Fiorentina  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/disney8/mono.m3u8?token=606a01f929437f648660c1684ae720c3e91b0457-ee-1791650707-1791632707
+#EXTINF:-1 tvg-chno="861",[Serie A] Génova vs Fiorentina  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmf0aw9u.fubo18.com:443/espnmx/mono.m3u8?token=0b5141323cdf9c9c339567e7279bc7d499394536-da-1791650707-1791632707
+#EXTINF:-1 tvg-chno="862",[Serie A] Independiente del Valle vs Aucas  ECDF LigaPRO  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=6a71fac4daaeeeec2ab03b57d5443022f6ca6bbf-1-1791650731-1791632731
+#EXTINF:-1 tvg-chno="863",[Serie A] Independiente del Valle vs Aucas  ECDF LigaPro (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://YXdlc29tZQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=f7541663a87b418be782c4c6c4d91c61ffb3141d-e2-1791650730-1791632730
+#EXTINF:-1 tvg-chno="864",[Serie A] Independiente del Valle vs Aucas  ECDF LigaPro  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=0cd55cf7b0fc7ea549e9965b18e2ea5b83ac4b80-8-1791650730-1791632730
+#EXTINF:-1 tvg-chno="865",[Serie A] Independiente del Valle vs Aucas  ECDF LigaPro  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=bc0c2fe7badb3802f2cbbd92b1232eaa6905a5c1-68-1791650730-1791632730
+#EXTINF:-1 tvg-chno="866",[Serie A] Independiente del Valle vs Aucas  ECUAVISA (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://YXdlc29tZQ.fubo18.com:443/ecdf/mono.m3u8?token=49de9caa82d2196f928eb42114029df7abfc9ba7-de-1791650731-1791632731
+#EXTINF:-1 tvg-chno="867",[Serie A] Independiente del Valle vs Aucas  ECUAVISA  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://7.ftlly.com:443/ecdf/mono.m3u8?token=e183e807f474a7b7d803ed23dd8731b0fd937af2-59-1791650731-1791632731
+#EXTINF:-1 tvg-chno="868",[Serie A] Independiente del Valle vs Aucas  ECUAVISA  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://9.ftlly.com:443/ecdf/mono.m3u8?token=79f4441d90ace2cb1f278b35c8ca0d9d54e77a28-ae-1791650731-1791632731
+#EXTINF:-1 tvg-chno="869",[Serie A] Inter de Milán vs Parma  Español 1 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bmf0aw9u.fubo18.com:443/disney5/mono.m3u8?token=3e60a55a797f2ccd8239911625dee36df9ba41d3-b4-1791650711-1791632711
+#EXTINF:-1 tvg-chno="870",[Serie A] Inter de Milán vs Parma  Español 2 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://bgvnzw5k.fubo18.com:443/espnmx/mono.m3u8?token=1aec63d1ff4e62d7221bbf2938b6c620b63010ef-36-1791650711-1791632711
+#EXTINF:-1 tvg-chno="871",[Serie A] Inter de Milán vs Parma  Español 3 (PLIBRE)
+#EXTVLCOPT:http-referrer=https://la18hd.su/vivo/canales.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://Ym9yZQ.fubo18.com:443/universo/mono.m3u8?token=ed740f44b6cb10221137eb25523bbb1e81da573a-97-1791650711-1791632711
+#EXTINF:-1 tvg-chno="872",[Serie A] Inter vs Parma (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57782?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57782/load-playlist
+#EXTINF:-1 tvg-chno="873",[Serie A] Inter vs Parma 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/disney3/index.m3u8?token=aa03d9c222742991533b90b73509770d761b2463-91-1791678608-1791624608
+#EXTINF:-1 tvg-chno="874",[Serie A] Inter vs Parma 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espnmx
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espnmx/index.m3u8?token=d966c1c172e950a452ab878ea467295b4f241e99-a5-1791678608-1791624608
+#EXTINF:-1 tvg-chno="875",[Serie A] Inter vs Parma 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/universo/index.m3u8?token=1c95ec586c212f06602097e3396d07a8eb4bb687-a0-1791678608-1791624608
+#EXTINF:-1 tvg-chno="876",[Serie A] Internazionale vs Parma  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney24/index.m3u8?token=24d2f11668b9b351d8288ed0413c7f049be50d7f-8a-1791682215-1791628215
+#EXTINF:-1 tvg-chno="877",[Serie A] Internazionale vs Parma  Universo (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=universo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/universo/index.m3u8?token=e3c3f28e2e011529ad31469109e6b33e038e4ebd-ac-1791682215-1791628215
+#EXTINF:-1 tvg-chno="878",[Serie A] Manta vs Técnico Universitario  ECDF LigaPRO  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://Ym9yZQ.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=d8134b61c282613fefd56c0c308086dbe9841c28-a-1791650732-1791632732
+#EXTINF:-1 tvg-chno="879",[Serie A] Manta vs Técnico Universitario  ECDF LigaPro (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://b2ZmaWNpYWw.fubo18.com:443/ecdf_ligapro/mono.m3u8?token=932688c798af89ae1cf7f95cc70ad6592fb3bcff-b2-1791650731-1791632731
+#EXTINF:-1 tvg-chno="880",[Serie A] Manta vs Técnico Universitario  ECDF LigaPro  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=2a25112bc938f836617796eb704fb7434bcf0e38-ad-1791650732-1791632732
+#EXTINF:-1 tvg-chno="881",[Serie A] Manta vs Técnico Universitario  ECDF LigaPro  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=73f8a43379e0ea36b464cf4dfd24162c77ffd938-39-1791650732-1791632732
+#EXTINF:-1 tvg-chno="882",[Serie A] Manta vs Técnico Universitario  ECUAVISA (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/ecdf/mono.m3u8?token=b743f57dfe9e7faf74b14b069eefd221415d69e6-c3-1791650732-1791632732
+#EXTINF:-1 tvg-chno="883",[Serie A] Manta vs Técnico Universitario  ECUAVISA  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://7.ftlly.com:443/ecdf/mono.m3u8?token=108561ac0b0e9d67cc17ba7212540e50d0fbec51-31-1791650732-1791632732
+#EXTINF:-1 tvg-chno="884",[Serie A] Manta vs Técnico Universitario  ECUAVISA  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/ecdf/mono.m3u8?token=8a9ded28b0931d7b108b8fcac9ba101d83befbb8-cc-1791650733-1791632733
+#EXTINF:-1 tvg-chno="885",[Serie A] Napoli vs Frosinone 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=disney10
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s2.envivoslatam99.sbs:443/global/disney10/index.m3u8?token=756c387ee1d6bd811309123c6a60f5ed5f1c6d0c-9b-1791678609-1791624609
+#EXTINF:-1 tvg-chno="886",[Serie A] Napoli vs Frosinone 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx305.sbs/global1.php?channel=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://s3.envivoslatam99.sbs:443/global/espn2/index.m3u8?token=dd778714b05819e4a0dd4e190192d96af32720a0-13-1791678610-1791624610
+#EXTINF:-1 tvg-chno="887",[Serie A] Napoli vs Frosinone  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney1/index.m3u8?token=e3967f791b4f76883e8dc890b742573c71e612f7-09-1791682215-1791628215
+#EXTINF:-1 tvg-chno="888",[Serie A] Napoli vs Frosinone  ESPN 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=ca57730bffdca5b65ba026ae4c7b6f1ae1b1b42d-ce-1791682215-1791628215
+#EXTINF:-1 tvg-chno="889",[Serie A] Napoli vs Frosinone  ESPN 2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://c2f2zQ.fubo18.com:443/espn2/mono.m3u8?token=1887bca72dabe7af5419c803697625bdad203045-f8-1791650707-1791632707
+#EXTINF:-1 tvg-chno="890",[Serie A] Napoli vs Frosinone  ESPN 2  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://a2lja3m.fubo18.com:443/espn2/mono.m3u8?token=10dd29cb2e3de1f7a2aff9e07f01777459e70cce-53-1791650707-1791632707
+#EXTINF:-1 tvg-chno="891",[Serie A] Napoli vs Frosinone  ESPN 2  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/espn2/mono.m3u8?token=ccdf5dab9b90112c84882fd32ded5196203b824b-63-1791650707-1791632707
+#EXTINF:-1 tvg-chno="892",[Serie A] Napoli vs Frosinone  ESPN 2  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/espn2/mono.m3u8?token=0da694c3a6ff3ab6ff5b03679973bad13e7dae0e-5d-1791650707-1791632707
+#EXTINF:-1 tvg-chno="893",[Serie A] SSC Napoli vs Frosinone (iSTRMEAST)
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/new-stream-embed/57783?ad=111
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://chatgpt.hereisman.net/playlist/57783/load-playlist
+#EXTINF:-1 tvg-chno="379",[Italy Serie A] Genoa vs Fiorentina 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+http://193.47.62.41/hls/DUUUUQQ.m3u8
+#EXTINF:-1 tvg-chno="380",[Italy Serie A] Genoa vs Fiorentina 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://www.rtmpcdn.com/live/a4555315-9ef2-4516-b196-901f303d9e69.m3u8
