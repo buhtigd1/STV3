@@ -1,81 +1,69 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="86",[Football] AS Roma vs. Real Madrid  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="111",[Football] AS Roma vs. Real Madrid  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="87",[Football] AS Roma vs. Real Madrid  Spanish (STRMCNTR)
+https://edgestream2.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="112",[Football] AS Roma vs. Real Madrid  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="88",[Football] Aston Villa vs Fenerbahce (OVO)
+https://edgestream4.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="113",[Football] Aston Villa vs Fenerbahce (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/aston-villa-vs-fenerbahce/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application4
-#EXTINF:-1 tvg-chno="89",[Football] Aston Villa vs. Fenerbahce  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="114",[Football] Aston Villa vs. Fenerbahce  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="90",[Football] Bodo/Glimt vs Borussia Dortmund (OVO)
+https://edgestream6.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="115",[Football] Bodo/Glimt vs Borussia Dortmund (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/bodo-glimt-vs-borussia-dortmund/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application7
-#EXTINF:-1 tvg-chno="91",[Football] Bodo/Glimt vs. Borussia Dortmund  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="116",[Football] Bodo/Glimt vs. Borussia Dortmund  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="92",[Football] Feyenoord Rotterdam vs. Como  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="93",[Football] Feyenoord vs Como (OVO)
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="117",[Football] Feyenoord vs Como (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/feyenoord-vs-como/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application2
-#EXTINF:-1 tvg-chno="94",[Football] LASK Linz vs Liverpool (OVO)
+#EXTINF:-1 tvg-chno="118",[Football] LASK Linz vs Liverpool (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/lask-linz-vs-liverpool/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="95",[Football] LASK Linz vs. Liverpool  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="119",[Football] Lincoln City vs. West Ham United  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="96",[Football] LASK Linz vs. Liverpool  Spanish (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="97",[Football] Lincoln City vs. West Ham United  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/hflfkrtib42.m3u8
-#EXTINF:-1 tvg-chno="98",[Football] Manchester City vs PSG (OVO)
+https://edgestream1.pro/hls/hflfkrtib42.m3u8
+#EXTINF:-1 tvg-chno="120",[Football] Manchester City vs PSG (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/manchester-city-vs-psg/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application2
-#EXTINF:-1 tvg-chno="99",[Football] Manchester City vs. Paris Saint-Germain  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="121",[Football] Manchester City vs. Paris Saint-Germain  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="100",[Football] Oklahoma City Thunder vs Indiana Pacers (OVO)
+https://edgestream2.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="122",[Football] Oklahoma City Thunder vs Indiana Pacers (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/nba-games3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="101",[Football] Real Betis vs Porto (OVO)
+#EXTINF:-1 tvg-chno="123",[Football] Real Betis vs Porto (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/real-betis-vs-porto/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="102",[Football] Real Betis vs. FC Porto  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="124",[Football] Real Betis vs. FC Porto  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="103",[Football] Roma vs Real Madrid (OVO)
+https://edgestream6.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-chno="125",[Football] Roma vs Real Madrid (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/roma-vs-real-madrid/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="104",[Football] Shakhtar Donetsk vs. AEK Athens  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="126",[Football] Shakhtar Donetsk vs. AEK Athens  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="105",[Football] Slovan Bratislava vs. VfB Stuttgart  English (STRMCNTR)
+https://edgestream1.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="127",[Football] Slovan Bratislava vs. VfB Stuttgart  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/griogoehvn2.m3u8
+https://edgestream5.pro/hls/griogoehvn2.m3u8
