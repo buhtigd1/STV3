@@ -1,61 +1,61 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="96",[Football] Arsenal vs Lille (OVO)
+#EXTINF:-1 tvg-chno="83",[Football] Arsenal vs Lille (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/arsenal-vs-lille/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application1
-#EXTINF:-1 tvg-chno="97",[Football] Arsenal vs. Lille  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="84",[Football] Arsenal vs. Lille  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="98",[Football] Atletico Madrid vs Manchester United (OVO)
+#EXTINF:-1 tvg-chno="85",[Football] Atletico Madrid vs Manchester United (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/atletico-madrid-vs-manchester-united/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application2
-#EXTINF:-1 tvg-chno="99",[Football] Atlético Madrid vs. Manchester United  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="86",[Football] Atlético Madrid vs. Manchester United  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="100",[Football] Atlético Madrid vs. Manchester United  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="87",[Football] Atlético Madrid vs. Manchester United  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream1.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="101",[Football] Galatasaray vs Barcelona (OVO)
+#EXTINF:-1 tvg-chno="88",[Football] Galatasaray vs Barcelona (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/galatasaray-vs-barcelona/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="102",[Football] Galatasaray vs. Barcelona  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="89",[Football] Galatasaray vs. Barcelona  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="103",[Football] Galatasaray vs. Barcelona  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="90",[Football] Galatasaray vs. Barcelona  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="104",[Football] Internazionale vs. Club Brugge  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="91",[Football] Internazionale vs. Club Brugge  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="105",[Football] Oklahoma City Thunder vs Indiana Pacers (OVO)
+#EXTINF:-1 tvg-chno="92",[Football] Oklahoma City Thunder vs Indiana Pacers (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/nba-games3/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application3
-#EXTINF:-1 tvg-chno="106",[Football] RB Leipzig vs. PSV Eindhoven  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="93",[Football] RB Leipzig vs. PSV Eindhoven  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="107",[Football] Viking FK vs. Bayern Munich  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="94",[Football] Viking FK vs. Bayern Munich  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="108",[Football] Viking vs Bayern Munchen (OVO)
+#EXTINF:-1 tvg-chno="95",[Football] Viking vs Bayern Munchen (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/viking-vs-bayern-munchen/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application5
-#EXTINF:-1 tvg-chno="109",[Football] Villarreal vs Napoli (OVO)
+#EXTINF:-1 tvg-chno="96",[Football] Villarreal vs Napoli (OVO)
 #EXTVLCOPT:http-referrer=https://otaghera.site/updates/villarreal-vs-napoli/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://fingersoon.st/scripts/application7
-#EXTINF:-1 tvg-chno="110",[Football] Villarreal vs. Napoli  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="97",[Football] Villarreal vs. Napoli  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream7.pro/hls/griogoehvn2.m3u8
