@@ -1,121 +1,25 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="96",[Football] AFC Bournemouth vs. SK Sturm Graz  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="73",[Football] AFC Bournemouth vs. SK Sturm Graz  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="97",[Football] Atalanta vs. Pafos (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/ata-paf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-atalanta-vs-pafos/2/playlist.m3u8?tk=GRC6aKS7FAMsKnd9dYYxzw&e=1792132209
-#EXTINF:-1 tvg-chno="98",[Football] Benfica vs. Celtic  English (STRMCNTR)
+https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="74",[Football] Benfica vs. Celtic  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="99",[Football] Brighton & Hove Albion vs. Kauno Zalgiris (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/bha-zal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-brighton-hove-albion-vs-kauno-zalgiris/2/playlist.m3u8?tk=GRC6aKS7FAMsKnd9dYYxzw&e=1792132209
-#EXTINF:-1 tvg-chno="100",[Football] Brighton & Hove Albion vs. Kauno Zalgiris  English (STRMCNTR)
+https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="75",[Football] Brighton & Hove Albion vs. Kauno Zalgiris  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="101",[Football] CSKA Sofia vs. AS Monaco (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/cska-mon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-cska-sofia-vs-as-monaco/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="102",[Football] CSU Craiova vs. Getafe (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/ucra-get
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-csu-craiova-vs-getafe/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="103",[Football] Celta Vigo vs. Juventus  English (STRMCNTR)
+https://edgestream5.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="76",[Football] Celta Vigo vs. Juventus  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="104",[Football] Celta Vigo vs. Juventus  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="77",[Football] Celta Vigo vs. Juventus  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="105",[Football] Egnatia vs. FC Midtjylland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/egn-mid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-egnatia-vs-fc-midtjylland/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="106",[Football] F.C. København vs. Braga (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/kbh-scb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-f-c-k-benhavn-vs-braga/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="107",[Football] FC Lugano vs. Red Star Belgrade (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/lug-rsb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-lugano-vs-red-star-belgrade/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="108",[Football] FC Twente vs. FC Thun (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/twe-thun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-fc-twente-vs-fc-thun/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="109",[Football] Ferencváros vs Viktoria Plzeň (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~ppv-ferencvaros-vs-viktoria-plzen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-ferencvaros-vs-viktoria-plzen/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="110",[Football] Gent vs AGF Aarhus (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~ppv-kaa-gent-vs-agf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-kaa-gent-vs-agf/2/playlist.m3u8?tk=o88JKshjBGrSzo6wtV8CHg&e=1792126809
-#EXTINF:-1 tvg-chno="111",[Football] Hajduk Split vs. Ajax Amsterdam (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/haj-aja
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-hajduk-split-vs-ajax-amsterdam/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="112",[Football] Heart of Midlothian vs. FC Nordsjælland (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/hom-fcn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-heart-of-midlothian-vs-fc-nordsj-lland/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="113",[Football] Hoffenheim vs Beşiktaş (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=sd-admin~ppv-tsg-hoffenheim-vs-besiktas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-tsg-hoffenheim-vs-besiktas/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="114",[Football] KAA Gent vs. AGF (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/gent-agf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-kaa-gent-vs-agf/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="115",[Football] KuPS Kuopio vs. Trabzonspor (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/kups-trab
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-ku-ps-kuopio-vs-trabzonspor/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="116",[Football] Lyon vs. Crystal Palace  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="78",[Football] Marseille vs. Olympiacos  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="117",[Football] Lyon vs. Crystal Palace  Spanish (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream7.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="118",[Football] Marseille vs. Olympiacos  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="119",[Football] Mjällby AIF vs. Inter D'Escaldes (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/mja-ide
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-mj-llby-aif-vs-inter-d-escaldes/2/playlist.m3u8?tk=ZMOcE7I45Com7GZDcpchVg&e=1792126808
-#EXTINF:-1 tvg-chno="120",[Football] Panathinaikos vs. Borac Banja Luka (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/pao-bbl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-panathinaikos-vs-borac-banja-luka/2/playlist.m3u8?tk=o88JKshjBGrSzo6wtV8CHg&e=1792126809
-#EXTINF:-1 tvg-chno="121",[Football] RB Salzburg vs. AC Milan  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="122",[Football] Riga FC vs. Kairat Almaty (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/rig-kai
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-riga-fc-vs-kairat-almaty/2/playlist.m3u8?tk=o88JKshjBGrSzo6wtV8CHg&e=1792126809
-#EXTINF:-1 tvg-chno="123",[Football] SC Freiburg vs. Jablonec (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/scf-jabl
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-sc-freiburg-vs-jablonec/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="124",[Football] SK Brann vs. Lincoln Red Imps (DAMITV)
-#EXTVLCOPT:http-referrer=https://ondemand.st/embed/?id=uecl/2026-10-15/skbr-lri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://messi.damitv.st/live-sd/streamed/admin/ppv-sk-brann-vs-lincoln-red-imps/2/playlist.m3u8?tk=jmiF5gNNcJOzZO6DLT-l3w&e=1792132210
-#EXTINF:-1 tvg-chno="125",[Football] Torreense vs. Sunderland  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/eJmauBDCIf.m3u8
+https://edgestream5.pro/hls/dza5z8f69.m3u8
