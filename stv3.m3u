@@ -1,25 +1,49 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="73",[Football] AFC Bournemouth vs. SK Sturm Graz  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="78",[Football] AFC Bournemouth vs. SK Sturm Graz  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="74",[Football] Benfica vs. Celtic  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="79",[Football] Benfica vs. Celtic  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="75",[Football] Brighton & Hove Albion vs. Kauno Zalgiris  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="80",[Football] Brighton & Hove Albion vs. Kauno Zalgiris  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="76",[Football] Celta Vigo vs. Juventus  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="81",[Football] Celta Vigo vs. Juventus  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="77",[Football] Celta Vigo vs. Juventus  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="82",[Football] Celta Vigo vs. Juventus  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="78",[Football] Marseille vs. Olympiacos  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="83",[Football] Marseille vs. Olympiacos  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream5.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="97",[LaLiga] Deportivo La Coruña vs Levante  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=87b77ee8f9b7c8ae20c73bf92e8da171c8fd3e34-89-1792157409-1792103409
+#EXTINF:-1 tvg-chno="98",[LaLiga] Deportivo La Coruña vs Levante  ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=ec91b186f2020c4e9756b4ded8d4e2e2fa7d0059-14-1792157410-1792103410
+#EXTINF:-1 tvg-chno="99",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=80ee5eceba3ca76a4861ec48deb9b9841b5bd34d-66-1792157409-1792103409
+#EXTINF:-1 tvg-chno="100",[LaLiga] Deportivo La Coruña vs Levante  ESPN Deportes (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=54719dd350cb2111863e7e4317b0c6b3f9ff767e-b0-1792157409-1792103409
+#EXTINF:-1 tvg-chno="101",[LaLiga] Deportivo La Coruña vs Levante  M LaLiga (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=1914471a3cd3424b3ab09062021930ee7d5774cd-25-1792157410-1792103410
+#EXTINF:-1 tvg-chno="355",[Serie A] Frosinone vs Sassuolo  Disney + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=bfd1a70204daa4b5c08f45e369471a655147c41d-82-1792157409-1792103409
