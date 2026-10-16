@@ -1,49 +1,121 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="65",[Football] AFC Bournemouth vs. SK Sturm Graz  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="92",[Football] Burnley vs. Wolverhampton Wanderers  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="66",[Football] Benfica vs. Celtic  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="93",[Football] Deportivo vs. Levante  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="67",[Football] Brighton & Hove Albion vs. Kauno Zalgiris  English (STRMCNTR)
+https://edgestream5.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="94",[Football] Eintracht Frankfurt vs. FC Cologne  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="68",[Football] Celta Vigo vs. Juventus  English (STRMCNTR)
+https://edgestream5.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-chno="95",[Football] Frosinone vs. Sassuolo  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream6.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="69",[Football] Celta Vigo vs. Juventus  Spanish (STRMCNTR)
+https://edgestream4.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="96",[Football] Le Mans vs. Toulouse  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="70",[Football] Marseille vs. Olympiacos  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
+https://edgestream1.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="97",[Football] Oklahoma City Thunder vs Houston Rockets (OVO)
+#EXTVLCOPT:http-referrer=https://otaghera.site/updates/nba-games2/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="83",[LaLiga] Deportivo La Coruña vs Levante  Disney + (STRMXHD)
+https://fingersoon.st/scripts/application3
+#EXTINF:-1 tvg-chno="116",[LaLiga] Deportivo La Coruña vs Levante 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://99.envivosenhd.beer:443/global/disney4/index.m3u8?token=4f69414bb95007067ee54866ee1810f5fac3d143-1f-1792200606-1792146606
+#EXTINF:-1 tvg-chno="117",[LaLiga] Deportivo La Coruña vs Levante 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espnplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://98.envivosenhd.beer:443/global/espnplus1/index.m3u8?token=e80eaf38da6cafa691587f6fa3a20b730d9f441e-8a-1792200606-1792146606
+#EXTINF:-1 tvg-chno="118",[LaLiga] Deportivo La Coruña vs Levante 3 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://98.envivosenhd.beer:443/global/espn2/index.m3u8?token=1e846cc771a2ac4fbcb6199efacc823c561bbb4c-ed-1792200606-1792146606
+#EXTINF:-1 tvg-chno="119",[LaLiga] Deportivo La Coruña vs Levante 4 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=mlaliga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://98.envivosenhd.beer:443/global/mlaliga/index.m3u8?token=6124768b2afe0e35e872ec65a628467fb9e8fac9-ad-1792200606-1792146606
+#EXTINF:-1 tvg-chno="120",[LaLiga] Deportivo La Coruña vs Levante 5 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://98.envivosenhd.beer:443/global/espndeportes/index.m3u8?token=09a3e9f6046bea74446680fed9142d71eb4994d0-d9-1792200606-1792146606
+#EXTINF:-1 tvg-chno="121",[LaLiga] Deportivo La Coruña vs Levante  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney5/index.m3u8?token=87b77ee8f9b7c8ae20c73bf92e8da171c8fd3e34-89-1792157409-1792103409
-#EXTINF:-1 tvg-chno="84",[LaLiga] Deportivo La Coruña vs Levante  ESPN + (STRMXHD)
+https://khala.futlivehd.com/global/disney5/index.m3u8?token=167195ae2b8c65acdb6e8ec5aea3ac67d2714b76-40-1792197009-1792143009
+#EXTINF:-1 tvg-chno="122",[LaLiga] Deportivo La Coruña vs Levante  ESPN + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=ec91b186f2020c4e9756b4ded8d4e2e2fa7d0059-14-1792157410-1792103410
-#EXTINF:-1 tvg-chno="85",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2 (STRMXHD)
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=9a14d75ebb71d291f6252fa01b1bf4341cbb46d2-b6-1792197010-1792143010
+#EXTINF:-1 tvg-chno="123",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2 (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espn2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espn2/index.m3u8?token=80ee5eceba3ca76a4861ec48deb9b9841b5bd34d-66-1792157409-1792103409
-#EXTINF:-1 tvg-chno="86",[LaLiga] Deportivo La Coruña vs Levante  ESPN Deportes (STRMXHD)
+https://khala.futlivehd.com/global/espn2/index.m3u8?token=371ad7088a213c327b7efb5205eee05bdea667fa-d3-1792197009-1792143009
+#EXTINF:-1 tvg-chno="124",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://4.ftlly.com:443/espn2/mono.m3u8?token=be06ee0f7f196dacd509126c93b0f635ed00d97f-19-1792169108-1792151108
+#EXTINF:-1 tvg-chno="125",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/espn2/mono.m3u8?token=8ebca657657606893d326bd76dad32b58b809b37-7c-1792169108-1792151108
+#EXTINF:-1 tvg-chno="126",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/espn2/mono.m3u8?token=5ee433b28fe3dab0890d5fb99b985a2b51366264-c5-1792169108-1792151108
+#EXTINF:-1 tvg-chno="127",[LaLiga] Deportivo La Coruña vs Levante  ESPN 2  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=espn2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/espn2/mono.m3u8?token=6d6a8a66cd931ba7634326bb5bc4e53e07888be8-34-1792169108-1792151108
+#EXTINF:-1 tvg-chno="128",[LaLiga] Deportivo La Coruña vs Levante  ESPN Deportes (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=54719dd350cb2111863e7e4317b0c6b3f9ff767e-b0-1792157409-1792103409
-#EXTINF:-1 tvg-chno="87",[LaLiga] Deportivo La Coruña vs Levante  M LaLiga (STRMXHD)
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=1fba9bd81c6ba9acb174c1b5404f64dd4f758a5a-3c-1792197009-1792143009
+#EXTINF:-1 tvg-chno="129",[LaLiga] Deportivo La Coruña vs Levante  M LaLiga (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=mlaliga
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=1914471a3cd3424b3ab09062021930ee7d5774cd-25-1792157410-1792103410
-#EXTINF:-1 tvg-chno="271",[Serie A] Frosinone vs Sassuolo  Disney + (STRMXHD)
+https://khala.futlivehd.com/global/mlaliga/index.m3u8?token=eeb033a4f11e139931f1efb7f981a972ebdd0831-b6-1792197010-1792143010
+#EXTINF:-1 tvg-chno="268",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECDF LigaPRO  HD (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://5.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=9d86f939e5349220fe8d94cad02c1872433cf99d-83-1792169121-1792151121
+#EXTINF:-1 tvg-chno="269",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECDF LigaPro (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=331b16337efecb986a685c1af3119e835d56dbb3-9c-1792169120-1792151120
+#EXTINF:-1 tvg-chno="270",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECDF LigaPro  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=b7c89f6d404187e17f39f30f3a2c8771befc3e8c-af-1792169120-1792151120
+#EXTINF:-1 tvg-chno="271",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECDF LigaPro  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=6436c40877bb3f86489cd4d68bfb8e1a29bc2aa3-c7-1792169120-1792151120
+#EXTINF:-1 tvg-chno="272",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECUAVISA (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://6.ftlly.com:443/ecdf/mono.m3u8?token=554d720776bbb96a965fced84cccd95a007aa8a7-ce-1792169121-1792151121
+#EXTINF:-1 tvg-chno="273",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECUAVISA  OP2 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://11.ftlly.com:443/ecdf/mono.m3u8?token=4e116a96a9ec0e8ba001dd3889bc03bfb944872e-60-1792169121-1792151121
+#EXTINF:-1 tvg-chno="274",[Serie A] Deportivo Cuenca vs Técnico Universitario  ECUAVISA  OP3 (TVF90)
+#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://10.ftlly.com:443/ecdf/mono.m3u8?token=8b9e35f2c4c95970476890c265c91efedc8e9ca5-12-1792169121-1792151121
+#EXTINF:-1 tvg-chno="275",[Serie A] Frosinone vs Sassuolo 1 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://98.envivosenhd.beer:443/global/disney3/index.m3u8?token=1d9906b3850980938985b125c1dbb30a7f3ec279-c7-1792200606-1792146606
+#EXTINF:-1 tvg-chno="276",[Serie A] Frosinone vs Sassuolo 2 (STP)
+#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=telemundo_deportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://98.envivosenhd.beer:443/global/telemundo_deportes/index.m3u8?token=4d93a40045ae051f64088d2df4c48b0c0fd431a5-92-1792200606-1792146606
+#EXTINF:-1 tvg-chno="277",[Serie A] Frosinone vs Sassuolo  Disney + (STRMXHD)
 #EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=disney3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://khala.futlivehd.com/global/disney3/index.m3u8?token=bfd1a70204daa4b5c08f45e369471a655147c41d-82-1792157409-1792103409
+https://khala.futlivehd.com/global/disney3/index.m3u8?token=adf77a3ed80d04034c5e7c2c3a0fbebb82bf1240-7d-1792197009-1792143009
