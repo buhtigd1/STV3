@@ -1,45 +1,37 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="49",[Football] AS Roma vs. Slovan Bratislava  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="126",[Football] AS Roma vs. Slovan Bratislava  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="50",[Football] FC Porto vs. PSV Eindhoven  English (STRMCNTR)
+https://edgestream6.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="127",[Football] FC Porto vs. PSV Eindhoven  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="51",[Football] Fenerbahce vs. Slavia Prague  English (STRMCNTR)
+https://edgestream6.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="128",[Football] Liverpool vs. Villarreal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="52",[Football] Liverpool vs. Villarreal  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="53",[Football] Manchester City vs. AEK Athens  English (STRMCNTR)
+https://edgestream4.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="129",[Football] Manchester City vs. AEK Athens  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="54",[Football] Napoli vs. Bodo/Glimt  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="130",[Football] Napoli vs. Bodo/Glimt  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="55",[Football] Paris Saint-Germain vs. Barcelona  English (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="56",[Football] Paris Saint-Germain vs. Barcelona  French (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream4.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="57",[Football] Paris Saint-Germain vs. Barcelona  Spanish (STRMCNTR)
-#EXTVLCOPT:http-referrer=https://streame.center
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream3.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="58",[Football] Sabah FK vs. Borussia Dortmund  English (STRMCNTR)
+https://edgestream4.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="131",[Football] Paris Saint-Germain vs. Barcelona  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="59",[Football] VfB Stuttgart vs. Atlético Madrid  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="132",[Football] Paris Saint-Germain vs. Barcelona  French (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream3.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-chno="133",[Football] Paris Saint-Germain vs. Barcelona  Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://edgestream3.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="134",[Football] VfB Stuttgart vs. Atlético Madrid  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/377qj1h2727.m3u8
