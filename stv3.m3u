@@ -1,97 +1,45 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="184",[Premier League] Tottenham Hotspur vs Coventry City 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/disney4/index.m3u8?token=f84245b6c3554210a6984a0d2a401e9aed8b4781-38-1792499404-1792445404
-#EXTINF:-1 tvg-chno="185",[Premier League] Tottenham Hotspur vs Coventry City 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/espn/index.m3u8?token=71821f5a24604d4edc2ee16d4cfa9766e2d89f80-44-1792499404-1792445404
-#EXTINF:-1 tvg-chno="186",[Premier League] Tottenham Hotspur vs Coventry City 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=foxone2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/foxone2/index.m3u8?token=548205f9177d38f4aa40ee6251f481ab5c563a86-8e-1792499404-1792445404
-#EXTINF:-1 tvg-chno="48",[Football] Getafe vs. Rayo Vallecano  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="49",[Football] AS Roma vs. Slovan Bratislava  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/377qj1h2727.m3u8
-#EXTINF:-1 tvg-chno="49",[Football] Monza vs. Cagliari  English (STRMCNTR)
+https://edgestream3.pro/hls/dza5z8f69.m3u8
+#EXTINF:-1 tvg-chno="50",[Football] FC Porto vs. PSV Eindhoven  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream2.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="50",[Football] Parma vs. Torino  English (STRMCNTR)
+https://edgestream1.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="51",[Football] Fenerbahce vs. Slavia Prague  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream5.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="51",[Football] Tottenham Hotspur vs. Coventry City  English (STRMCNTR)
+https://edgestream1.pro/hls/b0h5fNwDKH.m3u8
+#EXTINF:-1 tvg-chno="52",[Football] Liverpool vs. Villarreal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://edgestream1.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="57",[LaLiga] Getafe vs Rayo Vallecano 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=dsports2
+https://edgestream3.pro/hls/sqdahach1ax.m3u8
+#EXTINF:-1 tvg-chno="53",[Football] Manchester City vs. AEK Athens  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/dsports2/index.m3u8?token=680e7ba8bcc0c36674040b46aea9757adbb739e5-57-1792499404-1792445404
-#EXTINF:-1 tvg-chno="58",[LaLiga] Getafe vs Rayo Vallecano 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espnplus1
+https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8
+#EXTINF:-1 tvg-chno="54",[Football] Napoli vs. Bodo/Glimt  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espnplus1/index.m3u8?token=abcec8b563eb8b9b4d424d580f4403c056a7dd85-b7-1792499404-1792445404
-#EXTINF:-1 tvg-chno="59",[LaLiga] Getafe vs Rayo Vallecano 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espndeportes
+https://edgestream1.pro/hls/griogoehvn2.m3u8
+#EXTINF:-1 tvg-chno="55",[Football] Paris Saint-Germain vs. Barcelona  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espndeportes/index.m3u8?token=f532e6502b48175724f41c058311be673ef26683-62-1792499404-1792445404
-#EXTINF:-1 tvg-chno="60",[LaLiga] Getafe vs Rayo Vallecano 4 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=daznlaliga
+https://edgestream4.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="56",[Football] Paris Saint-Germain vs. Barcelona  French (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/daznlaliga/index.m3u8?token=056689004d3ada66d16361dfd4cc110ca709cdb4-4d-1792499404-1792445404
-#EXTINF:-1 tvg-chno="61",[Laliga] Getafe vs Rayo Vallecano  Main Feed (FUTBOLX)
-#EXTVLCOPT:http-referrer=https://www.futbol-x.xyz
+https://edgestream4.pro/hls/ueyeztrazb4.m3u8
+#EXTINF:-1 tvg-chno="57",[Football] Paris Saint-Germain vs. Barcelona  Spanish (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://g.futbolx.ryzn.pro/get/index.m3u8
-#EXTINF:-1 tvg-chno="207",[Serie A] Monza vs Cagliari 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney1
+https://edgestream3.pro/hls/syaLqucEne4k.m3u8
+#EXTINF:-1 tvg-chno="58",[Football] Sabah FK vs. Borussia Dortmund  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/disney1/index.m3u8?token=291997ed5a14aa8a02b9344874476d7dfc282a24-03-1792499403-1792445403
-#EXTINF:-1 tvg-chno="208",[Serie A] Monza vs Cagliari 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn2
+https://edgestream6.pro/hls/eJmauBDCIf.m3u8
+#EXTINF:-1 tvg-chno="59",[Football] VfB Stuttgart vs. Atlético Madrid  English (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/espn2/index.m3u8?token=e6303d859c48cca5ea12313e4f753bfc24437d04-e2-1792499403-1792445403
-#EXTINF:-1 tvg-chno="209",[Serie A] Mushuc Runa vs Orense  ECDF LigaPRO  HD (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/hd.php?stream=ecdf_ligapro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://8.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=9c479bd904ad01e1b2a74e033cd5a73656412b4c-2-1792467914-1792449914
-#EXTINF:-1 tvg-chno="210",[Serie A] Mushuc Runa vs Orense  ECDF LigaPro (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf_ligapro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=a580e23a10498ff8c41957e06c1fc86125209e19-86-1792467913-1792449913
-#EXTINF:-1 tvg-chno="211",[Serie A] Mushuc Runa vs Orense  ECDF LigaPro  OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf_ligapro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://4.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=b4f70a6c0c0760b4d97493e70b78b80aabf961ce-f2-1792467913-1792449913
-#EXTINF:-1 tvg-chno="212",[Serie A] Mushuc Runa vs Orense  ECDF LigaPro  OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf_ligapro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://3.ftlly.com:443/ecdf_ligapro/mono.m3u8?token=7002ef8756b4383bd358c244c37d501a2b59e1c3-5a-1792467914-1792449914
-#EXTINF:-1 tvg-chno="213",[Serie A] Mushuc Runa vs Orense  ECUAVISA (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/1.php?stream=ecdf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/ecdf/mono.m3u8?token=b61bab47eed3c6333c42494a5a9b0d5c06bf3915-5-1792467914-1792449914
-#EXTINF:-1 tvg-chno="214",[Serie A] Mushuc Runa vs Orense  ECUAVISA  OP2 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/2.php?stream=ecdf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://2.ftlly.com:443/ecdf/mono.m3u8?token=b5fe20983955b15850b13e690045d61da94d6ca5-90-1792467914-1792449914
-#EXTINF:-1 tvg-chno="215",[Serie A] Mushuc Runa vs Orense  ECUAVISA  OP3 (TVF90)
-#EXTVLCOPT:http-referrer=https://tvf90.com/3.php?stream=ecdf
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://10.ftlly.com:443/ecdf/mono.m3u8?token=c7c41a17268ac5502df1caa15a129d88d36c247f-fa-1792467914-1792449914
-#EXTINF:-1 tvg-chno="216",[Serie A] Parma vs Torino 1 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=disney3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://99.envivosenhd.beer:443/global/disney3/index.m3u8?token=50463744c4335af937c63ef35b3883e3f5992ecd-9b-1792499403-1792445403
-#EXTINF:-1 tvg-chno="217",[Serie A] Parma vs Torino 2 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=espn2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/espn2/index.m3u8?token=c3d737d26ebdd7aa72a8cf63225331f75baaa570-3e-1792499404-1792445404
-#EXTINF:-1 tvg-chno="218",[Serie A] Parma vs Torino 3 (STP)
-#EXTVLCOPT:http-referrer=https://streamx723.sbs/global1.php?channel=telemundo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
-https://98.envivosenhd.beer:443/global/telemundo/index.m3u8?token=4c6dbb8c15a2c154a93d1c648dafdce3ae2815e7-83-1792499404-1792445404
+https://edgestream3.pro/hls/377qj1h2727.m3u8
