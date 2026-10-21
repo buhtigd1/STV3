@@ -32,26 +32,24 @@ def download_m3u():
 
 def check_stream(url):
     """
-    Cek apakah URL stream masih hidup.
+    Validasi apakah URL stream masih hidup.
+    Untuk stream DRM, status 403 sering masih valid,
+    jadi dianggap online.
     """
 
     try:
         r = requests.get(
             url,
             headers=HEADERS,
-            timeout=TIMEOUT,
             stream=True,
-            allow_redirects=True
+            allow_redirects=True,
+            timeout=TIMEOUT
         )
 
-        ok_codes = (200, 206)
-
-        if r.status_code in ok_codes:
-            r.close()
-            return True
-
+        status = r.status_code
         r.close()
-        return False
+
+        return status in (200, 206, 301, 302, 403)
 
     except Exception:
         return False
@@ -61,77 +59,62 @@ def filter_playlist(content):
     lines = content.splitlines()
 
     output = []
-    current_block = []
 
     total_channels = 0
     kept_channels = 0
     removed_channels = 0
 
-    i = 0
-
-    # simpan header
+    # Pertahankan header EXTM3U apa adanya
     if lines and lines[0].startswith("#EXTM3U"):
         output.append(lines[0])
-        i = 1
+        output.append("")
 
-    while i < len(lines):
+    block = []
 
-        line = lines[i].strip()
+    for line in lines[1:]:
 
-        # komentar biasa / separator
-        if not line.startswith("#EXTINF"):
-            if (
-                line.startswith("===")
-                or (
-                    line.startswith("#")
-                    and not line.startswith("#KODIPROP")
-                    and not line.startswith("#EXTVLCOPT")
-                )
-            ):
-                output.append(lines[i])
+        line = line.rstrip()
 
-            i += 1
+        # Simpan semua metadata channel
+        if line.startswith("#"):
+            block.append(line)
             continue
 
-        total_channels += 1
+        # Ketemu URL stream
+        if line.startswith(("http://", "https://")):
 
-        block = []
+            stream_url = line
+            total_channels += 1
 
-        # ambil properti sebelum URL
-        while i < len(lines):
-            block.append(lines[i])
+            channel_name = "Unknown"
 
-            if i + 1 >= len(lines):
-                break
+            for item in block:
+                if item.startswith("#EXTINF:"):
 
-            nxt = lines[i + 1].strip()
+                    if "," in item:
+                        channel_name = item.split(",", 1)[1].strip()
 
-            if nxt.startswith("http://") or nxt.startswith("https://"):
-                block.append(lines[i + 1])
+                    break
 
-                stream_url = nxt
+            print(f"Checking: {channel_name}")
 
-                channel_name = "Unknown"
-                extinf = lines[i]
+            if check_stream(stream_url):
 
-                if "," in extinf:
-                    channel_name = extinf.split(",", 1)[1].strip()
+                output.extend(block)
+                output.append(stream_url)
+                output.append("")
 
-                print(f"Checking: {channel_name}")
+                kept_channels += 1
 
-                if check_stream(stream_url):
-                    output.extend(block)
-                    output.append("")
-                    kept_channels += 1
-                    print("  OK")
-                else:
-                    removed_channels += 1
-                    print("  REMOVED")
+                print("  OK")
 
-                i += 2
-                break
+            else:
 
-            i += 1
+                removed_channels += 1
+
+                print("  REMOVED")
+
+            block = []
 
     return (
         "\n".join(output),
@@ -142,7 +125,9 @@ def filter_playlist(content):
 
 
 def write_log(total, kept, removed, content):
+
     with open(OUTPUT_LOG, "w", encoding="utf-8") as f:
+
         f.write(f"Source: {SOURCE_URL}\n")
         f.write(
             f"Downloaded: "
@@ -151,25 +136,33 @@ def write_log(total, kept, removed, content):
         f.write(f"Total channels: {total}\n")
         f.write(f"Working channels: {kept}\n")
         f.write(f"Removed channels: {removed}\n")
+        f.write(f"Lines: {len(content.splitlines())}\n")
         f.write(
             f"Size: {len(content.encode('utf-8'))} bytes\n"
         )
 
 
 def main():
+
     try:
+
         print("Downloading playlist...")
-        original = download_m3u()
+        content = download_m3u()
 
         print("Checking streams...")
-        filtered, total, kept, removed = filter_playlist(original)
+        filtered_content, total, kept, removed = filter_playlist(content)
 
         with open(OUTPUT_M3U, "w", encoding="utf-8") as f:
-            f.write(filtered)
+            f.write(filtered_content)
 
-        write_log(total, kept, removed, filtered)
+        write_log(
+            total,
+            kept,
+            removed,
+            filtered_content
+        )
 
-        print("\nDone")
+        print("\n===== DONE =====")
         print(f"Total   : {total}")
         print(f"Working : {kept}")
         print(f"Removed : {removed}")
@@ -177,8 +170,13 @@ def main():
         print(f"Saved   : {OUTPUT_LOG}")
 
     except Exception as e:
+
         with open(OUTPUT_LOG, "w", encoding="utf-8") as f:
-            f.write(f"ERROR: {e}\n")
+            f.write(
+                f"ERROR: {e}\n"
+                f"Time: "
+                f"{datetime.utcnow():%Y-%m-%d %H:%M:%S} UTC\n"
+            )
 
         raise
 
