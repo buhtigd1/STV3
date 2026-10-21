@@ -1,37 +1,49 @@
 #EXTM3U url-tvg=""
-#EXTINF:-1 tvg-chno="87",[Football] AS Roma vs. Slovan Bratislava  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="65",[Football] AS Roma vs. Slovan Bratislava  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/dza5z8f69.m3u8
-#EXTINF:-1 tvg-chno="88",[Football] FC Porto vs. PSV Eindhoven  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="66",[Football] FC Porto vs. PSV Eindhoven  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/b0h5fNwDKH.m3u8
-#EXTINF:-1 tvg-chno="89",[Football] Liverpool vs. Villarreal  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="67",[Football] Liverpool vs. Villarreal  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/sqdahach1ax.m3u8
-#EXTINF:-1 tvg-chno="90",[Football] Manchester City vs. AEK Athens  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="68",[Football] Manchester City vs. AEK Athens  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/24SDAZFcsqnj24.m3u8
-#EXTINF:-1 tvg-chno="91",[Football] Napoli vs. Bodo/Glimt  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="69",[Football] Napoli vs. Bodo/Glimt  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream4.pro/hls/griogoehvn2.m3u8
-#EXTINF:-1 tvg-chno="92",[Football] Paris Saint-Germain vs. Barcelona  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="70",[Football] Paris Saint-Germain vs. Barcelona  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream6.pro/hls/eJmauBDCIf.m3u8
-#EXTINF:-1 tvg-chno="93",[Football] Paris Saint-Germain vs. Barcelona  French (STRMCNTR)
+#EXTINF:-1 tvg-chno="71",[Football] Paris Saint-Germain vs. Barcelona  French (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/ueyeztrazb4.m3u8
-#EXTINF:-1 tvg-chno="94",[Football] Paris Saint-Germain vs. Barcelona  Spanish (STRMCNTR)
+#EXTINF:-1 tvg-chno="72",[Football] Paris Saint-Germain vs. Barcelona  Spanish (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/syaLqucEne4k.m3u8
-#EXTINF:-1 tvg-chno="95",[Football] VfB Stuttgart vs. Atlético Madrid  English (STRMCNTR)
+#EXTINF:-1 tvg-chno="73",[Football] VfB Stuttgart vs. Atlético Madrid  English (STRMCNTR)
 #EXTVLCOPT:http-referrer=https://streame.center
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
 https://edgestream3.pro/hls/377qj1h2727.m3u8
+#EXTINF:-1 tvg-chno="88",[LaLiga] Levante vs Athletic Club  DSports 2 (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=dsports2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/dsports2/index.m3u8?token=3a8b018de4d758778e99c9ef224915ee8be3226a-30-1792593010-1792539010
+#EXTINF:-1 tvg-chno="89",[LaLiga] Levante vs Athletic Club  ESPN + (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espnplus1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espnplus1/index.m3u8?token=836bc4fec582a4949856595c5d85c57c32853445-b5-1792593010-1792539010
+#EXTINF:-1 tvg-chno="90",[LaLiga] Levante vs Athletic Club  ESPN Deportes (STRMXHD)
+#EXTVLCOPT:http-referrer=https://streamxhd.com/live1.php?stream=espndeportes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36
+https://khala.futlivehd.com/global/espndeportes/index.m3u8?token=05299e6595a3858c9b7efbbffa99d3a119e056fd-53-1792593010-1792539010
