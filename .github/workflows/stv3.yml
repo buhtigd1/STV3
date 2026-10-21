@@ -2,7 +2,7 @@ name: STV3 Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'   # every 30 minutes
+    - cron: "0 */2 * * *"   
   workflow_dispatch:        # allow manual trigger
 
 jobs:
