@@ -80,12 +80,6 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
 #KODIPROP:inputstream.adaptive.license_key=75508caa27239cd34ca45ee862f1bbf2:d38f9f2b690bad3fcc838013242cc5e4
 https://ac-003.live.p7s1video.net/4a37da02/t_003/dazn-rise-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="SkySportsPremierLeague.uk" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aJnBpnq-zOwPtGoj0NeNF6gvYoHYe4rMnBm_My2y4g&s=10" group-title="Sports", SkySports PL UK
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=30493&extension=ts&play_token=6YkaIAtxC2
-
-#EXTINF:-1 tvg-id="Sky Sport Premier League" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="Sports", SkySports PL NZ
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=971711&extension=ts&play_token=Rn9QP5F9yF
-
 #EXTINF:-1 tvg-id="Sky Sport 3" tvg-logo="https://i.imgur.com/pV85BZT.jpeg" group-title="Sports", SkySports 3 NZ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
 
@@ -328,21 +322,6 @@ https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/8mxwjn
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 #EXTINF:-1 tvg-id="HBOBoxing.us" group-title="Sports" tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1.jpg",HBO Boxing
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
-
-#EXTINF:-1 tvg-id="Monomax1.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 1
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660493&extension=ts&play_token=c0C9I4H9oR
-
-#EXTINF:-1 tvg-id="Monomax2.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 2
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660492&extension=ts&play_token=BGcB3qW59F
-
-#EXTINF:-1 tvg-id="Monomax3.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 3
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660491&extension=ts&play_token=K1Ch7KdgwF
-
-#EXTINF:-1 tvg-id="Monomax4.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Mono Max 4
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660490&extension=ts&play_token=VPIaNHnsyk
-
-#EXTINF:-1 tvg-id="MonomaxPlaySport6.th" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxkBtU7RHJ2c8eSVMD3Pv95cG4_Xf6KT5VrudeCQw61Q&s" group-title="Sports", Play Sports 66
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:06:23:D3&stream=1660489&extension=ts&play_token=zOz7meeWi6
 
 #EXTINF:-1 tvg-id="RedBullTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWiLGZHrYShDZ6hNZjX7neXsdnuE2F1Nd-F6AEWNdwgw&s=10" group-title="Sports", Red Bull TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -589,9 +568,6 @@ https://ottlive.dishhome.com.np/protected/jATOzZkB0RDJ74Ryniuo/dash/manifest.mpd
 #EXTINF:-1 tvg-id="223" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-941-j5mhk5fc-v1/imageContent-941-j5mhk5fc-m1.png" group-title="Sports",DD Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-
-#EXTINF:-1 tvg-id="506" group-title="Sports" tvg-logo="https://i.ibb.co/d4JpmFN9/Unite8-2.png",Unite8 Sports 2 HD
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:C4:EE:CB&stream=372989&extension=ts
 
 #EXTINF:0 tvg-url="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRopSZ71p0_lJR5ZphoO3dGB-AsdImvPaZtNbCG3nuOcbwlaaePdb0XEU-V&s=10" group-title="Sports", eSports Max TV
 #EXTVLCOPT:network-caching=1000
@@ -1267,6 +1243,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTINF:-1 group-title="Sports World" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzW1JGqqd974HwPTWyBbd1ILbjrT6W4crnp5kRT11A-V7NHQWfPf0CYtY&s=10", WPT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
+
+#EXTINF:-1 tvg-name="MMA TV" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vOWNiOWI0ZmYtMjk1OC00MTc5LWJkMGItYmM5YTQ0ODg4Y2M3" group-title="UFC/MMA",MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="PFL" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3Nwb3J0c3BsdXMvbG9nby8yYzRjYWVlOS1lMjBkLTRhODgtYWRlYS02ZGM5YzNjNzhjNDE" group-title="UFC/MMA",PFL
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8
