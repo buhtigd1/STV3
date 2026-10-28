@@ -973,6 +973,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-samsungau/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 
+#EXTINF:-1 tvg-id="Motorvision.de" tvg-logo="https://i.ibb.co.com/JzfHXNp/motorvision.png" group-title="Sports World", MOTORVISION 🇩🇪
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-motorvisiontv-dazn/9fc71168-a0be-4dc0-a9bd-330ccf976c8d/stream.mpd
+
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/s9NDZSK/nbatv.png" group-title="Sports World", NBA TV 🇺🇸 🇲🇽 HEVC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.izzigo.tv/
@@ -1222,6 +1227,9 @@ https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="auto.caze.tv.br" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="Sports World",Caze TV BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gitee.com/mytv-android/myTVlogo/raw/main/img/CCTV5.png" group-title="Sports World" response-time="58ms",CCTV5
+http://112.123.243.37:50085/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEppb_fs0RRJz5A7akefZRYWLiYmuJtDoNQTLTWc1D2D1mESjptj8mIbPD&s=10" group-title="Sports World",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
