@@ -69,6 +69,11 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
+#EXTINF:-1 tvg-id="DAZN1" group-title="Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzan_nkRisBWdBX0WdMP_UUYpUVBonbslwjwSRaDbGqw&s=10", DAZN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
+
 #EXTINF:-1 tvg-id="DAZN 2 DE.de" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/200px-DAZN_Logo_Master.svg.png" group-title="Sports" , DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -617,10 +622,6 @@ https://webtvstream.bhtelecom.ba/hls15/as_premium5.mpd?n=browsernull-cdn.sam.net
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls10/arena7.mpd?n=browsernull-cdn.sam.net
 
-#EXTINF:-1 group-title="Sports World"  tvg-logo="https://i.ibb.co.com/pdX3T4f/bhsports1.png", BAHRAIN SPORTS 1 🇧🇭
-#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
-https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
-
 #EXTINF:-1 group-title="Sports World"  tvg-logo="https://i.ibb.co.com/K9QkP01/bhsports2.png", BAHRAIN SPORTS 2 🇧🇭
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
@@ -743,6 +744,12 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"c8d5bae519e75748b308159a417aa491":"e59d55a9cd600a71c426929c45ca0a4b","ecafae1261995201833e09a3c73910cd":"39f3623ff46e4257ae8eeb886ba7c36b","894dd6a9814d593db9967db81dba0692":"b2167ca5b0d08ae3ee6bae31490450ca"}
 https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/185_HTTP/__op/dash-widevine/__f/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DDLM7syj/BEST4-SPORT2.png" group-title="Sports World", BEST4SPORT TV 2 🇱🇻
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"219cc55327835fbfab687ad9eb5f3f19":"f02eae834c27e797a54cda4c7dbc7c2e","1eb3ffd4516d5e14bd13e37aaef0110d":"b22527ccb5120b067a1af99c7bd440fa","6cb59a4b88bd5b069d274ecbfc8f8277":"265956c16b0e23d8b7139a76a369df24"}
+https://shortcut-edgeware.helio.lv/__cl/cg:EDW-Production_HTTP/__c/231_HTTP/__op/dash-widevine/__f/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/qYSJtPwQ/tvxtra.png" group-title="Sports World", TV EXTRA 🇱🇻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1096,10 +1103,6 @@ https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/dash/enc/6otiglnptp/out
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="Sports World" , SPORTITALIA PLUS 🇮🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
-
 #EXTINF:-1 tvg-id="supertennis1itampd" tvg-logo="https://i.ibb.co.com/svK2qmG5/genericsports.png" group-title="Sports World",SuperTennis 1 🇮🇹
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
@@ -1233,6 +1236,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 https://d39azd0vpxfn6x.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SportsTribal-MuxIP-WPTLive/b20265d5-5ec4-4542-9d60-0d4eacb10c49/0.m3u8
 
+#EXTINF:-1 tvg-name="MMA TV" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL2ZyZWVsaXZlc3BvcnRzL2xvZ28vOWNiOWI0ZmYtMjk1OC00MTc5LWJkMGItYmM5YTQ0ODg4Y2M3" group-title="UFC/MMA",MMA TV
+https://streams2.sofast.tv/ptnr-sportstrible/title-MMA_Sportstrible/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/f6b049e4-885e-4551-85ac-8eef0b33d3a2/playlist.m3u8
+
 #EXTINF:-1 tvg-name="PFL" tvg-logo="https://imgcdn.powr-media.com/extend:1:ce/enlarge:1/resize:fit/w:80/h:45/gravity:ce/czM6Ly91bnJlZWxtZWRpYS9wcm9kL3Nwb3J0c3BsdXMvbG9nby8yYzRjYWVlOS1lMjBkLTRhODgtYWRlYS02ZGM5YzNjNzhjNDE" group-title="UFC/MMA",PFL
 https://d856dff4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX1BGTE1NQV9ITFM/playlist.m3u8
 
@@ -1264,6 +1270,31 @@ https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=60dc08aae52f4c0b806a8e43f24a12c8:30d5b579966d822b215ec51a91d8a271
 https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl2&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl3&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl4&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl5&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf.jpg", EPL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
