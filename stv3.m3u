@@ -290,12 +290,6 @@ https://otte.cache.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bfigtl960n/out/v1
 #EXTINF:-1 tvg-id="beINSports1.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSze_XCQOdD9AoH_ERqU9XMiDLzWCZ_cuEsWfviwh2NNg&s=10" group-title="Sports", beIN Sports 1
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
-#EXTINF:-1 tvg-id="beINSports1.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHbl0CWBSTaxRPmEwmBXsQSJ5Ph2u1gIij0kvbv-JjaA&s=10" group-title="Sports", beIN Sports France 1
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2499/index.m3u8
-
-#EXTINF:-1 tvg-id="beINSports2.fr" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6XePI7ibkrB-ZTmRzML433lFVW_zPfwkeytKgATaRpw&s=10" group-title="Sports", beIN Sports France 2
-http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/2500/index.m3u
-
 #EXTINF:-1 tvg-id="UFC1.UFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQy81igwRZaXH2N3VMir9qNTAcUVovlVNGcwKzmkgdlaPvxAMrsW-eGzW7&s=10" group-title="Sports",UFC
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1269,6 +1263,21 @@ https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl1&type=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
 https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl2&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://api.ifnextgen.xyz/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl3&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl4&type=m3u8
+
+#EXTINF:-1 group-title="UCL" tvg-id="" tvg-logo="https://media.suara.com/pictures/970x544/2025/03/07/92764-logo-liga-champions.jpg", UCL 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+https://bintangstreaming.my.id/connect/index.m3u8?channel=ucl5&type=m3u8
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-id="" tvg-logo="https://cdn.mos.cms.futurecdn.net/YfcLFQhjH3dBhA2tGqs8Qf.jpg", EPL 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
