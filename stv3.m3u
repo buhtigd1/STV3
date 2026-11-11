@@ -370,6 +370,11 @@ https://amg02278-amg02278c2-flosports-worldwide-9916.playouts.now.amagi.tv/playl
 #EXTVLCOPT:network-caching=1000
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:0 tvg-url="" tvg-id="" tvg-logo="https://images.squarespace-cdn.com/content/v1/509ac5d5e4b011ec8327ecea/1375732887992-44LNG4ESFBN8TRNVE880/072913-10-foxsports1-logo-OB-PI_20130729155600779_660_320.JPG" group-title="Sports", Fox Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:network-caching=1000
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
 #EXTINF:-1 tvg-id="NBAtv.us" tvg-logo="https://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&h=270" group-title="Sports",NBA TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
