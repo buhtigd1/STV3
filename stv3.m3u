@@ -1051,12 +1051,6 @@ https://simplitv-live.mdn.ors.at/live/eds/sky_sport_f1_hd/dash/sky_sport_f1_hd.m
 #KODIPROP:inputstream.adaptive.license_key=446af6dd9ec0395eaf5ab6adac2b8234:a70a5944e51312f5a045b1e81651d033
 https://simplitv-live.mdn.ors.at/live/eds/sky_sport_premier_league_hd/dash/sky_sport_premier_league_hd.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/HxMRx9Z/sn.png" group-title="Sports World", Sportsnet 360
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=60de674d9db66df9ba090e06871d3554:18071eac168232fc3d45549049c1de6b
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ccupb3gevq/out/v1/d9d54c61efab463981d1a7d04ceeb44c/cenc.mpd
-
 #EXTINF:-1  tvg-id="Sport 1 DE.de" tvg-logo="https://i.ibb.co.com/L5Zjq1f/sport1de.png" group-title="Sports World", SPORT1 HD 🇩🇪
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=98f2ab49605f0469a4b97de40277fca0:7ed06b6908edc372f2cb8ef2df2615d0
@@ -1081,10 +1075,6 @@ https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/dash/enc/6otiglnptp/out
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
-
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-logo="https://i.ibb.co.com/7Q5vVhy/sportitaliaplus.png" group-title="Sports World" , SPORTITALIA PLUS 🇮🇹
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://edge-001.streamup.eu/sportitalia/sihd_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="supertennis1itampd" tvg-logo="https://i.ibb.co.com/svK2qmG5/genericsports.png" group-title="Sports World",SuperTennis 1 🇮🇹
 #KODIPROP:inputstream.adaptive.license_type=clearkey
